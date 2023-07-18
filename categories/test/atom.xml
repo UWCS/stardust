@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Test</title>
+    <link href="https://owen.sites.uwcs.co.uk/uwcs/categories/test/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://owen.sites.uwcs.co.uk/uwcs"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-07-14T00:00:00+00:00</updated>
+    <id>https://owen.sites.uwcs.co.uk/uwcs/categories/test/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Widget Test</title>
+        <published>2023-07-14T00:00:00+00:00</published>
+        <updated>2023-07-14T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://owen.sites.uwcs.co.uk/uwcs/news/widget-test/" type="text/html"/>
+        <id>https://owen.sites.uwcs.co.uk/uwcs/news/widget-test/</id>
+        
+        <content type="html">
+
+
+
+
+&lt;div class=&quot;alert alert-primary&quot; role=&quot;alert&quot;&gt;
+  &lt;i class=&quot;bi bi-heart-fill me-2&quot;&gt;&lt;&#x2F;i&gt;test body&lt;&#x2F;p&gt;
+&lt;p&gt;test
+&lt;&#x2F;div&gt;
+
+&lt;div class=&quot;ratio ratio-16x9 m-3 w-75 mx-auto &quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;R__mSq-aGyQ&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+
+&lt;div class=&quot;pdf ratio ratio-16x9 m-3&quot;&gt;
+  &lt;iframe src=&quot;&amp;#x2F;resources&amp;#x2F;git-good&amp;#x2F;git_good_2022.pdf&quot; width=&quot;width&quot;&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Might all be working?</title>
+        <published>2023-07-13T00:00:00+00:00</published>
+        <updated>2023-07-13T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://owen.sites.uwcs.co.uk/uwcs/news/might-all-be-working/" type="text/html"/>
+        <id>https://owen.sites.uwcs.co.uk/uwcs/news/might-all-be-working/</id>
+        
+        <content type="html">&lt;p&gt;some body (once told me the world is gonna roll me)&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Widget Test #3</title>
+        <published>2023-07-11T00:00:00+00:00</published>
+        <updated>2023-07-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://owen.sites.uwcs.co.uk/uwcs/news/widget-test-3/" type="text/html"/>
+        <id>https://owen.sites.uwcs.co.uk/uwcs/news/widget-test-3/</id>
+        
+        <content type="html">&lt;p&gt;test body&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>News 3</title>
+        <published>2023-01-03T00:00:00+00:00</published>
+        <updated>2023-01-03T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://owen.sites.uwcs.co.uk/uwcs/news/n3/" type="text/html"/>
+        <id>https://owen.sites.uwcs.co.uk/uwcs/news/n3/</id>
+        
+        <content type="html">&lt;p&gt;3rd news item&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>News 2</title>
+        <published>2023-01-02T00:00:00+00:00</published>
+        <updated>2023-01-02T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://owen.sites.uwcs.co.uk/uwcs/news/n2/" type="text/html"/>
+        <id>https://owen.sites.uwcs.co.uk/uwcs/news/n2/</id>
+        
+        <content type="html">&lt;p&gt;2nd news item&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>News 1</title>
+        <published>2023-01-01T00:00:00+00:00</published>
+        <updated>2023-01-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://owen.sites.uwcs.co.uk/uwcs/news/n1/" type="text/html"/>
+        <id>https://owen.sites.uwcs.co.uk/uwcs/news/n1/</id>
+        
+        <summary type="html">&lt;p&gt;The first ever written news article&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://owen.sites.uwcs.co.uk/uwcs/sitemap.xml

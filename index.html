@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8"/>
+  <title>University of Warwick Computing Society - UWCS</title>
+  
+
+  
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="icon" type="image/x-icon" href="https://owen.sites.uwcs.co.uk/uwcs/assets/favicon.png">
+<link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700" rel="stylesheet">
+<script src="https://owen.sites.uwcs.co.uk/uwcs/scripts/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" href="https://owen.sites.uwcs.co.uk/uwcs/icon-packs/bootstrap-icons.min.css">
+<script src="https://owen.sites.uwcs.co.uk/uwcs/scripts/darkmode.js"></script>
+<link rel="stylesheet" href="https://owen.sites.uwcs.co.uk/uwcs/style.css">
+
+
+<link rel="stylesheet" type="text/css" href="/syntax-theme-dark.css"/>
+<link rel="stylesheet" type="text/css" href="/syntax-theme-light.css"/>
+
+
+  
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+</head>
+<script>
+  console.log(`{
+  "config": {
+    "base_url": "https://owen.sites.uwcs.co.uk/uwcs",
+    "mode": "build",
+    "title": null,
+    "description": null,
+    "languages": {},
+    "default_language": "en",
+    "generate_feed": false,
+    "feed_filename": "atom.xml",
+    "taxonomies": [
+      {
+        "name": "terms",
+        "slug": "terms",
+        "paginate_by": 5,
+        "paginate_path": null,
+        "render": true,
+        "feed": true
+      },
+      {
+        "name": "categories",
+        "slug": "categories",
+        "paginate_by": 5,
+        "paginate_path": null,
+        "render": true,
+        "feed": true
+      },
+      {
+        "name": "tags",
+        "slug": "tags",
+        "paginate_by": 5,
+        "paginate_path": null,
+        "render": true,
+        "feed": true
+      }
+    ],
+    "author": null,
+    "build_search_index": false,
+    "extra": {
+      "repo": "uwcs/new-site",
+      "cms_auth_url": "https://cms-auth.containers.uwcs.co.uk"
+    },
+    "markdown": {
+      "highlight_code": true,
+      "highlight_theme": "css",
+      "highlight_themes_css": [
+        {
+          "theme": "base16-ocean-dark",
+          "filename": "syntax-theme-dark.css"
+        },
+        {
+          "theme": "base16-ocean-light",
+          "filename": "syntax-theme-light.css"
+        }
+      ],
+      "render_emoji": false,
+      "external_links_target_blank": false,
+      "external_links_no_follow": false,
+      "external_links_no_referrer": false,
+      "smart_punctuation": false,
+      "extra_syntaxes_and_themes": []
+    }
+  },
+  "current_path": "/",
+  "current_url": "https://owen.sites.uwcs.co.uk/uwcs/",
+  "lang": "en",
+  "section": {
+    "relative_path": "_index.md",
+    "colocated_path": null,
+    "content": "<!-- Unfortunately, Zola doesn't allow nested shortcodes -->\n<!-- This is expanding the blue.html shortcode -->\n<div class=\"blue w-100 vstack align-items-center px-3\"  data-bs-theme=\"dark\">\n<h1 class=\"text-center\">Hello, World! Here’s what we do:</h1>\n<div id=\"info\" class=\"w-100 d-flex flex-wrap justify-content-center\">\n\n\n<div class=\"hstack gap-3 col-xl-6 py-1 px-sm-3\" style=\"max-width: 700px\">\n  <img class=\"d-none d-sm-block  order-xl-first order-last \" width=150 src=\"https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/academic.svg\">\n  <div>\n    <h2><div class=\"icon baseline d-sm-none\"><img src=\"https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/academic.svg\"></div> Academic Events</h2>\n    <h5><p><strong>No matter your experience, we’re here to help you pick up some skills.</strong> Workshops, Industry Talks, Competitions, Student Talks, Courses, Revision Sessions, and more!</p>\n</h5>\n  </div>\n</div>\n\n<div class=\"hstack gap-3 col-xl-6 py-1 px-sm-3\" style=\"max-width: 700px\">\n  <img class=\"d-none d-sm-block \" width=150 src=\"https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/gaming.svg\">\n  <div>\n    <h2><div class=\"icon baseline d-sm-none\"><img src=\"https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/gaming.svg\"></div> Gaming Nights</h2>\n    <h5><p><strong>Weekly gaming nights with PCs, consoles, VR and plenty of pizza</strong>, a termly weekend-long LAN, and WASD, the UK’s largest student-run charity speedrunning event!</p>\n</h5>\n  </div>\n</div>\n\n<div class=\"hstack gap-3 col-xl-6 py-1 px-sm-3\" style=\"max-width: 700px\">\n  <img class=\"d-none d-sm-block  order-xl-first order-last \" width=150 src=\"https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/social.svg\">\n  <div>\n    <h2><div class=\"icon baseline d-sm-none\"><img src=\"https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/social.svg\"></div> All Kinds of Socials</h2>\n    <h5><p><strong>Get to know us and your coursemates at our socials!</strong> From weekly meals to BBQs, circling to pub crawls, or even from go-karting to laser tag.</p>\n</h5>\n  </div>\n</div>\n\n<div class=\"hstack gap-3 col-xl-6 py-1 px-sm-3\" style=\"max-width: 700px\">\n  <img class=\"d-none d-sm-block \" width=150 src=\"https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/tech.svg\">\n  <div>\n    <h2><div class=\"icon baseline d-sm-none\"><img src=\"https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/tech.svg\"></div> Tech Services</h2>\n    <h5><p><strong>We offer free hosting of websites</strong>, scripts, services, game servers, etc. on our dedicated servers! Want to get involved? Join our open-source projects or Tech Team!</p>\n</h5>\n  </div>\n</div>\n\n<div class=\"hstack gap-3 col-xl-6 py-1 px-sm-3\" style=\"max-width: 700px\">\n  <img class=\"d-none d-sm-block  order-xl-first order-last \" width=150 src=\"https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/inclusivity.svg\">\n  <div>\n    <h2><div class=\"icon baseline d-sm-none\"><img src=\"https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/inclusivity.svg\"></div> Everyone is Welcome</h2>\n    <h5><p><strong>We’re free-to-join and here to help you.</strong> We have a dedicated inclusivity team for under-represented students in CS. Check out our Wildcards events!</p>\n</h5>\n  </div>\n</div>\n\n<div class=\"hstack gap-3 col-xl-6 py-1 px-sm-3\" style=\"max-width: 700px\">\n  <img class=\"d-none d-sm-block \" width=150 src=\"https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/publicity.svg\">\n  <div>\n    <h2><div class=\"icon baseline d-sm-none\"><img src=\"https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/publicity.svg\"></div> Our Community</h2>\n    <h5><p><strong>Our community is a wide and welcoming network</strong> of both current students and alumni with a wealth of knowledge to share!</p>\n</h5>\n  </div>\n</div></div>\n</div>\n<div class=\"w-100 vstack align-items-center my-5 pt-5\">\n<h1>Our Socials</h1>\n<div id=\"socials\" class=\"mb-5 col-md-11 gap-3 row justify-content-evenly mx-4\">\n\n\n<a class=\"d-table-cell block link-body-emphasis text-decoration-none col flex-grow-0 mx-lg-0\" href=\"https:&#x2F;&#x2F;discord.uwcs.co.uk\">\n<div id=\"social\" class=\"hstack gap-3 p-3 rounded-4 bg-body-secondary text-body-emphasis opacity-hover\">\n  <i class=\"display-2 lh-1 bi bi-discord mx-lg-2\"></i>\n  \n  <div class=\"d-none d-lg-block\" style=\"width: 11em\">\n    <h3 class=\"m-0\">Discord</h3>\n    <h6><p>Where our members and alumni hang out</p>\n</h6>\n  </div>\n</div>\n</a>\n\n\n<a class=\"d-table-cell block link-body-emphasis text-decoration-none col flex-grow-0 mx-lg-0\" href=\"https:&#x2F;&#x2F;instagram.com&#x2F;warwickcompsoc&#x2F;\">\n<div id=\"social\" class=\"hstack gap-3 p-3 rounded-4 bg-body-secondary text-body-emphasis opacity-hover\">\n  <i class=\"display-2 lh-1 bi bi-instagram mx-lg-2\"></i>\n  \n  <div class=\"d-none d-lg-block\" style=\"width: 11em\">\n    <h3 class=\"m-0\">Instagram</h3>\n    <h6><p>Announcements and our weekly schedule</p>\n</h6>\n  </div>\n</div>\n</a>\n\n<a class=\"d-table-cell block link-body-emphasis text-decoration-none col flex-grow-0 mx-lg-0\" href=\"https:&#x2F;&#x2F;warwicksu.com&#x2F;societies-sports&#x2F;societies&#x2F;computing&#x2F;\">\n<div id=\"social\" class=\"hstack gap-3 p-3 rounded-4 bg-body-secondary text-body-emphasis opacity-hover\">\n  \n  <div class=\"display-2 icon\"><img class=\"silhouette mx-lg-2\" src=\"https://owen.sites.uwcs.co.uk/uwcs/assets&#x2F;su-logo.svg\" alt=\"Warwick SU icon\"></img></div>\n  <div class=\"d-none d-lg-block\" style=\"width: 11em\">\n    <h3 class=\"m-0\">Warwick SU</h3>\n    <h6><p>We are free to join!</p>\n</h6>\n  </div>\n</div>\n</a>\n\n<a class=\"d-table-cell block link-body-emphasis text-decoration-none col flex-grow-0 mx-lg-0\" href=\"https:&#x2F;&#x2F;youtube.com&#x2F;@warwickcomputing&#x2F;\">\n<div id=\"social\" class=\"hstack gap-3 p-3 rounded-4 bg-body-secondary text-body-emphasis opacity-hover\">\n  <i class=\"display-2 lh-1 bi bi-youtube mx-lg-2\"></i>\n  \n  <div class=\"d-none d-lg-block\" style=\"width: 11em\">\n    <h3 class=\"m-0\">YouTube</h3>\n    <h6><p>Recorded talks from students &amp; industry</p>\n</h6>\n  </div>\n</div>\n</a>\n\n<a class=\"d-table-cell block link-body-emphasis text-decoration-none col flex-grow-0 mx-lg-0\" href=\"https:&#x2F;&#x2F;github.com&#x2F;uwcs\">\n<div id=\"social\" class=\"hstack gap-3 p-3 rounded-4 bg-body-secondary text-body-emphasis opacity-hover\">\n  <i class=\"display-2 lh-1 bi bi-github mx-lg-2\"></i>\n  \n  <div class=\"d-none d-lg-block\" style=\"width: 11em\">\n    <h3 class=\"m-0\">GitHub</h3>\n    <h6><p>Contribute to our open-source projects</p>\n</h6>\n  </div>\n</div>\n</a>\n\n<a class=\"d-table-cell block link-body-emphasis text-decoration-none col flex-grow-0 mx-lg-0\" href=\"https:&#x2F;&#x2F;www.linkedin.com&#x2F;company&#x2F;uwcs&#x2F;\">\n<div id=\"social\" class=\"hstack gap-3 p-3 rounded-4 bg-body-secondary text-body-emphasis opacity-hover\">\n  <i class=\"display-2 lh-1 bi bi-linkedin mx-lg-2\"></i>\n  \n  <div class=\"d-none d-lg-block\" style=\"width: 11em\">\n    <h3 class=\"m-0\">LinkedIn</h3>\n    <h6><p>Networking and retrospectives</p>\n</h6>\n  </div>\n</div>\n</a></div>\n</div>\n",
+    "permalink": "https://owen.sites.uwcs.co.uk/uwcs/",
+    "draft": false,
+    "ancestors": [],
+    "title": "University of Warwick Computing Society",
+    "description": null,
+    "extra": {},
+    "path": "/",
+    "components": [],
+    "toc": [],
+    "word_count": 381,
+    "reading_time": 2,
+    "lang": "en",
+    "assets": [],
+    "pages": [],
+    "subsections": [
+      "admin/_index.md",
+      "news/_index.md",
+      "events/_index.md",
+      "resources/_index.md",
+      "sponsors/_index.md"
+    ],
+    "translations": [],
+    "backlinks": [],
+    "generate_feed": false
+  }
+}`)
+</script>
+<body class="min-vh-100 viewport-width-100 vstack">
+  
+<nav class="w-100 navbar sticky-top navbar-expand-lg bg-body border-bottom border-primary border-4" style="min-width: fit-content">
+    <div class="container-lg align-items-center">
+      
+      <!-- UWCS Logo -->
+      <a class="navbar-brand" href="https://owen.sites.uwcs.co.uk/uwcs">
+        
+<svg height="32" viewBox="0 0 449 152" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M148.879 92.6014C150.101 93.8519 151.57 94.8334 153.192 95.4832C154.815 96.133 156.554 96.4367 158.3 96.375C159.978 96.4362 161.65 96.1334 163.2 95.4875C164.75 94.8416 166.143 93.8678 167.282 92.6329C169.686 89.8626 170.925 86.2668 170.737 82.6013V43.7329H187.978V82.6013C188.07 87.8494 186.792 93.0307 184.272 97.6329C181.886 101.915 178.277 105.386 173.908 107.602C169.031 110.013 163.644 111.21 158.206 111.092C152.707 111.212 147.26 110.015 142.316 107.602C137.896 105.39 134.226 101.923 131.764 97.6329C129.215 93.0416 127.936 87.8527 128.058 82.6013V43.7329H145.299V82.6013C145.202 84.4228 145.468 86.2456 146.083 87.9627C146.697 89.6798 147.648 91.2569 148.879 92.6014V92.6014Z" fill="var(--bs-body-color)"/>
+<path d="M290.01 43.7329H307.722L285.393 109.771H267.681L255.12 64.7709L242.558 109.771H224.72L202.486 43.7329H221.046L234.048 92.0353L247.08 43.7329H263.944L277.134 92.0353L290.01 43.7329Z" fill="var(--bs-body-color)"/>
+<path d="M362.46 59.7079C359.787 58.1846 356.773 57.3625 353.698 57.318C350.49 57.2783 347.335 58.1389 344.591 59.8023C341.919 61.4933 339.75 63.8718 338.31 66.6892C336.761 69.7104 335.954 73.0575 335.954 76.4534C335.954 79.8494 336.761 83.1965 338.31 86.2177C339.75 89.0351 341.919 91.4135 344.591 93.1046C347.333 94.7774 350.487 95.6488 353.698 95.6203C356.642 95.5619 359.538 94.8532 362.177 93.5448C365.137 92.1555 367.819 90.2373 370.091 87.8844L380.172 98.7335C376.537 102.536 372.195 105.592 367.39 107.727C362.296 110.128 356.703 111.275 351.076 111.073C345.449 110.871 339.953 109.325 335.044 106.564C329.817 103.658 325.475 99.3869 322.482 94.2052C319.436 88.8659 317.874 82.8065 317.96 76.6578C317.867 70.6248 319.428 64.6818 322.473 59.4754C325.518 54.269 329.932 49.9987 335.232 47.1292C340.211 44.4723 345.722 42.9687 351.358 42.7292C356.995 42.4898 362.613 43.5206 367.798 45.7456C372.383 47.6639 376.521 50.5119 379.952 54.1104L369.965 66.186C367.926 63.5409 365.373 61.3371 362.46 59.7079V59.7079Z" fill="var(--bs-body-color)"/>
+<path d="M431.172 58.5447C427.955 57.3689 424.576 56.7006 421.154 56.5636C419.393 56.47 417.641 56.8731 416.098 57.7271C415.513 58.0872 415.035 58.5983 414.714 59.2069C414.394 59.8155 414.243 60.4991 414.277 61.1863C414.264 61.8695 414.401 62.5473 414.678 63.172C414.954 63.7968 415.364 64.3533 415.878 64.8027C417.036 65.8323 418.379 66.6326 419.835 67.1612C421.405 67.7587 423.729 68.5448 426.807 69.4882C430.669 70.5558 434.457 71.8795 438.144 73.4506C441.175 74.7983 443.82 76.8849 445.838 79.5198C448.065 82.636 449.172 86.416 448.978 90.2432C449.093 94.2788 447.867 98.2383 445.492 101.501C443.078 104.692 439.812 107.134 436.071 108.545C431.755 110.166 427.176 110.965 422.567 110.904C416.989 110.879 411.455 109.901 406.206 108.011C401.079 106.267 396.311 103.603 392.137 100.149L398.826 86.6583C402.328 89.7246 406.319 92.1801 410.634 93.9225C414.453 95.6428 418.57 96.604 422.756 96.7527C424.869 96.8649 426.971 96.3742 428.817 95.3376C429.526 94.9096 430.107 94.2984 430.5 93.568C430.892 92.8377 431.081 92.0152 431.046 91.1866C431.059 90.4743 430.917 89.7678 430.63 89.1161C430.342 88.4644 429.916 87.8833 429.382 87.413C428.175 86.338 426.765 85.5148 425.237 84.9916C423.572 84.3941 421.248 83.7023 418.234 82.8847C414.413 81.8642 410.667 80.5824 407.022 79.0481C404.05 77.7483 401.441 75.7403 399.422 73.199C397.197 70.2014 396.086 66.5201 396.282 62.7901C396.174 58.9637 397.273 55.2005 399.422 52.0353C401.754 48.8198 404.959 46.3422 408.655 44.8968C413.083 43.1554 417.812 42.311 422.567 42.4125C427.35 42.4065 432.108 43.0842 436.699 44.4251C441.022 45.6375 445.148 47.4699 448.947 49.8654L442.446 63.6391C438.88 61.5439 435.101 59.8361 431.172 58.5447V58.5447Z" fill="var(--bs-body-color)"/>
+
+<circle fill="#FFC700" cx=57 cy=21 r=21 />
+<circle fill="#FFC700" cx=21 cy=57 r=21 />
+<circle fill="#3A7DFF" cx=57 cy=95 r=21 />
+<circle fill="#3A7DFF" cx=93 cy=131 r=21 />
+
+</svg>
+
+      </a>
+
+      <!-- Navbar parts for mobile version -->
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor03"
+        aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarColor03">
+        <ul class="navbar-nav d-flex w-100">
+          
+          <!-- Include links to top level sections -->
+          
+          
+          
+          <li><a class="nav-link" href="https://owen.sites.uwcs.co.uk/uwcs/admin/">Admin</a></li>
+          
+          
+          <li><a class="nav-link" href="https://owen.sites.uwcs.co.uk/uwcs/news/">News</a></li>
+          
+          
+          <li><a class="nav-link" href="https://owen.sites.uwcs.co.uk/uwcs/events/">Events</a></li>
+          
+          
+          <li><a class="nav-link" href="https://owen.sites.uwcs.co.uk/uwcs/resources/">Resources</a></li>
+          
+          
+          <li><a class="nav-link" href="https://owen.sites.uwcs.co.uk/uwcs/sponsors/">Sponsors</a></li>
+          
+
+          <!-- Dark mode toggles -->
+          <div class="vr ms-md-auto d-none d-lg-block "></div>
+          <li class="nav-item ms-lg-2">
+            <a id="dark-mode" class="nav-link ml-1" href="#">
+              <i class="ph-fill ph-moon"></i>
+              <span class="d-lg-none ms-2 ms-lg-0">Toggle Dark Mode</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  
+  
+<!-- Hacky way for this to work on sections and pages -->
+
+
+
+
+<!-- Don't trigger on top level -->
+
+
+  
+  <div id="main" class="container-lg w-100 d-flex flex-column flex-md-row p-0 flex-grow-1 gap-3 ">
+    
+<article id="content" class="w-100 mb-4 bg-transparent">
+
+
+
+<div id="hero" class="w-100">
+  <svg  id="hero-landscape" class="w-100 overflow-visible" viewBox="0 0 1300 820" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <image style="animation-delay: 1.125s" x="-43.5" y="-124" width="273" height="273" href="assets/circles/Talk.png"/>
+    <image style="animation-delay: 1.25s" x="426.5" y="-1.5" width="484" height="258" href="assets/circles/Crowd Pizza.png"/>
+    <image style="animation-delay: 1.375s" x="901.5" y="95" width="210" height="210" href="assets/circles/VR.png"/>
+    <image style="animation-delay: 1.5s" x="225.5" y="58" width="190" height="190" href="assets/circles/WC BBQ.png"/>
+    <image style="animation-delay: 1.625s" x="1144.5" y="33" width="176" height="176" href="assets/circles/Speaker Joey.png"/>
+    <image style="animation-delay: 1.75s" x="70.5" y="182" width="149" height="149" href="assets/circles/Audience MS.png"/>
+    <image style="animation-delay: 1.875s" x="1101.5" y="247" width="194" height="195" href="assets/circles/Laptop.png"/>
+    <image style="animation-delay: 2s" x="29" y="361" width="168" height="168" href="assets/circles/Coding.png"/>
+    <image style="animation-delay: 2.125s" x="1130.5" y="622" width="137" height="137" href="assets/circles/Goose.png"/>
+    <image style="animation-delay: 2.25s" x="230.5" y="483" width="137" height="137" href="assets/circles/Discord.png"/>
+    <image style="animation-delay: 2.375s" x="632.5" y="507" width="287" height="287" href="assets/circles/Talk Git Good.png"/>
+    <image style="animation-delay: 2.5s" x="943.5" y="427" width="216" height="216" href="assets/circles/Laptop Group Close.png"/>
+    <image style="animation-delay: 2.625s" x="25.2832" y="559" width="200" height="200" href="assets/circles/Bletchley.png"/>
+    <image style="animation-delay: 2.75s" x="400.5" y="498" width="199" height="199" href="assets/circles/Speaker Tomas.png"/>
+    <image style="animation-delay: 2.875s" x="941.5" y="659" width="157" height="157" href="assets/circles/Rev Sesh.png"/>
+    <image style="animation-delay: 3s" x="242.5" y="643" width="167" height="167" href="assets/circles/Duck Table.png"/>
+    <svg  x="250" y="318" width="770" height="153" viewBox="0 0 770 153" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle fill="#FFC700" cx=57.5 cy=21 r=21 />
+      <circle fill="#FFC700" cx=21.5 cy=57 r=21 />
+      <circle fill="#3A7DFF" cx=57.5 cy=95 r=21 />
+      <circle fill="#3A7DFF" cx=94 cy=131.5 r=21 />
+      <text fill="var(--bs-emphasis-color)" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="55.5465" font-weight="bold" letter-spacing="0em">
+        <tspan font-weight="600" x="142.923" y="62.2662">University of Warwick</tspan>
+        <tspan x="142.923" y="130.266">Computing Society</tspan>
+      </text>
+    </svg>
+  </svg>
+
+  <svg id="hero-portrait" class="w-100 overflow-visible" viewBox="0 0 914 975" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <image style="animation-delay: 1.125s" x="-103" y="-123" width="273" height="273" href="assets/circles/Talk.png"/>
+    <image style="animation-delay: 1.25s" x="212" y="-5" width="406" height="217" href="assets/circles/Crowd Pizza.png"/>
+    <image style="animation-delay: 1.375s" x="567" y="139" width="182" height="182" href="assets/circles/VR.png"/>
+    <image style="animation-delay: 1.5s" x="68" y="149" width="205" height="206" href="assets/circles/WC BBQ.png"/>
+    <image style="animation-delay: 1.625s" x="743" y="12" width="158" height="158" href="assets/circles/Speaker Joey.png"/>
+    <image style="animation-delay: 1.75s" x="362" y="240" width="133" height="133" href="assets/circles/Audience MS.png"/>
+    <image style="animation-delay: 1.875s" x="766" y="243" width="129" height="130" href="assets/circles/Laptop.png"/>
+    <image style="animation-delay: 2s" x="22" y="573" width="141" height="141" href="assets/circles/Coding.png"/>
+    <image style="animation-delay: 2.125s" x="778" y="792" width="115" height="115" href="assets/circles/Goose.png"/>
+    <image style="animation-delay: 2.375s" x="394" y="606" width="250" height="249" href="assets/circles/Talk Git Good.png"/>
+    <image style="animation-delay: 2.5s" x="669" y="568" width="206" height="206" href="assets/circles/Laptop Group Close.png"/>
+    <image style="animation-delay: 2.625s" x="247" y="785" width="157" height="157" href="assets/circles/Bletchley.png"/>
+    <image style="animation-delay: 2.75s" x="196" y="585" width="173" height="173" href="assets/circles/Speaker Tomas.png"/>
+    <image style="animation-delay: 2.875s" x="615" y="806" width="136" height="136" href="assets/circles/Rev Sesh.png"/>
+    <image style="animation-delay: 3s" x="57" y="736" width="167" height="167" href="assets/circles/Duck Table.png"/>
+
+    <svg  x="57" y="389" width="770" height="153" viewBox="0 0 770 153" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle fill="#FFC700" cx=57.5 cy=21 r=21 />
+      <circle fill="#FFC700" cx=21.5 cy=57 r=21 />
+      <circle fill="#3A7DFF" cx=57.5 cy=95 r=21 />
+      <circle fill="#3A7DFF" cx=94 cy=131.5 r=21 />
+      <text fill="var(--bs-emphasis-color)" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="55.5465" font-weight="bold" letter-spacing="0em">
+        <tspan font-weight="600" x="142.923" y="62.2662">University of Warwick</tspan>
+        <tspan x="142.923" y="130.266">Computing Society</tspan>
+      </text>
+    </svg>
+  </svg>
+</div>
+
+
+<!-- Unfortunately, Zola doesn't allow nested shortcodes -->
+<!-- This is expanding the blue.html shortcode -->
+<div class="blue w-100 vstack align-items-center px-3"  data-bs-theme="dark">
+<h1 class="text-center">Hello, World! Here’s what we do:</h1>
+<div id="info" class="w-100 d-flex flex-wrap justify-content-center">
+
+
+<div class="hstack gap-3 col-xl-6 py-1 px-sm-3" style="max-width: 700px">
+  <img class="d-none d-sm-block  order-xl-first order-last " width=150 src="https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/academic.svg">
+  <div>
+    <h2><div class="icon baseline d-sm-none"><img src="https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/academic.svg"></div> Academic Events</h2>
+    <h5><p><strong>No matter your experience, we’re here to help you pick up some skills.</strong> Workshops, Industry Talks, Competitions, Student Talks, Courses, Revision Sessions, and more!</p>
+</h5>
+  </div>
+</div>
+
+<div class="hstack gap-3 col-xl-6 py-1 px-sm-3" style="max-width: 700px">
+  <img class="d-none d-sm-block " width=150 src="https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/gaming.svg">
+  <div>
+    <h2><div class="icon baseline d-sm-none"><img src="https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/gaming.svg"></div> Gaming Nights</h2>
+    <h5><p><strong>Weekly gaming nights with PCs, consoles, VR and plenty of pizza</strong>, a termly weekend-long LAN, and WASD, the UK’s largest student-run charity speedrunning event!</p>
+</h5>
+  </div>
+</div>
+
+<div class="hstack gap-3 col-xl-6 py-1 px-sm-3" style="max-width: 700px">
+  <img class="d-none d-sm-block  order-xl-first order-last " width=150 src="https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/social.svg">
+  <div>
+    <h2><div class="icon baseline d-sm-none"><img src="https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/social.svg"></div> All Kinds of Socials</h2>
+    <h5><p><strong>Get to know us and your coursemates at our socials!</strong> From weekly meals to BBQs, circling to pub crawls, or even from go-karting to laser tag.</p>
+</h5>
+  </div>
+</div>
+
+<div class="hstack gap-3 col-xl-6 py-1 px-sm-3" style="max-width: 700px">
+  <img class="d-none d-sm-block " width=150 src="https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/tech.svg">
+  <div>
+    <h2><div class="icon baseline d-sm-none"><img src="https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/tech.svg"></div> Tech Services</h2>
+    <h5><p><strong>We offer free hosting of websites</strong>, scripts, services, game servers, etc. on our dedicated servers! Want to get involved? Join our open-source projects or Tech Team!</p>
+</h5>
+  </div>
+</div>
+
+<div class="hstack gap-3 col-xl-6 py-1 px-sm-3" style="max-width: 700px">
+  <img class="d-none d-sm-block  order-xl-first order-last " width=150 src="https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/inclusivity.svg">
+  <div>
+    <h2><div class="icon baseline d-sm-none"><img src="https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/inclusivity.svg"></div> Everyone is Welcome</h2>
+    <h5><p><strong>We’re free-to-join and here to help you.</strong> We have a dedicated inclusivity team for under-represented students in CS. Check out our Wildcards events!</p>
+</h5>
+  </div>
+</div>
+
+<div class="hstack gap-3 col-xl-6 py-1 px-sm-3" style="max-width: 700px">
+  <img class="d-none d-sm-block " width=150 src="https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/publicity.svg">
+  <div>
+    <h2><div class="icon baseline d-sm-none"><img src="https://owen.sites.uwcs.co.uk/uwcs/assets/exec-icons/publicity.svg"></div> Our Community</h2>
+    <h5><p><strong>Our community is a wide and welcoming network</strong> of both current students and alumni with a wealth of knowledge to share!</p>
+</h5>
+  </div>
+</div></div>
+</div>
+<div class="w-100 vstack align-items-center my-5 pt-5">
+<h1>Our Socials</h1>
+<div id="socials" class="mb-5 col-md-11 gap-3 row justify-content-evenly mx-4">
+
+
+<a class="d-table-cell block link-body-emphasis text-decoration-none col flex-grow-0 mx-lg-0" href="https:&#x2F;&#x2F;discord.uwcs.co.uk">
+<div id="social" class="hstack gap-3 p-3 rounded-4 bg-body-secondary text-body-emphasis opacity-hover">
+  <i class="display-2 lh-1 bi bi-discord mx-lg-2"></i>
+  
+  <div class="d-none d-lg-block" style="width: 11em">
+    <h3 class="m-0">Discord</h3>
+    <h6><p>Where our members and alumni hang out</p>
+</h6>
+  </div>
+</div>
+</a>
+
+
+<a class="d-table-cell block link-body-emphasis text-decoration-none col flex-grow-0 mx-lg-0" href="https:&#x2F;&#x2F;instagram.com&#x2F;warwickcompsoc&#x2F;">
+<div id="social" class="hstack gap-3 p-3 rounded-4 bg-body-secondary text-body-emphasis opacity-hover">
+  <i class="display-2 lh-1 bi bi-instagram mx-lg-2"></i>
+  
+  <div class="d-none d-lg-block" style="width: 11em">
+    <h3 class="m-0">Instagram</h3>
+    <h6><p>Announcements and our weekly schedule</p>
+</h6>
+  </div>
+</div>
+</a>
+
+<a class="d-table-cell block link-body-emphasis text-decoration-none col flex-grow-0 mx-lg-0" href="https:&#x2F;&#x2F;warwicksu.com&#x2F;societies-sports&#x2F;societies&#x2F;computing&#x2F;">
+<div id="social" class="hstack gap-3 p-3 rounded-4 bg-body-secondary text-body-emphasis opacity-hover">
+  
+  <div class="display-2 icon"><img class="silhouette mx-lg-2" src="https://owen.sites.uwcs.co.uk/uwcs/assets&#x2F;su-logo.svg" alt="Warwick SU icon"></img></div>
+  <div class="d-none d-lg-block" style="width: 11em">
+    <h3 class="m-0">Warwick SU</h3>
+    <h6><p>We are free to join!</p>
+</h6>
+  </div>
+</div>
+</a>
+
+<a class="d-table-cell block link-body-emphasis text-decoration-none col flex-grow-0 mx-lg-0" href="https:&#x2F;&#x2F;youtube.com&#x2F;@warwickcomputing&#x2F;">
+<div id="social" class="hstack gap-3 p-3 rounded-4 bg-body-secondary text-body-emphasis opacity-hover">
+  <i class="display-2 lh-1 bi bi-youtube mx-lg-2"></i>
+  
+  <div class="d-none d-lg-block" style="width: 11em">
+    <h3 class="m-0">YouTube</h3>
+    <h6><p>Recorded talks from students &amp; industry</p>
+</h6>
+  </div>
+</div>
+</a>
+
+<a class="d-table-cell block link-body-emphasis text-decoration-none col flex-grow-0 mx-lg-0" href="https:&#x2F;&#x2F;github.com&#x2F;uwcs">
+<div id="social" class="hstack gap-3 p-3 rounded-4 bg-body-secondary text-body-emphasis opacity-hover">
+  <i class="display-2 lh-1 bi bi-github mx-lg-2"></i>
+  
+  <div class="d-none d-lg-block" style="width: 11em">
+    <h3 class="m-0">GitHub</h3>
+    <h6><p>Contribute to our open-source projects</p>
+</h6>
+  </div>
+</div>
+</a>
+
+<a class="d-table-cell block link-body-emphasis text-decoration-none col flex-grow-0 mx-lg-0" href="https:&#x2F;&#x2F;www.linkedin.com&#x2F;company&#x2F;uwcs&#x2F;">
+<div id="social" class="hstack gap-3 p-3 rounded-4 bg-body-secondary text-body-emphasis opacity-hover">
+  <i class="display-2 lh-1 bi bi-linkedin mx-lg-2"></i>
+  
+  <div class="d-none d-lg-block" style="width: 11em">
+    <h3 class="m-0">LinkedIn</h3>
+    <h6><p>Networking and retrospectives</p>
+</h6>
+  </div>
+</div>
+</a></div>
+</div>
+
+
+
+<div class="w-100 vstack align-items-center my-5 pb-5">
+<h1>Our Sponsors</h1>
+
+<div id="sponsors"> 
+  
+
+  
+<div id="gold" class="col-lg-10 mx-auto gap-3 d-flex flex-wrap justify-content-evenly align-items-center p-3">
+
+
+
+
+<a href="https:&#x2F;&#x2F;www.studentroost.co.uk&#x2F;locations&#x2F;warwick&#x2F;the-oaks">
+<img class="white-hover" src="https://owen.sites.uwcs.co.uk/uwcs/sponsors&#x2F;oaks.png" style="height: 100px; max-width: 100%; object-fit: contain">
+</a>
+
+
+
+<a href="https:&#x2F;&#x2F;www.qube-rt.com&#x2F;">
+<img class="white-hover" src="https://owen.sites.uwcs.co.uk/uwcs/sponsors&#x2F;qrt.png" style="height: 100px; max-width: 100%; object-fit: contain">
+</a>
+
+
+
+<a href="https:&#x2F;&#x2F;www.nettitude.com&#x2F;">
+<img class="white-hover" src="https://owen.sites.uwcs.co.uk/uwcs/sponsors&#x2F;nettitude.png" style="height: 100px; max-width: 100%; object-fit: contain">
+</a>
+
+
+
+<a href="https:&#x2F;&#x2F;www.gresearch.co.uk&#x2F;join-us&#x2F;">
+<img class="white-hover" src="https://owen.sites.uwcs.co.uk/uwcs/sponsors&#x2F;gresearch.png" style="height: 100px; max-width: 100%; object-fit: contain">
+</a>
+
+
+
+<a href="https:&#x2F;&#x2F;tpp-uk.com&#x2F;">
+<img class="white-hover" src="https://owen.sites.uwcs.co.uk/uwcs/sponsors&#x2F;tpp.png" style="height: 100px; max-width: 100%; object-fit: contain">
+</a>
+
+
+</div>
+
+  
+<div id="silver" class="col-lg-10 mx-auto gap-3 d-flex flex-wrap justify-content-evenly align-items-center p-3">
+
+
+<a href="https:&#x2F;&#x2F;www.accenture.com&#x2F;gb-en">
+<img class="white-hover" src="https://owen.sites.uwcs.co.uk/uwcs/sponsors&#x2F;accenture.png" style="height: 100px; max-width: 100%; object-fit: contain">
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+</div>
+</div>
+
+
+<script>
+    function equalize_visual_size(elem_id, area) {
+        const elem = document.getElementById(elem_id)
+        for (let s of elem.children) {
+            s = s.children[0];
+            const h = s.height * Math.sqrt(area / (s.width * s.height)) 
+            s.style.height = `${Math.round(h)}px` 
+        }
+    }
+    
+    window.addEventListener('load', function () {
+        equalize_visual_size("gold", 22500);
+        
+        equalize_visual_size("silver", 15000);
+        
+    })
+</script>
+
+
+<div class="blue w-100 vstack align-items-center" data-bs-theme="dark">
+
+
+
+
+
+<a href="https://owen.sites.uwcs.co.uk/uwcs/news" class="link-body-emphasis text-decoration-none"><h1>Latest News</h1></a>
+
+<div class="posts p-2 row gap-3 mx-3">
+    
+      
+      <!-- Card for each page -->
+      
+
+
+
+
+
+<div class="card w-100 col-lg link-card " >
+  <div class="card-body">
+    <h5 class="card-title two-line-clamp">Changing Repo Test</h5>
+    
+    
+    <h6 class="card-subtitle mb-2 text-body-secondary">20 July 2023 </h6>
+    
+    
+    <p class="card-text four-line-clamp m-0">
+      Will this push to uwcs?
+
+    </p>
+    
+    
+    
+    <a class="stretched-link" href="https:&#x2F;&#x2F;owen.sites.uwcs.co.uk&#x2F;uwcs&#x2F;news&#x2F;changing-repo-test&#x2F;" class="card-link">Read more &gt;&gt;</a>
+    
+  </div>
+</div>
+
+
+    
+      
+      <!-- Card for each page -->
+      
+
+
+
+
+
+<div class="card w-100 col-lg link-card " >
+  <div class="card-body">
+    <h5 class="card-title two-line-clamp">Widget Test</h5>
+    
+    
+    <h6 class="card-subtitle mb-2 text-body-secondary">14 July 2023 </h6>
+    
+    
+    <p class="card-text four-line-clamp m-0">
+      
+
+
+
+
+
+  test body
+test
+
+
+
+    
+
+
+
+  
+
+    </p>
+    
+    
+    
+    <a class="stretched-link" href="https:&#x2F;&#x2F;owen.sites.uwcs.co.uk&#x2F;uwcs&#x2F;news&#x2F;widget-test&#x2F;" class="card-link">Read more &gt;&gt;</a>
+    
+  </div>
+</div>
+
+
+    
+      
+      <!-- Card for each page -->
+      
+
+
+
+
+
+<div class="card w-100 col-lg link-card " >
+  <div class="card-body">
+    <h5 class="card-title two-line-clamp">Might all be working?</h5>
+    
+    
+    <h6 class="card-subtitle mb-2 text-body-secondary">13 July 2023 </h6>
+    
+    
+    <p class="card-text four-line-clamp m-0">
+      some body (once told me the world is gonna roll me)
+
+    </p>
+    
+    
+    
+    <a class="stretched-link" href="https:&#x2F;&#x2F;owen.sites.uwcs.co.uk&#x2F;uwcs&#x2F;news&#x2F;might-all-be-working&#x2F;" class="card-link">Read more &gt;&gt;</a>
+    
+  </div>
+</div>
+
+
+    
+       
+    
+    
+</div>
+
+
+
+</article>
+
+  </div>
+  
+<footer class="w-100 container-lg d-flex flex-wrap justify-content-around gap-2 py-3 border-top bg-body">
+    <!-- Centred aligned uwcs logo -->
+    <a class="d-flex text-decoration-none" href="https://uwcs.co.uk">
+      
+<svg height="32" viewBox="0 0 449 152" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M148.879 92.6014C150.101 93.8519 151.57 94.8334 153.192 95.4832C154.815 96.133 156.554 96.4367 158.3 96.375C159.978 96.4362 161.65 96.1334 163.2 95.4875C164.75 94.8416 166.143 93.8678 167.282 92.6329C169.686 89.8626 170.925 86.2668 170.737 82.6013V43.7329H187.978V82.6013C188.07 87.8494 186.792 93.0307 184.272 97.6329C181.886 101.915 178.277 105.386 173.908 107.602C169.031 110.013 163.644 111.21 158.206 111.092C152.707 111.212 147.26 110.015 142.316 107.602C137.896 105.39 134.226 101.923 131.764 97.6329C129.215 93.0416 127.936 87.8527 128.058 82.6013V43.7329H145.299V82.6013C145.202 84.4228 145.468 86.2456 146.083 87.9627C146.697 89.6798 147.648 91.2569 148.879 92.6014V92.6014Z" fill="var(--bs-body-color)"/>
+<path d="M290.01 43.7329H307.722L285.393 109.771H267.681L255.12 64.7709L242.558 109.771H224.72L202.486 43.7329H221.046L234.048 92.0353L247.08 43.7329H263.944L277.134 92.0353L290.01 43.7329Z" fill="var(--bs-body-color)"/>
+<path d="M362.46 59.7079C359.787 58.1846 356.773 57.3625 353.698 57.318C350.49 57.2783 347.335 58.1389 344.591 59.8023C341.919 61.4933 339.75 63.8718 338.31 66.6892C336.761 69.7104 335.954 73.0575 335.954 76.4534C335.954 79.8494 336.761 83.1965 338.31 86.2177C339.75 89.0351 341.919 91.4135 344.591 93.1046C347.333 94.7774 350.487 95.6488 353.698 95.6203C356.642 95.5619 359.538 94.8532 362.177 93.5448C365.137 92.1555 367.819 90.2373 370.091 87.8844L380.172 98.7335C376.537 102.536 372.195 105.592 367.39 107.727C362.296 110.128 356.703 111.275 351.076 111.073C345.449 110.871 339.953 109.325 335.044 106.564C329.817 103.658 325.475 99.3869 322.482 94.2052C319.436 88.8659 317.874 82.8065 317.96 76.6578C317.867 70.6248 319.428 64.6818 322.473 59.4754C325.518 54.269 329.932 49.9987 335.232 47.1292C340.211 44.4723 345.722 42.9687 351.358 42.7292C356.995 42.4898 362.613 43.5206 367.798 45.7456C372.383 47.6639 376.521 50.5119 379.952 54.1104L369.965 66.186C367.926 63.5409 365.373 61.3371 362.46 59.7079V59.7079Z" fill="var(--bs-body-color)"/>
+<path d="M431.172 58.5447C427.955 57.3689 424.576 56.7006 421.154 56.5636C419.393 56.47 417.641 56.8731 416.098 57.7271C415.513 58.0872 415.035 58.5983 414.714 59.2069C414.394 59.8155 414.243 60.4991 414.277 61.1863C414.264 61.8695 414.401 62.5473 414.678 63.172C414.954 63.7968 415.364 64.3533 415.878 64.8027C417.036 65.8323 418.379 66.6326 419.835 67.1612C421.405 67.7587 423.729 68.5448 426.807 69.4882C430.669 70.5558 434.457 71.8795 438.144 73.4506C441.175 74.7983 443.82 76.8849 445.838 79.5198C448.065 82.636 449.172 86.416 448.978 90.2432C449.093 94.2788 447.867 98.2383 445.492 101.501C443.078 104.692 439.812 107.134 436.071 108.545C431.755 110.166 427.176 110.965 422.567 110.904C416.989 110.879 411.455 109.901 406.206 108.011C401.079 106.267 396.311 103.603 392.137 100.149L398.826 86.6583C402.328 89.7246 406.319 92.1801 410.634 93.9225C414.453 95.6428 418.57 96.604 422.756 96.7527C424.869 96.8649 426.971 96.3742 428.817 95.3376C429.526 94.9096 430.107 94.2984 430.5 93.568C430.892 92.8377 431.081 92.0152 431.046 91.1866C431.059 90.4743 430.917 89.7678 430.63 89.1161C430.342 88.4644 429.916 87.8833 429.382 87.413C428.175 86.338 426.765 85.5148 425.237 84.9916C423.572 84.3941 421.248 83.7023 418.234 82.8847C414.413 81.8642 410.667 80.5824 407.022 79.0481C404.05 77.7483 401.441 75.7403 399.422 73.199C397.197 70.2014 396.086 66.5201 396.282 62.7901C396.174 58.9637 397.273 55.2005 399.422 52.0353C401.754 48.8198 404.959 46.3422 408.655 44.8968C413.083 43.1554 417.812 42.311 422.567 42.4125C427.35 42.4065 432.108 43.0842 436.699 44.4251C441.022 45.6375 445.148 47.4699 448.947 49.8654L442.446 63.6391C438.88 61.5439 435.101 59.8361 431.172 58.5447V58.5447Z" fill="var(--bs-body-color)"/>
+
+<circle fill="#FFC700" cx=57 cy=21 r=21 />
+<circle fill="#FFC700" cx=21 cy=57 r=21 />
+<circle fill="#3A7DFF" cx=57 cy=95 r=21 />
+<circle fill="#3A7DFF" cx=93 cy=131 r=21 />
+
+</svg>
+
+    </a>
+    <!-- Right aligned links -->
+    <ul class="nav justify-content-end list-unstyled d-flex">
+        <li class="ms-3">
+        <a class="text-muted" href="https://github.com/uwcs"><i class="bi-github"
+            aria-hidden="true"></i></a>
+        </li>
+        <li class="ms-3">
+        <a class="text-muted" href="https://discord.uwcs.co.uk"><i class="bi-discord" aria-hidden="true"></i></a>
+        </li>
+        <li class="ms-3">
+        <a class="text-muted" href="https://uwcs.co.uk"><i class="bi-globe" aria-hidden="true"></i></a>
+        </li>
+    </ul>
+</footer>
+
+</body>
+</html>

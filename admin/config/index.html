@@ -1,0 +1,65 @@
+# Yes, this should be config.yml, yes, it is a html template, no, i'm not sorry
+backend:
+  name: github
+  repo: uwcs/new-site
+  base_url: https://cms-auth.containers.uwcs.co.uk
+  cms_label_prefix: "[CMS] "
+media_folder: "static/images"
+public_folder: "/images"
+site_url: https://owen.sites.uwcs.co.uk/uwcs
+logo_url: https://owen.sites.uwcs.co.uk/uwcs/assets/logo_compact.svg
+
+collections:
+  - name: "news" # Used in routes, e.g., /admin/collections/blog
+    label: "News" # Used in the UI
+    folder: "content/news" # The path to the folder where the documents are stored
+    preview_path: news/{{slug}} 
+    create: true # Allow users to create new documents in this collection
+    format: toml-frontmatter
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md 
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "News Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "DD MMMM YYYY", time_format: false, picker_utc: true }
+
+      - label: "Taxonomies"
+        name: "taxonomies"
+        widget: "object"
+        fields: 
+          - label: "Categories"
+            name: "categories"
+            widget: "categories"
+            default: ["Newsletter"]
+            
+            existing: [ "new",  "newsletter",  "test",  "test2", ]
+
+          - label: "Term"
+            name: "terms"
+            widget: "categories"
+            default: ["22/23 T3"]
+            
+            existing: [ "22/23",  "22/23 awiodaw",  "22/23 t2",  "22/23 t3",  "22/23 t4", ]
+          
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "events" # Used in routes, e.g., /admin/collections/blog
+    label: "Events" # Used in the UI
+    folder: "content/events" # The path to the folder where the documents are stored
+    preview_path: events/{{slug}} 
+    create: true # Allow users to create new documents in this collection
+    format: toml-frontmatter
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md 
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Event Time & Date", name: "date", widget: "datetime"}
+      - {label: "Location", name: "location", widget: "string"}
+
+      - label: "Taxonomies"
+        name: "taxonomies"
+        widget: "object"
+        fields: 
+          - label: "Categories"
+            name: "categories"
+            widget: "categories"
+            default: []
+            
+            existing: []
+      - {label: "Body", name: "body", widget: "markdown"}

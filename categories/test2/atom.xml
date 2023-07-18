@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Test2</title>
+    <link href="https://owen.sites.uwcs.co.uk/uwcs/categories/test2/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://owen.sites.uwcs.co.uk/uwcs"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-01-03T00:00:00+00:00</updated>
+    <id>https://owen.sites.uwcs.co.uk/uwcs/categories/test2/atom.xml</id>
+    <entry xml:lang="en">
+        <title>News 3</title>
+        <published>2023-01-03T00:00:00+00:00</published>
+        <updated>2023-01-03T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://owen.sites.uwcs.co.uk/uwcs/news/n3/" type="text/html"/>
+        <id>https://owen.sites.uwcs.co.uk/uwcs/news/n3/</id>
+        
+        <content type="html">&lt;p&gt;3rd news item&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,303 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex" />
+  <title>Content Manager</title>
+  <link href="https://owen.sites.uwcs.co.uk/uwcs/admin/config/index.html" type="text/yaml" rel="cms-config-url">
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+  <!-- Include the script that builds the page and powers Decap CMS -->
+  <script src="https://cdn.jsdelivr.net/npm/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script>
+    
+
+CMS.registerPreviewStyle("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700");
+CMS.registerPreviewStyle("https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700");
+CMS.registerPreviewStyle("https://owen.sites.uwcs.co.uk/uwcs/icon-packs/bootstrap-icons.min.css");
+CMS.registerPreviewStyle("https://owen.sites.uwcs.co.uk/uwcs/style.css");
+
+
+  </script>
+
+  <script>
+    var CategoriesControl = createClass({
+      handleChange: function(e) {
+        const separator = this.props.field.get('separator', ', ')
+        this.props.onChange(e.target.value.split(separator).map((e) => e.trim()));
+      },
+    
+      render: function() {
+        const separator = this.props.field.get('separator', ', ');
+        const existing = this.props.field.get("existing", []);
+        console.log(existing);
+        var value = this.props.value;
+        return h("div", {}, [
+          h('input', {
+            id: this.props.forID,
+            className: this.props.classNameWrapper,
+            type: 'text',
+            value: value ? value.join(separator) : '',
+            onChange: this.handleChange,
+          }),
+          h('p', {}, this.props.value.map(v => `${v} ${existing.includes(v.toLowerCase()) ? "✓" : "(NEW)"}`).join(separator))
+        ])
+      },
+    });
+    
+    var CategoriesPreview = createClass({
+      render: function() {
+        return h('ul', {},
+          this.props.value.map(function(val, index) {
+            return h('li', {className: "badge bg-secondary ms-1", key: index}, val);
+          })
+        );
+      }
+    });
+    
+    var schema = {
+      properties: {
+        separator: { type: 'string' },
+        existing: { type: "array", items: { type: "string" } }
+      },
+    }
+    
+    CMS.registerWidget('categories', CategoriesControl, CategoriesPreview, schema);
+    
+  </script>
+
+<p>
+
+
+<script>
+    var fields = [
+      
+        {
+          name: 'type',
+          label: 'Type',
+          widget: 'string'
+        },
+      
+        {
+          name: 'icon',
+          label: 'Icon',
+          widget: 'string'
+        },
+      
+        {
+          name: 'body',
+          label: 'Body',
+          widget: 'markdown'
+        },
+      
+    ];
+    CMS.registerEditorComponent({
+      id: "note",
+      label: "Note",
+      fields: fields,
+      // Parse md to component, This does look horrific lol
+      //         { { or { % |       name         |  ( | var name        | = | string (esc. quotes)         |  }} or body and end
+      pattern: /^({({|%)\s*(note)\s*\(((?:[a-zA-Z0-9_]+?\s*=\s*"(?:[^"\\]|\\.)*",?\s*)*))\)\s*(}}|%}\n?(.+?)\n?{(%\s*end\s*%)})$/ms,
+      fromBlock: function(match) {
+        console.log("from block match", match);
+        let args = match[4].split(/\s*,\s*/);
+        console.log("from block args", args);
+        let data = {  "type": "",  "icon": "",  "body": "",  }
+        for (const val of args) {
+          if (val == "") continue;
+          const spl = val.split(/\s*=\s*/);
+          data[spl[0]] = spl[1].replaceAll(/^\"|\"$/g, "");
+        }
+        if (match[6]) data["body"] = match[6];
+        console.log("from block pre custom", data);
+        
+        if (data.type == "") data.type = "primary";
+if (data.icon == "") {
+    if (data.type == "success") data.icon = "check-circle-fill";
+    else if (data.type == "warning") data.icon = "exclamation-triangle-fill";
+    else if (data.type == "danger") data.icon = "x-octagon-fill";
+    else if (data.type == "info") data.icon = "info-circle-fill";
+}
+        
+        console.log("from block post custom", data);
+        return data;
+      },
+      // Convert component to md
+      toBlock: function(data) {
+        const block_body = "body" in data && data.body.includes("\n");
+        const base = " note(";
+        let args = [];
+        for (const [name, value] of Object.entries(data)) {
+          if (block_body && name == "body") continue;
+          args.push(`${name}="${value}"`);
+        }
+        if (block_body) {
+          return "{%" + base + args.join(", ") + ") %}" + data.body + "{% end %}"
+        } else {
+          return "{{" + base + args + ") }}"
+        }
+      },
+      // Generate preview of component
+      toPreview: function(data) {
+        return `
+
+
+
+
+
+<div class="alert alert-${data.type}" role="alert">
+  <i class="bi bi-${data.icon} me-2"></i>${data.body}
+</div>
+`.trim();
+      }
+    });
+    </script></p>
+<p>
+
+
+<script>
+    var fields = [
+      
+        {
+          name: 'id',
+          label: 'Id',
+          widget: 'string'
+        },
+      
+        {
+          name: 'playlist',
+          label: 'Playlist',
+          widget: 'string'
+        },
+      
+        {
+          name: 'class',
+          label: 'Class',
+          widget: 'string'
+        },
+      
+    ];
+    CMS.registerEditorComponent({
+      id: "youtube",
+      label: "Youtube",
+      fields: fields,
+      // Parse md to component, This does look horrific lol
+      //         { { or { % |       name         |  ( | var name        | = | string (esc. quotes)         |  }} or body and end
+      pattern: /^({({|%)\s*(youtube)\s*\(((?:[a-zA-Z0-9_]+?\s*=\s*"(?:[^"\\]|\\.)*",?\s*)*))\)\s*(}}|%}\n?(.+?)\n?{(%\s*end\s*%)})$/ms,
+      fromBlock: function(match) {
+        console.log("from block match", match);
+        let args = match[4].split(/\s*,\s*/);
+        console.log("from block args", args);
+        let data = {  "id": "",  "playlist": "",  "class": "",  }
+        for (const val of args) {
+          if (val == "") continue;
+          const spl = val.split(/\s*=\s*/);
+          data[spl[0]] = spl[1].replaceAll(/^\"|\"$/g, "");
+        }
+        if (match[6]) data["body"] = match[6];
+        console.log("from block pre custom", data);
+        
+        console.log("from block post custom", data);
+        return data;
+      },
+      // Convert component to md
+      toBlock: function(data) {
+        const block_body = "body" in data && data.body.includes("\n");
+        const base = " youtube(";
+        let args = [];
+        for (const [name, value] of Object.entries(data)) {
+          if (block_body && name == "body") continue;
+          args.push(`${name}="${value}"`);
+        }
+        if (block_body) {
+          return "{%" + base + args.join(", ") + ") %}" + data.body + "{% end %}"
+        } else {
+          return "{{" + base + args + ") }}"
+        }
+      },
+      // Generate preview of component
+      toPreview: function(data) {
+        return `
+
+
+<div class="ratio ratio-16x9 m-3 w-75 mx-auto ${data.class}">
+    <iframe src="https://www.youtube-nocookie.com/embed/${data.id}?list=${data.playlist}" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+`.trim();
+      }
+    });
+    </script></p>
+<p>
+
+
+<script>
+    var fields = [
+      
+        {
+          name: 'pdf',
+          label: 'Pdf',
+          widget: 'string'
+        },
+      
+        {
+          name: 'width',
+          label: 'Width',
+          widget: 'string'
+        },
+      
+    ];
+    CMS.registerEditorComponent({
+      id: "pdf",
+      label: "Pdf",
+      fields: fields,
+      // Parse md to component, This does look horrific lol
+      //         { { or { % |       name         |  ( | var name        | = | string (esc. quotes)         |  }} or body and end
+      pattern: /^({({|%)\s*(pdf)\s*\(((?:[a-zA-Z0-9_]+?\s*=\s*"(?:[^"\\]|\\.)*",?\s*)*))\)\s*(}}|%}\n?(.+?)\n?{(%\s*end\s*%)})$/ms,
+      fromBlock: function(match) {
+        console.log("from block match", match);
+        let args = match[4].split(/\s*,\s*/);
+        console.log("from block args", args);
+        let data = {  "pdf": "",  "width": "",  }
+        for (const val of args) {
+          if (val == "") continue;
+          const spl = val.split(/\s*=\s*/);
+          data[spl[0]] = spl[1].replaceAll(/^\"|\"$/g, "");
+        }
+        if (match[6]) data["body"] = match[6];
+        console.log("from block pre custom", data);
+        
+        console.log("from block post custom", data);
+        return data;
+      },
+      // Convert component to md
+      toBlock: function(data) {
+        const block_body = "body" in data && data.body.includes("\n");
+        const base = " pdf(";
+        let args = [];
+        for (const [name, value] of Object.entries(data)) {
+          if (block_body && name == "body") continue;
+          args.push(`${name}="${value}"`);
+        }
+        if (block_body) {
+          return "{%" + base + args.join(", ") + ") %}" + data.body + "{% end %}"
+        } else {
+          return "{{" + base + args + ") }}"
+        }
+      },
+      // Generate preview of component
+      toPreview: function(data) {
+        return `
+
+
+<div class="pdf ratio ratio-16x9 m-3">
+  <iframe src="${data.pdf}" width="width"></iframe>
+</div>
+`.trim();
+      }
+    });
+    </script></p>
+
+</body>
+</html>
