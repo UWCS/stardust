@@ -27,4 +27,5 @@ highlight_themes_css = [
 [extra]
 # Put all your custom variables here
 
+repo = uwcs/new-site
 cms_auth_url = "https://cms-auth.containers.uwcs.co.uk"

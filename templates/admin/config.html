@@ -1,7 +1,7 @@
 # Yes, this should be config.yml, yes, it is a html template, no, i'm not sorry
 backend:
   name: github
-  repo: ericthelemur/uwcs-site
+  repo: {{ config.extra.repo | safe }}
   base_url: {{ config.extra.cms_auth_url | safe }}
   cms_label_prefix: "[CMS] "
 media_folder: "static/images"
