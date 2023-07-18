@@ -1,0 +1,21 @@
+name: Deploy to site
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install SSH key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SITES_SSH_PRIVATE_KEY }}
+          name: id_rsa
+          known_hosts: ${{ secrets.SITES_SSH_KNOWN_HOSTS }}
+          config: ${{ vars.SITES_SSH_CONFIG }}
+          if_key_exists: fail
+      - name: Update Server
+        run: ssh sites "/srv/new-site/build.sh"
