@@ -12,9 +12,19 @@
 </a>
 </div>
 
-<a href="{{ page.extra.link }}">
-<img src="{{ page.permalink | trim_end_matches(pat="/") }}.png" height="200px">
+<a id="img" href="{{ page.extra.link }}">
+<span>
+<img src="{{ page.permalink | trim_end_matches(pat="/") }}.png" height="150px" style="max-width: 400px; object-fit: contain">
+</span>
 </a>
+
+{{ spon_macros::resize(trigger=false) }}
+<script>
+    window.addEventListener('load', function () {
+        equalize_visual_size("img", 200 * 150);
+    })
+</script>
+
 <hr>
 {{ page.content | safe}}
 {% endblock content%}
