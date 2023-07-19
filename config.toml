@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://owen.sites.uwcs.co.uk/uwcs"
+base_url = "test"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -20,11 +20,6 @@ taxonomies = [
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
 highlight_theme = "css"
-
-highlight_themes_css = [
-  { theme = "base16-ocean-dark", filename = "syntax-theme-dark.css" },
-  { theme = "base16-ocean-light", filename = "syntax-theme-light.css" },
-]
 
 [extra]
 # Put all your custom variables here
