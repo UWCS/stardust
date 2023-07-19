@@ -1,6 +1,10 @@
 +++
 title = "Admin"
 template = "admin/admin.html"
+
+[extra]
+hide = true
+
 +++
 
 {% gen_component_top(name="note", components=["type", "icon", "body"], types=["string", "string", "markdown"]) %}
