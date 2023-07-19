@@ -13,9 +13,9 @@
 </div>
 
 <a id="img" href="{{ page.extra.link }}">
-<span>
-<img src="{{ page.permalink | trim_end_matches(pat="/") }}.png" height="150px" style="max-width: 400px; object-fit: contain">
-</span>
+<div style="max-width: 400px">
+<img src="{{ page.permalink | trim_end_matches(pat="/") }}.png" height="150px" style="max-width: 100%; object-fit: contain">
+</div>
 </a>
 
 {{ spon_macros::resize(trigger=false) }}
