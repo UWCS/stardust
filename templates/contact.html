@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% import "macros/cards.html" as cards %}
+
+{% block title %}{{ section.title }}{% endblock title %}
+{% block content %}
+
+{{ section.content | safe}}
+
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Role</th>
+        <th>People</th>
+        <th>Contact</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td><b>Exec</b></td>
+          <td><b>All Exec</b></td>
+          <td><a href="mailto:exec@uwcs.co.uk"><b>exec@uwcs.co.uk</b></a></td>
+        </tr>
+{% for role in section.pages %}
+      <tr>
+        <td><a href="{{ role.permalink }}">{{ role.title }}</a></td>
+        <td>{{ role.extra.people | join(sep=", ") }}<br>{{ role.extra.discords | join(sep=", ") }}</td>
+        <td><a href="mailto:{{ role.extra.email }}">{{ role.extra.email }}</a></td>
+      </tr>
+{% endfor %}
+    </tbody>
+</table>
+
+{% endblock content%}
