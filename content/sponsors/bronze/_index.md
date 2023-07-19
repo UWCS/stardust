@@ -2,7 +2,9 @@
 title = "Bronze Sponsors"
 weight = 3
 page_template = "sponsor.html"
-transparent = true
+
+[extra]
+colour = "#D76B00"
 +++
 
 > Interested in sponsoring the Computing Society for 23/24? Get in touch.

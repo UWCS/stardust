@@ -1,12 +1,20 @@
 {% extends "base.html" %}
 {% block title %}{{ page.title }}{% endblock title %}
 {% block content %}
-{% if page.extra.logo %}
-<img src="{{ config.base_url | safe }}/{{ page.extra.logo }}">
-{% endif %}
-{% if page.extra.tier %}
-{{ page.extra.tier }}
-{% endif %}
+
+<div>
+{% set tier_sec = get_section(path=page.ancestors | last) %}
+<a class="badge text-decoration-none fs-5 mb-5" 
+    {% if tier_sec.extra.colour %}style="background-color: {{ tier_sec.extra.colour }}"{% endif %}
+    href="{{ tier_sec.permalink }}"
+>
+    {{ tier_sec.title | trim_end_matches(pat=" Sponsors")}}
+</a>
+</div>
+
+<a href="{{ page.extra.link }}">
+<img src="{{ page.permalink | trim_end_matches(pat="/") }}.png" height="200px">
+</a>
 <hr>
 {{ page.content | safe}}
 {% endblock content%}
