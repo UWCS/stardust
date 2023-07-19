@@ -4,7 +4,6 @@ title = "G-Research"
 [extra]
 logo = "sponsors/gresearch.png"
 link = "https://www.gresearch.co.uk/join-us/"
-tier = "Gold"
 +++
 
 G-Research is Europe’s leading quantitative finance research firm. We hire the brightest minds in the world to tackle some of the biggest questions in finance. We pair this expertise with machine learning, big data, and some of the most advanced technology available to predict movements in financial markets.

@@ -4,7 +4,6 @@ title = "Qube Research & Technologies"
 [extra]
 logo = "sponsors/qrt.png"
 link = "https://www.qube-rt.com/"
-tier = "Gold"
 +++
 
 Qube Research & Technologies (QRT) is a global quantitative and systematic investment manager operating in all liquid asset classes across the world. We are a technology and data driven group implementing a scientific approach to investing. Combining data, research, technology and trading expertise has shaped QRT’s collaborative and innovative mindset which enables us to solve the most complex challenges.

@@ -4,7 +4,6 @@ title = "Nettitude"
 [extra]
 logo = "sponsors/nettitude.png"
 link = "https://www.nettitude.com/"
-tier = "Gold"
 +++
 
 Founded in 2003, Nettitude is an award-winning global provider of cybersecurity services, bringing innovative thought leadership to the cybersecurity marketplace. Through our research and innovation centres, we provide threat led services that span technical assurance, consulting and managed detection and response offerings.

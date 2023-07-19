@@ -1,8 +1,8 @@
 +++
-title = "Sponsors"
-weight = 10
-template = "section_double_depth.html"
+title = "Gold Sponsors"
+weight = 1
 page_template = "sponsor.html"
+transparent = true
 +++
 
 > Interested in sponsoring the Computing Society for 23/24? Get in touch.
