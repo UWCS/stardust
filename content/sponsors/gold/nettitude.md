@@ -2,7 +2,6 @@
 title = "Nettitude"
 
 [extra]
-logo = "sponsors/nettitude.png"
 link = "https://www.nettitude.com/"
 +++
 

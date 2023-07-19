@@ -2,7 +2,6 @@
 title = "The Oaks | Student Roost"
 
 [extra]
-logo = "sponsors/oaks.png"
 link = "https://www.studentroost.co.uk/locations/warwick/the-oaks"
 +++
 

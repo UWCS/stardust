@@ -2,7 +2,6 @@
 title = "TPP"
 
 [extra]
-logo = "sponsors/tpp.png"
 link = "https://tpp-uk.com/"
 +++
 

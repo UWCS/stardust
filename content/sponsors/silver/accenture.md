@@ -2,7 +2,6 @@
 title = "Accenture"
 
 [extra]
-logo = "sponsors/accenture.png"
 link = "https://www.accenture.com/gb-en"
 +++
 
