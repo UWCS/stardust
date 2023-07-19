@@ -4,7 +4,7 @@ weight = 7
 
 [extra]
 people = ["Joel Coulon", "Alex Wright", "Adam Skrzymowski", "Josh Heng"]
-discords = ["@Mole1424#2315", "@AlexWright1324#3397", "@adam2#7498", "@JTwhizzkid#7145"]
+discords = ["@mole1424", "@alexwright1324", "@adam.2.", "@jtwhizzkid"]
 email = "tech@uwcs.co.uk"
 +++
 

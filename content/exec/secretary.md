@@ -4,7 +4,7 @@ weight = 2
 
 [extra]
 people = ["Serene Alrawi"]
-discords = ["@thiswasdumb#1336"]
+discords = ["@thiswasdumb"]
 email = "secretary@uwcs.co.uk"
 +++
 

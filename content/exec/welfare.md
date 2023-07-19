@@ -4,7 +4,7 @@ weight = 9
 
 [extra]
 people = ["?"]
-discords = ["?"]
+discords = []
 email = "welfare@uwcs.co.uk"
 +++
 

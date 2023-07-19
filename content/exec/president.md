@@ -4,7 +4,7 @@ weight = 1
 
 [extra]
 people = ["Matthew Knight"]
-discords = ["@MAT#7575"]
+discords = ["@.mat.k"]
 email = "president@uwcs.co.uk"
 +++
 
