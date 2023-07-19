@@ -29,7 +29,8 @@ h2,
     @extend .fw-semibold;
 }
 
-blockquote, pre {
+blockquote,
+pre {
     @extend .bg-body-tertiary, .border-start, .ms-3, .p-2, .ps-3, .mb-2;
 }
 
@@ -59,13 +60,15 @@ p:last-child {
     align-self: center;
 }
 
-.icon svg, .icon img {
+.icon svg,
+.icon img {
     height: 1em;
     width: 1em;
     fill: currentColor;
 }
 
-.icon.baseline svg, .icon.baseline img {
+.icon.baseline svg,
+.icon.baseline img {
     top: .125em;
     position: relative;
 }
@@ -75,7 +78,7 @@ body {
     background-image: url("assets/bg-particles.png");
     background-repeat: repeat;
     background-position: center top;
-    background-size: 100vmax;
+    background-size: 50vmax;
     z-index: 1;
 }
 
@@ -190,6 +193,7 @@ body {
         display: none;
     }
 }
+
 @media (orientation: portrait) {
     #hero-landscape {
         display: none;

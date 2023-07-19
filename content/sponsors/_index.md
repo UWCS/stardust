@@ -1,7 +1,7 @@
 +++
 title = "Sponsors"
 weight = 10
-page_template = "specific/sponsor.html"
+page_template = "sponsor.html"
 +++
 
 > Interested in sponsoring the Computing Society for 23/24? Get in touch.

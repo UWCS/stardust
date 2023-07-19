@@ -1,7 +1,7 @@
 +++
 title = "News"
 weight = 1
-template = "specific/news.html"
+template = "news.html"
 sort_by = "date"
 paginate_by = 5
 +++
