@@ -23,13 +23,13 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Exec</b></td>
-      <td><b>All Exec</b></td>
-      <td><a href="mailto:exec@uwcs.co.uk"><b>exec@uwcs.co.uk</b></a></td>
+      <td><i>Exec</i></td>
+      <td><i>All Exec</i></td>
+      <td><a href="mailto:exec@uwcs.co.uk"><i>exec@uwcs.co.uk</i></a></td>
     </tr>
     {% for role in section.pages %}
     <tr>
-      <td><a href="{{ role.permalink }}">{{ role.title }}</a></td>
+      <td>{{ role.title }}</td>
       <td>
         {{ role.extra.people | join(sep=", ") }}
         {% if role.extra.discords %}
