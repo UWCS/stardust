@@ -3,7 +3,11 @@ title = "About"
 weight = 4
 +++
 
-{% note() %}
+{% note(type="warning") %}
+TODO: Merge content with SU site and frontpage/banner to create single main list. Also a complete review of content here, a lot is outdated
+{% end %}
+
+{% note(type="info") %}
 If you're a current student at the University of Warwick, consider [joining the Computing Society](https://www.warwicksu.com/societies-sports/societies/computing/), <i class="bi bi-discord"></i> [hanging out in our community](https://discord.uwcs.uk) or <i class="bi bi-instagram"></i> [keeping up to date with us](https://instagram.com/warwickcompsoc/)!
 {% end %}
 
