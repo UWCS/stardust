@@ -29,7 +29,10 @@
     </tr>
     {% for role in section.pages %}
     <tr>
-      <td>{{ role.title }}</td>
+      <td>
+        <div class="icon baseline"><img src="{{ config.base_url | safe }}/assets/exec-icons/{{ role.slug }}.svg"></div>
+        {{ role.title }}
+      </td>
       <td>
         {{ role.extra.people | join(sep=", ") }}
         {% if role.extra.discords %}

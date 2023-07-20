@@ -16,7 +16,9 @@
 {% set exec_sec = get_section(path="exec/_index.md") %}
 
 {% for role in exec_sec.pages %}
-<h3>{{ role.title }}: {{ role.extra.people | join(sep=", ") }}</h3>
+<h3>
+  <div class="icon baseline"><img src="{{ config.base_url | safe }}/assets/exec-icons/{{ role.slug }}.svg"></div> 
+  {{ role.title }}: {{ role.extra.people | join(sep=", ") }}</h3>
 <blockquote class="contact mb-4">
 Email: <a href="mailto:{{ role.extra.email }}">{{ role.extra.email }}</a>
 <br>
