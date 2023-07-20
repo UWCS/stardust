@@ -1,4 +1,4 @@
-{% extends "base.html" %}
+{% extends "section.html" %}
 
 {% import "macros/cards.html" as cards %}
 
@@ -9,7 +9,7 @@
 <script src="{{ config.base_url | safe }}/scripts/clickcopy.js"></script>
 {% endblock head %}
 
-{% block content %}
+{% block secbody %}
 
 {{ section.content | safe}}
 
@@ -43,4 +43,4 @@ Email: <a href="mailto:{{ role.extra.email }}">{{ role.extra.email }}</a>
   }
 </style>
 
-{% endblock content%}
+{% endblock secbody %}
