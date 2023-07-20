@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% import "macros/cards.html" as cards %}
+
+{% block title %}{{ section.title }}{% endblock title %}
+{% block head %}
+{{ super() }}
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+<script src="{{ config.base_url | safe }}/scripts/clickcopy.js"></script>
+{% endblock head %}
+
+{% block content %}
+
+{{ section.content | safe}}
+
+{% set exec_sec = get_section(path="exec/_index.md") %}
+
+{% for role in exec_sec.pages %}
+<h3>{{ role.title }}: {{ role.extra.people | join(sep=", ") }}</h3>
+<blockquote class="contact mb-4">
+Email: <a href="mailto:{{ role.extra.email }}">{{ role.extra.email }}</a>
+<br>
+{% if role.extra.discords %}
+  <i class="bi bi-discord"></i> Discord: 
+  <span>
+    {% for dc in role.extra.discords %}
+    {% if not loop.first %}, {% endif %}
+    <code class="discord c2clip">{{ dc }}</a></code>
+    {% endfor %}
+  </span>
+{% endif %}
+</blockquote>
+{{ role.content | safe }}
+<hr>
+{% endfor %}
+
+</script>
+<style>
+  code.discord {
+    cursor: pointer;
+  }
+</style>
+
+{% endblock content%}
