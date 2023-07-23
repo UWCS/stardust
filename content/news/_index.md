@@ -1,9 +1,11 @@
 +++
 title = "News"
 weight = 1
-template = "news.html"
 sort_by = "date"
 paginate_by = 5
 +++
 
-Get your society news: both recent and from before you were born!
+Get your society news for this academic year!
+
+##### [<i class="bi bi-archive-fill"></i> News Archive](@/news/archive/_index.md)
+##### [<i class="bi bi-bookmark-fill"></i> News Categories](/categories)
