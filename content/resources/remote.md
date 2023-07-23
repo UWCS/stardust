@@ -1,5 +1,5 @@
 +++
-title = "Remote SSH"
+title = "Remoting into DCS"
 date = "2022-10-13"
 +++
 
