@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% import "macros/cards.html" as cards %}
+
+{% block content %}
+
+{% block secbody %}{{ resource.content | safe}}{% endblock %}
+
+<hr>
+<!-- Use paginator pages if exists -->
+{% if paginator %}
+{% set pages = paginator.pages %}
+{% elif resource.pages %}
+{% set pages = resource.pages %}
+{% endif %}
+
+{% block pre_pages %}{% endblock %}
+{% if pages %}
+<div class="posts p-2 gap-3 vstack">
+    {% for page in pages %}
+      <!-- Card for each page -->
+      {{ cards::news_card(page=page, sum_len=250) }}
+    {% endfor %}
+</div>
+{%endif%}
+
+{% if paginator %}
+{% include "parts/pagination.html" %}
+{% endif %}
+
+{% block post_pages %}{% endblock %}
+
+{% endblock content%}

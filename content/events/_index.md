@@ -5,4 +5,4 @@ sort_by = "date"
 paginate_by = 10
 +++
 
-test
+##### [<i class="bi bi-archive-fill"></i> Events Archive](@/events/archive/_index.md)
