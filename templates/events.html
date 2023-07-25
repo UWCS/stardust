@@ -43,6 +43,7 @@ Variables:
 {# Initial week #}
 {% set prev_week_index = start_week_index-1 %}
 {% set prev_week_number = -1 %}
+{% set prev_week_term = "" %}
 
 {# Output each event #}
 <ul>
@@ -62,8 +63,8 @@ Variables:
       {# Find week (after current) with correct week number #}
       {% if loop.index == end_week_index+1 %}{{ throw(message="Event outside of term weeks") }}{% endif %}
       {% if e_week == w.weekNumber %}
-        {% set_global prev_week_index = prev_week_index + loop.index0 %}
-        {% set_global prev_week_number = w.weekNumber %}
+        {% set_global curr_week = w %}
+        {% set_global curr_week_index = prev_week_index + loop.index0 %}
       {% endif %}
     {% endfor %}
     
@@ -73,8 +74,16 @@ Variables:
 
     {# Output week header #}
     {% set w = data.weeks[prev_week_index] %}
-    {# wi {{prev_week_index}} wn {{prev_week_number}} #} {{ w.name }} {#{{ w.weekNumber }} {{ w.start }} {{ w.end }}#}
+    {% set w_parts = w.name | split(pat=", ") %}
+    {% if w.weekNumber == 0 %}<h1>Welcome Week</h1>
+    {% elif w_parts[0] != prev_week_term %}<h1>{{ w_parts[0] }}</h1>
+    {% endif %}
+    <h4>{{ w.name }}</h4>{# wi {{prev_week_index}} wn {{prev_week_number}} {{ w.weekNumber }} {{ w.start }} {{ w.end }}#}
     <ul>
+
+    {% set_global prev_week_index = curr_week_index %}
+    {% set_global prev_week_number = curr_week.weekNumber %}
+    {% set_global prev_week_term = w_parts[0] %}
   {% endif %}
   {# Output event info #}
   <li>{# ew {{ e_week }} {{ e.date }} #}{{ e.date | date(format="%a") }}: {{ e.title }}</li>
