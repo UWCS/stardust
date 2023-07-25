@@ -43,7 +43,9 @@ Variables:
 {# Initial week #}
 {% set prev_week_index = start_week_index %}
 {% set prev_week_number = -1000 %}
+{% set last_week_term = "Pre-term vacation" %}
 {% set prev_week_term = "" %}
+{% set term_start_week = 0 %}
 
 {# Output each event #}
 <ul>
@@ -60,14 +62,21 @@ Variables:
   {% if e_week != prev_week_number %}
     </ul>
     {% for w in data.weeks | slice(start=prev_week_index, end=end_week_index+1) %}
-      {# Find week (after current) with correct week number #}
       {% if loop.index == end_week_index %}{{ throw(message="Event outside of term weeks") }}{% endif %}
+      
+      {# Find start week of term (update number when term string changes) #}
+      {% set w_parts = w.name | split(pat=", ") %}
+      {% if w_parts[0] != last_week_term %}
+        {% set_global term_start_week = w.weekNumber - 1 %}
+        {% set_global last_week_term = w_parts[0] %}
+      {% endif %}
+      {# {{ w.weekNumber }} {{ w_parts[0] }} {{ last_week_term }} {{ term_start_week }}<br> #}
+
+      {# Find week (after current) with correct week number #}
       {% if e_week == w.weekNumber %}
         {% set_global curr_week = w %}
         {% set_global curr_week_index = prev_week_index + loop.index0 %}
         {% break %}
-      {% else %}
-        {# Skip {{ w.weekNumber }} #}
       {% endif %}
     {% endfor %}
 
@@ -78,7 +87,7 @@ Variables:
       {% if w_parts[0] != prev_week_term %}<h1>{{ w_parts[0] | trim_end_matches(pat=" Vacation") }}</h1>
       {% endif %}
       {# Output week header #}
-      <h4>{{ w_parts[1] }}</h4>
+      <h4>Week {{ curr_week.weekNumber - term_start_week }}</h4>
     {% endif %}
     {# wi {{curr_week_index}} wn {{curr_week_index}} {{ curr_week.weekNumber }} {{ curr_week.start }} {{ curr_week.end }} #}
     <ul>
