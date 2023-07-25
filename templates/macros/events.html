@@ -1,0 +1,60 @@
+{% macro event_circle(e) %}
+<div class="event-circle" style="background-color: {{ e.extra.colour }}" data-bs-theme="dark">
+{% if e.extra.icon %}
+<span class="event-icon">
+  {% if e.extra.icon is starting_with("ph-") %}<i class="ph-bold {{ e.extra.icon }}"></i>
+  {% elif e.extra.icon is starting_with("bi-") %}<i class="bi {{ e.extra.icon }}"></i>
+  {% else %} <div class="icon"><img class="silhouette" src="{{ config.base_url | safe }}/{{ e.extra.icon }}" alt="event icon"></img></div>
+  {% endif %}
+</span> {% endif %}
+<b class="event-title">{{ e.title }}</b>
+<span class="event-extras">
+  {{ e.extra.location }}<br>
+  {% if e.extra.time %} {{ e.extra.time }}
+  {% elif e.date | date(format="%H:%M") != "00:00" %} {{ e.date | date(format="%I:%M%P") }}
+  {% endif %}
+</span>
+</div>
+{% endmacro %}
+
+
+{% macro event_outer(e) %}
+<div class="event-outer bg-primary rounded d-flex flex-column align-items-center text-white p-3" style="width: fit-content">
+  <h4>{{ e.date | date(format="%A") }}</h4>
+  {{ self::event_circle(e=e) }}
+</div>
+{% endmacro %}
+
+{% macro start_term() %}
+<div class="term">
+{% endmacro %}
+
+{% macro term_heading(curr_week, week_term) %}
+{% if curr_week.weekNumber == 0 %}<h1>Welcome Week</h1>
+{% else %} <h1>{{ week_term | trim_end_matches(pat=" Vacation") }}</h1>
+{% endif %}
+{% endmacro %}
+
+{% macro start_week() %}
+<div class="week">
+{% endmacro %}
+
+{% macro week_heading(curr_week, term_week_no) %}
+<h4>Week {{ term_week_no }}</h4>
+{% endmacro %}
+
+{% macro start_events() %}
+<div class="events row flex-wrap-1 gap-3">
+{% endmacro %}
+
+{% macro end_events() %}
+</div>
+{% endmacro %}
+
+{% macro end_week() %}
+</div>
+{% endmacro %}
+
+{% macro end_term() %}
+</div>
+{% endmacro %}

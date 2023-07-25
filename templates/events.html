@@ -1,4 +1,5 @@
 {% extends "section.html" %}
+{% import "macros/events.html" as events %}
 
 {% block head %}
 {{ super() }}
@@ -20,8 +21,8 @@ Variables:
 
 {% block secbody %}
 {{ resource.content | safe}}
+
 {% set data = load_data(url="https://tabula.warwick.ac.uk/api/v1/termdates/weeks", format="json") %}
-<ul>
 {# Get start of year week #}
 {% for w in data.weeks %}
   {# Find index of earliest week of academic year (~start of august) #}
@@ -57,7 +58,10 @@ Variables:
 {% set term_start_week = 0 %}
 
 {# Output each event #}
-<ul>
+{{ events::start_term() }}
+{{ events::start_week() }}
+{{ events::start_events() }}
+
 {% for e in section.pages | reverse %}
   {# Get event week #}
   {% set e_cal_week = e.date | date(format="%W") | int %}
@@ -69,7 +73,6 @@ Variables:
   
   {# If different from last, end current week's list then start new #}
   {% if e_week != prev_week_number %}
-    </ul>
     {% for w in data.weeks | slice(start=prev_week_index, end=end_week_index+1) %}
       {% if loop.index == end_week_index %}{{ throw(message="Event outside of term weeks") }}{% endif %}
       
@@ -91,38 +94,29 @@ Variables:
 
     {# Output term header if different #}
     {% set w_parts = curr_week.name | title | split(pat=", ") %}
-    {% if curr_week.weekNumber == 0 %}<h1>Welcome Week</h1>
-    {% else %}
-      {% if w_parts[0] != prev_week_term %}<h1>{{ w_parts[0] | trim_end_matches(pat=" Vacation") }}</h1>
-      {% endif %}
-      {# Output week header #}
-      <h4>Week {{ curr_week.weekNumber - term_start_week }}</h4>
+    {{ events::end_events() }}
+    {{ events::end_week() }}
+    {% if curr_week.weekNumber == 0 or w_parts[0] != prev_week_term %}
+      {{ events::end_term() }}
+      {{ events::start_term() }}
+      {{ events::term_heading(curr_week=curr_week, week_term=w_parts[0]) }}
     {% endif %}
+    {{ events::start_week() }}
+    {{ events::week_heading(curr_week=curr_week, term_week_no=curr_week.weekNumber - term_start_week) }}
+    {{ events::start_events() }}
     {# wi {{curr_week_index}} wn {{curr_week_index}} {{ curr_week.weekNumber }} {{ curr_week.start }} {{ curr_week.end }} #}
-    <ul>
 
     {% set_global prev_week_index = curr_week_index %}
     {% set_global prev_week_number = curr_week.weekNumber %}
     {% set_global prev_week_term = w_parts[0] %}
   {% endif %}
   {# Output event info #}
-  <li> {# ew {{ e_week }} {{ e.date }} #} {{ e.date | date(format="%a") }}: {{ e.title }}</li>
-  <div class="event-circle" style="background-color: {{ e.extra.colour }}" data-bs-theme="dark">
-    <span class="event-icon">
-      {% if e.extra.icon is starting_with("ph-") %}<i class="ph-bold {{ e.extra.icon }}"></i>
-      {% elif e.extra.icon is starting_with("bi-") %}<i class="bi {{ e.extra.icon }}"></i>
-      {% else %} <div class="icon"><img class="silhouette" src="{{ config.base_url | safe }}/{{ e.extra.icon }}" alt="event icon"></img></div>
-      {% endif %}
-    </span>
-    <b class="event-title">{{ e.title }}</b>
-    <span class="event-extras">
-      {{ e.extra.location }}<br>
-      {% if e.extra.time %} {{ e.extra.time }}
-      {% elif e.date | date(format="%H:%M") != "00:00" %} {{ e.date | date(format="%I:%M%P") }}
-      {% endif %}
-    </span>
-  </div>
+  {{ events::event_outer(e=e) }}
 {% endfor %}
 </ul>
+
+{{ events::end_events() }}
+{{ events::end_week() }}
+{{ events::end_term() }}
 
 {% endblock %}
