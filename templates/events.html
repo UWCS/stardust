@@ -107,8 +107,13 @@ Variables:
   {% endif %}
   {# Output event info #}
   <li> {# ew {{ e_week }} {{ e.date }} #} {{ e.date | date(format="%a") }}: {{ e.title }}</li>
-  <div class="event-circle" style="background-color: {{ e.extra.colour }}">
-    <i class="event-icon ph-bold {{ e.extra.icon }}"></i><br>
+  <div class="event-circle" style="background-color: {{ e.extra.colour }}" data-bs-theme="dark">
+    <span class="event-icon">
+      {% if e.extra.icon is starting_with("ph-") %}<i class="ph-bold {{ e.extra.icon }}"></i>
+      {% elif e.extra.icon is starting_with("bi-") %}<i class="bi {{ e.extra.icon }}"></i>
+      {% else %} <div class="icon"><img class="silhouette" src="{{ config.base_url | safe }}/{{ e.extra.icon }}" alt="event icon"></img></div>
+      {% endif %}
+    </span>
     <b class="event-title">{{ e.title }}</b>
     <span class="event-extras">
       {{ e.extra.location }}<br>
