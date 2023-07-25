@@ -6,6 +6,11 @@ Variables:
   end_week_index = index of last week marked as 22/23 in data (~end of sept, week 52)
   year_start = date of start of week 0 - start of the teaching year
   start_cal_week = calendar week of week 0 (term week and cal week difference)
+
+  prev_week_index & prev_week_number = index and week numb of week of previous event  
+  prev_week_term = Term name for previous event (for header insertion)
+  last_week_term = Term name for week preceding current (for start of term week)
+  term_start_week = Week (before) the current term starts on -- so week count is not over the whole year
 #}
 
 {% block secbody %}
@@ -43,8 +48,8 @@ Variables:
 {# Initial week #}
 {% set prev_week_index = start_week_index %}
 {% set prev_week_number = -1000 %}
-{% set last_week_term = "Pre-term vacation" %}
 {% set prev_week_term = "" %}
+{% set last_week_term = "Pre-term vacation" %}
 {% set term_start_week = 0 %}
 
 {# Output each event #}
