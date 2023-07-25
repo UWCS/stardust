@@ -51,12 +51,16 @@ Variables:
   {% set e_cal_week = e.date | date(format="%W") | int %}
   {% set e_week = e_cal_week - start_cal_week%}
   {% set e_week = (e_week+52) % 52 %}
+  {% if e.date | date(format="%s") | int < year_start | date(format="%s") | int %}
+    {% set e_week = e_week - 52 %}
+  {% endif %}
   
   {# If different from last, end current week's list then start new #}
   {% if e_week != prev_week_number %}
     </ul>
-    {% for w in data.weeks | slice(start=prev_week_index, end=end_week_index) %}
+    {% for w in data.weeks | slice(start=prev_week_index, end=end_week_index+2) %}
       {# Find week (after current) with correct week number #}
+      {% if loop.index == end_week_index+1 %}{{ throw(message="Event outside of term weeks") }}{% endif %}
       {% if e_week == w.weekNumber %}
         {% set_global prev_week_index = prev_week_index + loop.index0 %}
         {% set_global prev_week_number = w.weekNumber %}
