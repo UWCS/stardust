@@ -1,5 +1,10 @@
 {% extends "section.html" %}
 
+{% block head %}
+{{ super() }}
+<link rel="stylesheet" href="{{ config.base_url | safe }}/icon-packs/phosphor-bold.css">
+{% endblock head %}
+
 {#
 Variables:
   start_week_index = index of earliest week marked as 22/23 in data (~start of aug, week -8)
@@ -15,7 +20,6 @@ Variables:
 
 {% block secbody %}
 {{ resource.content | safe}}
-
 {% set data = load_data(url="https://tabula.warwick.ac.uk/api/v1/termdates/weeks", format="json") %}
 <ul>
 {# Get start of year week #}
@@ -103,6 +107,14 @@ Variables:
   {% endif %}
   {# Output event info #}
   <li> {# ew {{ e_week }} {{ e.date }} #} {{ e.date | date(format="%a") }}: {{ e.title }}</li>
+  <div class="event-circle" style="background-color: {{ e.extra.colour }}">
+    <i class="event-icon ph-bold {{ e.extra.icon }}"></i><br>
+    <b class="event-title">{{ e.title }}</b>
+    <span class="event-extras">
+      {{ e.extra.location }}<br>
+      {{ e.date | date(format="%I:%M%P") }}
+    </span>
+  </div>
 {% endfor %}
 </ul>
 
