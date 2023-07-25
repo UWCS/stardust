@@ -1,4 +1,4 @@
-{% extends "section.html" %}
+{% extends "page.html" %}
 {% import "macros/events.html" as events %}
 
 {% block head %}
@@ -19,7 +19,7 @@ Variables:
   term_start_week = Week (before) the current term starts on -- so week count is not over the whole year
 #}
 
-{% block secbody %}
+{% block content %}
 {{ resource.content | safe}}
 
 {% set data = load_data(url="https://tabula.warwick.ac.uk/api/v1/termdates/weeks", format="json") %}
