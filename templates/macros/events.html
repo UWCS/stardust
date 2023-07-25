@@ -18,12 +18,12 @@
 {% endmacro %}
 
 {% macro start_term() %}
-<div class="term blue w-100 vstack align-items-center">
+<div class="term blue w-100 vstack align-items-center p-3 gap-4">
 {% endmacro %}
 
 {% macro term_heading(curr_week, week_term) %}
 {% if curr_week.weekNumber == 0 %}<h1>Welcome Week</h1>
-{% else %} <h1>{{ week_term | trim_end_matches(pat=" Vacation") }}</h1>
+{% else %} <h2>{{ week_term | trim_end_matches(pat=" Vacation") }}</h2>
 {% endif %}
 {% endmacro %}
 
@@ -42,7 +42,7 @@
 {% if date %}
   <h4 class="fw-semibold">{{ date | date(format="%A") }}</h4>
 {% endif %}
-<div class="d-flex flex-row align-items-center gap-3">
+<div class="d-flex flex-row align-items-center gap-5">
 {% endmacro %}
 
 {% macro end_day() %}
