@@ -7,22 +7,39 @@
 {% set data = load_data(url="https://tabula.warwick.ac.uk/api/v1/termdates/weeks", format="json") %}
 
 <ul>
+{# Get start of term week #}
 {% for w in data.weeks %}
-  {% if w.academicYear == config.extra.academic_year %}
-    <li>{{ w.academicYear }} {{ w.start }} {{ w.name }}</li>
-    {% if w.weekNumber == 1 %}
+  {% if w.academicYear == config.extra.academic_year and w.weekNumber == 1 %}
       {% set_global year_start = w.start %}
-    {% endif %}
+      {% set_global week_index = loop.index %}
   {% endif %}
 {% endfor %}
 </ul>
 
 {% set start_week = year_start | date(format="%W") | int %}
 {{ year_start }} {{ start_week }}
+
+{# Get week of each event #}
+{% set prev_week_index = week_index %}
+{% set prev_week_number = 1 %}
+
+{{ data.weeks[prev_week_index].name }}
 <ul>
 {% for e in section.pages %}
-  {% set e_week = e.date | date(format="%W") | int %}
-  <li>{{ e_week }} {{ e_week - start_week }} {{ e.date | date(format="%a") }}</li>
+  {% set e_week = e.date | date(format="%W") | int - start_week %}
+  {% if e_week != prev_week_number %}
+    </ul>
+      {% for w in data.weeks | slice(start=prev_week_index) %}
+        {% if e_week == w.weekNumber %}
+          {% set_global prev_week_index = loop.index %}
+          {% set_global prev_week_number = w.weekNumber %}
+        {% endif %}
+      {% endfor %}
+      {{ data.weeks[prev_week_index].name }}
+    <ul>
+  {% endif %}
+  <li>{{ e_week }} {{ e.date | date(format="%a") }}</li>
 {% endfor %}
 </ul>
+
 {% endblock %}
