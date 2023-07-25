@@ -1,4 +1,5 @@
 {% macro event_circle(e) %}
+<a href="{{ e.permalink }}" class="text-decoration-none">
 <div class="event-circle mt-0" style="background-color: {{ e.extra.colour }}" data-bs-theme="dark">
 {% if e.extra.icon %}
 <span class="event-icon">
@@ -15,6 +16,7 @@
   {% endif %}
 </span>
 </div>
+</a>
 {% endmacro %}
 
 {% macro start_term() %}
