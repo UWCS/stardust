@@ -1,5 +1,5 @@
 {% macro event_circle(e) %}
-<div class="event-circle" style="background-color: {{ e.extra.colour }}" data-bs-theme="dark">
+<div class="event-circle mt-0" style="background-color: {{ e.extra.colour }}" data-bs-theme="dark">
 {% if e.extra.icon %}
 <span class="event-icon">
   {% if e.extra.icon is starting_with("ph-") %}<i class="ph-bold {{ e.extra.icon }}"></i>
@@ -17,16 +17,8 @@
 </div>
 {% endmacro %}
 
-
-{% macro event_outer(e) %}
-<div class="event-outer bg-primary rounded d-flex flex-column align-items-center text-white p-3" style="width: fit-content">
-  <h4>{{ e.date | date(format="%A") }}</h4>
-  {{ self::event_circle(e=e) }}
-</div>
-{% endmacro %}
-
 {% macro start_term() %}
-<div class="term">
+<div class="term blue w-100 vstack align-items-center">
 {% endmacro %}
 
 {% macro term_heading(curr_week, week_term) %}
@@ -35,23 +27,29 @@
 {% endif %}
 {% endmacro %}
 
-{% macro start_week() %}
+{% macro start_week(curr_week, term_week_no) %}
 <div class="week">
-{% endmacro %}
-
-{% macro week_heading(curr_week, term_week_no) %}
-<h4>Week {{ term_week_no }}</h4>
-{% endmacro %}
-
-{% macro start_events() %}
+{% if curr_week %}
+  {% if curr_week.weekNumber != 0 %}
+    <h4>Week {{ term_week_no }}</h4>
+  {% endif %}
+{% endif %}
 <div class="events row flex-wrap-1 gap-3">
 {% endmacro %}
 
-{% macro end_events() %}
+{% macro start_day(date) %}
+<div class="event-outer bg-body rounded d-flex flex-column align-items-center text-white p-3" style="width: fit-content">
+  {% if date %}
+  <h4 class="fw-semibold">{{ date | date(format="%A") }}</h4>
+{% endif %}
+{% endmacro %}
+
+{% macro end_day() %}
 </div>
 {% endmacro %}
 
 {% macro end_week() %}
+</div>
 </div>
 {% endmacro %}
 

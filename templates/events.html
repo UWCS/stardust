@@ -52,6 +52,7 @@ Variables:
 
 {# Initial week #}
 {% set prev_week_index = start_week_index %}
+{% set prev_day = "" %}
 {% set prev_week_number = -1000 %}
 {% set prev_week_term = "" %}
 {% set last_week_term = "Pre-term vacation" %}
@@ -59,63 +60,68 @@ Variables:
 
 {# Output each event #}
 {{ events::start_term() }}
-{{ events::start_week() }}
-{{ events::start_events() }}
+{{ events::start_week(curr_week="", term_week_no=-1000) }}
+{{ events::start_day(date="") }}
 
 {% for e in section.pages | reverse %}
-  {# Get event week #}
-  {% set e_cal_week = e.date | date(format="%W") | int %}
-  {% set e_week = e_cal_week - start_cal_week%}
-  {% set e_week = (e_week+52) % 52 %}
-  {% if e.date | date(format="%s") | int < year_start | date(format="%s") | int %}
-    {% set e_week = e_week - 52 %}
-  {% endif %}
-  
-  {# If different from last, end current week's list then start new #}
-  {% if e_week != prev_week_number %}
-    {% for w in data.weeks | slice(start=prev_week_index, end=end_week_index+1) %}
-      {% if loop.index == end_week_index %}{{ throw(message="Event outside of term weeks") }}{% endif %}
-      
-      {# Find start week of term (update number when term string changes) #}
-      {% set w_parts = w.name | split(pat=", ") %}
-      {% if w_parts[0] != last_week_term %}
-        {% set_global term_start_week = w.weekNumber - 1 %}
-        {% set_global last_week_term = w_parts[0] %}
-      {% endif %}
-      {# {{ w.weekNumber }} {{ w_parts[0] }} {{ last_week_term }} {{ term_start_week }}<br> #}
 
-      {# Find week (after current) with correct week number #}
-      {% if e_week == w.weekNumber %}
-        {% set_global curr_week = w %}
-        {% set_global curr_week_index = prev_week_index + loop.index0 %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
+{% set e_day = e.date | date(format="%A") %}
+  {% if e_day != prev_day %}
+    {{ events::end_day() }}
 
-    {# Output term header if different #}
-    {% set w_parts = curr_week.name | title | split(pat=", ") %}
-    {{ events::end_events() }}
-    {{ events::end_week() }}
-    {% if curr_week.weekNumber == 0 or w_parts[0] != prev_week_term %}
-      {{ events::end_term() }}
-      {{ events::start_term() }}
-      {{ events::term_heading(curr_week=curr_week, week_term=w_parts[0]) }}
+    {# Get event week #}
+    {% set e_cal_week = e.date | date(format="%W") | int %}
+    {% set e_week = e_cal_week - start_cal_week%}
+    {% set e_week = (e_week+52) % 52 %}
+    {% if e.date | date(format="%s") | int < year_start | date(format="%s") | int %}
+      {% set e_week = e_week - 52 %}
     {% endif %}
-    {{ events::start_week() }}
-    {{ events::week_heading(curr_week=curr_week, term_week_no=curr_week.weekNumber - term_start_week) }}
-    {{ events::start_events() }}
-    {# wi {{curr_week_index}} wn {{curr_week_index}} {{ curr_week.weekNumber }} {{ curr_week.start }} {{ curr_week.end }} #}
+    
+    {# If different from last, end current week's list then start new #}
+    {% if e_week != prev_week_number %}
+      {% for w in data.weeks | slice(start=prev_week_index, end=end_week_index+1) %}
+        {% if loop.index == end_week_index %}{{ throw(message="Event outside of term weeks") }}{% endif %}
+        
+        {# Find start week of term (update number when term string changes) #}
+        {% set w_parts = w.name | split(pat=", ") %}
+        {% if w_parts[0] != last_week_term %}
+          {% set_global term_start_week = w.weekNumber - 1 %}
+          {% set_global last_week_term = w_parts[0] %}
+        {% endif %}
+        {# {{ w.weekNumber }} {{ w_parts[0] }} {{ last_week_term }} {{ term_start_week }}<br> #}
 
-    {% set_global prev_week_index = curr_week_index %}
-    {% set_global prev_week_number = curr_week.weekNumber %}
-    {% set_global prev_week_term = w_parts[0] %}
+        {# Find week (after current) with correct week number #}
+        {% if e_week == w.weekNumber %}
+          {% set_global curr_week = w %}
+          {% set_global curr_week_index = prev_week_index + loop.index0 %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+
+      {# Output term header if different #}
+      {% set w_parts = curr_week.name | title | split(pat=", ") %}
+      {{ events::end_week() }}
+      {% if curr_week.weekNumber == 0 or w_parts[0] != prev_week_term %}
+        {{ events::end_term() }}
+        {{ events::start_term() }}
+        {{ events::term_heading(curr_week=curr_week, week_term=w_parts[0]) }}
+      {% endif %}
+      {{ events::start_week(curr_week=curr_week, term_week_no=curr_week.weekNumber - term_start_week) }}
+      {# wi {{curr_week_index}} wn {{curr_week_index}} {{ curr_week.weekNumber }} {{ curr_week.start }} {{ curr_week.end }} #}
+
+      {% set_global prev_week_index = curr_week_index %}
+      {% set_global prev_week_number = curr_week.weekNumber %}
+      {% set_global prev_week_term = w_parts[0] %}
+    {% endif %}
+    {{ events::start_day(date=e.date) }}
+    {% set_global prev_day = e_day %}
   {% endif %}
   {# Output event info #}
-  {{ events::event_outer(e=e) }}
+  {{ events::event_circle(e=e) }}
 {% endfor %}
 </ul>
 
-{{ events::end_events() }}
+{{ events::end_day() }}
 {{ events::end_week() }}
 {{ events::end_term() }}
 
