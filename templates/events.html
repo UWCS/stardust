@@ -1,17 +1,17 @@
 {% extends "section.html" %}
 
+{#
+Variables:
+  start_week_index = index of earliest week marked as 22/23 in data (~start of aug, week -8)
+  end_week_index = index of last week marked as 22/23 in data (~end of sept, week 52)
+  year_start = date of start of week 0 - start of the teaching year
+  start_cal_week = calendar week of week 0 (term week and cal week difference)
+#}
 
 {% block secbody %}
 {{ resource.content | safe}}
 
 {% set data = load_data(url="https://tabula.warwick.ac.uk/api/v1/termdates/weeks", format="json") %}
-{#
-  start_week_index = index of earliest week marked as 22/23 in data (~start of aug, week -8)
-  end_week_index = index of last week marked as 22/23 in data (~end of sept, week 52)
-  year_start = date of start of week 0 - start of the teaching year
-  start_cal_week = calendar week of week 0 (term week and cal week difference)
-
-#}
 <ul>
 {# Get start of year week #}
 {% for w in data.weeks %}
@@ -69,11 +69,11 @@
 
     {# Output week header #}
     {% set w = data.weeks[prev_week_index] %}
-    wi {{prev_week_index}} wn {{prev_week_number}} {{ w.name }} {{ w.weekNumber }} {{ w.start }} {{ w.end }}
+    {# wi {{prev_week_index}} wn {{prev_week_number}} #} {{ w.name }} {#{{ w.weekNumber }} {{ w.start }} {{ w.end }}#}
     <ul>
   {% endif %}
   {# Output event info #}
-  <li>ew {{ e_week }} {{ e.date | date(format="%a") }} {{ e.date }} {{ e.title }}</li>
+  <li>{# ew {{ e_week }} {{ e.date }} #}{{ e.date | date(format="%a") }}: {{ e.title }}</li>
 {% endfor %}
 </ul>
 
