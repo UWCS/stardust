@@ -112,7 +112,9 @@ Variables:
     <b class="event-title">{{ e.title }}</b>
     <span class="event-extras">
       {{ e.extra.location }}<br>
-      {{ e.date | date(format="%I:%M%P") }}
+      {% if e.extra.time %} {{ e.extra.time }}
+      {% elif e.date | date(format="%H:%M") != "00:00" %} {{ e.date | date(format="%I:%M%P") }}
+      {% endif %}
     </span>
   </div>
 {% endfor %}
