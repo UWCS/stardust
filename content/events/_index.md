@@ -2,6 +2,7 @@
 title = "Events"
 weight = 2
 sort_by = "date"
+template = "events.html"
 paginate_by = 10
 +++
 

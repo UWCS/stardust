@@ -1,0 +1,17 @@
+{% extends "section.html" %}
+
+
+{% block secbody %}
+{{ resource.content | safe}}
+
+{% set data = load_data(url="https://tabula.warwick.ac.uk/api/v1/termdates/weeks", format="json") %}
+
+{% set weeks = map() %}
+<ul>
+{% for w in data.weeks %}
+  {% if w.academicYear == config.extra.academic_year %}
+    <li>{{ w.academicYear }} {{ w.start }} {{ w.name }}</li>
+  {% endif %}
+{% endfor %}
+</ul>
+{% endblock %}

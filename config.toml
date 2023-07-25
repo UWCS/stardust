@@ -26,3 +26,4 @@ highlight_theme = "css"
 
 repo = "uwcs/new-site"
 cms_auth_url = "https://cms-auth.containers.uwcs.co.uk"
+academic_year = "22/23"
