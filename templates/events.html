@@ -52,6 +52,7 @@ Variables:
 
 {# Initial week #}
 {% set prev_week_index = start_week_index %}
+{% set started = false %}
 {% set prev_day = "" %}
 {% set prev_week_number = -1000 %}
 {% set prev_week_term = "" %}
@@ -59,15 +60,11 @@ Variables:
 {% set term_start_week = 0 %}
 
 {# Output each event #}
-{{ events::start_term() }}
-{{ events::start_week(curr_week="", term_week_no=-1000) }}
-{{ events::start_day(date="") }}
-
 {% for e in section.pages | reverse %}
 
 {% set e_day = e.date | date(format="%A") %}
   {% if e_day != prev_day %}
-    {{ events::end_day() }}
+    {% if started %} {{ events::end_day() }} {% endif %}
 
     {# Get event week #}
     {% set e_cal_week = e.date | date(format="%W") | int %}
@@ -100,9 +97,9 @@ Variables:
 
       {# Output term header if different #}
       {% set w_parts = curr_week.name | title | split(pat=", ") %}
-      {{ events::end_week() }}
+      {% if started %} {{ events::end_week() }} {% endif %}
       {% if curr_week.weekNumber == 0 or w_parts[0] != prev_week_term %}
-        {{ events::end_term() }}
+        {% if started %} {{ events::end_term() }} {% endif %}
         {{ events::start_term() }}
         {{ events::term_heading(curr_week=curr_week, week_term=w_parts[0]) }}
       {% endif %}
@@ -118,6 +115,7 @@ Variables:
   {% endif %}
   {# Output event info #}
   {{ events::event_circle(e=e) }}
+  {% set_global started = true %}
 {% endfor %}
 </ul>
 
