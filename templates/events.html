@@ -5,40 +5,75 @@
 {{ resource.content | safe}}
 
 {% set data = load_data(url="https://tabula.warwick.ac.uk/api/v1/termdates/weeks", format="json") %}
+{#
+  start_week_index = index of earliest week marked as 22/23 in data (~start of aug, week -8)
+  end_week_index = index of last week marked as 22/23 in data (~end of sept, week 52)
+  year_start = date of start of week 0 - start of the teaching year
+  start_cal_week = calendar week of week 0 (term week and cal week difference)
 
+#}
 <ul>
-{# Get start of term week #}
+{# Get start of year week #}
 {% for w in data.weeks %}
-  {% if w.academicYear == config.extra.academic_year and w.weekNumber == 1 %}
-      {% set_global year_start = w.start %}
-      {% set_global week_index = loop.index %}
+  {# Find index of earliest week of academic year (~start of august) #}
+  {% if w.academicYear == config.extra.academic_year and not start_week_index %}
+    {% set_global start_week_index = loop.index0 %}
   {% endif %}
+  {# Find index of week 0 (start of term) #}
+  {% if w.academicYear == config.extra.academic_year and w.weekNumber == 0 %}
+      {% set_global year_start = w.start %}
+      {% break %}
+  {% endif %}
+{% endfor %}
+
+{% set start_cal_week= year_start | date(format="%W") | int %}
+
+{# Find index of latest week of academic year (~end of sept, should be week 0 + 52) #}
+{% for w in data.weeks | slice(start=start_week_index) %}
+{% if w.academicYear != config.extra.academic_year %}
+    {% set_global end_week_index = start_week_index + loop.index0 - 1 %}
+    {% break %}
+{% endif %}
 {% endfor %}
 </ul>
 
-{% set start_week = year_start | date(format="%W") | int %}
-{{ year_start }} {{ start_week }}
+{# {{ year_start }} i {{ start_week_index }} yw {{ start_cal_week}}<br> #}
+{# ei {{ end_week_index }}<br> #}
 
-{# Get week of each event #}
-{% set prev_week_index = week_index %}
-{% set prev_week_number = 1 %}
+{# Initial week #}
+{% set prev_week_index = start_week_index-1 %}
+{% set prev_week_number = -1 %}
 
-{{ data.weeks[prev_week_index].name }}
+{# Output each event #}
 <ul>
-{% for e in section.pages %}
-  {% set e_week = e.date | date(format="%W") | int - start_week %}
+{% for e in section.pages | reverse %}
+  {# Get event week #}
+  {% set e_cal_week = e.date | date(format="%W") | int %}
+  {% set e_week = e_cal_week - start_cal_week%}
+  {% set e_week = (e_week+52) % 52 %}
+  
+  {# If different from last, end current week's list then start new #}
   {% if e_week != prev_week_number %}
     </ul>
-      {% for w in data.weeks | slice(start=prev_week_index) %}
-        {% if e_week == w.weekNumber %}
-          {% set_global prev_week_index = loop.index %}
-          {% set_global prev_week_number = w.weekNumber %}
-        {% endif %}
-      {% endfor %}
-      {{ data.weeks[prev_week_index].name }}
+    {% for w in data.weeks | slice(start=prev_week_index, end=end_week_index) %}
+      {# Find week (after current) with correct week number #}
+      {% if e_week == w.weekNumber %}
+        {% set_global prev_week_index = prev_week_index + loop.index0 %}
+        {% set_global prev_week_number = w.weekNumber %}
+      {% endif %}
+    {% endfor %}
+    
+    {% if prev_week_index > end_week_index %}
+      OUT OF WEEKS IN YEAR!<br>
+    {% endif %}
+
+    {# Output week header #}
+    {% set w = data.weeks[prev_week_index] %}
+    wi {{prev_week_index}} wn {{prev_week_number}} {{ w.name }} {{ w.weekNumber }} {{ w.start }} {{ w.end }}
     <ul>
   {% endif %}
-  <li>{{ e_week }} {{ e.date | date(format="%a") }}</li>
+  {# Output event info #}
+  <li>ew {{ e_week }} {{ e.date | date(format="%a") }} {{ e.date }} {{ e.title }}</li>
 {% endfor %}
 </ul>
 
