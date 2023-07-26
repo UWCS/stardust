@@ -6,7 +6,7 @@
 
 {% if data %}
   {% set map_url = "https://campus.warwick.ac.uk/?slid=" ~ data[0].extRef.id %}
-  <a href="{{ map_url | safe }}">{{ orig_name }}</a>
+  <a href="{{ map_url | safe }}" target="_blank">{{ orig_name }}</a>
 {% else %}
   {{ orig_name }}
 {% endif %}
