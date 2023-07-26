@@ -12,7 +12,7 @@
 <h3>
   <i class="bi bi-geo-alt"></i>
   {% if resource.extra.location %}
-    {{ resource.extra.location }}
+    {{ rooms::room_link(name=resource.extra.location) }}
   {% endif %}
   </h3>
 

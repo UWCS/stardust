@@ -1,0 +1,13 @@
+{% macro room_link(name) %}
+{% set orig_name = name %}
+{% if name | lower | replace(from=".", to="") == "cs dept" %} {% set name = "Computer Science" %} {% endif %}
+{% set url = "https://hub.smartne.com/api/store/projects/warwick/live/locations/search/" ~ name ~"?limit=1&fields=name,displayName,parent,floor,extRef" %}
+{% set data = load_data(url=url, format="json", headers=["Authorization=Token 626629bcd5c05c5269b48ccb"]) %}
+
+{% if data %}
+  {% set map_url = "https://campus.warwick.ac.uk/?slid=" ~ data[0].extRef.id %}
+  <a href="{{ map_url | safe }}">{{ orig_name }}</a>
+{% else %}
+  {{ orig_name }}
+{% endif %}
+{% endmacro %}
