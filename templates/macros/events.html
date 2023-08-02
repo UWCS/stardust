@@ -30,21 +30,21 @@
 {% endmacro %}
 
 {% macro start_week(curr_week, term_week_no) %}
-<div class="week text-center">
+<div class="week w-100 text-center">
 {% if curr_week %}
   {% if curr_week.weekNumber != 0 %}
     <h4>Week {{ term_week_no }}</h4>
   {% endif %}
 {% endif %}
-<div class="events row flex-wrap-1 gap-3 justify-content-center">
+<div class="events d-grid">
 {% endmacro %}
 
 {% macro start_day(date) %}
-<div class="event-outer bg-body rounded-4 text-center text-white p-3" style="width: fit-content">
+<div class="event-outer bg-body rounded-4 text-center text-white">
 {% if date %}
   <h4 class="fw-semibold">{{ date | date(format="%A") }}</h4>
 {% endif %}
-<div class="d-flex flex-sm-row flex-column align-items-center gap-5">
+<div class="day d-flex flex-row flex-wrap-1">
 {% endmacro %}
 
 {% macro end_day() %}
