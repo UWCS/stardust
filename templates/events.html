@@ -66,13 +66,21 @@ Variables:
 {% set prev_week_term = "" %}
 {% set last_week_term = "Pre-term vacation" %}
 {% set term_start_week = 0 %}
+{% set days_events = [] %}
 
 {# Output each event #}
 {% for e in section.pages | reverse %}
 
-{% set e_day = e.date | date(format="%A") %}
+  {% set e_day = e.date | date(format="%A") %}
   {% if e_day != prev_day %}
-    {% if started %} {{ events::end_day() }} {% endif %}
+    {# Output previous day's content #}
+    {% if days_events %}
+      {{ events::day(events=days_events) }}
+      {% set_global days_events = [] %}
+      {% set_global started = true %}
+    {% endif %}
+
+  {# Find new term, week and day #}
 
     {# Get event week #}
     {% set e_cal_week = e.date | date(format="%W") | int %}
@@ -82,7 +90,7 @@ Variables:
       {% set e_week = e_week - 52 %}
     {% endif %}
     
-    {# If different from last, end current week's list then start new #}
+    {# If different week from last, end current week's list then start new #}
     {% if e_week != prev_week_number %}
       {% for w in data.weeks | slice(start=prev_week_index, end=end_week_index+1) %}
         {% if loop.index == end_week_index %}{{ throw(message="Event outside of term weeks") }}{% endif %}
@@ -118,16 +126,14 @@ Variables:
       {% set_global prev_week_number = curr_week.weekNumber %}
       {% set_global prev_week_term = w_parts[0] %}
     {% endif %}
-    {{ events::start_day(date=e.date) }}
     {% set_global prev_day = e_day %}
   {% endif %}
-  {# Output event info #}
-  {{ events::event_circle(e=e) }}
-  {% set_global started = true %}
+  
+  {# Add current event to list of current/new day #}
+  {% set_global days_events = days_events | concat(with=e) %}
 {% endfor %}
 </ul>
 
-{{ events::end_day() }}
 {{ events::end_week() }}
 {{ events::end_term() }}
 
