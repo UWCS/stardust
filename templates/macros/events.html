@@ -41,17 +41,7 @@
 
 {% macro day(events) %}
   {% set date = events[0].date %}
-  {% set el = events | length %}
-<div class="event-outer bg-body rounded-4 text-center text-white"
-  style="
-    {% if el == 2 %}grid-column: span 2;
-    {% elif el == 3 %}grid-column: span 3;
-    {% elif el == 4 %}grid-column: span 2; grid-row: span 2;
-    {% elif el == 5 %}grid-column: span 2; grid-row: span 3;
-    {% elif el == 6 %}grid-column: span 2; grid-row: span 3;
-    {% else %}grid-column: span {{ el / 3 | round(method="ceil") }}; grid-row: span {{ el % 3 }};
-    {% endif %}
-">
+<div class="event-outer bg-body rounded-4 text-center text-white" data-event-count="{{ events | length }}">
   {% if date %}
     <h4 class="fw-semibold">{{ date | date(format="%A") }}</h4>
   {% endif %}
