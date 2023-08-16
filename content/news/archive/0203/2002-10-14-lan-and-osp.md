@@ -2,9 +2,11 @@
 title = "LAN and OSP"
 date = "2002-10-14"
 
-[extra]
-original = "https://uwcs.co.uk/news/lan-and-osp-1474488875247/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/lan-and-osp-1474488875247/"
 +++
 
 Just a reminder for those who don't know; we're holding a LAN party this weekend, from 10am Saturday until 10pm Sunday. So for all you guys who expressed an interest at the Fresher's Fair, why not bring your PC along, and try kicking our arses? Details on the social events page.

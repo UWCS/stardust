@@ -2,9 +2,11 @@
 title = "The Storm - Term 3 Week 1 Newsletter"
 date = "2022-04-27T11:30:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/22-t3w1-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/22-t3w1-newsletter/"
 +++
 
 <p data-block-key="o4r0q">I hope you made good use of the calm, because the storm begins now!</p>

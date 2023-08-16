@@ -2,9 +2,11 @@
 title = "Return of the LAN | Term 1 Week 7 Newsletter"
 date = "2021-11-15T15:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/return-of-the-lan-term-1-week-7-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/return-of-the-lan-term-1-week-7-newsletter/"
 +++
 
 <p>Hiya! It&#x27;s week 7, which means we have another LAN to look forward to - check out this week&#x27;s newsletter to find out more!</p>

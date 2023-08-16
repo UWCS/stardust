@@ -2,9 +2,11 @@
 title = "Migration: reloaded"
 date = "2016-01-19"
 
-[extra]
-original = "https://uwcs.co.uk/news/migration-reloaded-1474488924539/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/migration-reloaded-1474488924539/"
 +++
 
 TL;DR we're moving away from codd on the 25th. If you have anything running please move it to nodd.uwcs.co.uk in the next two weeks. The domain uwcs.co.uk will be updated accordingly in just over two weeks. The new IRC server is up at irc.uwcs.co.uk

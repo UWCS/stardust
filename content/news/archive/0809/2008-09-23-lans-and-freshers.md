@@ -2,9 +2,11 @@
 title = "LANs and Freshers"
 date = "2008-09-23"
 
-[extra]
-original = "https://uwcs.co.uk/news/lans-and-freshers-1474488904485/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/lans-and-freshers-1474488904485/"
 +++
 
 Hope you've all had a great summer and for those of you who are coming back and that you're looking forward to the new year.

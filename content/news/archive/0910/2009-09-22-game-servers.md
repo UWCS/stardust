@@ -2,9 +2,11 @@
 title = "Game servers"
 date = "2009-09-22"
 
-[extra]
-original = "https://uwcs.co.uk/news/game-servers-1474488907211/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/game-servers-1474488907211/"
 +++
 
 We're happy to say that today we opened a number of game servers for a number of source based games. These are:  

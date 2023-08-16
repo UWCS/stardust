@@ -2,9 +2,11 @@
 title = "Academic Trip to IBM Hursley"
 date = "2011-01-16"
 
-[extra]
-original = "https://uwcs.co.uk/news/academic-trip-to-ibm-hursley-1474488912285/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/academic-trip-to-ibm-hursley-1474488912285/"
 +++
 
 Hello, CompSoc.

@@ -2,9 +2,11 @@
 title = "Second Guest Talk from CoreFiling"
 date = "2012-02-01"
 
-[extra]
-original = "https://uwcs.co.uk/news/second-guest-talk-from-corefiling-1474488914021/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/second-guest-talk-from-corefiling-1474488914021/"
 +++
 
 After the success of last term's talk on Machine Learning, we have organised another guest talk courtesy of CoreFiling.

@@ -2,9 +2,11 @@
 title = "RedGate Lightning Talks & Progcomp #3 Results!"
 date = "2013-11-16"
 
-[extra]
-original = "https://uwcs.co.uk/news/redgate-lightning-talks-progcomp-3-results-1474488917980/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/redgate-lightning-talks-progcomp-3-results-1474488917980/"
 +++
 
 Announcing our lightning talks from RedGate next Wednesday, from 4:30-6pm in MS104.

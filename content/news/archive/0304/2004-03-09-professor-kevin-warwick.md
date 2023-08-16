@@ -2,9 +2,11 @@
 title = "Professor Kevin Warwick"
 date = "2004-03-09"
 
-[extra]
-original = "https://uwcs.co.uk/news/professor-kevin-warwick-1474488884438/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/professor-kevin-warwick-1474488884438/"
 +++
 
 Professor Kevin Warwick of Reading University's Cybernetics Department will be giving a guest lecture here on Tuesday, April 20th at 6:00pm in R0.21 (Ramphal Lecture Theatre). Professor Warwick claims to be the world's first cyborg, and had an electronic chip implanted in his arm. If you're going to go to one lecture next term, make it this one\!

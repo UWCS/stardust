@@ -2,9 +2,11 @@
 title = "AGM results!"
 date = "2009-02-21"
 
-[extra]
-original = "https://uwcs.co.uk/news/agm-results-1474488905497/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/agm-results-1474488905497/"
 +++
 
 <p>The results of the AGM are in, and I am pleased to announce the new exec were elected as follows:</p>

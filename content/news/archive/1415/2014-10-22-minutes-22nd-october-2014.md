@@ -2,9 +2,11 @@
 title = "Minutes - 22nd October 2014"
 date = "2014-10-22"
 
-[extra]
-original = "https://uwcs.co.uk/news/minutes-22nd-october-2014-1474488920776/"    
+[taxonomies]
 categories = ["Meeting Minutes"]
+
+[extra]
+original = "https://uwcs.co.uk/news/minutes-22nd-october-2014-1474488920776/"
 +++
 
 Present: veltas, marmite, hermit, zed0, mcnutty, rayhaan, hir

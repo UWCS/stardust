@@ -2,9 +2,11 @@
 title = "Election Results"
 date = "2005-02-11"
 
-[extra]
-original = "https://uwcs.co.uk/news/election-results-1474488889251/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/election-results-1474488889251/"
 +++
 
 The current exec (elected at the AGM) are as follows:

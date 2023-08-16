@@ -2,9 +2,11 @@
 title = "LAN date correction"
 date = "2007-02-15"
 
-[extra]
-original = "https://uwcs.co.uk/news/lan-date-correction-1474488896124/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/lan-date-correction-1474488896124/"
 +++
 
 Thousands of apologies etc., but the previous LAN-related email was in fact incorrect.

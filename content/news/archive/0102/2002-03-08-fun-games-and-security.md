@@ -2,9 +2,11 @@
 title = "Fun, Games and Security"
 date = "2002-03-08"
 
-[extra]
-original = "https://uwcs.co.uk/news/fun-games-and-security-1474488872136/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/fun-games-and-security-1474488872136/"
 +++
 
 Our open source project, Lightbikes 3D is progressing very nicely at the moment, and while it may be hard for coders to join the team at this stage, we would welcome anyone interested in developing levels, playtesting, etc. - just ask on \#lb3d on our IRC server.

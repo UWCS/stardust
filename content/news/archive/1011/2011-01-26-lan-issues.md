@@ -2,9 +2,11 @@
 title = "LAN Issues"
 date = "2011-01-26"
 
-[extra]
-original = "https://uwcs.co.uk/news/lan-issues-1474488912610/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/lan-issues-1474488912610/"
 +++
 
 Greetings CompSoc

@@ -2,9 +2,11 @@
 title = "Dr. Solomon lecture"
 date = "2003-04-23"
 
-[extra]
-original = "https://uwcs.co.uk/news/dr-solomon-lecture-1474488878318/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/dr-solomon-lecture-1474488878318/"
 +++
 
 A big welcome from the new exec for 2003-2004\!  

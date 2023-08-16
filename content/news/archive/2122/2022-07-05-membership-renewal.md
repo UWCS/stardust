@@ -2,9 +2,11 @@
 title = "Membership Renewal"
 date = "2022-07-05T20:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/membership-renewal/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/membership-renewal/"
 +++
 
 Society membership rolls over at 11:59pm August 31st, so remember to **renew your memberships** if you want to keep informed about our events. You will need to pay the Society Federation fee, then joining us is free! (the soc fed fee allows you to join any and all societies).

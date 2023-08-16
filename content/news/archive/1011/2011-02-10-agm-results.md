@@ -2,9 +2,11 @@
 title = "AGM Results"
 date = "2011-02-10"
 
-[extra]
-original = "https://uwcs.co.uk/news/agm-results-1474488913312/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/agm-results-1474488913312/"
 +++
 
 <p>Greetings CompSoc!</p>

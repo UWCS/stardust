@@ -2,9 +2,11 @@
 title = "Mainframe Challenge, and Next Talk"
 date = "2010-11-18"
 
-[extra]
-original = "https://uwcs.co.uk/news/mainframe-challenge-and-next-talk-1474488911576/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/mainframe-challenge-and-next-talk-1474488911576/"
 +++
 
 Hello, all\!

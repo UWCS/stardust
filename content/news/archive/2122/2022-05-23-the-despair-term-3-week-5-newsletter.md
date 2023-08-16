@@ -2,9 +2,11 @@
 title = "The Despair - Term 3 Week 5 Newsletter"
 date = "2022-05-23T12:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/22-t3w5-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/22-t3w5-newsletter/"
 +++
 
 With 1st year exams about to start, 2nd year exams starting soon, and 3rd year exams on their way to being over: there's something for everyone to despair about\!

@@ -2,9 +2,11 @@
 title = "Second LAN of term!"
 date = "2007-02-13"
 
-[extra]
-original = "https://uwcs.co.uk/news/second-lan-of-term-1474488895941/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/second-lan-of-term-1474488895941/"
 +++
 
 Our second LAN of term is now up on the events page. Note that as we are in a smaller room and we're not sure of power requirements, signups for this event will be limited to 30 at first. Once we know what the room can take, we may bring them up to 40, but it seems unlikely that we will be able to fit many more.

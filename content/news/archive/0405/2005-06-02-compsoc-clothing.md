@@ -2,9 +2,11 @@
 title = "CompSoc Clothing!"
 date = "2005-06-02"
 
-[extra]
-original = "https://uwcs.co.uk/news/compsoc-clothing-1474488889850/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/compsoc-clothing-1474488889850/"
 +++
 
 This coming Monday, we will be placing an order for official Computing Society clothing. You can order any of the following items:

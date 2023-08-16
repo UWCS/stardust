@@ -2,9 +2,11 @@
 title = "Exec Minutes - Planning Meeting 14th March 2007"
 date = "2007-03-14"
 
-[extra]
-original = "https://uwcs.co.uk/news/exec-minutes-planning-meeting-14th-march-2007-1474488897030/"    
+[taxonomies]
 categories = ["Meeting Minutes"]
+
+[extra]
+original = "https://uwcs.co.uk/news/exec-minutes-planning-meeting-14th-march-2007-1474488897030/"
 +++
 
 **Present** All except Bruce who is in London, Candle who had no apologies and Morlark who’s location is unknown.

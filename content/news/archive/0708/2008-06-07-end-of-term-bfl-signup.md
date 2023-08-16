@@ -2,9 +2,11 @@
 title = "End of term / BFL signup"
 date = "2008-06-07"
 
-[extra]
-original = "https://uwcs.co.uk/news/end-of-term-bfl-signup-1474488904143/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/end-of-term-bfl-signup-1474488904143/"
 +++
 
 <p>Hi all, </p>

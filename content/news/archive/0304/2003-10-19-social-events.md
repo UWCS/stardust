@@ -2,9 +2,11 @@
 title = "Social Events!"
 date = "2003-10-19"
 
-[extra]
-original = "https://uwcs.co.uk/news/social-events-1474488880394/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/social-events-1474488880394/"
 +++
 
 CompSoc have two important social events coming up:

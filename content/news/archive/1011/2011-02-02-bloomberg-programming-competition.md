@@ -2,9 +2,11 @@
 title = "Bloomberg Programming Competition"
 date = "2011-02-02"
 
-[extra]
-original = "https://uwcs.co.uk/news/bloomberg-programming-competition-1474488912812/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/bloomberg-programming-competition-1474488912812/"
 +++
 
 The University of Warwick Computing society is pleased to announce its first all day programming competition, for the chance to win several fabulous prizes.

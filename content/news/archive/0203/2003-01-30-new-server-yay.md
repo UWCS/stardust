@@ -2,9 +2,11 @@
 title = "New server! Yay!"
 date = "2003-01-30"
 
-[extra]
-original = "https://uwcs.co.uk/news/new-server-yay-1474488877012/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/new-server-yay-1474488877012/"
 +++
 
 We are pleased to announce that our games server, insomnia, has (eventually) been installed onto the Piazza network. We are in the process of setting it up to provide numerous services, including a variety of games servers. If you have any suggestions for games or other facilities this server could provide, do not hesitate to contact the exec.

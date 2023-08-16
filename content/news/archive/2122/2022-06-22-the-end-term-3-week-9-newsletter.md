@@ -2,9 +2,11 @@
 title = "The End - Term 3 Week 9 Newsletter"
 date = "2022-06-22T11:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/22-t3w9-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/22-t3w9-newsletter/"
 +++
 
 <p data-block-key="o4r0q">The end of term is near, and many people are leaving (just like our collective sanity)</p>

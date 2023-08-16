@@ -2,9 +2,11 @@
 title = "Exec Meeting"
 date = "2005-09-30"
 
-[extra]
-original = "https://uwcs.co.uk/news/exec-meeting-1474488890252/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/exec-meeting-1474488890252/"
 +++
 
 The Computing Society Exec will be holding their first meeting of term this evening. If you'd like to come and watch, turn up to Union North for 7:00 pm (We'll be in one of the meeting rooms). Topics for discussion will include:

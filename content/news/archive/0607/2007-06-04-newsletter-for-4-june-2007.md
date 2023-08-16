@@ -2,9 +2,11 @@
 title = "Newsletter for 4 June 2007"
 date = "2007-06-04"
 
-[extra]
-original = "https://uwcs.co.uk/news/newsletter-for-4-june-2007-1474488899438/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/newsletter-for-4-june-2007-1474488899438/"
 +++
 
 4th June, BFL Day Signups now live

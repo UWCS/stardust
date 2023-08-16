@@ -2,9 +2,11 @@
 title = "Last March of SigmaD: Also, AGM reminder"
 date = "2011-02-09"
 
-[extra]
-original = "https://uwcs.co.uk/news/last-march-of-sigmad-also-agm-reminder-1474488913108/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/last-march-of-sigmad-also-agm-reminder-1474488913108/"
 +++
 
 Greetings CompSoc,

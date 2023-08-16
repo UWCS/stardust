@@ -2,9 +2,11 @@
 title = "Welcome social!"
 date = "2005-10-03"
 
-[extra]
-original = "https://uwcs.co.uk/news/welcome-social-1474488890367/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/welcome-social-1474488890367/"
 +++
 
 Hello and welcome to Compsoc\!

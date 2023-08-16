@@ -2,9 +2,11 @@
 title = "Newsletter for 15 October 2007"
 date = "2007-10-15"
 
-[extra]
-original = "https://uwcs.co.uk/news/newsletter-for-15-october-2007-1474488901317/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/newsletter-for-15-october-2007-1474488901317/"
 +++
 
 All,

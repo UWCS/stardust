@@ -2,9 +2,11 @@
 title = "Summer Holidays"
 date = "2005-06-30"
 
-[extra]
-original = "https://uwcs.co.uk/news/summer-holidays-1474488889951/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/summer-holidays-1474488889951/"
 +++
 
 The exams are over, results are out, the BFL and the end-of-year BBQ all went very well, and now it's time to chill out and relax over summer.

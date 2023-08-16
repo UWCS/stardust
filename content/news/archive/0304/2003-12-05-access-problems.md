@@ -2,9 +2,11 @@
 title = "Access Problems"
 date = "2003-12-05"
 
-[extra]
-original = "https://uwcs.co.uk/news/access-problems-1474488881394/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/access-problems-1474488881394/"
 +++
 
 Heya folks,

@@ -2,9 +2,11 @@
 title = "End of term LAN and BBQ"
 date = "2003-06-03"
 
-[extra]
-original = "https://uwcs.co.uk/news/end-of-term-lan-and-bbq-1474488879209/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/end-of-term-lan-and-bbq-1474488879209/"
 +++
 
 Hi guys, with exams and the like going on, CompSoc hasn't done much this term, but fear not; there's more to come after the exams\!

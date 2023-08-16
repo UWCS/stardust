@@ -2,9 +2,11 @@
 title = "Maintenance"
 date = "2015-11-15"
 
-[extra]
-original = "https://uwcs.co.uk/news/maintenance-1474488924228/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/maintenance-1474488924228/"
 +++
 
 You might have noticed we've had a bit of down time recently - sorry about that\! We're in the process of a complete overhaul of our hosting infrastructure, with a planned completion date of November the 27th. Unfortunately there will have to be a little bit more downtime, but we'll do all we can to keep it to a minimum. Planned outages are as follows:

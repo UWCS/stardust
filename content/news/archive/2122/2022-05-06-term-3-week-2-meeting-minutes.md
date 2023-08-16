@@ -2,9 +2,11 @@
 title = "Term 3 Week 2 Meeting Minutes"
 date = "2022-05-06T18:37:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/meeting-minutes-22t3w2/"    
+[taxonomies]
 categories = ["Meeting Minutes"]
+
+[extra]
+original = "https://uwcs.co.uk/news/meeting-minutes-22t3w2/"
 +++
 
 <p data-block-key="zf7wi">Wait a minute, weren&#x27;t we supposed to have some public meetings at some point? Anyway, here&#x27;s some minutes.</p>

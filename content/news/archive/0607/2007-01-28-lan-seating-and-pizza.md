@@ -2,9 +2,11 @@
 title = "LAN Seating and Pizza!"
 date = "2007-01-28"
 
-[extra]
-original = "https://uwcs.co.uk/news/lan-seating-and-pizza-1474488895749/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/lan-seating-and-pizza-1474488895749/"
 +++
 
 There is now a "drag and drop LAN seating plan":http://www.uwcs.co.uk/society/events/seating/688 - just drag people around and hit "save new arrangement" if you don't like your existing seat.

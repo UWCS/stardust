@@ -2,9 +2,11 @@
 title = "Exec Elections"
 date = "2011-01-30"
 
-[extra]
-original = "https://uwcs.co.uk/news/exec-elections-1474488912710/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/exec-elections-1474488912710/"
 +++
 
 Greetings CompSoc.

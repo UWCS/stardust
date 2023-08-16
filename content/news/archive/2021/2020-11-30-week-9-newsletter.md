@@ -2,9 +2,11 @@
 title = "Week 9 Newsletter"
 date = "2020-11-30T15:25:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/week-9-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/week-9-newsletter/"
 +++
 
 <p>Week 9 Newsletter</p>

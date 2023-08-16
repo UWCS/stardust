@@ -2,9 +2,11 @@
 title = "Welcome to the new year!"
 date = "2009-09-30"
 
-[extra]
-original = "https://uwcs.co.uk/news/welcome-to-the-new-year-1474488907313/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/welcome-to-the-new-year-1474488907313/"
 +++
 
 We'd like to extend a warm welcome both to previous, and prospective new members, to the new academic year.  

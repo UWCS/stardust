@@ -2,9 +2,11 @@
 title = "Election results"
 date = "2007-02-22"
 
-[extra]
-original = "https://uwcs.co.uk/news/election-results-1474488896527/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/election-results-1474488896527/"
 +++
 
 <p>The AGM was held yesterday, some interesting discussion took place regarding the future of the society (that lasted 1h30!) and good questions were posed to the candidates.</p>

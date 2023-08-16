@@ -2,9 +2,11 @@
 title = "Welcome (back) to Warwick! | Term 1 Week 1 Newsletter"
 date = "2021-09-27T13:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/term-1-week-1-newsletter-2122/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/term-1-week-1-newsletter-2122/"
 +++
 
 <p>It&#x27;s the first week of term, so welcome to Warwick and the Computing Society! Check out what we&#x27;ve got coming up this term and who we are.</p>

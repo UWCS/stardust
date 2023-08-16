@@ -2,9 +2,11 @@
 title = "Elections"
 date = "2002-02-27"
 
-[extra]
-original = "https://uwcs.co.uk/news/elections-1474488871791/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/elections-1474488871791/"
 +++
 
 Well, we've had s6, we've all screwed up our sleep patterns, and now we have a new Exec too. So, here they are:

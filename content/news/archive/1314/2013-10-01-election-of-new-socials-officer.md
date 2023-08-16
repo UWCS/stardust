@@ -2,9 +2,11 @@
 title = "Election of new Socials Officer"
 date = "2013-10-01"
 
-[extra]
-original = "https://uwcs.co.uk/news/election-of-new-socials-officer-1474488917024/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/election-of-new-socials-officer-1474488917024/"
 +++
 
 Greetings compsoc,

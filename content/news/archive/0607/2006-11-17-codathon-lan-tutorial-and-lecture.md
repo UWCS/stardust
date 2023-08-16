@@ -2,9 +2,11 @@
 title = "Codathon, LAN, Tutorial and Lecture"
 date = "2006-11-17"
 
-[extra]
-original = "https://uwcs.co.uk/news/codathon-lan-tutorial-and-lecture-1474488894250/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/codathon-lan-tutorial-and-lecture-1474488894250/"
 +++
 
 Thanks to everyone who attended the 48 hour game coding competition and the Perl tutorial.

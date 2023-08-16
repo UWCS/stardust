@@ -2,9 +2,11 @@
 title = "New website"
 date = "2009-04-28"
 
-[extra]
-original = "https://uwcs.co.uk/news/new-website-1474488906095/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/new-website-1474488906095/"
 +++
 
 As you should be able to see, today we have rolled out a new website. We hope that you like it, and find it easier to use. However, please note the following:

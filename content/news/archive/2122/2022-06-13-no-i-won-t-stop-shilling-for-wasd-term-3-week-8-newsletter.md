@@ -2,9 +2,11 @@
 title = "No, I won't stop shilling for WASD - Term 3 Week 8 Newsletter"
 date = "2022-06-13T11:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/22-t3w8-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/22-t3w8-newsletter/"
 +++
 
 <p data-block-key="o4r0q">Our charity speedrunning stream, WASD, is happening this weekend, both in the Esports Centre and streamed!</p>

@@ -2,9 +2,11 @@
 title = "Minutes - 21st January 2015"
 date = "2015-01-21"
 
-[extra]
-original = "https://uwcs.co.uk/news/minutes-21st-january-2015-1474488921711/"    
+[taxonomies]
 categories = ["Meeting Minutes"]
+
+[extra]
+original = "https://uwcs.co.uk/news/minutes-21st-january-2015-1474488921711/"
 +++
 
 Present: marmite, hermit, maddy, robot, rayhaan, phillammon, veltas, mcnutty, rhiannon, zed0

@@ -2,9 +2,11 @@
 title = "Linux Lecture"
 date = "2004-10-11"
 
-[extra]
-original = "https://uwcs.co.uk/news/linux-lecture-1474488887700/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/linux-lecture-1474488887700/"
 +++
 
 Take the IBM Linux Challenge.

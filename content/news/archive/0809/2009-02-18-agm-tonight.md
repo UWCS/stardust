@@ -2,9 +2,11 @@
 title = "AGM - tonight!"
 date = "2009-02-18"
 
-[extra]
-original = "https://uwcs.co.uk/news/agm-tonight-1474488905294/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/agm-tonight-1474488905294/"
 +++
 
 Once again it's the time of year that our Annual General Meeting comes around. We'll be assembling our conclave later this evening at 1830 in rooms R0.03/04 in the Ramphal building, and I'd like to wholeheartedly encourage you to attend if you find yourself even slightly partial to the future direction of the society. There may be snackies, and in true compsoc tradition a trip to a purveyor of beverages seems likely to follow.

@@ -2,9 +2,11 @@
 title = "The Final Stretch - Term 2 Week 9 Newsletter"
 date = "2022-03-07T10:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/the-final-stretch-term-2-week-9-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/the-final-stretch-term-2-week-9-newsletter/"
 +++
 
 <p data-block-key="3ptx7">Term 2 is nearly over, and our Bletchley Park trip is just around the corner!</p>

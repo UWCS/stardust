@@ -2,9 +2,11 @@
 title = "Server Migration (cotd.)"
 date = "2007-07-06"
 
-[extra]
-original = "https://uwcs.co.uk/news/server-migration-cotd-1474488900566/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/server-migration-cotd-1474488900566/"
 +++
 
 Earlier today, Codd (the replacement for Molotov) was brought on-line. Our plan was to migrate all data and services across during the course of the afternoon. Unfortunately, while moving user accounts from Molotov, the /etc/passwd file got removed, thus preventing the use of sudo to fix the situation and also any subsequent attempts to log in to the machine. This cannot be resolved till we can gain physical access to Codd - on Monday.

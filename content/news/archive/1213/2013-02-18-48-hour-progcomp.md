@@ -2,9 +2,11 @@
 title = "48 Hour Progcomp"
 date = "2013-02-18"
 
-[extra]
-original = "https://uwcs.co.uk/news/48-hour-progcomp-1474488915806/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/48-hour-progcomp-1474488915806/"
 +++
 
 <p>CompSoc have collaborated with Peter Zaborszky of Best Backups to create a 48 hour competition with fabulous prizes!</p>

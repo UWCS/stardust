@@ -2,9 +2,11 @@
 title = "Last minutes before AGM!"
 date = "2016-02-24"
 
-[extra]
-original = "https://uwcs.co.uk/news/last-minutes-before-agm-1474488925010/"    
+[taxonomies]
 categories = ["Meeting Minutes"]
+
+[extra]
+original = "https://uwcs.co.uk/news/last-minutes-before-agm-1474488925010/"
 +++
 
 \-LAN rota is up\!  

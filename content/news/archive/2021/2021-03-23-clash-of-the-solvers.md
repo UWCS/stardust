@@ -2,9 +2,11 @@
 title = "Clash Of The Solvers"
 date = "2021-03-23T13:21:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/clash-solvers/"    
+[taxonomies]
 categories = ["Sponsored"]
+
+[extra]
+original = "https://uwcs.co.uk/news/clash-solvers/"
 +++
 
 <p> The exciting world of electronic trading is a problem solver’s paradise. Optiver, one of the world’s leading global market makers, will be hosting a remote coding challenge for University students. Get ready for Clash Of The Solvers! </p>

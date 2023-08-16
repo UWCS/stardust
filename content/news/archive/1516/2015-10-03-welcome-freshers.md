@@ -2,9 +2,11 @@
 title = "WELCOME FRESHERS!"
 date = "2015-10-03"
 
-[extra]
-original = "https://uwcs.co.uk/news/welcome-freshers-1474488923414/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/welcome-freshers-1474488923414/"
 +++
 
 Welcome to Warwick\!

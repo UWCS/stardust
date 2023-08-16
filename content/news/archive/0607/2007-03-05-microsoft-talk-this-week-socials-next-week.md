@@ -2,9 +2,11 @@
 title = "Microsoft Talk this week, socials next week!"
 date = "2007-03-05"
 
-[extra]
-original = "https://uwcs.co.uk/news/microsoft-talk-this-week-socials-next-week-1474488896727/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/microsoft-talk-this-week-socials-next-week-1474488896727/"
 +++
 
 On Wednesday 7th March at 14:00-15:30 in S0.11 (Social Studies), we will be hosting a "Microsoft Tech Talk":http://events.uwcs.co.uk/682 titled \_New Interfaces with Windows Vista\_. All are welcome.

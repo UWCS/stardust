@@ -2,9 +2,11 @@
 title = "Beginner Programming Lesson Three"
 date = "2017-10-20T17:44:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/beginner-programming-lesson-3-2017/"    
+[taxonomies]
 categories = ["Programming Lesson"]
+
+[extra]
+original = "https://uwcs.co.uk/news/beginner-programming-lesson-3-2017/"
 +++
 
 <p>The third instalment of our beginner programming series.</p>

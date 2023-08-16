@@ -2,9 +2,11 @@
 title = "LANs are back! | Term 1 Week 4 Newsletter"
 date = "2021-10-26T17:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/term-1-week-4-newsletter-2122/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/term-1-week-4-newsletter-2122/"
 +++
 
 <p>Week 4 is upon us and we&#x27;ve got LAN this weekend, so get ready for more news!</p>

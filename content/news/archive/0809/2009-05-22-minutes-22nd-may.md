@@ -2,9 +2,11 @@
 title = "Minutes - 22nd May"
 date = "2009-05-22"
 
-[extra]
-original = "https://uwcs.co.uk/news/minutes-22nd-may-1474488906721/"    
+[taxonomies]
 categories = ["Meeting Minutes"]
+
+[extra]
+original = "https://uwcs.co.uk/news/minutes-22nd-may-1474488906721/"
 +++
 
 # Present

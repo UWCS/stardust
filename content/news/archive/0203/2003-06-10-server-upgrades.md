@@ -2,9 +2,11 @@
 title = "Server Upgrades"
 date = "2003-06-10"
 
-[extra]
-original = "https://uwcs.co.uk/news/server-upgrades-1474488879405/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/server-upgrades-1474488879405/"
 +++
 
 Molotov has now been upgraded with the components left over from the Insomnia upgrade. Thus our servers are now:  

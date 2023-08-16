@@ -2,9 +2,11 @@
 title = "First Academic Talk of the Year"
 date = "2010-10-16"
 
-[extra]
-original = "https://uwcs.co.uk/news/first-academic-talk-of-the-year-1474488910784/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/first-academic-talk-of-the-year-1474488910784/"
 +++
 
 A huge welcome to all of the new members of the Computing Society, and an equally large welcome back to our members from last year\!

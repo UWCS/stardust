@@ -2,9 +2,11 @@
 title = "CompSoc Week 3 Term 3: LAN and BFL signups"
 date = "2010-05-16"
 
-[extra]
-original = "https://uwcs.co.uk/news/compsoc-week-3-term-3-lan-and-bfl-signups-1474488909881/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/compsoc-week-3-term-3-lan-and-bfl-signups-1474488909881/"
 +++
 
 Greetings CompSoc\!

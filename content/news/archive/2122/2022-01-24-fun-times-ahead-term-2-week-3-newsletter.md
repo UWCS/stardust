@@ -2,9 +2,11 @@
 title = "Fun Times Ahead - Term 2 Week 3 Newsletter"
 date = "2022-01-24T11:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/fun-times-ahead-term-2-week-3-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/fun-times-ahead-term-2-week-3-newsletter/"
 +++
 
 <p>We&#x27;re into the third week now, and we&#x27;ve got a whole load of events for you to get involved in this week - check them out here!</p>

@@ -2,9 +2,11 @@
 title = "IBM Summer Programming Competition"
 date = "2012-07-29"
 
-[extra]
-original = "https://uwcs.co.uk/news/ibm-summer-programming-competition-1474488915239/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/ibm-summer-programming-competition-1474488915239/"
 +++
 
 This summer the University of Warwick Computing society is pleased to announce a summer long programming competition to write an AI for the game Bomberman\!

@@ -2,9 +2,11 @@
 title = "UWCS website IPv6 support"
 date = "2014-06-07"
 
-[extra]
-original = "https://uwcs.co.uk/news/uwcs-website-ipv6-support-1474488920105/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/uwcs-website-ipv6-support-1474488920105/"
 +++
 
 Greetings CompSoc,

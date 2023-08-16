@@ -2,9 +2,11 @@
 title = "The Interlude - Term 3 Week 2 Newsletter"
 date = "2022-05-04T12:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/22-t3w2-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/22-t3w2-newsletter/"
 +++
 
 <p data-block-key="o4r0q">Time for a rest... I think?</p>

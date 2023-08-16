@@ -2,9 +2,11 @@
 title = "Proxy Voting Open!"
 date = "2007-02-15"
 
-[extra]
-original = "https://uwcs.co.uk/news/proxy-voting-open-1474488896224/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/proxy-voting-open-1474488896224/"
 +++
 
 Proxy Voting is now open. The candidates are:  

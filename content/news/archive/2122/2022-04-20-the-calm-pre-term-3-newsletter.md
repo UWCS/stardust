@@ -2,9 +2,11 @@
 title = "The Calm - Pre-Term 3 Newsletter"
 date = "2022-04-20T15:40:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/the-calm-pre-term-3-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/the-calm-pre-term-3-newsletter/"
 +++
 
 <p data-block-key="o4r0q">The pre-exam stress may be ramping up, but we have you covered! Whether it&#x27;s revision, food, or merch(?), we&#x27;ve got something for everyone.</p>

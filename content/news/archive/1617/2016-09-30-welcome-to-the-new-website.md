@@ -2,9 +2,11 @@
 title = "Welcome To The New Website!"
 date = "2016-09-30"
 
-[extra]
-original = "https://uwcs.co.uk/news/welcome-new-website/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/welcome-new-website/"
 +++
 
 <p>The new website was a long time coming, but it's finally here! A massive thank you to David Richardson, our tech officer, for basically doing all the work himself! Click "read more" for more info...</p>

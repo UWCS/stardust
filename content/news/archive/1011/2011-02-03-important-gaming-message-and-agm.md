@@ -2,9 +2,11 @@
 title = "Important Gaming Message and AGM"
 date = "2011-02-03"
 
-[extra]
-original = "https://uwcs.co.uk/news/important-gaming-message-and-agm-1474488912911/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/important-gaming-message-and-agm-1474488912911/"
 +++
 
 Greetings CompSoc\!

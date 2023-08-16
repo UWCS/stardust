@@ -2,9 +2,11 @@
 title = "Too much to do already? | Term 1 Week 2 Newsletter"
 date = "2021-10-12T17:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/term-1-week-2-newsletter-2122/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/term-1-week-2-newsletter-2122/"
 +++
 
 <p>It&#x27;s the start of week 2 and we&#x27;ve got lots coming up for you, so let&#x27;s dive right into this week&#x27;s newsletter!</p>

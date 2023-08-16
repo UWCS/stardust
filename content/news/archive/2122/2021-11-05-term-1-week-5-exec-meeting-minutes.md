@@ -2,9 +2,11 @@
 title = "Term 1 Week 5 Exec Meeting Minutes"
 date = "2021-11-05T12:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/term-1-week-5-exec-meeting-minutes/"    
+[taxonomies]
 categories = ["Meeting Minutes"]
+
+[extra]
+original = "https://uwcs.co.uk/news/term-1-week-5-exec-meeting-minutes/"
 +++
 
 <p>Hey there! We had an in-person exec meeting recently, check out the minutes here!</p>

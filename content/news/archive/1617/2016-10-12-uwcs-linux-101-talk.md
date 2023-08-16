@@ -2,9 +2,11 @@
 title = "UWCS Linux 101 Talk"
 date = "2016-10-12"
 
-[extra]
-original = "https://uwcs.co.uk/news/uwcs-linux-101-talk/"    
+[taxonomies]
 categories = ["News Item", "Academic Talk"]
+
+[extra]
+original = "https://uwcs.co.uk/news/uwcs-linux-101-talk/"
 +++
 
 <p>The slides and cheat sheet for the UWCS Linux 101 talk.</p>

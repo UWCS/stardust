@@ -2,9 +2,11 @@
 title = "Forthcoming LAN"
 date = "2005-10-10"
 
-[extra]
-original = "https://uwcs.co.uk/news/forthcoming-lan-1474488890660/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/forthcoming-lan-1474488890660/"
 +++
 
 The Computing Society will be hosting the first LAN of this term at the end of Week 4, from Friday evening (21st Oct) until Sunday evening (23rd Oct). Signups open at 9pm this Wednesday; set a reminder in your phone now\!

@@ -2,9 +2,11 @@
 title = "Term 1 Week 8: Gaming, Christmas Meal and LAN Signups."
 date = "2010-11-26"
 
-[extra]
-original = "https://uwcs.co.uk/news/term-1-week-8-gaming-christmas-meal-and-lan-signups-1474488911781/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/term-1-week-8-gaming-christmas-meal-and-lan-signups-1474488911781/"
 +++
 
 Hello CompSoc\!

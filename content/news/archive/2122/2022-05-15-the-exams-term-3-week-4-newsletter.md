@@ -2,9 +2,11 @@
 title = "The Exams - Term 3 Week 4 Newsletter"
 date = "2022-05-15T12:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/22-t3w4-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/22-t3w4-newsletter/"
 +++
 
 <p data-block-key="o4r0q">The exam season has begun!</p>

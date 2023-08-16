@@ -2,9 +2,11 @@
 title = "Last week of term 2"
 date = "2007-03-12"
 
-[extra]
-original = "https://uwcs.co.uk/news/last-week-of-term-2-1474488896935/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/last-week-of-term-2-1474488896935/"
 +++
 
 <p>It was nice seeing many of you at the "Microsoft talk":http://events.uwcs.co.uk/682 last week. Please return the questionnaire to one of the exec by Wednesday if you wish to enter the competition.</p>

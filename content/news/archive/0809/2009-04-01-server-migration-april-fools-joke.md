@@ -2,9 +2,11 @@
 title = "Server Migration (APRIL FOOLS' JOKE)"
 date = "2009-04-01"
 
-[extra]
-original = "https://uwcs.co.uk/news/server-migration-april-fools-joke-1474488905996/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/server-migration-april-fools-joke-1474488905996/"
 +++
 
 Hi everyone,

@@ -2,9 +2,11 @@
 title = "(Console) Gaming Session this Saturday"
 date = "2007-01-11"
 
-[extra]
-original = "https://uwcs.co.uk/news/console-gaming-session-this-saturday-1474488894957/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/console-gaming-session-this-saturday-1474488894957/"
 +++
 
 <p>As Warwick Estates have still yet to furnish our new gaming room, we'll be running a console gaming session this Saturday in B2.13/14 at 7pm-midnight to attempt to inject some gaming into the society!</p>

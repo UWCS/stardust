@@ -2,9 +2,11 @@
 title = "Molotov State"
 date = "2002-06-14"
 
-[extra]
-original = "https://uwcs.co.uk/news/molotov-state-1474488873730/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/molotov-state-1474488873730/"
 +++
 
 At about 8pm last night (Thursday, 13th) there was a momentary power outage that affected most of campus, including our server Molotov. While Molotov booted up ok after the power came back, it failed to correctly talk to the network, rendering it useless. At about 11:20am today (Friday) James Ross, Mike Smith and Robert Stacey attempted to get Molotov up and working.

@@ -2,9 +2,11 @@
 title = "Beginner Programming Lesson One"
 date = "2016-10-06"
 
-[extra]
-original = "https://uwcs.co.uk/news/beginner-programming-lesson-one/"    
+[taxonomies]
 categories = ["Programming Lesson"]
+
+[extra]
+original = "https://uwcs.co.uk/news/beginner-programming-lesson-one/"
 +++
 
 <p>A guide for completely new programmers, teaching you how to use the Linux machines and how to start programming the game Snake using Java in a terminal. Click to learn more!</p>

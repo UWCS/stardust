@@ -2,9 +2,11 @@
 title = "Beginner Programming Lesson Two"
 date = "2016-10-14"
 
-[extra]
-original = "https://uwcs.co.uk/news/beginner-programming-lesson-two/"    
+[taxonomies]
 categories = ["Programming Lesson"]
+
+[extra]
+original = "https://uwcs.co.uk/news/beginner-programming-lesson-two/"
 +++
 
 <p>The second instalment of our learning to program course. This time, we'll be creating a graphical game! Space Invaders!</p>

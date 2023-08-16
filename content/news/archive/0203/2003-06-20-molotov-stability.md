@@ -2,9 +2,11 @@
 title = "Molotov stability"
 date = "2003-06-20"
 
-[extra]
-original = "https://uwcs.co.uk/news/molotov-stability-1474488879501/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/molotov-stability-1474488879501/"
 +++
 
 As many of you will have noticed, Molotov has crashed for the second time in quick succession. Luckily, the Technical Team were able to get in to the server room and restart things within a few hours.

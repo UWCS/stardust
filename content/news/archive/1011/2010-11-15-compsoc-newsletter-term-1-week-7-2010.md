@@ -2,9 +2,11 @@
 title = "CompSoc Newsletter Term 1 Week 7 2010"
 date = "2010-11-15"
 
-[extra]
-original = "https://uwcs.co.uk/news/compsoc-newsletter-term-1-week-7-2010-1474488911477/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/compsoc-newsletter-term-1-week-7-2010-1474488911477/"
 +++
 
 Greetings CompSoc\!

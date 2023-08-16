@@ -2,9 +2,11 @@
 title = "Recent downtime"
 date = "2007-04-23"
 
-[extra]
-original = "https://uwcs.co.uk/news/recent-downtime-1474488897411/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/recent-downtime-1474488897411/"
 +++
 
 You may have noticed that the Computing Society servers have been experiencing difficulties over the past few days. There have been two major causes for this:

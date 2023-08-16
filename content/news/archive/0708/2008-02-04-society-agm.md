@@ -2,9 +2,11 @@
 title = "Society AGM"
 date = "2008-02-04"
 
-[extra]
-original = "https://uwcs.co.uk/news/society-agm-1474488903201/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/society-agm-1474488903201/"
 +++
 
 The Society will be holding its Annual General Meeting on Wednesday 6th February to elect next year's Exec.

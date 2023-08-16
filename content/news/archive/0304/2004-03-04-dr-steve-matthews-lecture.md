@@ -2,9 +2,11 @@
 title = "Dr Steve Matthews Lecture"
 date = "2004-03-04"
 
-[extra]
-original = "https://uwcs.co.uk/news/dr-steve-matthews-lecture-1474488884337/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/dr-steve-matthews-lecture-1474488884337/"
 +++
 
 This week we have scheduled a talk by Dr. Steve Matthews. The talk will be an hour's introduction to "Philosophy for Programmers", Dr. Steve Matthew's research topic. This will be on Tueday of Week 10 at 5pm, in the L4 lecture theatre (beside L3).

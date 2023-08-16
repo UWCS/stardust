@@ -2,9 +2,11 @@
 title = "The End is in Sight | Term 1 Week 8 Newsletter"
 date = "2021-11-22T17:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/the-end-is-in-sight-term-1-week-8-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/the-end-is-in-sight-term-1-week-8-newsletter/"
 +++
 
 <p>Week 8 is here, so here&#x27;s another newsletter!</p>

@@ -2,9 +2,11 @@
 title = "No, we're not dead..."
 date = "2002-11-09"
 
-[extra]
-original = "https://uwcs.co.uk/news/no-were-not-dead-1474488876097/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/no-were-not-dead-1474488876097/"
 +++
 
 ...instead, we're planning like mad, to bring you more varied and better events. For your perusal this time, the LAN, Bowling, Tutorials and the Linux Users' Group (LUG).  

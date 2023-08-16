@@ -2,9 +2,11 @@
 title = "ComputerMinds Guest Talk & Progcomp.2 Results!"
 date = "2013-11-02"
 
-[extra]
-original = "https://uwcs.co.uk/news/computerminds-guest-talk-progcomp2-results-1474488917695/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/computerminds-guest-talk-progcomp2-results-1474488917695/"
 +++
 
 Announcing our guest talk from Steven from ComputerMinds next Wednesday. The talk will take place from 1-2pm in LIB2.

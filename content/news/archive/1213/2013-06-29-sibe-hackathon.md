@@ -2,9 +2,11 @@
 title = "SIBE Hackathon"
 date = "2013-06-29"
 
-[extra]
-original = "https://uwcs.co.uk/news/sibe-hackathon-1474488916823/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/sibe-hackathon-1474488916823/"
 +++
 
 The hackathon we ran in collaboration with SIBE last weekend was a success, with some students staying up the entire night to create their solution\!

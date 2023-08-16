@@ -2,9 +2,11 @@
 title = "Socials This Term"
 date = "2006-01-12"
 
-[extra]
-original = "https://uwcs.co.uk/news/socials-this-term-1474488891675/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/socials-this-term-1474488891675/"
 +++
 
 I hope everyone had an excellent holiday and is getting back into the swing of things\! This is a list of lots of social stuff going on this term, and a couple of non-socialy things too.

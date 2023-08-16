@@ -2,9 +2,11 @@
 title = "Minutes - 4th February 2015"
 date = "2015-02-04"
 
-[extra]
-original = "https://uwcs.co.uk/news/minutes-4th-february-2015-1474488922022/"    
+[taxonomies]
 categories = ["Meeting Minutes"]
+
+[extra]
+original = "https://uwcs.co.uk/news/minutes-4th-february-2015-1474488922022/"
 +++
 
 Present: rhiba, maddy, phillammon, veltas, robot, alice, marmite, mcnutty, rayhaan, hiren  

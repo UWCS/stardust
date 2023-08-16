@@ -2,9 +2,11 @@
 title = "So, how many lectures have you missed? - Term 2 Week 10 Newsletter"
 date = "2022-03-14T10:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/so-how-many-lectures-have-you-missed-term-2-week-10-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/so-how-many-lectures-have-you-missed-term-2-week-10-newsletter/"
 +++
 
 <p data-block-key="3ptx7">Heya! Welcome to the final newsletter of the term. Unfortunately, the stress isn&#x27;t quite over yet! We&#x27;ve got something for everyone this week.</p>

@@ -2,9 +2,11 @@
 title = "Newsletter for 21 June 2003"
 date = "2003-06-21"
 
-[extra]
-original = "https://uwcs.co.uk/news/newsletter-for-21-june-2003-1474488879593/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/newsletter-for-21-june-2003-1474488879593/"
 +++
 
 ### Newsletter for Week 9, Summer Term

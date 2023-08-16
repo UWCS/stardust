@@ -2,9 +2,11 @@
 title = "Moving into March - Term 2 Week 8 Newsletter"
 date = "2022-02-28T11:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/moving-into-march-term-2-week-8-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/moving-into-march-term-2-week-8-newsletter/"
 +++
 
 <p data-block-key="2cb80">Just three weeks left until the Easter break now, and the newly elected Exec will be taking over soon - check out this newsletter for more info!</p>

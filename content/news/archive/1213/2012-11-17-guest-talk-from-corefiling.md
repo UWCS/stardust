@@ -2,9 +2,11 @@
 title = "Guest Talk from CoreFiling"
 date = "2012-11-17"
 
-[extra]
-original = "https://uwcs.co.uk/news/guest-talk-from-corefiling-1474488915426/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/guest-talk-from-corefiling-1474488915426/"
 +++
 
 On Thursday 22nd CoreFiling Ltd will be coming in to give a talk about continuous integration. The talk will take place in S0.13 at 5pm.

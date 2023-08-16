@@ -2,9 +2,11 @@
 title = "CS Results"
 date = "2003-03-15"
 
-[extra]
-original = "https://uwcs.co.uk/news/cs-results-1474488878118/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/cs-results-1474488878118/"
 +++
 
 <p>Well for those unaware the results of our CS fun last night were:</p>

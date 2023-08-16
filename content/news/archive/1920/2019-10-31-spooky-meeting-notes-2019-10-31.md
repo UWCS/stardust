@@ -2,9 +2,11 @@
 title = "SpOoKy MeEtInG nOtEs 2019-10-31"
 date = "2019-10-31T14:58:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/spooky-meeting-notes-2019-10-31/"    
+[taxonomies]
 categories = ["Meeting Minutes"]
+
+[extra]
+original = "https://uwcs.co.uk/news/spooky-meeting-notes-2019-10-31/"
 +++
 
 <p data-block-key="we7ei">Ah! A Notes!</p>

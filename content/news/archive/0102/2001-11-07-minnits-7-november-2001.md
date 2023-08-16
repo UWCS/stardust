@@ -2,9 +2,11 @@
 title = "Minnits - 7 November 2001"
 date = "2001-11-07"
 
-[extra]
-original = "https://uwcs.co.uk/news/minnits-7-november-2001-1474488869534/"    
+[taxonomies]
 categories = ["Meeting Minutes"]
+
+[extra]
+original = "https://uwcs.co.uk/news/minnits-7-november-2001-1474488869534/"
 +++
 
 ### Compsoc Exec Minnits

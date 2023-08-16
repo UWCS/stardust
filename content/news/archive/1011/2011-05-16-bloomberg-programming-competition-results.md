@@ -2,9 +2,11 @@
 title = "Bloomberg Programming Competition Results."
 date = "2011-05-16"
 
-[extra]
-original = "https://uwcs.co.uk/news/bloomberg-programming-competition-results-1474488913612/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/bloomberg-programming-competition-results-1474488913612/"
 +++
 
 Hi all,

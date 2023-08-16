@@ -2,9 +2,11 @@
 title = "More Downtime"
 date = "2003-10-17"
 
-[extra]
-original = "https://uwcs.co.uk/news/more-downtime-1474488880202/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/more-downtime-1474488880202/"
 +++
 
 Sorry for the yet more downtime. This is once gain due to ITS and the Onion being lame and changing settings/dieing respectively.  

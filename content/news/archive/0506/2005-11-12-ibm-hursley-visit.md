@@ -2,9 +2,11 @@
 title = "IBM Hursley visit"
 date = "2005-11-12"
 
-[extra]
-original = "https://uwcs.co.uk/news/ibm-hursley-visit-1474488891475/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/ibm-hursley-visit-1474488891475/"
 +++
 
 We're off to see Hursley, one of IBM's biggest software development laboratories on the 16th of November (Wednesday)\!

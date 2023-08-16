@@ -2,9 +2,11 @@
 title = "Guest Talk from Unruly Media"
 date = "2012-05-08"
 
-[extra]
-original = "https://uwcs.co.uk/news/guest-talk-from-unruly-media-1474488915030/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/guest-talk-from-unruly-media-1474488915030/"
 +++
 
 On Friday 18th May we have Unruly Media coming in to deliver a talk entitled "Taming Scalability, and how Extreme Programming can help". The talk will take place in S0.13 from 4pm.

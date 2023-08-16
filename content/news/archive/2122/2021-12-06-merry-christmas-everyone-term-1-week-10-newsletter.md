@@ -2,9 +2,11 @@
 title = "Merry Christmas, Everyone! - Term 1 Week 10 Newsletter"
 date = "2021-12-06T18:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/merry-christmas-everyone-term-1-week-10-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/merry-christmas-everyone-term-1-week-10-newsletter/"
 +++
 
 <p>Just a few more days to go in term 1 before a well-deserved holiday - check out the final term 1 newsletter here!</p>

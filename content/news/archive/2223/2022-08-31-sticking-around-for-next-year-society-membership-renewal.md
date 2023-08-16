@@ -2,9 +2,11 @@
 title = "Sticking around for next year? | Society Membership Renewal"
 date = "2022-08-31T11:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/2022-renewal/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/2022-renewal/"
 +++
 
 <p data-block-key="zf7wi">Society memberships expire tomorrow. Time to renew!</p>

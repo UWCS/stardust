@@ -2,9 +2,11 @@
 title = "AGM Results"
 date = "2012-02-10"
 
-[extra]
-original = "https://uwcs.co.uk/news/agm-results-1474488914121/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/agm-results-1474488914121/"
 +++
 
 The AGM that was scheduled for the 8th February has finished, with the new exec being elected as follows:

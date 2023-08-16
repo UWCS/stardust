@@ -2,9 +2,11 @@
 title = "PAINTBALL!!!!"
 date = "2007-06-12"
 
-[extra]
-original = "https://uwcs.co.uk/news/paintball-1474488899925/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/paintball-1474488899925/"
 +++
 
 Dear all, since some interest was registered in the "Paintball Event":/society/events/details/775 on our website, Compsoc, in coordination with the "Paintball Society":http://www.sunion.warwick.ac.uk/portal/organisation/4204/, will be holding a social on 23rd June. This takes place between 8am - 5pm at the National Paintball Fields in Birmingham. We need a big crowd to turn up with fire in their bellies, to defend the land of the free and home of the brave\! Or something. In order to signup you need to use our esteemed Student's Union's "event system":http://www.sunion.warwick.ac.uk/portal/ents/event/3691/.

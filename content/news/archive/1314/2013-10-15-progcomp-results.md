@@ -2,9 +2,11 @@
 title = "ProgComp Results!"
 date = "2013-10-15"
 
-[extra]
-original = "https://uwcs.co.uk/news/progcomp-results-1474488917415/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/progcomp-results-1474488917415/"
 +++
 
 This evening we ran our first speed programming competition of the term. This was the first of a series of fortnightly programming competitions we are running, which will hopefully have a sponsored prize for the best overall competitor at the end of term\! Stay tuned for more details on this.

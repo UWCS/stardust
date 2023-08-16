@@ -2,9 +2,11 @@
 title = "Connect with Jane Street!"
 date = "2021-03-03T14:39:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/connect-jane-street/"    
+[taxonomies]
 categories = ["Sponsored"]
+
+[extra]
+original = "https://uwcs.co.uk/news/connect-jane-street/"
 +++
 
 <p>Interested in learning more about Jane Street and how we think? Join us for this 60-minute virtual event! </p>

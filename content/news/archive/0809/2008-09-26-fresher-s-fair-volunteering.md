@@ -2,9 +2,11 @@
 title = "Fresher's Fair Volunteering"
 date = "2008-09-26"
 
-[extra]
-original = "https://uwcs.co.uk/news/freshers-fair-volunteering-1474488904584/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/freshers-fair-volunteering-1474488904584/"
 +++
 
 So it's that time of year again where we attempt to brainwash freshers into giving up their souls and joining our ranks of nerdery and awesome.

@@ -2,9 +2,11 @@
 title = "Guest Talk from CoreFiling"
 date = "2011-11-21"
 
-[extra]
-original = "https://uwcs.co.uk/news/guest-talk-from-corefiling-1474488913921/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/guest-talk-from-corefiling-1474488913921/"
 +++
 
 CompSoc's second guest talk of the term is taking place this Wednesday (23rd of Novemver), courtesy of CoreFiling Ltd.

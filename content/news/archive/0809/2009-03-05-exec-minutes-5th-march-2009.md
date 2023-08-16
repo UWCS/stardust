@@ -2,9 +2,11 @@
 title = "Exec Minutes - 5th March 2009"
 date = "2009-03-05"
 
-[extra]
-original = "https://uwcs.co.uk/news/exec-minutes-5th-march-2009-1474488905791/"    
+[taxonomies]
 categories = ["Meeting Minutes"]
+
+[extra]
+original = "https://uwcs.co.uk/news/exec-minutes-5th-march-2009-1474488905791/"
 +++
 
 ### Present

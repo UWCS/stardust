@@ -2,9 +2,11 @@
 title = "COMPSOC AGM"
 date = "2007-01-31"
 
-[extra]
-original = "https://uwcs.co.uk/news/compsoc-agm-1474488895848/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/compsoc-agm-1474488895848/"
 +++
 
 The compsoc AGM will be held on 21st February.

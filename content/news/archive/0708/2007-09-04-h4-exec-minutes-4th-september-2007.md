@@ -2,9 +2,11 @@
 title = "h4. Exec Minutes - 4th September 2007"
 date = "2007-09-04"
 
-[extra]
-original = "https://uwcs.co.uk/news/h4-exec-minutes-4th-september-2007-1474488900882/"    
+[taxonomies]
 categories = ["Meeting Minutes"]
+
+[extra]
+original = "https://uwcs.co.uk/news/h4-exec-minutes-4th-september-2007-1474488900882/"
 +++
 
 **Present:** Mullet, Si, OddBloke, Fluffeei, Bruce, Brad  

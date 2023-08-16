@@ -2,9 +2,11 @@
 title = "Approaching AGM - Term 2 Week 6 Newsletter"
 date = "2022-02-15T21:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/approaching-agm-term-2-week-6-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/approaching-agm-term-2-week-6-newsletter/"
 +++
 
 <p data-block-key="n9lrs">We&#x27;ve got our AGM later this week, as well as another Programming Challenge on Wednesday - check out the details in this week&#x27;s newsletter!</p>

@@ -2,9 +2,11 @@
 title = "Exec Minutes - 7th November 2007"
 date = "2007-11-07"
 
-[extra]
-original = "https://uwcs.co.uk/news/exec-minutes-7th-november-2007-1474488901941/"    
+[taxonomies]
 categories = ["Meeting Minutes"]
+
+[extra]
+original = "https://uwcs.co.uk/news/exec-minutes-7th-november-2007-1474488901941/"
 +++
 
 **Present:** Mullet, Si, OddBloke, Fluffeei, Bruce, Lucidion (Lucy), Brad,  

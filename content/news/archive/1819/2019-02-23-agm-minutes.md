@@ -2,9 +2,11 @@
 title = "AGM Minutes"
 date = "2019-02-23T10:50:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/agm-2019-minutes/"    
+[taxonomies]
 categories = ["Meeting Minutes"]
+
+[extra]
+original = "https://uwcs.co.uk/news/agm-2019-minutes/"
 +++
 
 <p>The minutes for UWCS's 2019 AGM, held on 2019-02-22</p>

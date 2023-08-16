@@ -2,9 +2,11 @@
 title = "Breather Week | Term 1 Week 6 Newsletter"
 date = "2021-11-08T18:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/breather-week-term-1-week-6-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/breather-week-term-1-week-6-newsletter/"
 +++
 
 <p>Heyo! Week 6 is here, so here&#x27;s yet another newsletter for you to enjoy!</p>

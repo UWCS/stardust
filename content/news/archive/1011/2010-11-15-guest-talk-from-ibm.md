@@ -2,9 +2,11 @@
 title = "Guest Talk from IBM"
 date = "2010-11-15"
 
-[extra]
-original = "https://uwcs.co.uk/news/guest-talk-from-ibm-1474488911384/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/guest-talk-from-ibm-1474488911384/"
 +++
 
 Hello, all\!

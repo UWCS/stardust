@@ -2,9 +2,11 @@
 title = "Minutes Week 4"
 date = "2016-02-03"
 
-[extra]
-original = "https://uwcs.co.uk/news/minutes-week-4-1474488924919/"    
+[taxonomies]
 categories = ["Meeting Minutes"]
+
+[extra]
+original = "https://uwcs.co.uk/news/minutes-week-4-1474488924919/"
 +++
 
 \-Phillammon has sent emails to warwick big screen and eben from rPi.  

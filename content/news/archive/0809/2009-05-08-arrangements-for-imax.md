@@ -2,9 +2,11 @@
 title = "Arrangements for IMAX"
 date = "2009-05-08"
 
-[extra]
-original = "https://uwcs.co.uk/news/arrangements-for-imax-1474488906404/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/arrangements-for-imax-1474488906404/"
 +++
 
 Good afternoon\!

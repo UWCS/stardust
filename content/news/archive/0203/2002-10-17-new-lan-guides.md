@@ -2,9 +2,11 @@
 title = "New LAN guides"
 date = "2002-10-17"
 
-[extra]
-original = "https://uwcs.co.uk/news/new-lan-guides-1474488875435/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/new-lan-guides-1474488875435/"
 +++
 
 In anticipation of this weekend's LAN, I've written two guides about how compsoc LANs work and what you should bring to them.

@@ -2,9 +2,11 @@
 title = "CompSoc Elections 2004!"
 date = "2004-02-14"
 
-[extra]
-original = "https://uwcs.co.uk/news/compsoc-elections-2004-1474488883813/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/compsoc-elections-2004-1474488883813/"
 +++
 
 The Elections were held at the end of Week 6, with the following results:

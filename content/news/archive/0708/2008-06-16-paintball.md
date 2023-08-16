@@ -2,9 +2,11 @@
 title = "Paintball"
 date = "2008-06-16"
 
-[extra]
-original = "https://uwcs.co.uk/news/paintball-1474488904243/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/paintball-1474488904243/"
 +++
 
 Warwick paintball soc have been awesome and organised us one hell of an event for Saturday.

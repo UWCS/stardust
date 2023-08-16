@@ -2,9 +2,11 @@
 title = "Molotov/Codd Migration"
 date = "2007-07-10"
 
-[extra]
-original = "https://uwcs.co.uk/news/molotovcodd-migration-1474488900683/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/molotovcodd-migration-1474488900683/"
 +++
 
 The migration of molotov to codd is now complete. All user accounts and services have been restored. Unfortunately the migration took a lot longer the anticipated, due to unforeseen circumstances. We sincerely apologies for the delay and any inconveniences caused.

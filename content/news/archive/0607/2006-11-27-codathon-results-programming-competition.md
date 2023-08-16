@@ -2,9 +2,11 @@
 title = "Codathon results, Programming Competition"
 date = "2006-11-27"
 
-[extra]
-original = "https://uwcs.co.uk/news/codathon-results-programming-competition-1474488894457/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/codathon-results-programming-competition-1474488894457/"
 +++
 
 <p>The "entries":http://warwickgamedesign.co.uk/projects/48hcompetition/ for the game coding event have been judged by FreeStyleGames and the results are as follows:<br />1. Powerstation<br />2. Neutro<br />3. Mutation<br />4. Atomz<br />5. Ponies / Dirty Bomb</p>

@@ -2,9 +2,11 @@
 title = "LAN Signups"
 date = "2010-10-31"
 
-[extra]
-original = "https://uwcs.co.uk/news/lan-signups-1474488911184/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/lan-signups-1474488911184/"
 +++
 
 Hello members\!

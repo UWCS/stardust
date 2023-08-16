@@ -2,9 +2,11 @@
 title = "Perl tutorials 2004"
 date = "2005-01-12"
 
-[extra]
-original = "https://uwcs.co.uk/news/perl-tutorials-2004-1474488888831/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/perl-tutorials-2004-1474488888831/"
 +++
 
 The perl tutorials in conjunction with cs120 are back again\!  

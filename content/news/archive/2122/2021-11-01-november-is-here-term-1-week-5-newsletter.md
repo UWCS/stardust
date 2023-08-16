@@ -2,9 +2,11 @@
 title = "November is Here! | Term 1 Week 5 Newsletter"
 date = "2021-11-01T18:00:00Z"
 
-[extra]
-original = "https://uwcs.co.uk/news/november-is-here-week-1-term-5-newsletter/"    
+[taxonomies]
 categories = ["Newsletter"]
+
+[extra]
+original = "https://uwcs.co.uk/news/november-is-here-week-1-term-5-newsletter/"
 +++
 
 <p>Week 5 has arrived, so here&#x27;s some more news for you!</p>

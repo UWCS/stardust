@@ -2,9 +2,11 @@
 title = "End of Term Paintball Event"
 date = "2007-05-20"
 
-[extra]
-original = "https://uwcs.co.uk/news/end-of-term-paintball-event-1474488898938/"    
+[taxonomies]
 categories = ["News Item"]
+
+[extra]
+original = "https://uwcs.co.uk/news/end-of-term-paintball-event-1474488898938/"
 +++
 
 The Society is looking at organising an end of term Paintballing event in conjunction with PaintballSoc. At the moment we are looking at how much interest we get from members before confirming it but initial reaction has been positive. Before we can decide how to run the event we need members to decide if they want to do a full day or a half day at the event.
