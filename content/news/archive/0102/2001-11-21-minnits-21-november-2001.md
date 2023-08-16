@@ -43,11 +43,11 @@ WRT the length of the LAN, some people felt that it was too long - however it wa
 
 ##### Bee
 
-Last LAN, Adam Chalkley didn’t turn up, having told us the night before. This LAN, Adam Chalkley didn’t turn up \`\`’cos he couldn’t be arsed’’. Jake to speak to him about this; he will be put to the bottom of the signup list for the next LAN. This kind of thing is not acceptable; if it occurs again then a ban may be in order.
+Last LAN, Adam Chalkley didn’t turn up, having told us the night before. This LAN, Adam Chalkley didn’t turn up “’cos he couldn’t be arsed”. Jake to speak to him about this; he will be put to the bottom of the signup list for the next LAN. This kind of thing is not acceptable; if it occurs again then a ban may be in order.
 
 #### Karting
 
-After hassling the rest of the exec, Henry \`\`McRae’’ Southgate managed to get a current total of 8 people on the signups for Karting. Rest of the exec to push this as much as possible.
+After hassling the rest of the exec, Henry “McRae” Southgate managed to get a current total of 8 people on the signups for Karting. Rest of the exec to push this as much as possible.
 
 We will meet at 1:00pm in Rootes Reception, to leave at 1:30, arriving to start by 2.
 

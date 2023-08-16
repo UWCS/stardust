@@ -39,7 +39,7 @@ Essentially, Java (the Tomcat/Apache combo) used up a whole load of memory, and 
 
 It’s now back up, with Tomcat and Apache unlinked. Also, the Linux kernel has been updated. This fixes the bug previously mentioned.
 
-\`\`I only start listening when you insult me, so I miss all the build-up’’
+“I only start listening when you insult me, so I miss all the build-up”
 
   - Toaster
 
@@ -49,7 +49,7 @@ Jitsu have requested an account - well, to be precise, Andy Rudnicki has. We dec
 
 #### Societies Week
 
-There’s an imaginatively titled \`\`Socs Fest’’\[1\] in Week 7. This sounds like the Societies Showcase, only bigger and longer.
+There’s an imaginatively titled “Socs Fest”\[1\] in Week 7. This sounds like the Societies Showcase, only bigger and longer.
 
 There’s a meeting on Friday in the most inconvenient time in order to discuss said showcase. Toaster may have a gap\[2\] but this cannot be a regular thing.
 
@@ -69,7 +69,7 @@ The AGM will be held at the Week 8 LAN, which will follow the same format.
 
 All the machines in the (haven’t-got-enough-)Resources Room have been downgraded to Windows 2000. In addition to this, Anne Jarvis has appeared to mutate into a Zerg, and her creep is growing rapidly. It now covers an entire wall of the room.
 
-\`\`Do you actually think forwards, Henry?’’
+“Do you actually think forwards, Henry?”
 
   - Chris Smith
 

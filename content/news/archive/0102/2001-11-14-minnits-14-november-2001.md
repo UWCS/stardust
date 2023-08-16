@@ -24,11 +24,11 @@ original = "https://uwcs.co.uk/news/minnits-14-november-2001-1474488869758/"
   - Jake Staines
   - Tom Ward
 
-\`\`We are not having elephants.’’
+“We are not having elephants.”
 
   - Henry Southgate
 
-\`\`I don’t know; it’s been a while since it was bought up, we could at least discuss it.’’
+“I don’t know; it’s been a while since it was bought up, we could at least discuss it.”
 
   - Tom Cropper
 
@@ -72,7 +72,7 @@ Chris Smith gave a receipt to Alexis for £195; he will pick up the cheque in a 
 
 Chris Smith went to see John Finnis about our CB form, and was told:
 
-\`\`It would help if you used the union more.’’
+“It would help if you used the union more.”
 
   - John Finnis
 
@@ -92,4 +92,4 @@ Jake to do posters.
 
 #### CAT 5
 
-We’re doing quite well with CAT5 sales - but we won’t buy another roll just test. Dave Apthorpe is still \`\`Busy’’; Alexis to keep chasing.
+We’re doing quite well with CAT5 sales - but we won’t buy another roll just test. Dave Apthorpe is still “Busy”; Alexis to keep chasing.

@@ -117,8 +117,8 @@ We will have another game of LQ on the Wednesday of Week 6 - Chris Smith to book
 
 #### 11\. Bowling
 
-/“Can’t you run your social life without it being Minuted?”/  
-/“No\! Not at all\!”/
+“Can’t you run your social life without it being Minuted?”  
+“No\! Not at all\!”
 
   - Chris Smith and Chris Salmon, respectively.
 

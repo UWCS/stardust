@@ -53,7 +53,7 @@ The 36-hour LAN has been planned for the weekend of Week 22 from 10 o’clock Sa
 
 #### Server / IBM
 
-Due to an overrunning meeting, Mike was unable to see Mike (Colshaw) about possible IBM sponsorship, but will continue to seek a method of approach. Ages ago, Kilgore mailed Tim Clark of ITS about the possibility of us having a box in a cupboard. No reply has of yet been received and Tom \`\`Radio Networks R Us’’ Whorley to chase him up on this. Mike offered to step down from being IBM Liason Officer, but his offer was declined by virtue of the fact that Mike C knows Mike S. That and the fact that none of the rest of us could find time in our hectic gaming lifestyles (see item 2).
+Due to an overrunning meeting, Mike was unable to see Mike (Colshaw) about possible IBM sponsorship, but will continue to seek a method of approach. Ages ago, Kilgore mailed Tim Clark of ITS about the possibility of us having a box in a cupboard. No reply has of yet been received and Tom “Radio Networks R Us” Whorley to chase him up on this. Mike offered to step down from being IBM Liason Officer, but his offer was declined by virtue of the fact that Mike C knows Mike S. That and the fact that none of the rest of us could find time in our hectic gaming lifestyles (see item 2).
 
 #### Laminator
 
@@ -61,7 +61,7 @@ Due to an overrunning meeting, Mike was unable to see Mike (Colshaw) about possi
 
 #### PHP
 
-Jake \`\`No \[clean\] Nickname’’ Staines has produced some posters, and will do some talking\[3\] about PHP in weeks 8-10. Alexis to get some HTML tutorial links and put them on the website so that (non) Compsoc members can learn some HTML, as this will be pretty fundamental to the PHP tutorials.
+Jake “No \[clean\] Nickname” Staines has produced some posters, and will do some talking\[3\] about PHP in weeks 8-10. Alexis to get some HTML tutorial links and put them on the website so that (non) Compsoc members can learn some HTML, as this will be pretty fundamental to the PHP tutorials.
 
 #### Week Nine Binge
 

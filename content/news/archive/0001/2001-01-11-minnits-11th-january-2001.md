@@ -59,7 +59,7 @@ No news\! Is this a suprise? No. Baz to mail Scan - for it was them from whence 
 
 #### 5\. PC Format
 
-/“OK - Jake to arrange for S.Q.W.A.T. team…”/ - The AntiChris gets carried away with his acronyms, upon the discussion of the storming of the mail room to recover lost back issues fo PC Format.  
+“OK - Jake to arrange for S.Q.W.A.T. team…” - The AntiChris gets carried away with his acronyms, upon the discussion of the storming of the mail room to recover lost back issues fo PC Format.  
 As it was with the PC Format subscription, so it shall be for all time. It appears that we’re not allowed to spend any money. It’s one of those universe law things. We buy a subscription to PC Format, after one issue they dissapear. We order a switch, and it looks as though the same thing’s happening. We’re cursed\! Anyhow, since we /still/ haven’t seen PC Format, Ryan is to be curt and potentially - gasp - even /rude/ to the Mailroom staff since we highly suspect that this is where our lost back issues reside. If not, we may have to hire famed archaeologist [Indiana Java](http://www.geocities.com/siliconvalley/foothills/8436/indyjava/) to dig them out for us.
 
 #### 6\. Consolesoc
@@ -104,7 +104,7 @@ Chris ‘Damn, I have to find myself one of these nickname thingies’ Smith to 
 
 #### 15\. Next Meeting
 
-1.  pm in The Bitchtank. /“Any Objections from Mike to be noted and ignored”/ - Chris ‘Nickname hunt unsuccessful’ Smith
+1.  pm in The Bitchtank. “Any Objections from Mike to be noted and ignored” - Chris ‘Nickname hunt unsuccessful’ Smith
 
 <!-- end list -->
 

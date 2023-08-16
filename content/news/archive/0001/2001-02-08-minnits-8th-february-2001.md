@@ -24,7 +24,7 @@ original = "https://uwcs.co.uk/news/minnits-8th-february-2001-1474488867757/"
 
 <!-- end list -->
 
-  - Quote of the Week\*: /“The exec reserves the right to move people around at gaming sessions”/ - Chris Salmon
+  - Quote of the Week\*: “The exec reserves the right to move people around at gaming sessions” - Chris Salmon
 
 #### Contents
 
@@ -59,8 +59,8 @@ In other news, Baz is to talk to Anne Warr (in DCS) to find out where exactly th
 
 #### 3\. Science Ball
 
-/“I told you so…”/ - Jimmie  
-/“Biggest event of the science calendar? I’d like to dispute that. The compsoc allnighter is obviously the… ”/ - Kilgore  
+“I told you so…” - Jimmie  
+“Biggest event of the science calendar? I’d like to dispute that. The compsoc allnighter is obviously the… ” - Kilgore  
 The science ball - as people may have worked out on their own - didn’t happen. It was postponed until sometime early next year. Apparently, this happened to other events as well. This does mean, of course, that we have the opportunity to vend tickets at the fresher’s fayre next year…  
 It was suggested that Ryan might send a SQWAT team to Arthur Andersen’s HQ, since they promised sponsorship and then decided that they couldn’t be arsed - however, a .5 kT nuke would be much more efficient.
 
@@ -106,7 +106,7 @@ Antichris to bring cables and switch and cards and stuff. Jake to take him, Chri
 #### 13\. Bichatse
 
 ([www.bichatse.co.uk](http://www.bichatse.co.uk\))  
-/“It is good”/ - Salmon
+“It is good” - Salmon
 
 #### 14\. Stationery
 

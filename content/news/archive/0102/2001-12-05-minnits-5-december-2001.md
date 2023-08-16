@@ -39,7 +39,7 @@ We’ll also try and get some free publicity for Compsoc.
 
 It was at this point that Tom Ward arrived, hot and flustered, as though he had run the whole hundred yards between his house and the pub.
 
-\`\`Sorry, I completely forgot it was Wednesday.’’
+“Sorry, I completely forgot it was Wednesday.”
 
   - Tom Ward
 
@@ -78,13 +78,13 @@ i10 is happening at Easter, and we’re going to make it a Compsoc event. The de
   - Clan: \[UoW\] (with brackets\!\!)
   - Area: Q3A
 
-\`\`You said the pong corner, and not the pr0n corner, right?’’
+“You said the pong corner, and not the pr0n corner, right?”
 
   - Jake Staines
 
 We’re going (unofficially) to Fade’s house the night before.
 
-\`\`You can all come to my house\!’’
+“You can all come to my house\!”
 
   - Fade
 

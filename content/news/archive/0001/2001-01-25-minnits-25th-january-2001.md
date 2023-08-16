@@ -79,7 +79,7 @@ We have a report that Kuru maliciously vandalised a Java Tutorial poster. If he 
 
 #### 10\. Science Ball
 
-/“This is going to be a big flop, isn’t it.”/ - Chris Smith  
+“This is going to be a big flop, isn’t it.” - Chris Smith  
 It transpires that due to a variety of downright eeeviil reasons, ranging from not owning the prerequisite clothing or not being able to eat anything on the menu to not being free or being completely out of money, very few - if any - of the exec will be able to get to the Science Ball. We apologise profusely to the organisers, and still recommend it as a great night out for all our members.
 
 #### 11\. CS Ladder

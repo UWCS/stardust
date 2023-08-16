@@ -37,13 +37,13 @@ original = "https://uwcs.co.uk/news/minnits-24th-november-2000-1474488867027/"
 
 #### 1\. Minnit Content
 
-/“This is all my fault”/ - Chris Salmon  
+“This is all my fault” - Chris Salmon  
 The minutes should, in future,
 
   - be Less Terse (if possible)
   - focus the decision making progress (if plausible)  
     and
-  - /“Fun comes **after** the minutes”/ - Chris Salmon (if palatable)
+  - “Fun comes **after** the minutes” - Chris Salmon (if palatable)
   - The numbering shall henceforth be in hexadecimal, to make it easier for Jake to type up.  
     These obviously apply more to the meetings themselves and how they should adhere to the ideals of the minnits, and therefore the minnitkeeper himself is no way to fault in the aforeshadowed problems.
 

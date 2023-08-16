@@ -24,7 +24,7 @@ original = "https://uwcs.co.uk/news/minnits-7-november-2001-1474488869534/"
   - Henry Southgate
   - Tom Ward
 
-Before starting the meeting, various members of the exec familiarised themselves with the term \`\`moebius’’, with regards to Jake’s onion ring.
+Before starting the meeting, various members of the exec familiarised themselves with the term “moebius”, with regards to Jake’s onion ring.
 
 #### Molotov
 
@@ -84,7 +84,7 @@ The website is not ready to go yet; by Monday it should be OK. The menus aren’
 
 #### CAT 5
 
-We’re doing quite well with CAT5 sales - David Apthorpe is \`\`Busy’’; Alexis to keep chasing.
+We’re doing quite well with CAT5 sales - David Apthorpe is “Busy”; Alexis to keep chasing.
 
 We’ve sold more cable to Stuart and Toaster; this is a good thing.
 

@@ -59,12 +59,12 @@ Meanwhile, Kilgore to look out for Smaller coldseal thingies so someone doesn’
 
 #### 5\. Recruitright
 
-/“It’s a non-point”/ - Senõr Spielbergo
+“It’s a non-point” - Senõr Spielbergo
 
 #### 6\. Email List
 
-/“I haven’t had it yet”/ /“No, it doesn’t look like you have.”/ - Kilgore and a Waitress.  
-/“I am immune to temperature”/ - Richard ‘Toaster’ Colfer  
+“I haven’t had it yet” “No, it doesn’t look like you have.” - Kilgore and a Waitress.  
+“I am immune to temperature” - Richard ‘Toaster’ Colfer  
 The new members of the exec have now been added to the dreaded Compsoc-Exec email list, meaning that they get spammed with crap every time Chris is feeling depressed.
 
 #### 7\. Pub

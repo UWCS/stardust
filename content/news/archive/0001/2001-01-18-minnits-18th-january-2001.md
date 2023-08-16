@@ -44,12 +44,12 @@ The order for the switch has actually really been faxed now. We wait, but we don
 
 #### 2\. Java
 
-/“I could extend it to more weeks, or do another slot in the week - I don’t mind”/ - Chris ‘Kilgore’ Salmon  
+“I could extend it to more weeks, or do another slot in the week - I don’t mind” - Chris ‘Kilgore’ Salmon  
 Posters have been duped and stuck up all over campus. Kilgore is still writing the scripts. Chris, Chris and Jake to turn up in case any help is needed of a strictly administrative non-Java-orientated nature.
 
 #### 3\. LAN
 
-/“No no, that would be Wrong.”/ - Chris Smith  
+“No no, that would be Wrong.” - Chris Smith  
 Still, of course, awaiting confirmation of the LAN party room booking. Jake to mail members suggesting preliminary times of 10am to 8pm, since we /think/ those are the times we asked for. Phil to set the limit on the website to 40 people.
 
 #### 4\. Allnighter
@@ -62,7 +62,7 @@ We have had no response from any of our probing questions. Chris ‘I volunteer 
 
 #### 6\. Science Ball
 
-/“All those who don’t know about the free beer - have a sweet”/ - Baz ‘Grin’ Boden  
+“All those who don’t know about the free beer - have a sweet” - Baz ‘Grin’ Boden  
 Tickets go on sale Monday. Everything is shaping up quite nicely, apparently. Ryan /still/ does too much /stuff/.
 
 #### 7\. PC Format

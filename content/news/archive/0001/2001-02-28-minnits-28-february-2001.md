@@ -54,7 +54,7 @@ An email was sent to Jim the Banana, as detailed in last week’s minnits. As of
 
 #### Interval
 
-Here, we went to Laserquest and had a jolly good laugh killing people we didn’t know, as someone forgot to book out the arena. On the way out of LQ, we were stopped by a policeman, who had barricaded a road with his car, and asked where we were headed. \`\`To the car park’‘, we replied. \`\`OK’,’’ he said. \`\`That’ll be the carpark next to the Post Office that’s had the bomb warning then, will it?’’ After escaping with the skin of their teeth from the Roundabout of Doom, we rejoin our intrepid adventurers in the City Arms, Earlsdon, where Jake is teaching people party tricks.
+Here, we went to Laserquest and had a jolly good laugh killing people we didn’t know, as someone forgot to book out the arena. On the way out of LQ, we were stopped by a policeman, who had barricaded a road with his car, and asked where we were headed. “To the car park”, we replied. “OK’,” he said. “That’ll be the carpark next to the Post Office that’s had the bomb warning then, will it?” After escaping with the skin of their teeth from the Roundabout of Doom, we rejoin our intrepid adventurers in the City Arms, Earlsdon, where Jake is teaching people party tricks.
 
 #### Jake’s Eye Thing
 
@@ -70,11 +70,11 @@ Unfortunately, Chris and Chris again forgot to look at things. To do again.
 
 #### LaserQuest
 
-Although LaserQuest was cool, we (read: Nutsy) must book out the arena completely next time, as having people in there that you don’t know is really annoying. As are the camping cheating turtles who sit in corners and cover their packs \[2\]. Three games were played; a friendly fire team game, a solo game and a safe team game. According to Jake, the middle one should have been another team game, but Matt Stewart-Smith \`\`quite liked it’’. So there.
+Although LaserQuest was cool, we (read: Nutsy) must book out the arena completely next time, as having people in there that you don’t know is really annoying. As are the camping cheating turtles who sit in corners and cover their packs \[2\]. Three games were played; a friendly fire team game, a solo game and a safe team game. According to Jake, the middle one should have been another team game, but Matt Stewart-Smith “quite liked it”. So there.
 
 #### CounterStrike
 
-After much baying and \`\`Please put 7.1 back on, it’s sooo much better’’-ing, the l33t cs p05533 realised just how wrong they had been, and have begged the gaming administration to restore CS1.0. The grass is always greener, guys.
+After much baying and “Please put 7.1 back on, it’s sooo much better”-ing, the l33t cs p05533 realised just how wrong they had been, and have begged the gaming administration to restore CS1.0. The grass is always greener, guys.
 
 #### Next Meeting
 
@@ -86,7 +86,7 @@ Henry to look at the possibility of Compsoc jumpers (in the vein of the sports s
 
 #### Disclaimer
 
-It should be pointed out that here, most of the members went home. A few (Henry, Jake, Kilgore, Matt, Tom Ward, Alexis and Nutsy) went to Airport to drink some free Guinness and watch England thump Spain\[4\]. It was while your ever-labouring secretary was at the bar buying a worse-for-wear president \[5\], Tom, and a few others some free Guinness, that his Jingly Notebook of Doom fell into the Hands of Evil\[6\]. Said hands of evil then went through these minnits and changed, in green pen, all of the names to \`\`Henry’’ before adding an item \`\`Petty Cash: We need to give it all to Jake’’. Sadly the motion was defeated and so he will remain penniless. Hah. It is not known where next the notebook went; suffice to say that the next addtion was not in the hand of el President’e, and was inscribed in blue ink. Thus it must be included in the minnits.
+It should be pointed out that here, most of the members went home. A few (Henry, Jake, Kilgore, Matt, Tom Ward, Alexis and Nutsy) went to Airport to drink some free Guinness and watch England thump Spain\[4\]. It was while your ever-labouring secretary was at the bar buying a worse-for-wear president \[5\], Tom, and a few others some free Guinness, that his Jingly Notebook of Doom fell into the Hands of Evil\[6\]. Said hands of evil then went through these minnits and changed, in green pen, all of the names to “Henry” before adding an item “Petty Cash: We need to give it all to Jake”. Sadly the motion was defeated and so he will remain penniless. Hah. It is not known where next the notebook went; suffice to say that the next addtion was not in the hand of el President’e, and was inscribed in blue ink. Thus it must be included in the minnits.
 
 #### Marketing
 
