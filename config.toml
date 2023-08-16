@@ -21,6 +21,9 @@ taxonomies = [
 highlight_code = true
 highlight_theme = "css"
 
+[slugify]
+paths_keep_dates = true
+
 [extra]
 # Put all your custom variables here
 
