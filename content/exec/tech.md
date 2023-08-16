@@ -1,6 +1,7 @@
 +++
 title = "Tech Officers"
 weight = 7
+date = "1970-01-01"
 
 [extra]
 people = ["Joel Coulon", "Alex Wright", "Adam Skrzymowski", "Josh Heng"]

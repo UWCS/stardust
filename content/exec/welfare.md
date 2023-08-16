@@ -1,6 +1,7 @@
 +++
 title = "Welfare Officer"
 weight = 9
+date = "1970-01-01"
 
 [extra]
 people = ["?"]

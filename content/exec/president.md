@@ -1,6 +1,7 @@
 +++
 title = "President"
 weight = 1
+date = "1970-01-01"
 
 [extra]
 people = ["Matthew Knight"]

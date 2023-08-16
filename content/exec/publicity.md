@@ -1,6 +1,7 @@
 +++
 title = "Publicity Officers"
 weight = 8
+date = "1970-01-01"
 
 [extra]
 people = ["Oliver Cordeaux", "Henry Gao"]

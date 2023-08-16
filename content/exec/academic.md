@@ -1,6 +1,7 @@
 +++
 title = "Academic Coordinators"
 weight = 4
+date = "1970-01-01"
 
 [extra]
 people = ["Alia Meek", "Edmund Goodman", "Gareth Ma"]

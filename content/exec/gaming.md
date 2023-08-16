@@ -1,6 +1,7 @@
 +++
 title = "Gaming Coordinators"
 weight = 5
+date = "1970-01-01"
 
 [extra]
 people = ["Joshua Rawlings", "Samit Awal"," Lewis Parry"]

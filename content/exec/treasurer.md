@@ -1,6 +1,7 @@
 +++
 title = "Treasurers"
 weight = 3
+date = "1970-01-01"
 
 [extra]
 people = ["Joshua Fitzmaurice", "Icen Zeyada"]

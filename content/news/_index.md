@@ -3,6 +3,7 @@ title = "News"
 weight = 1
 sort_by = "date"
 paginate_by = 5
+generate_feed = true
 +++
 
 Get your society news for this academic year!
