@@ -51,8 +51,7 @@ BFL: Tuesday 8pm - Thursday 8pm, Lib1 AND Lib2
 
 That’s about it for now. We hope to see you some time next week… but otherwise, have a great summer\!
 
-  - \-
-  - H
+\-- H
 
 President, The University of Warwick Computing Society  
 http://www.warwickcompsoc.co.uk

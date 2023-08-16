@@ -91,8 +91,7 @@ So, that’s it for this newsletter. I’d advise everyone to subscribe to the n
 
 We hope to see most of you sometime this week, at one of our many events. Have fun\!
 
-  - \-  
-    Henry Southgate
+\-- Henry Southgate
 
 Secretary, University of Warwick Computing Society  
 http://www.warwick.ac.uk/compsoc/

@@ -81,8 +81,7 @@ Just a final note to say that Compsoc is run for the benefit of our members, and
 
 Look forward to seeing you all on Friday\!
 
-  -   
-    David de la Motte
+\-- David de la Motte
 
 Secretary, University of Warwick Computing Society  
 http://www.warwickcompsoc.co.uk  

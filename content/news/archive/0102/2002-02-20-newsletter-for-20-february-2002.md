@@ -107,8 +107,7 @@ For all lengths from 1m-100m, just mail cat5@warwickcompsoc.co.uk and we’ll so
 
 That’s about it for now. As always, if you’ve got any comments please e-mail them to us (exec@Warwickcompsoc.co.uk), and we’ll delegate them to the new exec ;)
 
-  - \-  
-    TTFN
+\-- TTFN
 
 Cheers
 

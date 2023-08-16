@@ -92,8 +92,7 @@ Please come along and join in the chat.
 
 Anyways, that’s it for now. Hope to see you all at Karting, s4 or Gaming; until then TTFN.
 
-  - \-  
-    Henry
+\-- Henry
 
 Secretary,  
 The University of Warwick Computing Society  

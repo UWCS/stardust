@@ -161,8 +161,7 @@ Mail cat5@warwickcompsoc.co.uk with your requests, and we’ll sort you out ASAP
 
 Anyways, that’s it for this newsletter. Have a load of fun, and we hope to see you at a social event soon\!
 
-  - \-  
-    H
+\-- H
 
 Secretary, University of Warwick Computing Society  
 http://www.warwick.ac.uk/compsoc/

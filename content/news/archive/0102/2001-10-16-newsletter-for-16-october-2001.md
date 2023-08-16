@@ -59,8 +59,7 @@ For more details please e-mail compsoc@warwick.ac.uk, and we’ll be happy to so
 
 Anyways, that’s it for now. I hope to see you all tonight in South Centreal, but if not then at one of our many events coming soon\!
 
-  - \-
-  - H
+\-- H
 
 Secretary, University of Warwick Computing Society  
 http://www.warwick.ac.uk/compsoc/

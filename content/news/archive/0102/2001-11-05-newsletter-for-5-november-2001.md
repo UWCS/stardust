@@ -84,8 +84,7 @@ Cables are made to fit any size you require, and are available as “normal” p
 
 That’s it for this newsletter. Take care of yourselves, and we hope to see you at an event soon\!
 
-  - \-  
-    Henry
+\-- Henry
 
 Secretary, University of Warwick Computing Society  
 http://www.warwick.ac.uk/compsoc/

@@ -45,8 +45,7 @@ Our website has recently switched over to being password driven, which should ex
 
 That’s it from me for now and remember that if you have any questions just drop us an e-mail at exec@warwickcompsoc.co.uk. We’ll be glad to hear from you.
 
-  - \-  
-    David de la Motte
+\-- David de la Motte
 
 Secretary  
 The University of Warwick Computing Society  

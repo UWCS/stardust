@@ -65,8 +65,7 @@ Hence, for example a 20m cable would cost &£0.50 + &£5.00 + &£4.00 = &£9.50
 
 Well, that’s it for now. Enjoy as much of the Summer sun as possible and don’t work too hard.
 
-  - \-  
-    Dave de la Motte
+\-- Dave de la Motte
 
 Secretary
 

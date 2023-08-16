@@ -60,8 +60,7 @@ That’s it for now. Look out for the next newsletter which will include details
 
 Have Fun,
 
-  - \-
-  - H  
+\-- H  
     Secretary  
     University of Warwick Computing Society  
     http://www.warwick.ac.uk/compsoc/

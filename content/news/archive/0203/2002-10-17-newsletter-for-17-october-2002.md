@@ -43,8 +43,7 @@ We also want to let you know that we regularly meet in Earlsdon at The City Arms
 
 Also just a quick note that due to the LAN there will be no gaming in ITS on Saturday night, but it will go ahead on Friday as usual.
 
-  - \-  
-    Cheers\!
+\-- Cheers\!
 
 David de la Motte
 
