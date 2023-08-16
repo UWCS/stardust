@@ -1,16 +1,20 @@
 
 {% macro room_link(name) %}
-{% set namemap = load_data(path="templates/macros/custom-room-mapnames.json", format="json") %}
+{% if config.extra.room_links %}
+  {% set namemap = load_data(path="templates/macros/custom-room-mapnames.json", format="json") %}
 
-{% set orig_name = name %}
-{% set name = name | lower | replace(from=".", to="") | trim %}
-{% set name = namemap[name] | default(value=name) %}
-{% set url = "https://hub.smartne.com/api/store/projects/warwick/live/locations/search/" ~ name ~"?limit=1&fields=name,displayName,parent,floor,extRef" %}
-{% set data = load_data(url=url, format="json", headers=["Authorization=Token 626629bcd5c05c5269b48ccb"]) %}
+  {% set orig_name = name %}
+  {% set name = name | lower | replace(from=".", to="") | trim %}
+  {% set name = namemap[name] | default(value=name) %}
+  {% set url = "https://hub.smartne.com/api/store/projects/warwick/live/locations/search/" ~ name ~"?limit=1&fields=name,displayName,parent,floor,extRef" %}
+  {% set data = load_data(url=url, format="json", headers=["Authorization=Token 626629bcd5c05c5269b48ccb"]) %}
 
-{% if data %}
-  {% set map_url = "https://campus.warwick.ac.uk/?slid=" ~ data[0].extRef.id %}
-  <a href="{{ map_url | safe }}" target="_blank">{{ orig_name }}</a>
+  {% if data %}
+    {% set map_url = "https://campus.warwick.ac.uk/?slid=" ~ data[0].extRef.id %}
+    <a href="{{ map_url | safe }}" target="_blank">{{ orig_name }}</a>
+  {% else %}
+    {{ orig_name }}
+  {% endif %}
 {% else %}
   {{ orig_name }}
 {% endif %}

@@ -30,3 +30,4 @@ paths_keep_dates = true
 repo = "uwcs/new-site"
 cms_auth_url = "https://cms-auth.containers.uwcs.co.uk"
 academic_year = "22/23"
+room_links = true

@@ -14,6 +14,7 @@
   <i class="bi bi-geo-alt"></i>
   {% if resource.extra.location %}
     {% if resource.extra.location_url %}<a href="{{ resource.extra.location_url }}" target="_blank">{{ resource.extra.location }}</a>
+    {% elif resource.components is containing("archive") %}  {{ resource.extra.location }}
     {% else %} {{ rooms::room_link(name=resource.extra.location) }}
     {% endif %}
   {% endif %}

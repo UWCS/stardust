@@ -5,12 +5,14 @@
 {{ super() }}
 <link rel="stylesheet" href="{{ config.base_url | safe }}/icon-packs/phosphor-bold.css">
 <style>
+@media (max-width: 992px) {
   #main {
     flex-direction: column !important;
   }
   #content, #sidebar {
     width: 100%;
   }
+}
 </style>
 {% endblock head %}
 
