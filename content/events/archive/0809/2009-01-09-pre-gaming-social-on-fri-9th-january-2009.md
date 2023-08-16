@@ -1,0 +1,12 @@
++++
+title = "Pre-Gaming Social on Fri 9th January 2009"
+date = "2009-01-09T18:15:00Z"
+
+[extra]
+original = "https://uwcs.co.uk/events/pre-gaming-social-on-fri-9th-january-2009-1474489017601/"    
+end = "2009-01-09T20:00:00Z"
+location = "Cholo"
++++
+
+Always check IRC for more info. :)
+
