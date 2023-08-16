@@ -1,5 +1,5 @@
 +++
-title = "Academic Talk: "The ups and downs of building a payments API""
+title = "Academic Talk: \"The ups and downs of building a payments API\""
 date = "2018-10-30T17:00:00Z"
 
 [extra]

@@ -1,6 +1,6 @@
 +++
 title = "Events 06/07"
-weight = 06
+weight = 6
 sort_by = "date"
 paginate_by = 5
 +++

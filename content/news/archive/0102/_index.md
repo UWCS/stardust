@@ -1,6 +1,6 @@
 +++
 title = "News 01/02"
-weight = 01
+weight = 1
 sort_by = "date"
 paginate_by = 5
 +++
