@@ -30,7 +30,9 @@
     {% for role in section.pages %}
     <tr>
       <td>
+        {% if role.title != "Welfare Officer" %}
         <div class="icon baseline"><img src="{{ config.base_url | safe }}/assets/exec-icons/{{ role.slug }}.svg"></div>
+        {% endif %}
         {{ role.title }}
       </td>
       <td>
