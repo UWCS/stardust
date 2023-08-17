@@ -1,36 +1,44 @@
 {% extends "page.html" %}
 {% import "macros/rooms.html" as rooms %}
-
+{% import "macros/formatters.html" as formatters %}
+{% block header %}{% endblock %}
 {% block content %}
-<blockquote>
-<h4>
-  <i class="bi bi-clock"></i>
-  {% if resource.extra.time %} {{ resource.extra.time }}
-  {% elif resource.date | date(format="%H:%M") != "00:00" %} {{ resource.date | date(format="%I:%M%P") }}
-  {% endif %}
-  {{ resource.date | date(format="%a %d %h") }}
-</h4>
-<h4>
-  <i class="bi bi-geo-alt"></i>
-  {% if resource.extra.location %}
-    {% if resource.extra.location_url %}<a href="{{ resource.extra.location_url }}" target="_blank">{{ resource.extra.location }}</a>
-    {% elif resource.components is containing("archive") %}  {{ resource.extra.location }}
-    {% else %} {{ rooms::room_link(name=resource.extra.location) }}
-    {% endif %}
-  {% endif %}
-</h4>
-</blockquote>
-{% if resource.taxonomies %}
-  {% for tax, terms in resource.taxonomies %}
-    {% for term in terms %}
-    <a class="badge bg-secondary text-decoration-none ms-1" 
-      href="{{ config.base_url | safe }}/{{ tax | slugify }}/{{ term | slugify }}">
-    {{ term  }} 
-    </a>
-    {% endfor %}
-  {% endfor %}
-{% endif %}
 
-<hr>
-{{ resource.content | safe}}
+<div class="card col-lg">
+  <div class="card-body">
+    <h1 class="card-title two-line-clamp">{{ page.title }}</h1>
+    
+    {% if resource.taxonomies %}
+    {% for tax, terms in resource.taxonomies %}
+      {% for term in terms %}
+      <a class="badge bg-secondary text-decoration-none ms-1" 
+        href="{{ config.base_url | safe }}/{{ tax | slugify }}/{{ term | slugify }}">
+      {{ term  }} 
+      </a>
+      {% endfor %}
+    {% endfor %}
+    {% endif %}
+
+    <h4>
+      <i class="bi bi-clock"></i>
+      {% if resource.extra.time %} {{ resource.extra.time }}
+      {% else %} {{ formatters::time(time=resource.date) }}
+      {% endif %}
+      {{ formatters::date(date=resource.date) }}
+    </h4>
+    <h4>
+      <i class="bi bi-geo-alt"></i>
+      {% if resource.extra.location %}
+        {% if resource.extra.location_url %}<a href="{{ resource.extra.location_url }}" target="_blank">{{ resource.extra.location }}</a>
+        {% elif resource.components is containing("archive") %}  {{ resource.extra.location }}
+        {% else %} {{ rooms::room_link(name=resource.extra.location) }}
+        {% endif %}
+      {% endif %}
+    </h4>
+  </div>
+</div>
+
+<div class="m-3">
+  {{ resource.content | safe}}
+</div>
 {% endblock content%}
