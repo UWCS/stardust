@@ -1,3 +1,6 @@
+
+{% import "macros/formatters.html" as formatters %}
+
 {% macro event_circle(e) %}
 <a href="{{ e.permalink }}" class="text-decoration-none">
 <div class="event-circle mt-0" style="background-color: {{ e.extra.colour }}" data-bs-theme="dark">
@@ -12,8 +15,9 @@
 <span class="event-extras">
   {{ e.extra.location }}<br>
   {% if e.extra.time %} {{ e.extra.time }}
-  {% elif e.date | date(format="%H:%M") != "00:00" %} {{ e.date | date(format="%I:%M%P") }}
+  {% else %} {{ formatters::time(time=e.date) }}
   {% endif %}
+  {{ formatters::date(date=e.date) }}
 </span>
 </div>
 </a>
