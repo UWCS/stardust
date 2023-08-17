@@ -88,6 +88,8 @@ The basic structure of the project is explained in [Zola's docs](https://www.get
 - Will attempt to search for locations on the uni map for non-archived events
 - Provide an `extra.location_url` for an event to set a custom one
 - Or disable entirely by setting `room_links` to `false` in `config.yml`
+    - Must be done if build env doesn't have internet access
+- Set alternate room names in `macros/custom-room-mapnames.json`
 
 ### Events
 - A truly horrifying macro nest. It does a lot tho

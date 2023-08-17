@@ -10,9 +10,9 @@ build_search_index = false
 theme = "uwcs"
 
 taxonomies = [
-    { name = "terms", paginate_by = 5, feed = true},
-    { name = "categories", paginate_by = 5, feed = true},
-    { name = "tags", paginate_by = 5, feed = true},
+    { name = "terms", paginate_by = 20, feed = true},
+    { name = "categories", paginate_by = 20, feed = true},
+    { name = "tags", paginate_by = 20, feed = true},
 ]
 
 [markdown]
