@@ -48,7 +48,7 @@
   {% if date %}
     <h4 class="fw-semibold">{{ date | date(format="%A") }}</h4>
   {% endif %}
-  <div class="day d-flex flex-row flex-wrap-1">
+  <div class="day">
     {% for e in events %}
       {{ events::event_circle(e=e) }}
     {% endfor %}
