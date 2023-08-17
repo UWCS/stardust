@@ -2,7 +2,7 @@
 title = "News 20/21"
 weight = 20
 sort_by = "date"
-paginate_by = 5
+paginate_by = 20
 +++
 
 News from 20/21!
