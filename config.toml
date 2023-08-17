@@ -15,6 +15,8 @@ taxonomies = [
     { name = "tags", paginate_by = 20, feed = true},
 ]
 
+# ignored_content = ["**/archive/*"]
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola

@@ -11,6 +11,8 @@ The new, improved and, most importantly, simplified website for the 23/24 academ
     - Or `zola build` to make the static version (I've found this slightly less buggy)
     - Use `python3 -m http.server --directory public 1111` and add `zola build --base-url http://127.0.0.1:1111` to preview the built version
 
+When working on a local version, I recommend uncommenting `ignored_content = ["**/archive/*"]` in `config.toml`, but DO NOT COMMIT THIS.
+
 ## Editor Usage
 
 Best way is to run a copy locally and use an editor like VS Code to edit content and push changes to GitHub. This should be straight forward. Alternatively (e.g. if you are on mobile), try the slightly janky CMS at https://new.uwcs.co.uk/admin/ . It should allow editing of the important bits of news and events, though deeper customisation is unavailable. You need to login to it with GitHub, and it will automatically make a commit for you when you save a change.
