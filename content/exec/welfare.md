@@ -4,8 +4,8 @@ weight = 9
 date = "1970-01-01"
 
 [extra]
-people = ["?"]
-discords = []
+people = ["Alia Meek"]
+discords = ["@alimmeek"]
 email = "welfare@uwcs.co.uk"
 +++
 

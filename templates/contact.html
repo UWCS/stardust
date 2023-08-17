@@ -39,7 +39,7 @@
         <br><i class="bi bi-discord"></i><span class="">
           {% for dc in role.extra.discords %}
           {% if not loop.first %}, {% endif %}
-          <code class="discord c2clip">{{ dc }}</a></code>
+          <code class="discord c2clip">{{ dc }}</code>
           {% endfor %}
         </span>
         {% endif %}
@@ -56,6 +56,20 @@
 <style>
   code.discord {
     cursor: pointer;
+  }
+
+  @media screen and (max-width: 487px) {
+    thead {
+      display: none;
+    }
+
+    table tr>* {
+      display: block;
+    }
+
+    table tr {
+      display: block;
+    }
   }
 </style>
 
