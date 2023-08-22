@@ -13,7 +13,7 @@
 
 {{ section.content | safe}}
 
-<table class="table table-striped">
+<table class="table table-striped exec-table">
   <thead>
     <tr>
       <th>Role</th>
@@ -23,7 +23,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><i>Exec</i></td>
+      <td>
+        <div class="icon baseline"><img src="{{ config.base_url | safe }}/assets/exec-icons/all.svg"></div>
+        <i>Exec</i>
+      </td>
       <td><i>All Exec</i></td>
       <td><a href="mailto:exec@uwcs.co.uk"><i>exec@uwcs.co.uk</i></a></td>
     </tr>
@@ -39,7 +42,7 @@
         <br><i class="bi bi-discord"></i><span class="">
           {% for dc in role.extra.discords %}
           {% if not loop.first %}, {% endif %}
-          <code class="discord c2clip">{{ dc }}</a></code>
+          <code class="discord c2clip">{{ dc }}</code>
           {% endfor %}
         </span>
         {% endif %}
