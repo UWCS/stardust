@@ -13,7 +13,7 @@
 
 {{ section.content | safe}}
 
-<table class="table table-striped">
+<table class="table table-striped exec-table">
   <thead>
     <tr>
       <th>Role</th>
@@ -23,16 +23,17 @@
   </thead>
   <tbody>
     <tr>
-      <td><i>Exec</i></td>
+      <td>
+        <div class="icon baseline"><img src="{{ config.base_url | safe }}/assets/exec-icons/all.svg"></div>
+        <i>Exec</i>
+      </td>
       <td><i>All Exec</i></td>
       <td><a href="mailto:exec@uwcs.co.uk"><i>exec@uwcs.co.uk</i></a></td>
     </tr>
     {% for role in section.pages %}
     <tr>
       <td>
-        {% if role.title != "Welfare Officer" %}
         <div class="icon baseline"><img src="{{ config.base_url | safe }}/assets/exec-icons/{{ role.slug }}.svg"></div>
-        {% endif %}
         {{ role.title }}
       </td>
       <td>
@@ -58,20 +59,6 @@
 <style>
   code.discord {
     cursor: pointer;
-  }
-
-  @media screen and (max-width: 487px) {
-    thead {
-      display: none;
-    }
-
-    table tr>* {
-      display: block;
-    }
-
-    table tr {
-      display: block;
-    }
   }
 </style>
 
