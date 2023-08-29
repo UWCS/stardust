@@ -70,13 +70,6 @@ Variables:
 {% set term_start_week = 0 %}
 {% set days_events = [] %}
 
-{% set pos = [0, 0] %}
-{% set grid = [] %}
-{% for i in range(start=0, end=10) %}
-  {% set_global grid = grid | concat(with=[-1, -1, -1]) %}
-{% endfor %}
-{% set cols = 3 %}
-
 {# Output each event #}
 {% for e in section.pages | reverse %}
 
@@ -84,7 +77,7 @@ Variables:
   {% if e_day != prev_day %}
     {# Output previous day's content #}
     {% if days_events %}
-      {{ events::day(events=days_events, pos=pos, grid=grid, cols=cols) }}
+      {{ events::day(events=days_events) }}
       {% set_global days_events = [] %}
       {% set_global started = true %}
     {% endif %}
@@ -101,12 +94,6 @@ Variables:
     
     {# If different week from last, end current week's list then start new #}
     {% if e_week != prev_week_number %}
-      {% set_global pos = [0, 0] %}
-      {% set_global grid = [] %}
-      {% for i in range(start=0, end=10) %}
-        {% set_global grid = grid | concat(with=[-1, -1, -1]) %}
-      {% endfor %}
-
       {% for w in data.weeks | slice(start=prev_week_index, end=end_week_index+1) %}
         {% if loop.index == end_week_index %}{{ throw(message="Event outside of term weeks") }}{% endif %}
         

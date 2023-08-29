@@ -1,6 +1,5 @@
 
 {% import "macros/formatters.html" as formatters %}
-{% import "macros/pack.html" as pack %}
 
 {% macro event_circle(e) %}
 <a href="{{ e.permalink }}" class="text-decoration-none">
@@ -43,9 +42,9 @@
 <div class="events d-grid">
 {% endmacro %}
 
-{% macro day(events, pos, grid, cols) %}
+{% macro day(events) %}
   {% set date = events[0].date %}
-<div class="event-outer bg-body rounded-4 text-center text-white {{ pack::pack(day_events=events, pos=pos, grid=grid, cols=cols) }}" data-event-count="{{ events | length }}">
+<div class="event-outer bg-body rounded-4 text-center text-white" data-event-count="{{ events | length }}">
   {% if date %}
     <h4 class="fw-semibold">{{ date | date(format="%A") }}</h4>
   {% endif %}
