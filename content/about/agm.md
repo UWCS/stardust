@@ -1,5 +1,6 @@
 +++
 title = "AGM & Elections"
+weight = 30
 +++
 
 > Whether you've been linked to this page or stumbled into it, the first thing I'd like to say is that I'm sorry. All of the information you'll ever need to know about the AGM/Elections, and more, is contained on this page. Not all of it will be relevant to you, and we'll try not to get too bogged down in edge cases, but do be aware this isn't a smooth read. - Keegan

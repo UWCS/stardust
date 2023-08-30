@@ -1,6 +1,7 @@
 +++
 title = "About"
 weight = 4
+sort_by = "weight"
 +++
 
 {% note(type="info") %}

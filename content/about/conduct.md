@@ -1,5 +1,6 @@
 +++
 title = "Code of Conduct"
+weight = 20
 +++
 
 Be sure to follow our Code of Conduct on our Discord, on any of our other public platforms, and at our events!

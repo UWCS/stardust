@@ -1,5 +1,6 @@
 +++
 title = "LAN Information"
+weight = 100
 +++
 
 An FAQ on our LAN Parties
