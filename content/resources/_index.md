@@ -11,7 +11,7 @@ This page is a hub for most of our academic resources. Some are listed below, an
 
 # Courses
 
-### [Rust](https://rs118.uwcs.co.uk) (Term 1, Weeks 2-5)
+### [Rust](https://rs118.uwcs.co.uk) (Not running 23/24)
 
 Supported by a grant from the Rust foundation, this four-week course introduces Rust to those already familiar with another programming language. Throughout the course, you'll be developing some cool projects - starting with Tic-Tac-Toe in the command line, then writing a Chip-8 Interpreter, before finishing off with a Graphics Raytracing project. Runs in Term 1!
 
