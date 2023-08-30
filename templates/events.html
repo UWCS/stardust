@@ -139,4 +139,83 @@ Variables:
 {{ events::end_week() }}
 {{ events::end_term() }}
 
+<script>
+  combs = {
+    1: [[1, 1]],
+    2: [[2, 1], [1, 2]],
+    3: [[3, 1], [2, 2], [1, 3]],
+    4: [[2, 2]],
+    5: [[3, 2], [2, 3]],
+    6: [[3, 2], [2, 3]],
+  }
+
+  function next_cell(loc, shift = 1) {
+    loc[0] += shift;
+    if (loc[0] >= cols) {
+      loc[0] = 0;
+      loc[1] += 1;
+    }
+  }
+
+  function pack(i, grid, day, loc, cols) {
+    if (day.dataset.eventCount > 6) return `day-${cols}-1x${cols}`;
+    layouts = combs[day.dataset.eventCount];
+    for (var dim of layouts) {
+      console.log(`Trying ${dim}, ${loc}`);
+      if (fits(dim, loc, grid, cols)) {
+        set_region(i, dim, loc, grid);
+        return `day-${cols}-${dim[0]}x${dim[1]}`;
+      }
+    }
+    return undefined;
+  }
+
+  function fits(dim, loc, grid, cols) {
+    if (loc[0] + dim[0] > cols) return false;
+
+    for (let y = loc[1]; y < loc[1] + dim[1]; y++) {
+      if (y >= grid.length) continue;
+      for (let x = loc[0]; x < loc[0] + dim[0]; x++) {
+        if (grid[y][x] != -1) return false;
+      }
+    }
+    console.log("Fits");
+    return true;
+  }
+
+  function set_region(i, dim, loc, grid) {
+    console.log("Filling");
+    for (let y = loc[1]; y < loc[1] + dim[1]; y++) {
+      if (y >= grid.length) grid.push(Array.from({ length: cols }, () => -1));
+      for (let x = loc[0]; x < loc[0] + dim[0]; x++) {
+
+        console.log("Filling", x, y, i);
+        grid[y][x] = i;
+      }
+    }
+    next_cell(loc, dim[0]);
+  }
+
+  var week_events = document.getElementsByClassName("events");
+  for (var week of week_events) {
+    for (var cols of [2, 3]) {
+      var grid = Array.from({ length: 3 }, () => Array.from({ length: cols }, () => -1));
+      var pos = [0, 0];
+      console.log(`ecols ${cols}`);
+      for (const [i, day] of Array.prototype.entries.call(week.children)) {
+        console.log(i, day.dataset.eventCount);
+        while (true) {
+          let p = pack(i, grid, day, pos, cols);
+          if (!p) next_cell(pos);
+          else {
+            day.classList.add(p);
+            break
+          }
+        }
+        console.log(grid);
+      }
+    }
+  }
+</script>
+
 {% endblock %}
