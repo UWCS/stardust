@@ -11,7 +11,7 @@
     {% if resource.taxonomies %}
     {% for tax, terms in resource.taxonomies %}
       {% for term in terms %}
-      <a class="badge bg-secondary text-decoration-none ms-1" 
+      <a class="badge bg-secondary text-decoration-none ms-1 mb-3" 
         href="{{ config.base_url | safe }}/{{ tax | slugify }}/{{ term | slugify }}">
       {{ term  }} 
       </a>
