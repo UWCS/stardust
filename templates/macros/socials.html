@@ -1,0 +1,37 @@
+
+{% macro block_social(title, link, body, social="", img="") %}
+{# 
+  Frontpage parts with a social media icon and text
+  Arguments:
+      title: Name of social media
+      link: Link to UWCS at the social
+      social: Bootstrap Icons name for the social's icon (https://icons.getbootstrap.com)
+      img: If a custom SVG is needed instead, give a link here
+  **Give exactly one of social or img**
+#}
+<a class="d-table-cell block link-body-emphasis text-decoration-none col flex-grow-0 mx-lg-0" href="{{ link }}">
+<div id="social" class="hstack gap-3 p-3 rounded-4 bg-body-secondary text-body-emphasis opacity-hover">
+  {% if social %}<i class="display-2 lh-1 bi bi-{{ social }} mx-lg-2"></i>{% endif %}
+  {% if img %}<div class="display-2 icon"><img class="silhouette mx-lg-2" src="{{ config.base_url | safe }}/{{ img }}" alt="{{ title }} icon"></img></div>{% endif %}
+  <div class="d-none d-lg-block" style="width: 11em">
+    <h3 class="m-0">{{ title | safe }}</h3>
+    <h6>{{ body | markdown | safe  }}</h6>
+  </div>
+</div>
+</a>
+{% endmacro %}
+
+{% macro long() %}
+
+{% set socials = get_section(path="socials/_index.md") %}
+{% for social in socials.pages %}
+  {% if social.extra.img %}
+    {{ self::block_social(title=social.title, link=social.extra.link, body=social.content, img=social.extra.img) }}
+  {% elif social.extra.social %}
+    {{ self::block_social(title=social.title, link=social.extra.link, body=social.content, social=social.extra.social) }}
+  {% else %}
+  {{ self::block_social(title=social.title, link=social.extra.link, body=social.content, social=social.components | last) }}
+  {% endif %}
+{% endfor %}
+
+{% endmacro %}
