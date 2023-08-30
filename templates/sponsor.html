@@ -6,7 +6,7 @@
 
 {% set tier_sec = get_section(path=page.ancestors | last) %}
 
-<a id="img" href="{{ page.extra.link }}" class="d-block m-3 mt-0" style="max-width: 400px">
+<a id="img" href="{{ page.extra.link }}" class="d-block m-3 mt-0 mb-5" style="max-width: 400px">
     {{ sponsors::single(sponsor=page, area=200*150, white=false) }}
 </a>
 

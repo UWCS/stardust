@@ -13,4 +13,4 @@ We are one of the best performing and fastest growing multi-strat quant hedge fu
 
 To find out more and apply to one of the 3 tracks mentioned above, visit our Internships & Industrial Placements or Graduate careers page.
 
-If you have any questions, please email campus@qube-rt.com
+If you have any questions, please email [campus@qube-rt.com](mailto:campus@qube-rt.com).
