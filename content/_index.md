@@ -37,34 +37,3 @@ title = "University of Warwick Computing Society"
 </div>
 </div>
 
-
-<div class="w-100 vstack align-items-center my-5 pt-5">
-<h1>Our Socials</h1>
-
-<div id="socials" class="mb-5 col-md-11 gap-3 row justify-content-evenly mx-4">
-{% front_socialblock(social="discord", title="Discord", link="https://discord.uwcs.co.uk") %}
-Where our members and alumni hang out
-{% end %}
-
-{% front_socialblock(social="instagram", title="Instagram", link="https://instagram.com/warwickcompsoc/") %}
-Announcements and our weekly schedule
-{% end %}
-
-{% front_socialblock(title="Warwick SU", link="https://warwicksu.com/societies-sports/societies/computing/", img="assets/su-logo.svg") %}
-We are free to join!
-{% end %}
-
-{% front_socialblock(social="youtube", title="YouTube", link="https://youtube.com/@warwickcomputing/") %}
-Recorded talks from students & industry
-{% end %}
-
-{% front_socialblock(social="github", title="GitHub", link="https://github.com/uwcs") %}
-Contribute to our open-source projects
-{% end %}
-
-{% front_socialblock(social="linkedin", title="LinkedIn", link="https://www.linkedin.com/company/uwcs/") %}
-Networking and retrospectives
-{% end %}
-
-</div>
-</div>

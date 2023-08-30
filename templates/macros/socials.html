@@ -21,17 +21,12 @@
 </a>
 {% endmacro %}
 
-{% macro long() %}
-
-{% set socials = get_section(path="socials/_index.md") %}
-{% for social in socials.pages %}
+{% macro block(social) %}
   {% if social.extra.img %}
-    {{ self::block_social(title=social.title, link=social.extra.link, body=social.content, img=social.extra.img) }}
+    {{ socials::block_social(title=social.title, link=social.extra.link, body=social.content, img=social.extra.img) }}
   {% elif social.extra.social %}
-    {{ self::block_social(title=social.title, link=social.extra.link, body=social.content, social=social.extra.social) }}
+    {{ socials::block_social(title=social.title, link=social.extra.link, body=social.content, social=social.extra.social) }}
   {% else %}
-  {{ self::block_social(title=social.title, link=social.extra.link, body=social.content, social=social.components | last) }}
+    {{ socials::block_social(title=social.title, link=social.extra.link, body=social.content, social=social.components | last) }}
   {% endif %}
-{% endfor %}
-
 {% endmacro %}
