@@ -18,16 +18,9 @@
 
 <a id="img" href="{{ page.extra.link }}">
 <div style="max-width: 400px">
-<img src="{{ page.permalink | trim_end_matches(pat="/") }}.png" height="150px" style="max-width: 100%; object-fit: contain">
+    {{ sponsors::single(sponsor=page, area=200*150, white=false) }}
 </div>
 </a>
-
-{{ spon_macros::resize(trigger=false) }}
-<script>
-    window.addEventListener('load', function () {
-        equalize_visual_size("img", 200 * 150);
-    })
-</script>
 
 <hr>
 {{ page.content | safe}}
