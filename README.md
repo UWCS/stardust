@@ -5,19 +5,82 @@ The new, improved and, most importantly, simplified website for the 23/24 academ
 ## Installation
 
 1. Install Rust (see [rustup.rs](https://rustup.rs/))
-2. Install Zola (see [install instructions](https://www.getzola.org/documentation/getting-started/installation/))
-3. Clone this repo (with submodules to include the formatting)
-3. Run Zola with `zola serve` in project root
-    - Or `zola build` to make the static version (I've found this slightly less buggy)
+2. Install [my fork](https://github.com/ericthelemur/zola) of Zola (see [install from source](https://www.getzola.org/documentation/getting-started/installation/#from-source))
+  - If you get **errors about missing square root**, you are running standard Zola, **not this fork.**
+3. Clone this repo (with submodules) `git clone --recurse-submodules`
+4. Run Zola with `zola serve` in project root
+    - Or `zola build` to build the static version (I've found this slightly more stable)
     - Use `python3 -m http.server --directory public 1111` and add `zola build --base-url http://127.0.0.1:1111` to preview the built version
+5. Write some Markdown in `content/`!
 
-When working on a local version, I recommend uncommenting `ignored_content = ["**/archive/*"]` in `config.toml`, but DO NOT COMMIT THIS.
+When working on a local version, I recommend uncommenting `ignored_content = ["**/archive/*"]` in `config.toml`, but **DO NOT COMMIT THIS**. This stops the archive being rendered for quicker build times.
 
 ## Editor Usage
 
-Best way is to run a copy locally and use an editor like VS Code to edit content and push changes to GitHub. This should be straight forward. Alternatively (e.g. if you are on mobile), try the slightly janky CMS at https://new.uwcs.co.uk/admin/ . It should allow editing of the important bits of news and events, though deeper customisation is unavailable. You need to login to it with GitHub, and it will automatically make a commit for you when you save a change.
+Best way is to run a copy locally and use an editor like VS Code to edit content and push changes to GitHub. This should be relatively straight forward, as you all are CS students. Content is written in [Markdown](https://commonmark.org/help/) (with a few bonuses), and you can mix in HTML inline if you need to. You'll mostly be concerning yourself with `content/news` and `content/events` for news and events respectively (unsurprisingly). The other directories are for the other static info pages and their resources. `_index.md` is the content for the directory's page, and all other markdown `.md` files turn into a corresponding HTML page when rendered.
+
+### CMS
+
+Alternatively (e.g. if you are on mobile), try the only slightly janky CMS at https://new.uwcs.co.uk/admin/ . It should allow editing of the important bits of news and events, though deeper customisation is unavailable. You need to login to it with GitHub, and it will automatically make a commit for you when you save a change. Shortcode previews are in active developemtn, so may or may not work as expected, but they should render fine.
+
+### Website Updates
+
+When commits are pushed to GitHub, the website will automatically fully re-render itself. Since rendering the archive pages take a while, the changes will first be available on https://draft.uwcs.co.uk, which also shows pages marked as draft. This should take around 20s from commit. Shortly after, the full main website will be rendered.
+
+In future, the CMS should support a release system, so we'd only make releases (on GitHub) update the main site.
+
+### News
+
+Pages in Zola either have the date as a field in their [frontmatter](https://www.getzola.org/documentation/content/page/), or inferred from the start of the file name (in `yyyy-mm-dd-title.md` format). News pages also have a list of categories under the `[taxonomy]` header. The main body of the newsletter follows the frontmatter, where you can use normal Markdown features. A template news page is as follows:
+
+```markdown
++++
+title="A News Article"
+date="2024-01-01"
+
+[taxonomies]
+categories = ["Test", "Newsletter"]
++++
+
+Any content above the more comment will be picked as the preview (otherwise it is the first 200 characters)
+<!-- more -->
+
+Some **more content** for the news article, this can be [markdown](https://commonmark.org/help/) you know
+```
+
+### Events
+
+Events have a few more properties, to render correctly on the events page. Instead of categories, we use `tags`, so news and events are separated. A dedicated `time` field is provided, if you want specific text for it (e.g. if you are unsure of the start time). A `location` can be provided also, with an optional `location_url` as a link, or if not provided, it will search it on the campus map.
+
+`icon` and `colour` are used for rendering the circles on the main events page: `icon` can be a [Phosphor](https://phosphoricons.com/) icon (e.g. `ph-heart`), [Bootstrap] icon (e.g. `bi-discord`), or a local image or svg (e.g. `assets/su-logo.svg`)
+
+```markdown
++++
+title = "An important event"
+
+[taxonomies]
+tags = ["Welcome Week", "Test"]
+
+[extra]
+time = "2:30pm"
+end = "2024-01-01T13:00:00"
+location = "CS0.01"
+
+icon = "bi-discord"
+colour = "#995A22"
++++
+
+Some event content, can also be markdown
+```
 
 ### Provided Shortcodes
+
+Shortcodes can be used in Markdown bodies, invoked in the form `{% shortcode(...) %}`, and when a body is required:
+```markdown
+{% note(type="info") %}
+Some longer note text
+{% end %}
+```
 
 - `note`: Callout block with customizable icon and colour
 - `youtube`: YT video and/or playlist link support
@@ -25,10 +88,11 @@ Best way is to run a copy locally and use an editor like VS Code to edit content
 - `uwcs_dots`: The dots logo, idk about sizing
 - `blue`: The blue region with a oval top and bottom separator, like the frontpage
 
+Detailed info on each shortcode can be found in `templates/shortcodes` or `themes/uwcs/templates/shortcodes`.
 
 ## Dev Usage
 
-Most of the formatting is in the theme at [uwcs/new-site-theme](https://github.com/UWCS/new-site-theme/) and uses [Sass](https://sass-lang.com/) and [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/). There is a few more templates that should move over there at some point really.
+Most of the formatting is in the theme at [uwcs/new-site-theme](https://github.com/UWCS/new-site-theme/) and uses [Sass](https://sass-lang.com/) and [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
 
 The basic structure of the project is explained in [Zola's docs](https://www.getzola.org/documentation/getting-started/directory-structure/). Referenced static files can be colocated (in same dir as markdown) or in the static folder separately. Kinda nice, but a bit limited if you want a page's images in a folder, but avoid making the page into a section.
 
