@@ -1,7 +1,6 @@
 +++
 title = "News Archive"
 weight = 1
-template = "section_inc_subsec.html"
 
 [extra]
 reverse_subsections = true

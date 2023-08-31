@@ -1,3 +1,4 @@
 [submodule "themes/uwcs"]
 	path = themes/uwcs
 	url = https://github.com/UWCS/new-site-theme
+	branch = master
