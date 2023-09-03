@@ -17,7 +17,9 @@ taxonomies = [
 
 ignored_content = [
     "**/README.md",
+### DRAFT START
 #    "**/archive/*/*"
+### DRAFT END
 ]
 
 [markdown]
