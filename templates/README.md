@@ -7,11 +7,13 @@ It is best to keep this dir just for shortcodes and any pages you might want an 
 
 ## Shortcodes
 
-Shortcodes are shorthand for longer HTML code, and can be used in Markdown bodies, invoked in the form `{% shortcode(...) %}`, and when a body is required:
+Shortcodes are shorthand for longer HTML code, and can be used in Markdown bodies, invoked in the form `{% raw %}{{ shortcode(...) }}{% endraw %}`, and when a body is required:
 ```markdown
+{% raw %}
 {% note(type="info") %}
 Some longer note text
 {% end %}
+{% endraw %}
 ```
 
 - `note`: Callout block with customizable icon and colour
