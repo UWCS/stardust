@@ -8,7 +8,7 @@ Pages in Zola either have the date as a field in their [frontmatter](https://www
 
 Events have a few more properties, to render correctly on the events page. Instead of categories, we use `tags`, so news and events are separated. A dedicated `time` field is provided, if you want specific text for it (e.g. if you are unsure of the start time). A `location` can be provided also, with an optional `location_url` as a link, or if not provided, it will search it on the campus map.
 
-`icon` and `colour` are used for rendering the circles on the main events page: `icon` can be a [Phosphor](https://phosphoricons.com/) icon (e.g. `ph-heart`), [Bootstrap] icon (e.g. `bi-discord`), or a local image or svg (e.g. `icons/fng.svg`) -- these can be in `static/icons/` either in the main repo.
+`icon` and `colour` are used for rendering the circles on the main events page: `icon` can be a [Phosphor](https://phosphoricons.com/) icon (e.g. `ph-heart`), [Bootstrap](https://icons.getbootstrap.com/) icon (e.g. `bi-discord`), or a local image or svg (e.g. `icons/fng.svg`) -- these can be in `static/icons/` either in the main repo.
 
 ```markdown
 +++
