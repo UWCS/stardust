@@ -18,4 +18,4 @@ jobs:
           config: ${{ vars.SITES_SSH_CONFIG }}
           if_key_exists: fail
       - name: Update Server
-        run: ssh sites "/srv/new-site/build.sh"
+        run: ssh sites "/srv/new-site/source/build.sh"
