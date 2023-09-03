@@ -15,7 +15,10 @@ taxonomies = [
     { name = "tags", paginate_by = 20, feed = true},
 ]
 
-# ignored_content = ["**/archive/*"]
+ignored_content = [
+    "**/README.md",
+#    "**/archive/*/*"
+]
 
 [markdown]
 # Whether to do syntax highlighting

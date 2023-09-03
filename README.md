@@ -19,6 +19,8 @@ When working on a local version, I recommend uncommenting `ignored_content = ["*
 
 Best way is to run a copy locally and use an editor like VS Code to edit content and push changes to GitHub. This should be relatively straight forward, as you all are CS students. Content is written in [Markdown](https://commonmark.org/help/) (with a few bonuses), and you can mix in HTML inline if you need to. You'll mostly be concerning yourself with `content/news` and `content/events` for news and events respectively (unsurprisingly). The other directories are for the other static info pages and their resources. `_index.md` is the content for the directory's page, and all other markdown `.md` files turn into a corresponding HTML page when rendered.
 
+If you want to include images in the post, you can create a folder for it in `content` - e.g. `content/resources/git-good` and write the content in `index.md`. **Note `index.md` denotes a page with some [colocated assets](https://www.getzola.org/documentation/content/overview/)** (images in the markdown dir, not separated into `/static`) **whereas `_index.md` denotes a section** with subpages -- the difference is often kinda subtle, but worth noting.
+
 ### CMS
 
 Alternatively (e.g. if you are on mobile), try the only slightly janky CMS at https://new.uwcs.co.uk/admin/ . It should allow editing of the important bits of news and events, though deeper customisation is unavailable. You need to login to it with GitHub, and it will automatically make a commit for you when you save a change. Shortcode previews are in active developemtn, so may or may not work as expected, but they should render fine.
