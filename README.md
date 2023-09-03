@@ -13,7 +13,7 @@ The new, improved and, most importantly, simplified website for the 23/24 academ
     - Use `python3 -m http.server --directory public 1111` and add `zola build --base-url http://127.0.0.1:1111` to preview the built version
 5. Write some Markdown in `content/`!
 
-When working on a local version, I recommend uncommenting `"**/archive/*"` in `ignored_content` in `config.toml`, but **DO NOT COMMIT THIS**. This stops the archive being rendered for quicker build times. The `### DRAFT START` marks the start and end of these sections, so I can jank automate them in the build process.
+When working on a local version, I recommend uncommenting `"**/archive/*"` in `ignored_content` in `config.toml`, but **DO NOT COMMIT THIS**. This stops the archive being rendered for quicker build times. The `# DRAFT` marks the start of draft only lines, so I can jank automate them in the build process.
 
 ## Editor Usage
 
