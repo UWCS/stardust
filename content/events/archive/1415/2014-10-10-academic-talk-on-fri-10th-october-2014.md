@@ -1,11 +1,13 @@
 +++
 title = "Academic Talk on Fri 10th October 2014"
-date = "2014-10-10T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/academic-talk-on-fri-10th-october-2014-1474489101632/"    
-end = "2014-10-10T18:00:00Z"
+time = "17:00:00"
+end_date = "2014-10-10"
+end_time = "18:00:00"
 location = "MS05"
+
+original = "https://uwcs.co.uk/events/academic-talk-on-fri-10th-october-2014-1474489101632/"    
 +++
 
 An introductory talk for newcomers to the Linux / UNIX environment.

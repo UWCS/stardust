@@ -1,11 +1,13 @@
 +++
 title = "Pre-Gaming Social on Fri 25th January 2008"
-date = "2008-01-25T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pre-gaming-social-on-fri-25th-january-2008-1474489005551/"    
-end = "2008-01-25T20:00:00Z"
+time = "19:00:00"
+end_date = "2008-01-25"
+end_time = "20:00:00"
 location = "The Bar, Rootes Social Building"
+
+original = "https://uwcs.co.uk/events/pre-gaming-social-on-fri-25th-january-2008-1474489005551/"    
 +++
 
 

@@ -1,11 +1,13 @@
 +++
 title = "Gaming Session on Fri 25th April 2014"
-date = "2014-04-25T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/gaming-session-on-fri-25th-april-2014-1474489093073/"    
-end = "2014-04-26T08:00:00Z"
+time = "20:00:00"
+end_date = "2014-04-26"
+end_time = "08:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/gaming-session-on-fri-25th-april-2014-1474489093073/"    
 +++
 
 Friday night gaming, loads of consoles and PCs to use. You don’t need to bring anything, just turn up :)

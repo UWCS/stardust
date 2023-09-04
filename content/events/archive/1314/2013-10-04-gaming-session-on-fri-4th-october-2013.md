@@ -1,11 +1,13 @@
 +++
 title = "Gaming Session on Fri 4th October 2013"
-date = "2013-10-04T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/gaming-session-on-fri-4th-october-2013-1474489081034/"    
-end = "2013-10-05T08:00:00Z"
+time = "20:00:00"
+end_date = "2013-10-05"
+end_time = "08:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/gaming-session-on-fri-4th-october-2013-1474489081034/"    
 +++
 
 Weekly gaming session in the DCS labs. Come along, and knock on the window to get in if you don't have card access to the Department of Computer Science (as most people don't).

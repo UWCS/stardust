@@ -1,11 +1,13 @@
 +++
 title = "Pub Social on Mon 29th September 2014"
-date = "2014-09-29T18:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-social-on-mon-29th-september-2014-1474489100177/"    
-end = "2014-09-29T22:00:00Z"
+time = "18:30:00"
+end_date = "2014-09-29"
+end_time = "22:00:00"
 location = "Dirty Duck"
+
+original = "https://uwcs.co.uk/events/pub-social-on-mon-29th-september-2014-1474489100177/"    
 +++
 
 Chat, Drink, and eat what could be better apart from playing Games.

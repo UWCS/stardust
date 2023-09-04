@@ -1,11 +1,13 @@
 +++
 title = "Optimising to the Nanosecond - Optiver Talk"
-date = "2020-03-04T13:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/optimising-nanosecond-optiver-talk/"    
-end = "2020-03-04T14:00:00Z"
+time = "13:00:00"
+end_date = "2020-03-04"
+end_time = "14:00:00"
 location = "L4, Science Concourse"
+
+original = "https://uwcs.co.uk/events/optimising-nanosecond-optiver-talk/"    
 +++
 
 Are you interested in learning how to write the fastest and best performing code possible? Are you ready to dive into assembly, cache internals and squeeze the last nanosecond out of your code? If so, then join our low-latency lecture on code optimisation\!

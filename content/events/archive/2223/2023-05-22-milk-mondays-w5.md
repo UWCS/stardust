@@ -1,11 +1,13 @@
 +++
 title = "🥛 Milk Mondays W5 🥛"
-date = "2023-05-22T09:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/mm-22t3w5/"    
-end = "2023-05-22T13:00:00Z"
+time = "09:00:00"
+end_date = "2023-05-22"
+end_time = "13:00:00"
 location = "DCS Atrium"
+
+original = "https://uwcs.co.uk/events/mm-22t3w5/"    
 +++
 
 Regardless of exams, we are continuing 𝕄𝕚𝕝𝕜 𝕄𝕠𝕟𝕕𝕒𝕪𝕤!

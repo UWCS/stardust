@@ -1,11 +1,13 @@
 +++
 title = "Steam Gaming on Thu 25th October 2012"
-date = "2012-10-25T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/steam-gaming-on-thu-25th-october-2012-1474489069115/"    
-end = "2012-10-26T00:00:00Z"
+time = "20:00:00"
+end_date = "2012-10-26"
+end_time = "00:00:00"
 location = "The Internet"
+
+original = "https://uwcs.co.uk/events/steam-gaming-on-thu-25th-october-2012-1474489069115/"    
 +++
 
 Join us for a few games of Trackmania, a free to play racing game.  

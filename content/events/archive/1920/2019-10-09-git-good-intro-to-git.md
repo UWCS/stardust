@@ -1,11 +1,13 @@
 +++
 title = "Git Good - Intro to git"
-date = "2019-10-09T12:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/git-good-introduction-git-talk/"    
-end = "2019-10-09T13:00:00Z"
+time = "12:00:00"
+end_date = "2019-10-09"
+end_time = "13:00:00"
 location = "CS1.04, Department of Computer Science"
+
+original = "https://uwcs.co.uk/events/git-good-introduction-git-talk/"    
 +++
 
 Version control is a vital skill for computer scientists, considered more valuable to employers than ever before. Whether you're a lone programmer working on a pet project, or a huge team of hundreds of people working at several offices around the world on millions of lines of code - version control is extremely useful to help you organise your codebase.  

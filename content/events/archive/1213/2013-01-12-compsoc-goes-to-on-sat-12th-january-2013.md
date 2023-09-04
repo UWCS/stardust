@@ -1,11 +1,13 @@
 +++
 title = "Compsoc goes to: on Sat 12th January 2013"
-date = "2013-01-12T20:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/compsoc-goes-to-on-sat-12th-january-2013-1474489071570/"    
-end = "2013-01-13T02:00:00Z"
+time = "20:30:00"
+end_date = "2013-01-13"
+end_time = "02:00:00"
 location = "Copper Rooms"
+
+original = "https://uwcs.co.uk/events/compsoc-goes-to-on-sat-12th-january-2013-1474489071570/"    
 +++
 
 First Crash of the term :)

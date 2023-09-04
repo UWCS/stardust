@@ -1,11 +1,13 @@
 +++
 title = "Exec Meeting on Thu 17th October 2013"
-date = "2013-10-17T15:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/exec-meeting-on-thu-17th-october-2013-1474489085187/"    
-end = "2013-10-17T16:00:00Z"
+time = "15:00:00"
+end_date = "2013-10-17"
+end_time = "16:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/exec-meeting-on-thu-17th-october-2013-1474489085187/"    
 +++
 
 Open to everyone; we will be discussing upcoming events and any ideas people have.

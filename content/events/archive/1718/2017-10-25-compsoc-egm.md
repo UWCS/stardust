@@ -1,11 +1,13 @@
 +++
 title = "CompSoc EGM"
-date = "2017-10-25T12:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/egm-2017-10-25/"    
-end = "2017-10-25T13:00:00Z"
+time = "12:00:00"
+end_date = "2017-10-25"
+end_time = "13:00:00"
 location = "S0.20, Social Sciences"
+
+original = "https://uwcs.co.uk/events/egm-2017-10-25/"    
 +++
 
 CompSoc are holding an Exceptional General Meeting in order to elect some exec positions. These positions are:

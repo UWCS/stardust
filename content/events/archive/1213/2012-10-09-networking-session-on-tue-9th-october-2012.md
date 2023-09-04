@@ -1,11 +1,13 @@
 +++
 title = "Networking Session on Tue 9th October 2012"
-date = "2012-10-09T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/networking-session-on-tue-9th-october-2012-1474489067276/"    
-end = "2012-10-09T19:30:00Z"
+time = "18:00:00"
+end_date = "2012-10-09"
+end_time = "19:30:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/networking-session-on-tue-9th-october-2012-1474489067276/"    
 +++
 
 IBM will be joining us in the DCS atrium to award prizes to the winners of our summer progcomp.

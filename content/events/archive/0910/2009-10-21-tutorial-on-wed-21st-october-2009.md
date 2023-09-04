@@ -1,11 +1,13 @@
 +++
 title = "Tutorial on Wed 21st October 2009"
-date = "2009-10-21T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/tutorial-on-wed-21st-october-2009-1474489027557/"    
-end = "2009-10-21T18:00:00Z"
+time = "17:00:00"
+end_date = "2009-10-21"
+end_time = "18:00:00"
 location = "S0.10"
+
+original = "https://uwcs.co.uk/events/tutorial-on-wed-21st-october-2009-1474489027557/"    
 +++
 
 New student in DCS?  

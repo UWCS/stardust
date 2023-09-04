@@ -1,11 +1,13 @@
 +++
 title = "Circling + Pop on Wed 20th November 2013"
-date = "2013-11-20T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/circling-pop-on-wed-20th-november-2013-1474489087065/"    
-end = "2013-11-21T02:00:00Z"
+time = "19:00:00"
+end_date = "2013-11-21"
+end_time = "02:00:00"
 location = "Terrace Bar"
+
+original = "https://uwcs.co.uk/events/circling-pop-on-wed-20th-november-2013-1474489087065/"    
 +++
 
 Warwick Computing Society will be circling at the Terrace Bar in the SU and then head off to Pop for a great mid-week mayhem\! There will be a theme and everyone will have to adhere to the theme or face punishment.  

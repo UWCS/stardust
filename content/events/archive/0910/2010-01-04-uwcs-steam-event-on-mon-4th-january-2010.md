@@ -1,11 +1,13 @@
 +++
 title = "UWCS Steam Event on Mon 4th January 2010"
-date = "2010-01-04T21:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/uwcs-steam-event-on-mon-4th-january-2010-1474489034319/"    
-end = "2010-01-05T00:00:00Z"
+time = "21:00:00"
+end_date = "2010-01-05"
+end_time = "00:00:00"
 location = "The Internet"
+
+original = "https://uwcs.co.uk/events/uwcs-steam-event-on-mon-4th-january-2010-1474489034319/"    
 +++
 
 85.17.60.96:27035  

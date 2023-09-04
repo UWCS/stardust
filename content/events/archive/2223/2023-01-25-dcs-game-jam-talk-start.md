@@ -1,11 +1,13 @@
 +++
 title = "⚙️ DCS Game Jam Talk & Start"
-date = "2023-01-25T14:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/dcs-game-jam-start/"    
-end = "2023-01-25T15:00:00Z"
+time = "14:00:00"
+end_date = "2023-01-25"
+end_time = "15:00:00"
 location = "CS1.04"
+
+original = "https://uwcs.co.uk/events/dcs-game-jam-start/"    
 +++
 
 DCS presents... The Great Warwick Game Jam! 🍓

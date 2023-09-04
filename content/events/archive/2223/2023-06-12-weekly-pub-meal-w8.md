@@ -1,11 +1,13 @@
 +++
 title = "🍕 Weekly Pub Meal W8 🍕"
-date = "2023-06-12T17:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-meal-22t3w8/"    
-end = "2023-06-12T20:00:00Z"
+time = "17:30:00"
+end_date = "2023-06-12"
+end_time = "20:00:00"
 location = "Phantom Coach"
+
+original = "https://uwcs.co.uk/events/pub-meal-22t3w8/"    
 +++
 
 We are back on track with our pub meal schedule, so we are heading to Phantom Coach!

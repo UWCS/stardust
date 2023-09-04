@@ -1,11 +1,13 @@
 +++
 title = "Handover Meal on Wed 22nd February 2012"
-date = "2012-02-22T19:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/handover-meal-on-wed-22nd-february-2012-1474489060353/"    
-end = "2012-02-22T23:30:00Z"
+time = "19:30:00"
+end_date = "2012-02-22"
+end_time = "23:30:00"
 location = "Cosmo"
+
+original = "https://uwcs.co.uk/events/handover-meal-on-wed-22nd-february-2012-1474489060353/"    
 +++
 
 Come along to Cosmo, a quality all-you-can-eat in the centre of Coventry, to see out the old exec and welcome in the new.  

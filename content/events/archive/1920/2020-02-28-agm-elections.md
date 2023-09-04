@@ -1,11 +1,13 @@
 +++
 title = "AGM + Elections"
-date = "2020-02-28T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/agm-elections/"    
-end = "2020-02-28T20:00:00Z"
+time = "18:00:00"
+end_date = "2020-02-28"
+end_time = "20:00:00"
 location = "OC1.01, Oculus Building"
+
+original = "https://uwcs.co.uk/events/agm-elections/"    
 +++
 
 Our next AGM is nearly upon us\! We're going to be voting on our constitutional amendments and electing our new exec. The currently proposed amendments are as follows:

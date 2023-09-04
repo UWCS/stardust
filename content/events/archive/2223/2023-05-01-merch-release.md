@@ -1,11 +1,13 @@
 +++
 title = "💸 Merch Release 💸"
-date = "2023-05-01T07:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/merch-22t3w2/"    
-end = "2023-05-08T11:00:00Z"
+time = "07:00:00"
+end_date = "2023-05-08"
+end_time = "11:00:00"
 location = "UWCS Merch Store"
+
+original = "https://uwcs.co.uk/events/merch-22t3w2/"    
 +++
 
 We are bringing back our merchandise for a ***limited*** time only!

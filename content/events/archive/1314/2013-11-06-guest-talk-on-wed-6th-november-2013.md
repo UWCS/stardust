@@ -1,11 +1,13 @@
 +++
 title = "Guest Talk on Wed 6th November 2013"
-date = "2013-11-06T13:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/guest-talk-on-wed-6th-november-2013-1474489084967/"    
-end = "2013-11-06T14:00:00Z"
+time = "13:00:00"
+end_date = "2013-11-06"
+end_time = "14:00:00"
 location = "LIB2"
+
+original = "https://uwcs.co.uk/events/guest-talk-on-wed-6th-november-2013-1474489084967/"    
 +++
 
 Steven from ComputerMinds will be coming in to give us a talk:

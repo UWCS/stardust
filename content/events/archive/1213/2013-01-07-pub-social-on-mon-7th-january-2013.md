@@ -1,11 +1,13 @@
 +++
 title = "Pub Social on Mon 7th January 2013"
-date = "2013-01-07T18:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-social-on-mon-7th-january-2013-1474489071284/"    
-end = "2013-01-07T21:00:00Z"
+time = "18:30:00"
+end_date = "2013-01-07"
+end_time = "21:00:00"
 location = "The Phantom Coach"
+
+original = "https://uwcs.co.uk/events/pub-social-on-mon-7th-january-2013-1474489071284/"    
 +++
 
 First pub social of 2013 :D

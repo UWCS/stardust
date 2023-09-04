@@ -1,11 +1,13 @@
 +++
 title = "WUGLUG Meeting on Wed 16th June 2004"
-date = "2004-06-16T18:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/wuglug-meeting-on-wed-16th-june-2004-1474488954694/"    
-end = "2004-06-16T19:30:00Z"
+time = "18:30:00"
+end_date = "2004-06-16"
+end_time = "19:30:00"
 location = "Cafe Xanana"
+
+original = "https://uwcs.co.uk/events/wuglug-meeting-on-wed-16th-june-2004-1474488954694/"    
 +++
 
 

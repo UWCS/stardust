@@ -1,11 +1,13 @@
 +++
 title = "🚩 Nettitude Talk and CTF"
-date = "2022-11-30T13:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/nettitude-talk-and-ctf/"    
-end = "2022-11-30T17:00:00Z"
+time = "13:30:00"
+end_date = "2022-11-30"
+end_time = "17:00:00"
 location = "IMC246"
+
+original = "https://uwcs.co.uk/events/nettitude-talk-and-ctf/"    
 +++
 
 Hosted by the Cyber Society, Nettitude will be coming in on Wednesday for some talks and a capture the flag event! There will be some short talks about Nettitude and career opportunities in cyber security, and an introduction to pentesting. 

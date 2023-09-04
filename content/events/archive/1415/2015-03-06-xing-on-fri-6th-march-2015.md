@@ -1,11 +1,13 @@
 +++
 title = "XING on Fri 6th March 2015"
-date = "2015-03-06T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/xing-on-fri-6th-march-2015-1474489106582/"    
-end = "2015-03-07T02:00:00Z"
+time = "20:00:00"
+end_date = "2015-03-07"
+end_time = "02:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/xing-on-fri-6th-march-2015-1474489106582/"    
 +++
 
 XING is a get-together of people in DCS for programming and other related projects. Have something you're working on or need help with some programming? Join us every Friday in CS0.06

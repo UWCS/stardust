@@ -1,11 +1,13 @@
 +++
 title = "Compsoc goes to: on Sat 13th October 2012"
-date = "2012-10-13T21:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/compsoc-goes-to-on-sat-13th-october-2012-1474489068051/"    
-end = "2012-10-14T02:00:00Z"
+time = "21:00:00"
+end_date = "2012-10-14"
+end_time = "02:00:00"
 location = "Dirty Duck"
+
+original = "https://uwcs.co.uk/events/compsoc-goes-to-on-sat-13th-october-2012-1474489068051/"    
 +++
 
 CompSoc goes to Crash, the rock/alternative night at the SU. Join us for drinks, music and silly dancing\!

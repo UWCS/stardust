@@ -1,11 +1,13 @@
 +++
 title = "Freshers' LAN"
-date = "2017-10-27T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/freshers-lan-2017/"    
-end = "2017-10-29T18:00:00Z"
+time = "17:00:00"
+end_date = "2017-10-29"
+end_time = "18:00:00"
 location = "LIB2"
+
+original = "https://uwcs.co.uk/events/freshers-lan-2017/"    
 +++
 
 It's LAN time\! Our bi-termly event where we take our computers to LIB2 and play games for the weekend\!

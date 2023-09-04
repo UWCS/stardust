@@ -1,11 +1,13 @@
 +++
 title = "🎤 Talk: How to Grind into BigTech"
-date = "2023-05-13T16:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/paperwork-talk-bigtech/"    
-end = "2023-05-13T18:00:00Z"
+time = "16:00:00"
+end_date = "2023-05-13"
+end_time = "18:00:00"
 location = "CS1.04"
+
+original = "https://uwcs.co.uk/events/paperwork-talk-bigtech/"    
 +++
 
 Want to enslave yourself to the big corporations? Sell your soul for lots of money? Then make your way to CS1.04 @ 17:00 this Saturday to see Paperwork’s talk that will give you a step-by-step foolproof guide to guarantee* you get a job in big tech.

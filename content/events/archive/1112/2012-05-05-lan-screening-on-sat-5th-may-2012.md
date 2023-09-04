@@ -1,11 +1,13 @@
 +++
 title = "Lan Screening on Sat 5th May 2012"
-date = "2012-05-05T21:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/lan-screening-on-sat-5th-may-2012-1474489064787/"    
-end = "2012-05-05T23:00:00Z"
+time = "21:00:00"
+end_date = "2012-05-05"
+end_time = "23:00:00"
 location = "LIB2"
+
+original = "https://uwcs.co.uk/events/lan-screening-on-sat-5th-may-2012-1474489064787/"    
 +++
 
 We will be screening the finals of Iron Squid this LAN on the projector :).

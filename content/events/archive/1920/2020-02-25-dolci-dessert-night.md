@@ -1,11 +1,13 @@
 +++
 title = "Dolci Dessert Night"
-date = "2020-02-25T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/dolci-dessert-night/"    
-end = "2020-02-25T20:00:00Z"
+time = "18:00:00"
+end_date = "2020-02-25"
+end_time = "20:00:00"
 location = "Dolci Take Me Away, 25 Trinity Street, CV1 1FJ"
+
+original = "https://uwcs.co.uk/events/dolci-dessert-night/"    
 +++
 
 There's a place in Coventry that servers all sorts of cheap and delicious desserts.

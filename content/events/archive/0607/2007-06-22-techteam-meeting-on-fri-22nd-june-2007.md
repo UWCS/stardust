@@ -1,11 +1,13 @@
 +++
 title = "Techteam Meeting on Fri 22nd June 2007"
-date = "2007-06-22T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/techteam-meeting-on-fri-22nd-june-2007-1474488996788/"    
-end = "2007-06-22T18:00:00Z"
+time = "17:00:00"
+end_date = "2007-06-22"
+end_time = "18:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/techteam-meeting-on-fri-22nd-june-2007-1474488996788/"    
 +++
 
 ### Agenda

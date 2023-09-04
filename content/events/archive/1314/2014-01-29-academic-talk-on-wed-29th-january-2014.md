@@ -1,11 +1,13 @@
 +++
 title = "Academic Talk on Wed 29th January 2014"
-date = "2014-01-29T15:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/academic-talk-on-wed-29th-january-2014-1474489090834/"    
-end = "2014-01-29T16:00:00Z"
+time = "15:00:00"
+end_date = "2014-01-29"
+end_time = "16:00:00"
 location = "S0.21"
+
+original = "https://uwcs.co.uk/events/academic-talk-on-wed-29th-january-2014-1474489090834/"    
 +++
 
 Flask is a python microframework designed to make it easier than ever to design, prototype and build web applications with little overheads. This talk will cover creating application logic, integrating with a database via sqlalchemy, and security issues that one should be aware of.

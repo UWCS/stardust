@@ -1,11 +1,13 @@
 +++
 title = "🎮 Welcome Week Gaming"
-date = "2022-09-30T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/welcome-week-gaming-2022/"    
-end = "2022-09-30T22:59:00Z"
+time = "19:00:00"
+end_date = "2022-09-30"
+end_time = "22:59:00"
 location = "Department of Computer Science"
+
+original = "https://uwcs.co.uk/events/welcome-week-gaming-2022/"    
 +++
 
 Join us every Friday for a night of fun\!

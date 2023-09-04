@@ -1,11 +1,13 @@
 +++
 title = "🪄 Friday Night Gaming W8 🪄"
-date = "2023-06-16T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/fng-22t3w8/"    
-end = "2023-06-16T22:59:00Z"
+time = "18:00:00"
+end_date = "2023-06-16"
+end_time = "22:59:00"
 location = "Department of Computer Science"
+
+original = "https://uwcs.co.uk/events/fng-22t3w8/"    
 +++
 
 The Friday night fun continues!

@@ -1,11 +1,13 @@
 +++
 title = "Clothing on Tue 12th April 2011"
-date = "2011-04-12T07:18:27Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/clothing-on-tue-12th-april-2011-1474489050064/"    
-end = "2011-05-01T00:00:00Z"
+time = "07:18:27"
+end_date = "2011-05-01"
+end_time = "00:00:00"
 location = "N/A"
+
+original = "https://uwcs.co.uk/events/clothing-on-tue-12th-april-2011-1474489050064/"    
 +++
 
 PLEASE READ THOROUGHLY BEFORE PLACING AN ORDER.

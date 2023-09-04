@@ -1,11 +1,13 @@
 +++
 title = "Lightning Talks - Fresher's Edition"
-date = "2020-09-29T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/lightning-talks-freshers-2020/"    
-end = "2020-09-29T19:00:00Z"
+time = "18:00:00"
+end_date = "2020-09-29"
+end_time = "19:00:00"
 location = "Remote - Microsoft Teams"
+
+original = "https://uwcs.co.uk/events/lightning-talks-freshers-2020/"    
 +++
 
 We'll be running a session of lightning talks (short talks that last about 15 minutes) across a set of different areas and themes related to technology\! They'll be given by current members of the society and some of our graduates who have gone on to work in industry. In the past we've had talks related to programming tools, problems encountered in industry and even a karaoke talk about functional programming\!

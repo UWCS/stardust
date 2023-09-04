@@ -1,11 +1,13 @@
 +++
 title = "Pub Social"
-date = "2016-10-24T17:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-social-4/"    
-end = "2016-10-24T20:00:00Z"
+time = "17:30:00"
+end_date = "2016-10-24"
+end_time = "20:00:00"
 location = "Phantom Coach, Canley"
+
+original = "https://uwcs.co.uk/events/pub-social-4/"    
 +++
 
 Come and join us for an evening of food, drinks and conversations\! We're currently going to the Phantom Coach, a cheap pub that's within walking distance of campus.

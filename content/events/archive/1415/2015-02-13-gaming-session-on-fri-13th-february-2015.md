@@ -1,11 +1,13 @@
 +++
 title = "Gaming Session on Fri 13th February 2015"
-date = "2015-02-13T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/gaming-session-on-fri-13th-february-2015-1474489097919/"    
-end = "2015-02-14T08:00:00Z"
+time = "20:00:00"
+end_date = "2015-02-14"
+end_time = "08:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/gaming-session-on-fri-13th-february-2015-1474489097919/"    
 +++
 
 Comp Soc’s weekly 12-hour long gaming session.

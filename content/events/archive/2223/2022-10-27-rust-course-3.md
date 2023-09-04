@@ -1,11 +1,13 @@
 +++
 title = "⚙️Rust Course 3"
-date = "2022-10-27T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/rust-course-3/"    
-end = "2022-10-27T20:00:00Z"
+time = "18:00:00"
+end_date = "2022-10-27"
+end_time = "20:00:00"
 location = "Department of Computer Science"
+
+original = "https://uwcs.co.uk/events/rust-course-3/"    
 +++
 
 Are you ready to learn one of the most loved languages by developers? This week will finish our lectures covering error handling and traits! We'll also finish CHIP-8 and start the raytracer.

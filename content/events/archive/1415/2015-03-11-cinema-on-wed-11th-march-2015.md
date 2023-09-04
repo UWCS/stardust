@@ -1,11 +1,13 @@
 +++
 title = "Cinema on Wed 11th March 2015"
-date = "2015-03-11T15:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/cinema-on-wed-11th-march-2015-1474489107216/"    
-end = "2015-03-11T17:15:00Z"
+time = "15:30:00"
+end_date = "2015-03-11"
+end_time = "17:15:00"
 location = "Odeon, Coventry "
+
+original = "https://uwcs.co.uk/events/cinema-on-wed-11th-march-2015-1474489107216/"    
 +++
 
 The end of term is almost here, and to celebrate we are going to watch Big Hero 6 followed by Food at Savour Station.

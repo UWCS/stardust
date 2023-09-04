@@ -1,11 +1,13 @@
 +++
 title = "Gaming Session on Fri 5th October 2012"
-date = "2012-10-05T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/gaming-session-on-fri-5th-october-2012-1474489065316/"    
-end = "2012-10-06T08:00:00Z"
+time = "20:00:00"
+end_date = "2012-10-06"
+end_time = "08:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/gaming-session-on-fri-5th-october-2012-1474489065316/"    
 +++
 
 The first weekly gaming session / XING of the year :)

@@ -1,11 +1,13 @@
 +++
 title = "Exec Meeting [Term 1, Week 5]"
-date = "2021-11-02T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/exec-meeting-term-1-week-5-2122/"    
-end = "2021-11-02T19:00:00Z"
+time = "18:00:00"
+end_date = "2021-11-02"
+end_time = "19:00:00"
 location = "Discord"
+
+original = "https://uwcs.co.uk/events/exec-meeting-term-1-week-5-2122/"    
 +++
 
 We have another exec meeting\! We will be discussing how the LAN we held last weekend went, and starting planning for our next LAN coming up in Week 7, along with anything else we need to discuss\!

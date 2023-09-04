@@ -1,11 +1,13 @@
 +++
 title = "AGM - Legacy on Tue 12th February 2013"
-date = "2013-02-12T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/agm-legacy-on-tue-12th-february-2013-1474489073619/"    
-end = "2013-02-12T20:00:00Z"
+time = "18:00:00"
+end_date = "2013-02-12"
+end_time = "20:00:00"
 location = "MS.04"
+
+original = "https://uwcs.co.uk/events/agm-legacy-on-tue-12th-february-2013-1474489073619/"    
 +++
 
 Greetings CompSoc,

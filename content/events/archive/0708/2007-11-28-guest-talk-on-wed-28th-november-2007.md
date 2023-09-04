@@ -1,11 +1,13 @@
 +++
 title = "Guest Talk on Wed 28th November 2007"
-date = "2007-11-28T14:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/guest-talk-on-wed-28th-november-2007-1474489003299/"    
-end = "2007-11-28T15:00:00Z"
+time = "14:00:00"
+end_date = "2007-11-28"
+end_time = "15:00:00"
 location = "Various Deprecated Locations"
+
+original = "https://uwcs.co.uk/events/guest-talk-on-wed-28th-november-2007-1474489003299/"    
 +++
 
 # IBM Guest Lecture: Virtualise Everything and Save the Planet\!

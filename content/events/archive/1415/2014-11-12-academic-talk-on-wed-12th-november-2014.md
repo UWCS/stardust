@@ -1,11 +1,13 @@
 +++
 title = "Academic Talk on Wed 12th November 2014"
-date = "2014-11-12T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/academic-talk-on-wed-12th-november-2014-1474489103708/"    
-end = "2014-11-12T18:00:00Z"
+time = "17:00:00"
+end_date = "2014-11-12"
+end_time = "18:00:00"
 location = "H4.47"
+
+original = "https://uwcs.co.uk/events/academic-talk-on-wed-12th-november-2014-1474489103708/"    
 +++
 
 Maddy (metalgabu, Gaming President), Alice (hermit, Gaming Officer) and Jamie (qualia) will be giving a talk on discrimination against women and minorities in the gaming community, including discussion on the recent and ongoing controversy 'GamerGate.'

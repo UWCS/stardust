@@ -1,11 +1,13 @@
 +++
 title = "Gaming Session on Fri 9th May 2003"
-date = "2003-05-09T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/gaming-session-on-fri-9th-may-2003-1474488941332/"    
-end = "2003-05-10T03:00:00Z"
+time = "20:00:00"
+end_date = "2003-05-10"
+end_time = "03:00:00"
 location = "Ramphal R0.03/4"
+
+original = "https://uwcs.co.uk/events/gaming-session-on-fri-9th-may-2003-1474488941332/"    
 +++
 
 

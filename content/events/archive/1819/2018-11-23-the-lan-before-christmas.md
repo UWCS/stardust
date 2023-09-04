@@ -1,11 +1,13 @@
 +++
 title = "The LAN Before Christmas"
-date = "2018-11-23T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/lan-2018-2/"    
-end = "2018-11-25T18:00:00Z"
+time = "18:00:00"
+end_date = "2018-11-25"
+end_time = "18:00:00"
 location = "LIB2"
+
+original = "https://uwcs.co.uk/events/lan-2018-2/"    
 +++
 
 It's time for another LAN party\!  

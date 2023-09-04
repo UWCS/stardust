@@ -1,11 +1,13 @@
 +++
 title = "Cinema on Fri 6th May 2011"
-date = "2011-05-06T19:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/cinema-on-fri-6th-may-2011-1474489051161/"    
-end = "2011-05-07T07:30:00Z"
+time = "19:30:00"
+end_date = "2011-05-07"
+end_time = "07:30:00"
 location = "L3"
+
+original = "https://uwcs.co.uk/events/cinema-on-fri-6th-may-2011-1474489051161/"    
 +++
 
 Mae Govannen

@@ -1,11 +1,13 @@
 +++
 title = "LAN Party (LANic At The Disco)"
-date = "2018-02-23T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/lan-party-lanic-at-the-disco/"    
-end = "2018-02-25T18:00:00Z"
+time = "18:00:00"
+end_date = "2018-02-25"
+end_time = "18:00:00"
 location = "LIB2"
+
+original = "https://uwcs.co.uk/events/lan-party-lanic-at-the-disco/"    
 +++
 
 It's LAN time\! Our bi-termly event where we take our computers to LIB2 and play games for the weekend\!

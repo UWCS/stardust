@@ -1,11 +1,13 @@
 +++
 title = "Exec Meeting on Fri 9th March 2007"
-date = "2007-03-09T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/exec-meeting-on-fri-9th-march-2007-1474488991842/"    
-end = "2007-03-09T21:00:00Z"
+time = "19:00:00"
+end_date = "2007-03-09"
+end_time = "21:00:00"
 location = "Meeting Room 6, Union North"
+
+original = "https://uwcs.co.uk/events/exec-meeting-on-fri-9th-march-2007-1474488991842/"    
 +++
 
 Exec meetings, all are welcome.

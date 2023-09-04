@@ -1,11 +1,13 @@
 +++
 title = "Cinema on Sat 9th May 2009"
-date = "2009-05-09T14:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/cinema-on-sat-9th-may-2009-1474489022661/"    
-end = "2009-05-09T17:00:00Z"
+time = "14:00:00"
+end_date = "2009-05-09"
+end_time = "17:00:00"
 location = "Millenium Point IMAX"
+
+original = "https://uwcs.co.uk/events/cinema-on-sat-9th-may-2009-1474489022661/"    
 +++
 
 The best film, evar\! At IMAX\!

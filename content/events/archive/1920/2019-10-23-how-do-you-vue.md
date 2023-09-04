@@ -1,11 +1,13 @@
 +++
 title = "How do you Vue?"
-date = "2019-10-23T12:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/how-do-you-vue/"    
-end = "2019-10-23T13:00:00Z"
+time = "12:00:00"
+end_date = "2019-10-23"
+end_time = "13:00:00"
 location = "Department of Computer Science, CS1.04"
+
+original = "https://uwcs.co.uk/events/how-do-you-vue/"    
 +++
 
 Computing Society are running our next academic talk of the term this week, on Wednesday at 1pm in CS1.04 (Department of Computer Science), entitled ‘How do you Vue?'  

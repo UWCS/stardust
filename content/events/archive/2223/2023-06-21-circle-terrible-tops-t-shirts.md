@@ -1,11 +1,13 @@
 +++
 title = "👕 Circle — Terrible Tops/T-shirts 👚"
-date = "2023-06-21T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/circle-22t3w9/"    
-end = "2023-06-21T21:00:00Z"
+time = "18:00:00"
+end_date = "2023-06-21"
+end_time = "21:00:00"
 location = "Terrace Bar"
+
+original = "https://uwcs.co.uk/events/circle-22t3w9/"    
 +++
 
 We are circling on Wednesday, June 21st at 19:00 at Terrace Bar (Tbar)! The theme will be **terrible tops**, so bring your funniest and worst pieces of clothing to the circle.

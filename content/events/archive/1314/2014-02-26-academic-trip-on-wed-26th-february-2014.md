@@ -1,11 +1,13 @@
 +++
 title = "Academic Trip on Wed 26th February 2014"
-date = "2014-02-26T13:15:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/academic-trip-on-wed-26th-february-2014-1474489092422/"    
-end = "2014-02-26T18:30:00Z"
+time = "13:15:00"
+end_date = "2014-02-26"
+end_time = "18:30:00"
 location = "Outside Costcutter"
+
+original = "https://uwcs.co.uk/events/academic-trip-on-wed-26th-february-2014-1474489092422/"    
 +++
 
 We're doing a trip to the [National Museum of Computing](http://www.tnmoc.org/) in Bletchley. We shall be taking one of their 2 hour guided tours.

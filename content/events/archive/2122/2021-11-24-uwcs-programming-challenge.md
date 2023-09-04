@@ -1,11 +1,13 @@
 +++
 title = "🏆 UWCS Programming Challenge"
-date = "2021-11-24T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/uwcs-programming-challenge/"    
-end = "2021-11-24T20:00:00Z"
+time = "17:00:00"
+end_date = "2021-11-24"
+end_time = "20:00:00"
 location = "Department of Computer Science"
+
+original = "https://uwcs.co.uk/events/uwcs-programming-challenge/"    
 +++
 
 Come on down and tackle some cool programming problems, spread across a range of difficulties. The best teams will win prizes, and hey, maybe you'll learn something too\!

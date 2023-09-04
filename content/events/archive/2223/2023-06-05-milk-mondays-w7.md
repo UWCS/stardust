@@ -1,11 +1,13 @@
 +++
 title = "🍥 Milk Mondays W7 🍥"
-date = "2023-06-05T09:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/mm-22t3w7/"    
-end = "2023-06-05T13:00:00Z"
+time = "09:00:00"
+end_date = "2023-06-05"
+end_time = "13:00:00"
 location = "DCS Atrium"
+
+original = "https://uwcs.co.uk/events/mm-22t3w7/"    
 +++
 
 Can you believe that this is the *last* f͟i͟r͟s͟t 𝕞𝕚𝕝𝕜 𝕞𝕠𝕟𝕕𝕒𝕪 of the month for the academic year (think about it)? Well, it is! As per usual, we are providing __chocolate milk__, so it is necessary to stop-by and grab some!

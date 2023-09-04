@@ -1,11 +1,13 @@
 +++
 title = "Go Karting on Thu 23rd June 2016"
-date = "2016-06-23T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/go-karting-on-thu-23rd-june-2016-1474489118617/"    
-end = "2016-06-23T20:30:00Z"
+time = "17:00:00"
+end_date = "2016-06-23"
+end_time = "20:30:00"
 location = "Team Sport Karting"
+
+original = "https://uwcs.co.uk/events/go-karting-on-thu-23rd-june-2016-1474489118617/"    
 +++
 
 Go - Karting\!\!\!\!\!

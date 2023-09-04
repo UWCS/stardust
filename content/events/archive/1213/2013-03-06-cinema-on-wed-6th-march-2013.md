@@ -1,11 +1,13 @@
 +++
 title = "Cinema on Wed 6th March 2013"
-date = "2013-03-06T16:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/cinema-on-wed-6th-march-2013-1474489075255/"    
-end = "2013-03-06T20:00:00Z"
+time = "16:30:00"
+end_date = "2013-03-06"
+end_time = "20:00:00"
 location = "Cinema"
+
+original = "https://uwcs.co.uk/events/cinema-on-wed-6th-march-2013-1474489075255/"    
 +++
 
 We will be going to see Wreck-it Ralph in Odeon in Coventry. Unfortunately, the 2D Wreck-it Ralph is too early (at 1.30pm) therefore, we will watch the 3D one instead.

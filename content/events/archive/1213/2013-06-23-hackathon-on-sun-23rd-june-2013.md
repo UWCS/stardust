@@ -1,11 +1,13 @@
 +++
 title = "Hackathon on Sun 23rd June 2013"
-date = "2013-06-23T12:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/hackathon-on-sun-23rd-june-2013-1474489079147/"    
-end = "2013-06-24T12:00:00Z"
+time = "12:00:00"
+end_date = "2013-06-24"
+end_time = "12:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/hackathon-on-sun-23rd-june-2013-1474489079147/"    
 +++
 
 The Warwick hackathon for 'The Breakout' (see details below). Students with all kinds of skills are welcomed to contribute as much as they can. You'll be given credit for everything you do and the best work will be awarded, yet everyone will receive certificates. Food, drinks and amazing vibe will be provided too. The hackathons are supported by Google and there will be some free swag provided at the event\!

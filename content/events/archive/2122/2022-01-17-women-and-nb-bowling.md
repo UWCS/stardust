@@ -1,11 +1,13 @@
 +++
 title = "Women and NB Bowling"
-date = "2022-01-17T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/women-and-nb-bowling/"    
-end = "2022-01-07T21:00:00Z"
+time = "19:00:00"
+end_date = "2022-01-07"
+end_time = "21:00:00"
 location = "Leamington"
+
+original = "https://uwcs.co.uk/events/women-and-nb-bowling/"    
 +++
 
 Hey guys.

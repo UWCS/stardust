@@ -1,11 +1,13 @@
 +++
 title = "🗳️ One week until AGM Membership Deadline"
-date = "2023-01-27T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/agm-22-cutoff-1w/"    
-end = "2023-01-27T21:00:00Z"
+time = "19:00:00"
+end_date = "2023-01-27"
+end_time = "21:00:00"
 location = "warwicksu.com/societies-sports/societies/computing"
+
+original = "https://uwcs.co.uk/events/agm-22-cutoff-1w/"    
 +++
 
 By SU regulations, members elegible to vote in our AGM must be a member two weeks before the date of the election. 

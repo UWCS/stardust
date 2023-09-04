@@ -1,11 +1,13 @@
 +++
 title = "🎤 Grad Talks"
-date = "2023-02-01T13:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/grad-talks/"    
-end = "2023-02-01T15:00:00Z"
+time = "13:00:00"
+end_date = "2023-02-01"
+end_time = "15:00:00"
 location = "TBC"
+
+original = "https://uwcs.co.uk/events/grad-talks/"    
 +++
 
 A selection of Alumni will be giving a series of short talks on a variety of topics!

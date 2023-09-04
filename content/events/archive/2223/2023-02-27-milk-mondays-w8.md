@@ -1,11 +1,13 @@
 +++
 title = "🥛 Milk Mondays W8"
-date = "2023-02-27T10:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/mm-22t2w8/"    
-end = "2023-02-27T14:00:00Z"
+time = "10:00:00"
+end_date = "2023-02-27"
+end_time = "14:00:00"
 location = "DCs Atrium"
+
+original = "https://uwcs.co.uk/events/mm-22t2w8/"    
 +++
 
 at our recent agm, we elected our new exec (who we will introduce to you all very soon!) congrats to everyone who took part!

@@ -1,11 +1,13 @@
 +++
 title = "Circling + Pop on Wed 29th January 2014"
-date = "2014-01-29T19:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/circling-pop-on-wed-29th-january-2014-1474489090607/"    
-end = "2014-01-30T02:00:00Z"
+time = "19:30:00"
+end_date = "2014-01-30"
+end_time = "02:00:00"
 location = "Bar Fusion "
+
+original = "https://uwcs.co.uk/events/circling-pop-on-wed-29th-january-2014-1474489090607/"    
 +++
 
 Warwick Computing Society are planning another trip to the Copper Rooms for a midweek mayhem on Wednesday of Week 4 with the Anime Society.  

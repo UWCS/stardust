@@ -1,11 +1,13 @@
 +++
 title = "Gaming Session on Sat 12th February 2005"
-date = "2005-02-12T21:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/gaming-session-on-sat-12th-february-2005-1474488962019/"    
-end = "2005-02-13T04:00:00Z"
+time = "21:00:00"
+end_date = "2005-02-13"
+end_time = "04:00:00"
 location = "Physics Concourse Computer Rooms"
+
+original = "https://uwcs.co.uk/events/gaming-session-on-sat-12th-february-2005-1474488962019/"    
 +++
 
 Start late, finish early.  Possible Tesco Breakfasts for Dinner :)

@@ -1,11 +1,13 @@
 +++
 title = "End of Term Meal"
-date = "2020-03-13T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/end-term-meal-term-march-2020/"    
-end = "2020-03-13T20:00:00Z"
+time = "18:00:00"
+end_date = "2020-03-13"
+end_time = "20:00:00"
 location = "The Farmhouse, Coventry"
+
+original = "https://uwcs.co.uk/events/end-term-meal-term-march-2020/"    
 +++
 
 We're going to be having our end of term meal at the Farmhouse.  

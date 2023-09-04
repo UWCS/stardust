@@ -1,11 +1,13 @@
 +++
 title = "3D Printing Talk"
-date = "2018-11-27T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/3d-printing-talk/"    
-end = "2018-11-27T19:00:00Z"
+time = "18:00:00"
+end_date = "2018-11-27"
+end_time = "19:00:00"
 location = "MSB0.07"
+
+original = "https://uwcs.co.uk/events/3d-printing-talk/"    
 +++
 
 3D printing is a now-mainstream technology that can be used to fabricate props, trinkets, spare parts, digital art, and other items in plastic. Prints can be designed by a yourself, downloaded from the internet, or 3D scanned using dedicated applications.  

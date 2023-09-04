@@ -1,11 +1,13 @@
 +++
 title = "🍔 Weekly Pub Meal"
-date = "2022-10-10T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-meal-22t1w2/"    
-end = "2022-10-10T20:00:00Z"
+time = "18:00:00"
+end_date = "2022-10-10"
+end_time = "20:00:00"
 location = "Varsity"
+
+original = "https://uwcs.co.uk/events/pub-meal-22t1w2/"    
 +++
 
 Celebrate your first week of teaching with some food, while still staying (just) on campus. Entertain any older years with your questionable modules choices, and maybe get some emergency advice. :P

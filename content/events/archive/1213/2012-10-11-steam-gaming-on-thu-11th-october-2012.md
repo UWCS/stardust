@@ -1,11 +1,13 @@
 +++
 title = "Steam Gaming on Thu 11th October 2012"
-date = "2012-10-11T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/steam-gaming-on-thu-11th-october-2012-1474489067376/"    
-end = "2012-10-12T00:00:00Z"
+time = "20:00:00"
+end_date = "2012-10-12"
+end_time = "00:00:00"
 location = "The Internet"
+
+original = "https://uwcs.co.uk/events/steam-gaming-on-thu-11th-october-2012-1474489067376/"    
 +++
 
 Come and join us online for a few games of TF2

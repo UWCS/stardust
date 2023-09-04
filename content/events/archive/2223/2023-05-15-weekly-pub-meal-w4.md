@@ -1,11 +1,13 @@
 +++
 title = "🍝 Weekly Pub Meal W4 🍝"
-date = "2023-05-15T17:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-meal-22t3w4/"    
-end = "2023-05-15T20:00:00Z"
+time = "17:30:00"
+end_date = "2023-05-15"
+end_time = "20:00:00"
 location = "Dirty Duck"
+
+original = "https://uwcs.co.uk/events/pub-meal-22t3w4/"    
 +++
 
 Exams suck. We all know this. *Despite this,* please do take a break and go out for some fresh air! Whilst doing that, why don't you join us at our weekly pub meal?

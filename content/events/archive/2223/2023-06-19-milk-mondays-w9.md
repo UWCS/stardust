@@ -1,11 +1,13 @@
 +++
 title = "⋆⁺₊⋆ ☁️ Milk Mondays W9 ☁️ ⋆⁺₊⋆"
-date = "2023-06-19T09:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/mm-22t3w9/"    
-end = "2023-06-19T13:00:00Z"
+time = "09:00:00"
+end_date = "2023-06-19"
+end_time = "13:00:00"
 location = "DCS Atrium"
+
+original = "https://uwcs.co.uk/events/mm-22t3w9/"    
 +++
 
 Second to last 𝕞𝕚𝕝𝕜 𝕞𝕠𝕟𝕕𝕒𝕪!  If you are free, why not pass by and get some **free** 𝕞𝕚𝕝𝕜?

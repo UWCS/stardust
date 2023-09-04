@@ -1,11 +1,13 @@
 +++
 title = "LANimal Crossing"
-date = "2020-02-14T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/lanimal-crossing/"    
-end = "2020-02-16T18:00:00Z"
+time = "20:00:00"
+end_date = "2020-02-16"
+end_time = "18:00:00"
 location = "LIB 2"
+
+original = "https://uwcs.co.uk/events/lanimal-crossing/"    
 +++
 
 It's time for another LAN party\!  

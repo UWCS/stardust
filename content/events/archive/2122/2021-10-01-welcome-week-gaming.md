@@ -1,11 +1,13 @@
 +++
 title = "Welcome Week Gaming"
-date = "2021-10-01T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/welcome-week-gaming/"    
-end = "2021-10-02T07:00:00Z"
+time = "18:00:00"
+end_date = "2021-10-02"
+end_time = "07:00:00"
 location = "Department of Computer Science"
+
+original = "https://uwcs.co.uk/events/welcome-week-gaming/"    
 +++
 
 The first of our many weekly gaming nights. Join us in the Department of Computer Science building (DCS) for a night of PC, console, and VR gaming.

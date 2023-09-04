@@ -1,11 +1,13 @@
 +++
 title = "Clothing on Mon 9th February 2015"
-date = "2015-02-09T15:53:09Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/clothing-on-mon-9th-february-2015-1474489106274/"    
-end = "2015-02-16T23:00:00Z"
+time = "15:53:09"
+end_date = "2015-02-16"
+end_time = "23:00:00"
 location = "SU Website"
+
+original = "https://uwcs.co.uk/events/clothing-on-mon-9th-february-2015-1474489106274/"    
 +++
 
 If you'd like to order a hoodie or polo shirt (or both\!) here are the links:

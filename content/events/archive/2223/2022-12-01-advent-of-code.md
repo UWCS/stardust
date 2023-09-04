@@ -1,11 +1,13 @@
 +++
 title = "🗓️Advent of Code"
-date = "2022-12-01T10:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/aoc-22/"    
-end = "2022-12-25T23:00:00Z"
+time = "10:00:00"
+end_date = "2022-12-25"
+end_time = "23:00:00"
 location = "Online"
+
+original = "https://uwcs.co.uk/events/aoc-22/"    
 +++
 
 Advent of Code is a worldwide programming competition spanning the whole month of December! Many people use this as a chance to try a new language or brush up on an existing one.

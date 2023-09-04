@@ -1,11 +1,13 @@
 +++
 title = "Cybersecurity Capture the Flag by MWR InfoSecurity"
-date = "2018-11-10T10:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/cybersecurity-capture-flag-mwr-infosecurity/"    
-end = "2018-11-10T17:00:00Z"
+time = "10:00:00"
+end_date = "2018-11-10"
+end_time = "17:00:00"
 location = "CS0;06"
+
+original = "https://uwcs.co.uk/events/cybersecurity-capture-flag-mwr-infosecurity/"    
 +++
 
 We're hosting a cybersecurity event, in partnership with MWR InfoSecurity\!  

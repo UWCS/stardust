@@ -1,11 +1,13 @@
 +++
 title = "WUGLUG Meeting on Fri 26th January 2007"
-date = "2007-01-26T20:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/wuglug-meeting-on-fri-26th-january-2007-1474488989764/"    
-end = "2007-01-27T00:00:00Z"
+time = "20:30:00"
+end_date = "2007-01-27"
+end_time = "00:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/wuglug-meeting-on-fri-26th-january-2007-1474488989764/"    
 +++
 
 XING - a WUGLUG hackathon. Meeting in the Bar. Moving on to DCS for an evening of Free Software coding.

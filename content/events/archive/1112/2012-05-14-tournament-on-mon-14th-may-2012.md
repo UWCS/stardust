@@ -1,11 +1,13 @@
 +++
 title = "Tournament on Mon 14th May 2012"
-date = "2012-05-14T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/tournament-on-mon-14th-may-2012-1474489061767/"    
-end = "2012-06-27T18:00:00Z"
+time = "18:00:00"
+end_date = "2012-06-27"
+end_time = "18:00:00"
 location = "The Internet"
+
+original = "https://uwcs.co.uk/events/tournament-on-mon-14th-may-2012-1474489061767/"    
 +++
 
 Tournament page: <http://uwcs.co.uk/cms/about/gaming/SC2/>

@@ -1,11 +1,13 @@
 +++
 title = "LAN Party on Fri 7th May 2004"
-date = "2004-05-07T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/lan-party-on-fri-7th-may-2004-1474488955091/"    
-end = "2004-05-09T22:00:00Z"
+time = "19:00:00"
+end_date = "2004-05-09"
+end_time = "22:00:00"
 location = "Various Deprecated Locations"
+
+original = "https://uwcs.co.uk/events/lan-party-on-fri-7th-may-2004-1474488955091/"    
 +++
 
 Sorry for the delay, but we can now guarantee we won't knock out the power.

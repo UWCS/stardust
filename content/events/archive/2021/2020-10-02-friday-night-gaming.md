@@ -1,11 +1,13 @@
 +++
 title = "Friday Night Gaming"
-date = "2020-10-02T05:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/friday-night-gaming/"    
-end = "2020-10-02T23:00:00Z"
+time = "05:00:00"
+end_date = "2020-10-02"
+end_time = "23:00:00"
 location = "The UWCS Discord server: discord.uwcs.co.uk"
+
+original = "https://uwcs.co.uk/events/friday-night-gaming/"    
 +++
 
 Our first gaming session of the term\!  

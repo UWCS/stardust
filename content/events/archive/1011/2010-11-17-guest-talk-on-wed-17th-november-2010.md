@@ -1,11 +1,13 @@
 +++
 title = "Guest Talk on Wed 17th November 2010"
-date = "2010-11-17T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/guest-talk-on-wed-17th-november-2010-1474489044584/"    
-end = "2010-11-17T19:00:00Z"
+time = "18:00:00"
+end_date = "2010-11-17"
+end_time = "19:00:00"
 location = "S0.11"
+
+original = "https://uwcs.co.uk/events/guest-talk-on-wed-17th-november-2010-1474489044584/"    
 +++
 
 This talk will be from guest speaker Paul Yarrow, on the topic of "A New Dimension of Computing".

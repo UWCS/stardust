@@ -1,11 +1,13 @@
 +++
 title = "Tutorial on Wed 4th November 2009"
-date = "2009-11-04T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/tutorial-on-wed-4th-november-2009-1474489029466/"    
-end = "2009-11-04T19:00:00Z"
+time = "18:00:00"
+end_date = "2009-11-04"
+end_time = "19:00:00"
 location = "S0.10"
+
+original = "https://uwcs.co.uk/events/tutorial-on-wed-4th-november-2009-1474489029466/"    
 +++
 
 First will be a (reasonably) brief talk introducing Python to give you a flavour of the language. This should be accessible to everyone but it might be a bit quick for those who have not done any programming at all. My original intent was not to make it as an introduction to programming in general, but afterwards there should be some material to help you get started, and there will certainly be lots of people interested in programming to talk to\!

@@ -1,11 +1,13 @@
 +++
 title = "Guest Talk on Mon 11th February 2013"
-date = "2013-02-11T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/guest-talk-on-mon-11th-february-2013-1474489072428/"    
-end = "2013-02-11T18:00:00Z"
+time = "17:00:00"
+end_date = "2013-02-11"
+end_time = "18:00:00"
 location = "A023"
+
+original = "https://uwcs.co.uk/events/guest-talk-on-mon-11th-february-2013-1474489072428/"    
 +++
 
 Steven Jones from Coventry based company [ComputerMinds](http://www.computerminds.co.uk/) is coming in to give a talk on open source, Drupal and the web. ComputerMinds build dynamic, data driven websites for UK and European organisations. Steven Jones himself is a Maths graduate from Warwick and many of his colleagues are Computer Science graduates from Warwick.

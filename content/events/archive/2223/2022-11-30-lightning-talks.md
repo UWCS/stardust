@@ -1,11 +1,13 @@
 +++
 title = "⚡Lightning Talks"
-date = "2022-11-30T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/lightning-talks-22t1w7/"    
-end = "2022-11-30T18:30:00Z"
+time = "17:00:00"
+end_date = "2022-11-30"
+end_time = "18:30:00"
 location = "MB0.07"
+
+original = "https://uwcs.co.uk/events/lightning-talks-22t1w7/"    
 +++
 
 We'll have three short talks covering all manner of topics!

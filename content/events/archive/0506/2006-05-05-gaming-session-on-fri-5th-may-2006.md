@@ -1,11 +1,13 @@
 +++
 title = "Gaming Session on Fri 5th May 2006"
-date = "2006-05-05T21:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/gaming-session-on-fri-5th-may-2006-1474488979121/"    
-end = "2006-05-06T04:00:00Z"
+time = "21:00:00"
+end_date = "2006-05-06"
+end_time = "04:00:00"
 location = "Physics Concourse Computer Rooms"
+
+original = "https://uwcs.co.uk/events/gaming-session-on-fri-5th-may-2006-1474488979121/"    
 +++
 
 Our regular gaming sessions\! Come one and all\!

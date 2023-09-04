@@ -1,11 +1,13 @@
 +++
 title = "Gaming Session on Fri 19th October 2012"
-date = "2012-10-19T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/gaming-session-on-fri-19th-october-2012-1474489067562/"    
-end = "2012-10-20T08:00:00Z"
+time = "20:00:00"
+end_date = "2012-10-20"
+end_time = "08:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/gaming-session-on-fri-19th-october-2012-1474489067562/"    
 +++
 
 Comp soc take over the Department of Computer Science terminal rooms to play some games and program together.

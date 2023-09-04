@@ -1,11 +1,13 @@
 +++
 title = "🌐 xSoc Python Course START"
-date = "2022-10-04T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/xsoc-python-course-start/"    
-end = "2022-10-04T20:00:00Z"
+time = "18:00:00"
+end_date = "2022-10-04"
+end_time = "20:00:00"
 location = "OC0.03 then OC0.01"
+
+original = "https://uwcs.co.uk/events/xsoc-python-course-start/"    
 +++
 
 *Aimed at complete beginners to programming!*  Week 1 is kicking off with a talk from us outlining the course and some basic Python concepts, followed by a workshop session to put them in practice. This course will take you from a complete novice to creating a quiz program, so if you've fancied creating some gadgets, a website, or automating some daily task: this course will bring anyone up to speed!

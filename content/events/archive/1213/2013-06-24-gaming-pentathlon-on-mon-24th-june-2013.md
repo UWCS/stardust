@@ -1,11 +1,13 @@
 +++
 title = "Gaming Pentathlon on Mon 24th June 2013"
-date = "2013-06-24T16:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/gaming-pentathlon-on-mon-24th-june-2013-1474489078494/"    
-end = "2013-06-28T18:00:00Z"
+time = "16:00:00"
+end_date = "2013-06-28"
+end_time = "18:00:00"
 location = "LIB2"
+
+original = "https://uwcs.co.uk/events/gaming-pentathlon-on-mon-24th-june-2013-1474489078494/"    
 +++
 
 Welcome to the first pentathlon of BFL\! The 5 games this year are the following:

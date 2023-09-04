@@ -1,11 +1,13 @@
 +++
 title = "Pub Social on Mon 26th April 2010"
-date = "2010-04-26T18:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-social-on-mon-26th-april-2010-1474489038221/"    
-end = "2010-04-26T20:00:00Z"
+time = "18:30:00"
+end_date = "2010-04-26"
+end_time = "20:00:00"
 location = "The Phantom Coach"
+
+original = "https://uwcs.co.uk/events/pub-social-on-mon-26th-april-2010-1474489038221/"    
 +++
 
 Come join our weekly pub social

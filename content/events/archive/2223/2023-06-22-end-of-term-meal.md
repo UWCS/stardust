@@ -1,11 +1,13 @@
 +++
 title = "🍲 End of Term Meal 🍲"
-date = "2023-06-22T18:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/eot-meal-22t3/"    
-end = "2023-06-22T21:00:00Z"
+time = "18:30:00"
+end_date = "2023-06-22"
+end_time = "21:00:00"
 location = "Blue Orchid"
+
+original = "https://uwcs.co.uk/events/eot-meal-22t3/"    
 +++
 
 The end of term is *rapidly* approaching, and we'll be having our end of term meal on Wednesday Week 9. As the last one was so popular, we'll be going to **The Blue Orchid** again in Coventry at 19:30.

@@ -1,11 +1,13 @@
 +++
 title = "Academic Talk on Fri 11th October 2013"
-date = "2013-10-11T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/academic-talk-on-fri-11th-october-2013-1474489083377/"    
-end = "2013-10-11T18:00:00Z"
+time = "17:00:00"
+end_date = "2013-10-11"
+end_time = "18:00:00"
 location = "B2.02"
+
+original = "https://uwcs.co.uk/events/academic-talk-on-fri-11th-october-2013-1474489083377/"    
 +++
 
 After joining the society you get a free shell account (after requesting; [info](http://uwcs.co.uk/cms/about/services/hosting/member/)).

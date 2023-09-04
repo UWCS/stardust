@@ -1,11 +1,13 @@
 +++
 title = "🍻 End of Term Circle"
-date = "2023-03-13T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/circle-22t2w10/"    
-end = "2023-03-13T23:00:00Z"
+time = "20:00:00"
+end_date = "2023-03-13"
+end_time = "23:00:00"
 location = "Ivy House"
+
+original = "https://uwcs.co.uk/events/circle-22t2w10/"    
 +++
 
 We are circling 13 March 2023 20:00 at Ivy House! The theme will be **anything but a cup** - bring a container to drink out of during the circle that is not a cup! 

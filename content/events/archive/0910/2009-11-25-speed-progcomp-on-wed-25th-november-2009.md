@@ -1,11 +1,13 @@
 +++
 title = "Speed ProgComp on Wed 25th November 2009"
-date = "2009-11-25T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/speed-progcomp-on-wed-25th-november-2009-1474489031459/"    
-end = "2009-11-25T20:00:00Z"
+time = "18:00:00"
+end_date = "2009-11-25"
+end_time = "20:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/speed-progcomp-on-wed-25th-november-2009-1474489031459/"    
 +++
 
 Speed programming competition, open for anyone to enter.

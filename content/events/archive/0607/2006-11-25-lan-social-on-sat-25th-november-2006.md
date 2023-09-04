@@ -1,11 +1,13 @@
 +++
 title = "LAN Social on Sat 25th November 2006"
-date = "2006-11-25T16:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/lan-social-on-sat-25th-november-2006-1474488987211/"    
-end = "2006-11-25T17:30:00Z"
+time = "16:00:00"
+end_date = "2006-11-25"
+end_time = "17:30:00"
 location = "Varsity"
+
+original = "https://uwcs.co.uk/events/lan-social-on-sat-25th-november-2006-1474488987211/"    
 +++
 
 Mid-LAN social at the Varsity\! Take a break from the LAN for a cooked meal, or come along and join us even if you're not LANning\!

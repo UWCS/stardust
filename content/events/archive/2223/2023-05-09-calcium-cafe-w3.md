@@ -1,11 +1,13 @@
 +++
 title = "🍵 Calcium Café W3 🍵"
-date = "2023-05-09T16:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/compcafe-22t3w3/"    
-end = "2023-05-09T20:00:00Z"
+time = "16:00:00"
+end_date = "2023-05-09"
+end_time = "20:00:00"
 location = "CS0.01"
+
+original = "https://uwcs.co.uk/events/compcafe-22t3w3/"    
 +++
 
 **A one-time event, we will be combining Milk Monday with CompCafé due to the Bank Holiday!**

@@ -1,11 +1,13 @@
 +++
 title = "XING on Fri 31st October 2014"
-date = "2014-10-31T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/xing-on-fri-31st-october-2014-1474489102992/"    
-end = "2014-11-01T02:00:00Z"
+time = "20:00:00"
+end_date = "2014-11-01"
+end_time = "02:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/xing-on-fri-31st-october-2014-1474489102992/"    
 +++
 
 A get-together of people in DCS for programming and other related projects, in the other DCS lab at the same time as gaming.

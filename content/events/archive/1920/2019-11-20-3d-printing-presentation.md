@@ -1,11 +1,13 @@
 +++
 title = "3D Printing Presentation"
-date = "2019-11-20T13:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/3d-printing-presentation/"    
-end = "2019-11-20T14:00:00Z"
+time = "13:00:00"
+end_date = "2019-11-20"
+end_time = "14:00:00"
 location = "L5, Science Concourse"
+
+original = "https://uwcs.co.uk/events/3d-printing-presentation/"    
 +++
 
 For this week's Computing Society talk, Alex Dixon will be talking about 3D printing\! The talk will be in L5 on Wednesday the 20th of November, from 1-2pm.

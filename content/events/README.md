@@ -19,6 +19,9 @@ tags = ["Gaming", "Test"]
 
 [extra]
 time = "2:30pm"
+# Only required when different from the event (start) date
+end_date = "2023-01-01"
+end_time = "12:30pm"
 location = "CS0.01"
 
 icon = "bi-discord"

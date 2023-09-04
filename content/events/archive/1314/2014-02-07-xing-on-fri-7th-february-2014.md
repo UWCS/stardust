@@ -1,11 +1,13 @@
 +++
 title = "XING on Fri 7th February 2014"
-date = "2014-02-07T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/xing-on-fri-7th-february-2014-1474489091772/"    
-end = "2014-02-08T08:00:00Z"
+time = "20:00:00"
+end_date = "2014-02-08"
+end_time = "08:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/xing-on-fri-7th-february-2014-1474489091772/"    
 +++
 
 XING Is Not Gaming (it’s programming and stuff during gaming).

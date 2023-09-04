@@ -1,11 +1,13 @@
 +++
 title = "Gaming Session on Fri 6th November 2015"
-date = "2015-11-06T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/gaming-session-on-fri-6th-november-2015-1474489113762/"    
-end = "2015-11-07T08:00:00Z"
+time = "20:00:00"
+end_date = "2015-11-07"
+end_time = "08:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/gaming-session-on-fri-6th-november-2015-1474489113762/"    
 +++
 
 Mega gaming session from 8pm-8am in the Department of Computer Science.

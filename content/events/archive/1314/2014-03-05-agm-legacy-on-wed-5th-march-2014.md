@@ -1,11 +1,13 @@
 +++
 title = "AGM - Legacy on Wed 5th March 2014"
-date = "2014-03-05T13:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/agm-legacy-on-wed-5th-march-2014-1474489092557/"    
-end = "2014-03-05T14:00:00Z"
+time = "13:00:00"
+end_date = "2014-03-05"
+end_time = "14:00:00"
 location = "MS.04"
+
+original = "https://uwcs.co.uk/events/agm-legacy-on-wed-5th-march-2014-1474489092557/"    
 +++
 
 Election for the newly created Exec position of Publicity Officer - to create and distribute advertising materials, and increase awareness of the Society and our events across the University.

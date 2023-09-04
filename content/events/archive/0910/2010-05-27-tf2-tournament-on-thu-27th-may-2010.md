@@ -1,11 +1,13 @@
 +++
 title = "TF2 Tournament on Thu 27th May 2010"
-date = "2010-05-27T00:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/tf2-tournament-on-thu-27th-may-2010-1474489038745/"    
-end = "2010-05-27T00:00:00Z"
+time = "00:00:00"
+end_date = "2010-05-27"
+end_time = "00:00:00"
 location = "The Internet"
+
+original = "https://uwcs.co.uk/events/tf2-tournament-on-thu-27th-may-2010-1474489038745/"    
 +++
 
 It has been brought to our attention that Valve will be supporting a [community TF2 tournament](http://etf2l.org/2010/03/25/the-etf2l-highlander-community-challenge/) aimed at those who haven't played competitively and wouldn't mind having a go without getting trounced by pros.  

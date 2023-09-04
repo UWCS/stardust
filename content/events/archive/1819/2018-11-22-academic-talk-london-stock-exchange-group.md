@@ -1,11 +1,13 @@
 +++
 title = "Academic Talk: London Stock Exchange Group"
-date = "2018-11-22T00:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/academic-talk-london-stock-exchange-group/"    
-end = "2018-11-22T00:00:00Z"
+time = "00:00:00"
+end_date = "2018-11-22"
+end_time = "00:00:00"
 location = "TBC"
+
+original = "https://uwcs.co.uk/events/academic-talk-london-stock-exchange-group/"    
 +++
 
 Join us for our second academic talk of the year, hosted by one of our sponsors - the London Stock Exchange group\!  

@@ -1,11 +1,13 @@
 +++
 title = "Summer LAN"
-date = "2021-06-28T11:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/summer-bfl/"    
-end = "2021-07-02T22:00:00Z"
+time = "11:00:00"
+end_date = "2021-07-02"
+end_time = "22:00:00"
 location = "Remote - Discord"
+
+original = "https://uwcs.co.uk/events/summer-bfl/"    
 +++
 
 #### *aka CompSoc plays games and does stuff, aka post exam extravaganza*

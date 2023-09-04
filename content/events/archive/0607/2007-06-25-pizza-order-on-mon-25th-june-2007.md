@@ -1,11 +1,13 @@
 +++
 title = "Pizza Order on Mon 25th June 2007"
-date = "2007-06-25T21:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pizza-order-on-mon-25th-june-2007-1474488996886/"    
-end = "2007-06-25T21:00:00Z"
+time = "21:00:00"
+end_date = "2007-06-25"
+end_time = "21:00:00"
 location = "LIB2"
+
+original = "https://uwcs.co.uk/events/pizza-order-on-mon-25th-june-2007-1474488996886/"    
 +++
 
 From [Sicily pizza](http://mulletron.uwcs.co.uk/sicily.jpg)

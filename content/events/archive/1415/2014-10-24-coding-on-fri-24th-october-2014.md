@@ -1,11 +1,13 @@
 +++
 title = "Coding on Fri 24th October 2014"
-date = "2014-10-24T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/coding-on-fri-24th-october-2014-1474489102152/"    
-end = "2014-10-25T08:00:00Z"
+time = "20:00:00"
+end_date = "2014-10-25"
+end_time = "08:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/coding-on-fri-24th-october-2014-1474489102152/"    
 +++
 
 A get-together of people in DCS for programming and other related projects, in the other DCS lab at the same time as gaming.

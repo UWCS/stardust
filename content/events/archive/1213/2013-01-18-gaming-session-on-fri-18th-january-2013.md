@@ -1,11 +1,13 @@
 +++
 title = "Gaming Session on Fri 18th January 2013"
-date = "2013-01-18T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/gaming-session-on-fri-18th-january-2013-1474489072028/"    
-end = "2013-01-19T08:00:00Z"
+time = "20:00:00"
+end_date = "2013-01-19"
+end_time = "08:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/gaming-session-on-fri-18th-january-2013-1474489072028/"    
 +++
 
 Friday night gaming in DCS. We take over the DCS computers and get our consoles out.

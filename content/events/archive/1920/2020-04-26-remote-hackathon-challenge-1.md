@@ -1,11 +1,13 @@
 +++
 title = "Remote Hackathon - Challenge 1"
-date = "2020-04-26T23:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/remote-hack-challenge-1/"    
-end = "2020-05-10T22:59:00Z"
+time = "23:00:00"
+end_date = "2020-05-10"
+end_time = "22:59:00"
 location = "Remote"
+
+original = "https://uwcs.co.uk/events/remote-hack-challenge-1/"    
 +++
 
 **Update: We have extended the deadline to midnight on Sunday 10th May due to new information about the prizes.**

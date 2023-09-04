@@ -1,11 +1,13 @@
 +++
 title = "Extraordinary General Meeting"
-date = "2021-06-28T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/extraordinary-general-meeting/"    
-end = "2021-06-28T18:00:00Z"
+time = "17:00:00"
+end_date = "2021-06-28"
+end_time = "18:00:00"
 location = "Remote - Teams"
+
+original = "https://uwcs.co.uk/events/extraordinary-general-meeting/"    
 +++
 
 #### **Meeting Join Instructions**

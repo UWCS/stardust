@@ -1,11 +1,13 @@
 +++
 title = "⚙️Rust Course START"
-date = "2022-10-13T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/rust-course-start/"    
-end = "2022-10-13T20:00:00Z"
+time = "18:00:00"
+end_date = "2022-10-13"
+end_time = "20:00:00"
 location = "MS.01 / CS0.06"
+
+original = "https://uwcs.co.uk/events/rust-course-start/"    
 +++
 
 Are you ready to learn one of the most loved languages by developers? This week will introduce the course and the language! We'll be giving a primer lecture followed by you getting started on our first project!

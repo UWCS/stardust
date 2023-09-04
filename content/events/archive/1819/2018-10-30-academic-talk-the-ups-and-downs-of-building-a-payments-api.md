@@ -1,11 +1,13 @@
 +++
 title = "Academic Talk: \"The ups and downs of building a payments API\""
-date = "2018-10-30T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/academic-talk-chris-sinjakli-gocardless/"    
-end = "2018-10-30T18:00:00Z"
+time = "17:00:00"
+end_date = "2018-10-30"
+end_time = "18:00:00"
 location = "MSB0.07"
+
+original = "https://uwcs.co.uk/events/academic-talk-chris-sinjakli-gocardless/"    
 +++
 
 Talk description  

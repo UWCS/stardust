@@ -1,11 +1,13 @@
 +++
 title = "🎤 Industry Talk: Qube"
-date = "2022-11-02T14:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/talk-w5/"    
-end = "2022-11-02T16:00:00Z"
+time = "14:30:00"
+end_date = "2022-11-02"
+end_time = "16:00:00"
 location = "OC0.03"
+
+original = "https://uwcs.co.uk/events/talk-w5/"    
 +++
 
 Qube Research & Technologies (QRT) is a global quantitative and systematic investment manager, operating in all liquid asset classes across the world. We are a technology and data driven group implementing a scientific approach to investing. Combining data, research, technology and trading expertise has shaped QRT’s collaborative mindset which enables us to solve the most complex challenges. QRT’s culture of innovation continuously drives our ambition to deliver high quality returns for our investors.

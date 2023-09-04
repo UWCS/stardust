@@ -1,11 +1,13 @@
 +++
 title = "Progcomp on Sat 2nd June 2012"
-date = "2012-06-02T11:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/progcomp-on-sat-2nd-june-2012-1474489060203/"    
-end = "2012-06-02T16:00:00Z"
+time = "11:00:00"
+end_date = "2012-06-02"
+end_time = "16:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/progcomp-on-sat-2nd-june-2012-1474489060203/"    
 +++
 
 The Internet Problem Solving Contest is an online contest for teams consisting of up to three people. Several problems will be published at the beginning of the competition. Each problem consists of a problem description and two input data sets. To solve a problem you will have to compute correct output data for the given input data sets. Usually this means that you will write a program that solves the problem, but you may produce the output by hand or in any other way.

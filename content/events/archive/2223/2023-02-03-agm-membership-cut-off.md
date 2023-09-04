@@ -1,11 +1,13 @@
 +++
 title = "🗳️ AGM Membership Cut-Off"
-date = "2023-02-03T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/agm-22-cutoff/"    
-end = "2023-02-03T21:00:00Z"
+time = "19:00:00"
+end_date = "2023-02-03"
+end_time = "21:00:00"
 location = "warwicksu.com/societies-sports/societies/computing"
+
+original = "https://uwcs.co.uk/events/agm-22-cutoff/"    
 +++
 
 By SU regulations, members elegible to vote in our AGM must be a member two weeks before the date of the election.

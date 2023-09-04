@@ -1,11 +1,13 @@
 +++
 title = "🍔 Weekly Pub Meal W7"
-date = "2023-02-20T18:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-meal-22t2w7/"    
-end = "2023-02-20T21:00:00Z"
+time = "18:30:00"
+end_date = "2023-02-20"
+end_time = "21:00:00"
 location = "Phantom Coach"
+
+original = "https://uwcs.co.uk/events/pub-meal-22t2w7/"    
 +++
 
 Have some food, meet some people, be vaguely social.

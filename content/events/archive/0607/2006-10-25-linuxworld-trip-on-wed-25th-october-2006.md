@@ -1,11 +1,13 @@
 +++
 title = "LinuxWorld Trip on Wed 25th October 2006"
-date = "2006-10-25T12:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/linuxworld-trip-on-wed-25th-october-2006-1474488985277/"    
-end = "2006-10-25T20:00:00Z"
+time = "12:30:00"
+end_date = "2006-10-25"
+end_time = "20:00:00"
 location = "London"
+
+original = "https://uwcs.co.uk/events/linuxworld-trip-on-wed-25th-october-2006-1474488985277/"    
 +++
 
 The LUG is going to LinuxWorld in London. If you're interested, sign up here so that we have an idea of numbers. You can register in advance for free entry at www.linuxworldexpo.co.uk or tickets cost &£15 at the door.

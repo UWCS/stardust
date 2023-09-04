@@ -1,11 +1,13 @@
 +++
 title = "Gaming Session on Fri 11th May 2012"
-date = "2012-05-11T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/gaming-session-on-fri-11th-may-2012-1474489062684/"    
-end = "2012-05-12T08:00:00Z"
+time = "20:00:00"
+end_date = "2012-05-12"
+end_time = "08:00:00"
 location = "DCS"
+
+original = "https://uwcs.co.uk/events/gaming-session-on-fri-11th-may-2012-1474489062684/"    
 +++
 
 This week we are having a special Starcraft gaming to launch the tournament we are running this term\! This means there will be a lot of social Starcraft being played :D

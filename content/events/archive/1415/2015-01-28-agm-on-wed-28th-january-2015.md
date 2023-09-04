@@ -1,11 +1,13 @@
 +++
 title = "AGM on Wed 28th January 2015"
-date = "2015-01-28T15:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/agm-on-wed-28th-january-2015-1474489105748/"    
-end = "2015-01-28T16:00:00Z"
+time = "15:00:00"
+end_date = "2015-01-28"
+end_time = "16:00:00"
 location = "MS05"
+
+original = "https://uwcs.co.uk/events/agm-on-wed-28th-january-2015-1474489105748/"    
 +++
 
 The AGM is the opportunity for members to vote on changes to the society’s constitution, and also the time for members to elect the new executives of the society.

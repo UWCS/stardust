@@ -1,11 +1,13 @@
 +++
 title = "Pub Social on Mon 22nd April 2013"
-date = "2013-04-22T18:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-social-on-mon-22nd-april-2013-1474489076652/"    
-end = "2013-04-22T21:00:00Z"
+time = "18:30:00"
+end_date = "2013-04-22"
+end_time = "21:00:00"
 location = "The Phantom Coach"
+
+original = "https://uwcs.co.uk/events/pub-social-on-mon-22nd-april-2013-1474489076652/"    
 +++
 
 Come join us in the pub for the banter, pub grub and great conversation\!

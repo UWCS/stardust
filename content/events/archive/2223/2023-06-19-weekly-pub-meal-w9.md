@@ -1,11 +1,13 @@
 +++
 title = "⋆ ˚｡⋆🥞 Weekly Pub Meal W9 🥞⋆｡˚⋆"
-date = "2023-06-19T17:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-meal-22t3w9/"    
-end = "2023-06-19T20:00:00Z"
+time = "17:30:00"
+end_date = "2023-06-19"
+end_time = "20:00:00"
 location = "Dirty Duck"
+
+original = "https://uwcs.co.uk/events/pub-meal-22t3w9/"    
 +++
 
 The term is coming to an end, so we will be celebrating our second to last pub meal at the Dirty Duck!

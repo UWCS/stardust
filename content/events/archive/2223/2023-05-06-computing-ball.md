@@ -1,11 +1,13 @@
 +++
 title = "🪩 Computing Ball!"
-date = "2023-05-06T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/computing-ball/"    
-end = "2023-05-06T22:00:00Z"
+time = "18:00:00"
+end_date = "2023-05-06"
+end_time = "22:00:00"
 location = "Riverside Glasshouse"
+
+original = "https://uwcs.co.uk/events/computing-ball/"    
 +++
 
 Yes, you read that right, we're having a ball.
