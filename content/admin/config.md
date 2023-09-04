@@ -1,4 +1,4 @@
 +++
 title = "Admin Config"
-template = "admin/config.html"
+template = "admin/config.yml"
 +++
