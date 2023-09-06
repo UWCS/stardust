@@ -1,11 +1,11 @@
 +++
 title = "Milk Monday"
+date = "Monday 10am"
 
 [taxonomies]
 tags = ["Milk Monday"]
 
 [extra]
-time = "10am"
 end_time = "2pm"
 location = "DCS Atrium"
 

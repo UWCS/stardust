@@ -65,7 +65,6 @@ tags = ["Welcome Week", "Test"]
 
 [extra]
 time = "2:30pm"
-end = "2024-01-01T13:00:00"
 location = "CS0.01"
 
 icon = "bi-discord"

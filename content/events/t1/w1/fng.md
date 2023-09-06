@@ -1,11 +1,12 @@
 +++
 title = "Friday Night Gaming"
+date = "Friday 7pm"
 
 [taxonomies]
 tags = ["Friday Night Gaming"]
 
 [extra]
-time = "7pm-late"
+end_time = "late"
 location = "CS Dept"
 
 icon = "icons/fng.svg"

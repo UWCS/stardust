@@ -1,11 +1,11 @@
 +++
 title = "Pub Meal"
+date = "Wed 7pm"
 
 [taxonomies]
 tags = ["Pub Meal"]
 
 [extra]
-time = "7pm"
 end_time = "9pm"
 location = "Phantom Coach"
 location_url = "https://goo.gl/maps/wAptxmC4L7uajZEPA"
