@@ -1,12 +1,12 @@
 +++
 title = "Wildcards Event"
+date = "Thurs 6pm"
 
 [taxonomies]
 tags = ["Welcome Week", "Wildcards"]
 
 [extra]
-time = "6pm"
-end_time = "8pm"
+end_date = "8pm"
 location = ""
 
 icon = "ph-hand-waving"

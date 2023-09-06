@@ -1,12 +1,12 @@
 +++
 title = "Git Good Talk"
+date = "Wed 4pm"
 
 [taxonomies]
 tags = ["Welcome Week"]
 
 [extra]
-time = "4pm"
-end_time = "5pm"
+end_date = "5pm"
 location = "CS1.04?"
 
 icon = "ph-microphone-stage"
