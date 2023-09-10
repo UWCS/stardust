@@ -6,7 +6,7 @@ date = "Monday 10am"
 tags = ["Milk Monday"]
 
 [extra]
-end_date = "2pm"
+end_time = "2pm"
 location = "DCS Atrium"
 
 icon = "icons/milk.svg"

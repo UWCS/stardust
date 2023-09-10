@@ -6,7 +6,7 @@ date = "Mon 7pm"
 tags = ["Pub Meal"]
 
 [extra]
-end_date = "9pm"
+end_time = "9pm"
 location = "The Dirty Duck"
 
 icon = "ph-hamburger"

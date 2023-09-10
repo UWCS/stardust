@@ -6,7 +6,7 @@ date = "Wed 4pm"
 tags = ["Welcome Week"]
 
 [extra]
-end_date = "5pm"
+end_time = "5pm"
 location = "CS1.04?"
 
 icon = "ph-microphone-stage"

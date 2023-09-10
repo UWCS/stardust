@@ -6,7 +6,7 @@ date = "Thurs 6pm"
 tags = ["Welcome Week", "Wildcards"]
 
 [extra]
-end_date = "8pm"
+end_time = "8pm"
 location = ""
 
 icon = "ph-hand-waving"

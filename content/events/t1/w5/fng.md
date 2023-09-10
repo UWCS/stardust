@@ -6,7 +6,7 @@ date = "Friday 7pm"
 tags = ["Friday Night Gaming"]
 
 [extra]
-end_date = "late"
+end_time = "23:59"
 location = "CS Dept"
 
 icon = "icons/fng.svg"
