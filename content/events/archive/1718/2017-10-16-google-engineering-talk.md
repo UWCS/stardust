@@ -3,8 +3,7 @@ title = "Google Engineering Talk"
 
 [extra]
 time = "17:00:00"
-end_date = "2017-10-16"
-end_time = "18:00:00"
+end_time = "2017-10-16T18:00:00Z"
 location = "OC0.02, The Oculus Building"
 
 original = "https://uwcs.co.uk/events/google-engineering-talk/"    

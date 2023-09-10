@@ -3,8 +3,7 @@ title = "Annual General Meeting"
 
 [extra]
 time = "17:00:00"
-end_date = "2022-02-18"
-end_time = "19:00:00"
+end_time = "2022-02-18T19:00:00Z"
 location = "OC1.09 + Discord + Teams"
 
 original = "https://uwcs.co.uk/events/annual-general-meeting-2022/"    

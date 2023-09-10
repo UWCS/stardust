@@ -3,8 +3,7 @@ title = "Dolci Dessert Night"
 
 [extra]
 time = "18:00:00"
-end_date = "2020-02-25"
-end_time = "20:00:00"
+end_time = "2020-02-25T20:00:00Z"
 location = "Dolci Take Me Away, 25 Trinity Street, CV1 1FJ"
 
 original = "https://uwcs.co.uk/events/dolci-dessert-night/"    

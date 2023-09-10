@@ -3,8 +3,7 @@ title = "LAN Social on Sat 7th May 2005"
 
 [extra]
 time = "16:00:00"
-end_date = "2005-05-07"
-end_time = "18:45:00"
+end_time = "2005-05-07T18:45:00Z"
 location = "Varsity"
 
 original = "https://uwcs.co.uk/events/lan-social-on-sat-7th-may-2005-1474488968173/"    

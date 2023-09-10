@@ -3,8 +3,7 @@ title = "End of Term Meal"
 
 [extra]
 time = "18:00:00"
-end_date = "2019-03-15"
-end_time = "21:00:00"
+end_time = "2019-03-15T21:00:00Z"
 location = "The Farmhouse, Coventry"
 
 original = "https://uwcs.co.uk/events/end-term-meal/"    

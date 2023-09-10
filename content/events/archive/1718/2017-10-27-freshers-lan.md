@@ -3,8 +3,7 @@ title = "Freshers' LAN"
 
 [extra]
 time = "17:00:00"
-end_date = "2017-10-29"
-end_time = "18:00:00"
+end_time = "2017-10-29T18:00:00Z"
 location = "LIB2"
 
 original = "https://uwcs.co.uk/events/freshers-lan-2017/"    

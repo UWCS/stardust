@@ -3,8 +3,7 @@ title = "💾 Git Good Workshop"
 
 [extra]
 time = "14:00:00"
-end_date = "2022-10-05"
-end_time = "16:00:00"
+end_time = "2022-10-05T16:00:00Z"
 location = "CS0.01"
 
 original = "https://uwcs.co.uk/events/git-good-workshop/"    

@@ -3,8 +3,7 @@ title = "Savour Station on Wed 11th March 2015"
 
 [extra]
 time = "18:00:00"
-end_date = "2015-03-11"
-end_time = "19:15:00"
+end_time = "2015-03-11T19:15:00Z"
 location = "Savour Station"
 
 original = "https://uwcs.co.uk/events/savour-station-on-wed-11th-march-2015-1474489107343/"    

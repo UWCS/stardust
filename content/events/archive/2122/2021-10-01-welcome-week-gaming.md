@@ -3,8 +3,7 @@ title = "Welcome Week Gaming"
 
 [extra]
 time = "18:00:00"
-end_date = "2021-10-02"
-end_time = "07:00:00"
+end_time = "2021-10-02T07:00:00Z"
 location = "Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/welcome-week-gaming/"    

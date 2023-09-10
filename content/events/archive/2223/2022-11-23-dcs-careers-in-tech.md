@@ -3,8 +3,7 @@ title = "DCS: Careers in Tech"
 
 [extra]
 time = "17:00:00"
-end_date = "2022-11-23"
-end_time = "20:00:00"
+end_time = "2022-11-23T20:00:00Z"
 location = "Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/dcs-careers-in-tech/"    

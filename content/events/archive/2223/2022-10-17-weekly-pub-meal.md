@@ -3,8 +3,7 @@ title = "🍔 Weekly Pub Meal"
 
 [extra]
 time = "18:00:00"
-end_date = "2022-10-17"
-end_time = "20:00:00"
+end_time = "2022-10-17T20:00:00Z"
 location = "Phantom Coach"
 
 original = "https://uwcs.co.uk/events/pub-meal-22t1w3/"    

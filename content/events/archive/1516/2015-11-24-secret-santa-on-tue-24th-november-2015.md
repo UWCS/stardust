@@ -3,8 +3,7 @@ title = "Secret Santa on Tue 24th November 2015"
 
 [extra]
 time = "14:26:15"
-end_date = "2015-12-09"
-end_time = "19:00:00"
+end_time = "2015-12-09T19:00:00Z"
 location = "Christmas Meal"
 
 original = "https://uwcs.co.uk/events/secret-santa-on-tue-24th-november-2015-1474489114846/"    

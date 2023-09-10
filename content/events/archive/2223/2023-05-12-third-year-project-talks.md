@@ -3,8 +3,7 @@ title = "🎤 Third Year Project Talks"
 
 [extra]
 time = "12:00:00"
-end_date = "2023-05-12"
-end_time = "15:00:00"
+end_time = "2023-05-12T15:00:00Z"
 location = "OC1.05"
 
 original = "https://uwcs.co.uk/events/typt-22t3w3/"    

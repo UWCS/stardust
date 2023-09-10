@@ -3,8 +3,7 @@ title = "(Warwick) STEM Careers Fair"
 
 [extra]
 time = "11:00:00"
-end_date = "2022-11-01"
-end_time = "16:00:00"
+end_time = "2022-11-01T16:00:00Z"
 location = "Rootes Building (2nd Floor)"
 
 original = "https://uwcs.co.uk/events/warwick-stem-careers-fair/"    

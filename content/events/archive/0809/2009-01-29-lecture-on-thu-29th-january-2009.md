@@ -3,8 +3,7 @@ title = "Lecture on Thu 29th January 2009"
 
 [extra]
 time = "17:00:00"
-end_date = "2009-01-29"
-end_time = "18:30:00"
+end_time = "2009-01-29T18:30:00Z"
 location = "DCS"
 
 original = "https://uwcs.co.uk/events/lecture-on-thu-29th-january-2009-1474489019350/"    

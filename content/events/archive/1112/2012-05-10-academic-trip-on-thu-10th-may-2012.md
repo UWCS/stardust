@@ -3,8 +3,7 @@ title = "Academic Trip on Thu 10th May 2012"
 
 [extra]
 time = "09:00:00"
-end_date = "2012-05-10"
-end_time = "17:00:00"
+end_time = "2012-05-10T17:00:00Z"
 location = "Bletchley Park Trip"
 
 original = "https://uwcs.co.uk/events/academic-trip-on-thu-10th-may-2012-1474489064643/"    

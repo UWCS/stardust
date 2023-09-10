@@ -3,8 +3,7 @@ title = "Tutorial on Wed 4th November 2009"
 
 [extra]
 time = "18:00:00"
-end_date = "2009-11-04"
-end_time = "19:00:00"
+end_time = "2009-11-04T19:00:00Z"
 location = "S0.10"
 
 original = "https://uwcs.co.uk/events/tutorial-on-wed-4th-november-2009-1474489029466/"    

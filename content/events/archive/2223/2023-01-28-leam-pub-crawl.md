@@ -3,8 +3,7 @@ title = "🍻 Leam Pub Crawl"
 
 [extra]
 time = "18:30:00"
-end_date = "2023-01-28"
-end_time = "23:59:00"
+end_time = "2023-01-28T23:59:00Z"
 location = "Coventry"
 
 original = "https://uwcs.co.uk/events/pub-crawl-22t2/"    

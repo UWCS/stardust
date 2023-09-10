@@ -3,8 +3,7 @@ title = "🕹️ Friday Night Gaming (+ By-Elections!)W3"
 
 [extra]
 time = "18:00:00"
-end_date = "2023-05-12"
-end_time = "22:59:00"
+end_time = "2023-05-12T22:59:00Z"
 location = "Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/fng-22t3w3/"    

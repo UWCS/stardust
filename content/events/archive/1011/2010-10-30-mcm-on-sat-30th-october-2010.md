@@ -3,8 +3,7 @@ title = "MCM on Sat 30th October 2010"
 
 [extra]
 time = "07:00:30"
-end_date = "2010-10-30"
-end_time = "19:08:00"
+end_time = "2010-10-30T19:08:00Z"
 location = "London"
 
 original = "https://uwcs.co.uk/events/mcm-on-sat-30th-october-2010-1474489041972/"    

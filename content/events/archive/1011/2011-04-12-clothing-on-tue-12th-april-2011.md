@@ -3,8 +3,7 @@ title = "Clothing on Tue 12th April 2011"
 
 [extra]
 time = "07:18:27"
-end_date = "2011-05-01"
-end_time = "00:00:00"
+end_time = "2011-05-01T00:00:00Z"
 location = "N/A"
 
 original = "https://uwcs.co.uk/events/clothing-on-tue-12th-april-2011-1474489050064/"    

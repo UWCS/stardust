@@ -3,8 +3,7 @@ title = "💾 Raiding the Server Room"
 
 [extra]
 time = "14:00:00"
-end_date = "2022-11-16"
-end_time = "17:00:00"
+end_time = "2022-11-16T17:00:00Z"
 location = "Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/raiding-the-server-room/"    

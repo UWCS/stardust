@@ -3,8 +3,7 @@ title = "Exec Meeting [Term 1, Week 5]"
 
 [extra]
 time = "18:00:00"
-end_date = "2021-11-02"
-end_time = "19:00:00"
+end_time = "2021-11-02T19:00:00Z"
 location = "Discord"
 
 original = "https://uwcs.co.uk/events/exec-meeting-term-1-week-5-2122/"    

@@ -3,8 +3,7 @@ title = "Super Smash Bros on the Piazza"
 
 [extra]
 time = "17:00:00"
-end_date = "2017-01-27"
-end_time = "19:00:00"
+end_time = "2017-01-27T19:00:00Z"
 location = "The Piazza"
 
 original = "https://uwcs.co.uk/events/super-smash-bros-piazza/"    

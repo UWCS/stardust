@@ -3,8 +3,7 @@ title = "EGM on Fri 13th October 2006"
 
 [extra]
 time = "19:00:00"
-end_date = "2006-10-13"
-end_time = "20:00:00"
+end_time = "2006-10-13T20:00:00Z"
 location = "Meeting Room 6, Union North"
 
 original = "https://uwcs.co.uk/events/egm-on-fri-13th-october-2006-1474488985077/"    

@@ -3,8 +3,7 @@ title = "🍔 Pub Social [Term 2, Week 7]"
 
 [extra]
 time = "18:30:00"
-end_date = "2022-02-21"
-end_time = "22:00:00"
+end_time = "2022-02-21T22:00:00Z"
 location = "The Phantom Coach, Coventry"
 
 original = "https://uwcs.co.uk/events/pub-social-term-2-week-7-2122/"    

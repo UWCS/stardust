@@ -3,8 +3,7 @@ title = "MathSoc Ada Lovelace Day Talks"
 
 [extra]
 time = "13:00:00"
-end_date = "2020-10-14"
-end_time = "16:00:00"
+end_time = "2020-10-14T16:00:00Z"
 location = "Remote"
 
 original = "https://uwcs.co.uk/events/mathsoc-ada-lovelace-day-talks/"    

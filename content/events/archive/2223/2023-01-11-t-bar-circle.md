@@ -3,8 +3,7 @@ title = "🍻 T-Bar Circle"
 
 [extra]
 time = "19:15:00"
-end_date = "2023-01-11"
-end_time = "23:59:00"
+end_time = "2023-01-11T23:59:00Z"
 location = "T-Bar"
 
 original = "https://uwcs.co.uk/events/t-bar-circle/"    

@@ -3,8 +3,7 @@ title = "Creams Ice Cream Parlour Trip"
 
 [extra]
 time = "18:00:00"
-end_date = "2019-03-01"
-end_time = "20:00:00"
+end_time = "2019-03-01T20:00:00Z"
 location = "Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/creams-ice-cream-parlour-trip/"    

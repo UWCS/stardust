@@ -3,8 +3,7 @@ title = "Academic Trip on Sat 31st January 2015"
 
 [extra]
 time = "00:59:29"
-end_date = "2015-02-01"
-end_time = "01:59:29"
+end_time = "2015-02-01T01:59:29Z"
 location = "Brussels"
 
 original = "https://uwcs.co.uk/events/academic-trip-on-sat-31st-january-2015-1474489092651/"    

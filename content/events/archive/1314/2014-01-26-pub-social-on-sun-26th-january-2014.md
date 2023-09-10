@@ -3,8 +3,7 @@ title = "Pub Social on Sun 26th January 2014"
 
 [extra]
 time = "18:30:00"
-end_date = "2014-01-26"
-end_time = "20:00:00"
+end_time = "2014-01-26T20:00:00Z"
 location = "The Phantom Coach"
 
 original = "https://uwcs.co.uk/events/pub-social-on-sun-26th-january-2014-1474489080935/"    

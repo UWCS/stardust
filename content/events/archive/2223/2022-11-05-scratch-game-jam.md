@@ -3,8 +3,7 @@ title = "🖌️Scratch Game Jam"
 
 [extra]
 time = "15:00:00"
-end_date = "2022-11-05"
-end_time = "18:00:00"
+end_time = "2022-11-05T18:00:00Z"
 location = "Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/scratch-game-jam/"    

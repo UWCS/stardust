@@ -3,8 +3,7 @@ title = "Circling + Pop on Wed 29th January 2014"
 
 [extra]
 time = "19:30:00"
-end_date = "2014-01-30"
-end_time = "02:00:00"
+end_time = "2014-01-30T02:00:00Z"
 location = "Bar Fusion "
 
 original = "https://uwcs.co.uk/events/circling-pop-on-wed-29th-january-2014-1474489090607/"    

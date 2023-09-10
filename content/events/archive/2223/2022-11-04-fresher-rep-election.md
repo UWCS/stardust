@@ -3,8 +3,7 @@ title = "🗳️ Fresher Rep Election"
 
 [extra]
 time = "20:00:00"
-end_date = "2022-11-04"
-end_time = "21:00:00"
+end_time = "2022-11-04T21:00:00Z"
 location = "Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/fresher-rep-election/"    

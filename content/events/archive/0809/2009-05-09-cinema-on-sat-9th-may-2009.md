@@ -3,8 +3,7 @@ title = "Cinema on Sat 9th May 2009"
 
 [extra]
 time = "14:00:00"
-end_date = "2009-05-09"
-end_time = "17:00:00"
+end_time = "2009-05-09T17:00:00Z"
 location = "Millenium Point IMAX"
 
 original = "https://uwcs.co.uk/events/cinema-on-sat-9th-may-2009-1474489022661/"    

@@ -3,8 +3,7 @@ title = "🎤 Grad Talks"
 
 [extra]
 time = "13:00:00"
-end_date = "2023-02-01"
-end_time = "15:00:00"
+end_time = "2023-02-01T15:00:00Z"
 location = "TBC"
 
 original = "https://uwcs.co.uk/events/grad-talks/"    

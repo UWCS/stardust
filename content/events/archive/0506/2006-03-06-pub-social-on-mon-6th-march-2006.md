@@ -3,8 +3,7 @@ title = "Pub Social on Mon 6th March 2006"
 
 [extra]
 time = "18:00:00"
-end_date = "2006-03-06"
-end_time = "23:15:00"
+end_time = "2006-03-06T23:15:00Z"
 location = "The Old Clarence, Earlsdon"
 
 original = "https://uwcs.co.uk/events/pub-social-on-mon-6th-march-2006-1474488975753/"    

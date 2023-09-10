@@ -3,8 +3,7 @@ title = "🪩 Computing Ball!"
 
 [extra]
 time = "18:00:00"
-end_date = "2023-05-06"
-end_time = "22:00:00"
+end_time = "2023-05-06T22:00:00Z"
 location = "Riverside Glasshouse"
 
 original = "https://uwcs.co.uk/events/computing-ball/"    

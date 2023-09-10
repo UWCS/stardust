@@ -3,8 +3,7 @@ title = "Bowling on Tue 19th April 2005"
 
 [extra]
 time = "06:30:00"
-end_date = "2005-04-21"
-end_time = "23:00:00"
+end_time = "2005-04-21T23:00:00Z"
 location = "Leamington Bowl"
 
 original = "https://uwcs.co.uk/events/bowling-on-tue-19th-april-2005-1474488965024/"    

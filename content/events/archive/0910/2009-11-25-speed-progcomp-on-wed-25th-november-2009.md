@@ -3,8 +3,7 @@ title = "Speed ProgComp on Wed 25th November 2009"
 
 [extra]
 time = "18:00:00"
-end_date = "2009-11-25"
-end_time = "20:00:00"
+end_time = "2009-11-25T20:00:00Z"
 location = "DCS"
 
 original = "https://uwcs.co.uk/events/speed-progcomp-on-wed-25th-november-2009-1474489031459/"    

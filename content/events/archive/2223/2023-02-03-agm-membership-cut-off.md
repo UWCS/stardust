@@ -3,8 +3,7 @@ title = "🗳️ AGM Membership Cut-Off"
 
 [extra]
 time = "19:00:00"
-end_date = "2023-02-03"
-end_time = "21:00:00"
+end_time = "2023-02-03T21:00:00Z"
 location = "warwicksu.com/societies-sports/societies/computing"
 
 original = "https://uwcs.co.uk/events/agm-22-cutoff/"    

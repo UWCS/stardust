@@ -3,8 +3,7 @@ title = "CompSoc EGM"
 
 [extra]
 time = "12:00:00"
-end_date = "2017-10-25"
-end_time = "13:00:00"
+end_time = "2017-10-25T13:00:00Z"
 location = "S0.20, Social Sciences"
 
 original = "https://uwcs.co.uk/events/egm-2017-10-25/"    

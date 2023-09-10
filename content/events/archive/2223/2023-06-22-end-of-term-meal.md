@@ -3,8 +3,7 @@ title = "🍲 End of Term Meal 🍲"
 
 [extra]
 time = "18:30:00"
-end_date = "2023-06-22"
-end_time = "21:00:00"
+end_time = "2023-06-22T21:00:00Z"
 location = "Blue Orchid"
 
 original = "https://uwcs.co.uk/events/eot-meal-22t3/"    

@@ -3,8 +3,7 @@ title = "Progcomp on Fri 23rd November 2007"
 
 [extra]
 time = "20:00:00"
-end_date = "2007-11-25"
-end_time = "16:30:00"
+end_time = "2007-11-25T16:30:00Z"
 location = "Various Deprecated Locations"
 
 original = "https://uwcs.co.uk/events/progcomp-on-fri-23rd-november-2007-1474489002899/"    

@@ -3,8 +3,7 @@ title = "XING on Fri 14th February 2014"
 
 [extra]
 time = "20:00:00"
-end_date = "2014-02-15"
-end_time = "05:00:00"
+end_time = "2014-02-15T05:00:00Z"
 location = "DCS"
 
 original = "https://uwcs.co.uk/events/xing-on-fri-14th-february-2014-1474489092176/"    

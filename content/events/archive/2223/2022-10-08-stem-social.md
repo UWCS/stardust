@@ -3,8 +3,7 @@ title = "🥳 STEM Social?"
 
 [extra]
 time = "16:00:00"
-end_date = "2022-10-08"
-end_time = "19:00:00"
+end_time = "2022-10-08T19:00:00Z"
 location = "Copper Rooms"
 
 original = "https://uwcs.co.uk/events/stem-social/"    

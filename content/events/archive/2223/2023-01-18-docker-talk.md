@@ -3,8 +3,7 @@ title = "🎤 Docker Talk"
 
 [extra]
 time = "13:00:00"
-end_date = "2023-01-18"
-end_time = "15:00:00"
+end_time = "2023-01-18T15:00:00Z"
 location = "TBC"
 
 original = "https://uwcs.co.uk/events/docker-talk/"    

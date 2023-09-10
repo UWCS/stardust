@@ -3,8 +3,7 @@ title = "👕 Circle — Terrible Tops/T-shirts 👚"
 
 [extra]
 time = "18:00:00"
-end_date = "2023-06-21"
-end_time = "21:00:00"
+end_time = "2023-06-21T21:00:00Z"
 location = "Terrace Bar"
 
 original = "https://uwcs.co.uk/events/circle-22t3w9/"    

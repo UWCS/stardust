@@ -3,8 +3,7 @@ title = "Careers Workshop"
 
 [extra]
 time = "14:30:00"
-end_date = "2016-10-27"
-end_time = "16:00:00"
+end_time = "2016-10-27T16:00:00Z"
 location = "H0.51"
 
 original = "https://uwcs.co.uk/events/careers-workshop-assessment-centre-advice/"    

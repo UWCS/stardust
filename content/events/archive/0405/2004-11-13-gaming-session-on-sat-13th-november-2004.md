@@ -3,8 +3,7 @@ title = "Gaming Session on Sat 13th November 2004"
 
 [extra]
 time = "21:00:00"
-end_date = "2004-11-14"
-end_time = "04:00:00"
+end_time = "2004-11-14T04:00:00Z"
 location = "Physics Concourse Computer Rooms"
 
 original = "https://uwcs.co.uk/events/gaming-session-on-sat-13th-november-2004-1474488957026/"    

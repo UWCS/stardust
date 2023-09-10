@@ -3,8 +3,7 @@ title = "Optiver Webinar - Low Latency C++ Workshop"
 
 [extra]
 time = "13:00:00"
-end_date = "2020-10-27"
-end_time = "14:00:00"
+end_time = "2020-10-27T14:00:00Z"
 location = "Remote"
 
 original = "https://uwcs.co.uk/events/optiver-talk/"    

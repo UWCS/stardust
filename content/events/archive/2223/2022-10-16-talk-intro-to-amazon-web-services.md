@@ -3,8 +3,7 @@ title = "🎤 Talk: Intro to Amazon Web Services"
 
 [extra]
 time = "13:30:00"
-end_date = "2022-10-16"
-end_time = "15:00:00"
+end_time = "2022-10-16T15:00:00Z"
 location = "OC0.03"
 
 original = "https://uwcs.co.uk/events/talk-intro-to-amazon-web-services/"    

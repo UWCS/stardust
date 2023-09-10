@@ -3,8 +3,7 @@ title = "Chaplaincy Ball on Sat 26th June 2010"
 
 [extra]
 time = "20:00:00"
-end_date = "2010-06-27"
-end_time = "02:00:00"
+end_time = "2010-06-27T02:00:00Z"
 location = "Chaplaincy"
 
 original = "https://uwcs.co.uk/events/chaplaincy-ball-on-sat-26th-june-2010-1474489040733/"    

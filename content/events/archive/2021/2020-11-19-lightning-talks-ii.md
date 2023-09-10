@@ -3,8 +3,7 @@ title = "Lightning Talks II"
 
 [extra]
 time = "19:00:00"
-end_date = "2020-11-19"
-end_time = "20:00:00"
+end_time = "2020-11-19T20:00:00Z"
 location = "Remote - Microsoft Teams/Discord"
 
 original = "https://uwcs.co.uk/events/lightning-talks-ii/"    

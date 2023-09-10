@@ -3,8 +3,7 @@ title = "Extraordinary General Meeting"
 
 [extra]
 time = "17:00:00"
-end_date = "2021-12-03"
-end_time = "19:00:00"
+end_time = "2021-12-03T19:00:00Z"
 location = "OC1.09 + Teams + Discord"
 
 original = "https://uwcs.co.uk/events/extraordinary-general-meeting-nov-21/"    

@@ -3,8 +3,7 @@ title = "LAN Party on Fri 30th October 2015"
 
 [extra]
 time = "18:00:00"
-end_date = "2015-11-01"
-end_time = "18:00:00"
+end_time = "2015-11-01T18:00:00Z"
 location = "LIB2"
 
 original = "https://uwcs.co.uk/events/lan-party-on-fri-30th-october-2015-1474489110281/"    

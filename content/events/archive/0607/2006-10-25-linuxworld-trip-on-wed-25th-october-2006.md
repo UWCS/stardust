@@ -3,8 +3,7 @@ title = "LinuxWorld Trip on Wed 25th October 2006"
 
 [extra]
 time = "12:30:00"
-end_date = "2006-10-25"
-end_time = "20:00:00"
+end_time = "2006-10-25T20:00:00Z"
 location = "London"
 
 original = "https://uwcs.co.uk/events/linuxworld-trip-on-wed-25th-october-2006-1474488985277/"    

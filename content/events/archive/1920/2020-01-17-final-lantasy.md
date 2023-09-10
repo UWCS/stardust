@@ -3,8 +3,7 @@ title = "Final LANtasy"
 
 [extra]
 time = "20:00:00"
-end_date = "2020-01-19"
-end_time = "18:00:00"
+end_time = "2020-01-19T18:00:00Z"
 location = "LIB 2"
 
 original = "https://uwcs.co.uk/events/final-lantasy/"    

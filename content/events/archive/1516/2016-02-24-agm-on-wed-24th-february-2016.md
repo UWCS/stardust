@@ -3,8 +3,7 @@ title = "AGM on Wed 24th February 2016"
 
 [extra]
 time = "17:00:00"
-end_date = "2016-02-24"
-end_time = "18:30:00"
+end_time = "2016-02-24T18:30:00Z"
 location = "B2.01"
 
 original = "https://uwcs.co.uk/events/agm-on-wed-24th-february-2016-1474489116607/"    

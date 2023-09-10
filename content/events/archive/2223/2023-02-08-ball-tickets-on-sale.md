@@ -3,8 +3,7 @@ title = "🪩 Ball Tickets On Sale"
 
 [extra]
 time = "12:00:00"
-end_date = "2023-02-08"
-end_time = "13:00:00"
+end_time = "2023-02-08T13:00:00Z"
 location = "go.uwcs.uk/ball"
 
 original = "https://uwcs.co.uk/events/ball-tickets-on-sale/"    

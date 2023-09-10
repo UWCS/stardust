@@ -3,8 +3,7 @@ title = "Console Tournament on Fri 13th March 2015"
 
 [extra]
 time = "20:00:00"
-end_date = "2015-03-13"
-end_time = "22:00:00"
+end_time = "2015-03-13T22:00:00Z"
 location = "Piazza"
 
 original = "https://uwcs.co.uk/events/console-tournament-on-fri-13th-march-2015-1474489106794/"    

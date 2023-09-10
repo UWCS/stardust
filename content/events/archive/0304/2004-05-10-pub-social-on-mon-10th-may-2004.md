@@ -3,8 +3,7 @@ title = "Pub Social on Mon 10th May 2004"
 
 [extra]
 time = "19:30:00"
-end_date = "2004-05-10"
-end_time = "23:00:00"
+end_time = "2004-05-10T23:00:00Z"
 location = "The Newlands"
 
 original = "https://uwcs.co.uk/events/pub-social-on-mon-10th-may-2004-1474488953101/"    

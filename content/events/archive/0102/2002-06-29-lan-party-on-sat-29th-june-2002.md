@@ -3,8 +3,7 @@ title = "LAN Party on Sat 29th June 2002"
 
 [extra]
 time = "12:00:00"
-end_date = "2002-06-29"
-end_time = "12:00:00"
+end_time = "2002-06-29T12:00:00Z"
 location = "N/A"
 
 original = "https://uwcs.co.uk/events/lan-party-on-sat-29th-june-2002-1474488929896/"    

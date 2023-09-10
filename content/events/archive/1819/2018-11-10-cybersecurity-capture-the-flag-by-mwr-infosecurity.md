@@ -3,8 +3,7 @@ title = "Cybersecurity Capture the Flag by MWR InfoSecurity"
 
 [extra]
 time = "10:00:00"
-end_date = "2018-11-10"
-end_time = "17:00:00"
+end_time = "2018-11-10T17:00:00Z"
 location = "CS0;06"
 
 original = "https://uwcs.co.uk/events/cybersecurity-capture-flag-mwr-infosecurity/"    

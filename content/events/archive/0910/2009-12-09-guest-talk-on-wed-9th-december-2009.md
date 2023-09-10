@@ -3,8 +3,7 @@ title = "Guest Talk on Wed 9th December 2009"
 
 [extra]
 time = "18:30:00"
-end_date = "2009-12-09"
-end_time = "21:00:00"
+end_time = "2009-12-09T21:00:00Z"
 location = "Alan Berry building"
 
 original = "https://uwcs.co.uk/events/guest-talk-on-wed-9th-december-2009-1474489030940/"    

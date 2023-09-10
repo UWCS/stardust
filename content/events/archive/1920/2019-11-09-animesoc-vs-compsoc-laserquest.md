@@ -3,8 +3,7 @@ title = "AnimeSoc vs CompSoc LaserQuest"
 
 [extra]
 time = "14:00:00"
-end_date = "2019-11-09"
-end_time = "16:00:00"
+end_time = "2019-11-09T16:00:00Z"
 location = "LaserQuest, Coventry"
 
 original = "https://uwcs.co.uk/events/animesoc-vs-compsoc-laserquest/"    

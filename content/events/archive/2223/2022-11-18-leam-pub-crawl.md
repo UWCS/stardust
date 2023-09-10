@@ -3,8 +3,7 @@ title = "🍻 Leam Pub Crawl"
 
 [extra]
 time = "18:30:00"
-end_date = "2022-11-18"
-end_time = "23:59:00"
+end_time = "2022-11-18T23:59:00Z"
 location = "Leamington Spa"
 
 original = "https://uwcs.co.uk/events/pub-crawl-22t1/"    

@@ -3,8 +3,7 @@ title = "Pub Social"
 
 [extra]
 time = "17:30:00"
-end_date = "2019-06-10"
-end_time = "20:30:00"
+end_time = "2019-06-10T20:30:00Z"
 location = "Phantom Coach, Canley"
 
 original = "https://uwcs.co.uk/events/pub-2019-06-10/"    

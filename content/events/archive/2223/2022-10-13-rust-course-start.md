@@ -3,8 +3,7 @@ title = "⚙️Rust Course START"
 
 [extra]
 time = "18:00:00"
-end_date = "2022-10-13"
-end_time = "20:00:00"
+end_time = "2022-10-13T20:00:00Z"
 location = "MS.01 / CS0.06"
 
 original = "https://uwcs.co.uk/events/rust-course-start/"    

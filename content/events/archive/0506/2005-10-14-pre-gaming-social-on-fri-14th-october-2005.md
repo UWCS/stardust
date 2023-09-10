@@ -3,8 +3,7 @@ title = "Pre-Gaming Social on Fri 14th October 2005"
 
 [extra]
 time = "19:30:00"
-end_date = "2005-10-14"
-end_time = "22:00:00"
+end_time = "2005-10-14T22:00:00Z"
 location = "The Bar, Rootes Social Building"
 
 original = "https://uwcs.co.uk/events/pre-gaming-social-on-fri-14th-october-2005-1474488970208/"    

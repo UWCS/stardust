@@ -3,8 +3,7 @@ title = "Lan Tournament on Fri 8th March 2013"
 
 [extra]
 time = "21:00:00"
-end_date = "2013-03-08"
-end_time = "23:00:00"
+end_time = "2013-03-08T23:00:00Z"
 location = "LIB2"
 
 original = "https://uwcs.co.uk/events/lan-tournament-on-fri-8th-march-2013-1474489075377/"    

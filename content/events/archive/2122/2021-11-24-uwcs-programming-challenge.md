@@ -3,8 +3,7 @@ title = "🏆 UWCS Programming Challenge"
 
 [extra]
 time = "17:00:00"
-end_date = "2021-11-24"
-end_time = "20:00:00"
+end_time = "2021-11-24T20:00:00Z"
 location = "Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/uwcs-programming-challenge/"    

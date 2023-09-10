@@ -3,8 +3,7 @@ title = "Laserquest on Tue 28th February 2006"
 
 [extra]
 time = "00:30:00"
-end_date = "2006-03-09"
-end_time = "22:30:00"
+end_time = "2006-03-09T22:30:00Z"
 location = "Coventry Skydome"
 
 original = "https://uwcs.co.uk/events/laserquest-on-tue-28th-february-2006-1474488977296/"    

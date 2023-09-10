@@ -3,8 +3,7 @@ title = "Guest Talk on Wed 7th November 2007"
 
 [extra]
 time = "15:00:00"
-end_date = "2007-11-07"
-end_time = "16:00:00"
+end_time = "2007-11-07T16:00:00Z"
 location = "DCS"
 
 original = "https://uwcs.co.uk/events/guest-talk-on-wed-7th-november-2007-1474489002606/"    

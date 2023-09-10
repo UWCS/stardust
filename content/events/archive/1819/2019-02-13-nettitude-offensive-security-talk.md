@@ -3,8 +3,7 @@ title = "Nettitude Offensive Security Talk"
 
 [extra]
 time = "15:00:00"
-end_date = "2019-02-13"
-end_time = "17:00:00"
+end_time = "2019-02-13T17:00:00Z"
 location = "MB0.07"
 
 original = "https://uwcs.co.uk/events/nettitude-offensive-security-talk/"    

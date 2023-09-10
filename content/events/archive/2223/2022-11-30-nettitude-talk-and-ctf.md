@@ -3,8 +3,7 @@ title = "🚩 Nettitude Talk and CTF"
 
 [extra]
 time = "13:30:00"
-end_date = "2022-11-30"
-end_time = "17:00:00"
+end_time = "2022-11-30T17:00:00Z"
 location = "IMC246"
 
 original = "https://uwcs.co.uk/events/nettitude-talk-and-ctf/"    

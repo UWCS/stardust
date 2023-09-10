@@ -3,8 +3,7 @@ title = "Academic Trip on Sat 10th October 2009"
 
 [extra]
 time = "13:00:00"
-end_date = "2009-10-10"
-end_time = "17:00:00"
+end_time = "2009-10-10T17:00:00Z"
 location = "UK Solutions"
 
 original = "https://uwcs.co.uk/events/academic-trip-on-sat-10th-october-2009-1474489025941/"    

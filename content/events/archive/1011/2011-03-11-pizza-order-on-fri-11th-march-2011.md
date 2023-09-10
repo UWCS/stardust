@@ -3,8 +3,7 @@ title = "Pizza Order on Fri 11th March 2011"
 
 [extra]
 time = "21:00:00"
-end_date = "2011-03-11"
-end_time = "21:30:00"
+end_time = "2011-03-11T21:30:00Z"
 location = "LIB2"
 
 original = "https://uwcs.co.uk/events/pizza-order-on-fri-11th-march-2011-1474489049646/"    

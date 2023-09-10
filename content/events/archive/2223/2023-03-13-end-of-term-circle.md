@@ -3,8 +3,7 @@ title = "🍻 End of Term Circle"
 
 [extra]
 time = "20:00:00"
-end_date = "2023-03-13"
-end_time = "23:00:00"
+end_time = "2023-03-13T23:00:00Z"
 location = "Ivy House"
 
 original = "https://uwcs.co.uk/events/circle-22t2w10/"    

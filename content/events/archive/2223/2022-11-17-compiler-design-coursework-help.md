@@ -3,8 +3,7 @@ title = "🧠 Compiler Design Coursework Help"
 
 [extra]
 time = "17:00:00"
-end_date = "2022-11-17"
-end_time = "19:00:00"
+end_time = "2022-11-17T19:00:00Z"
 location = "CS0.06"
 
 original = "https://uwcs.co.uk/events/compiler-design-coursework-help/"    

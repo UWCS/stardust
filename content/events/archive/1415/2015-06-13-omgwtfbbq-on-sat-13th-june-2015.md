@@ -3,8 +3,7 @@ title = "OMGWTFBBQ on Sat 13th June 2015"
 
 [extra]
 time = "16:00:00"
-end_date = "2015-06-13"
-end_time = "20:00:00"
+end_time = "2015-06-13T20:00:00Z"
 location = "Behind Arthur Vic"
 
 original = "https://uwcs.co.uk/events/omgwtfbbq-on-sat-13th-june-2015-1474489109127/"    

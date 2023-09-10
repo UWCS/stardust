@@ -3,8 +3,7 @@ title = "LaserQuest"
 
 [extra]
 time = "17:30:00"
-end_date = "2017-06-16"
-end_time = "20:00:00"
+end_time = "2017-06-16T20:00:00Z"
 location = "LaserQuest Coventry"
 
 original = "https://uwcs.co.uk/events/laserquest-2017/"    

@@ -3,8 +3,7 @@ title = "Secret Santa on Fri 25th December 2009"
 
 [extra]
 time = "09:00:00"
-end_date = "2009-12-25"
-end_time = "10:00:00"
+end_time = "2009-12-25T10:00:00Z"
 location = "Wing Wah's"
 
 original = "https://uwcs.co.uk/events/secret-santa-on-fri-25th-december-2009-1474489032365/"    

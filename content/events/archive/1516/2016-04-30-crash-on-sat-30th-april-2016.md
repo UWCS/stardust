@@ -3,8 +3,7 @@ title = "Crash on Sat 30th April 2016"
 
 [extra]
 time = "22:00:00"
-end_date = "2016-05-01"
-end_time = "02:00:00"
+end_time = "2016-05-01T02:00:00Z"
 location = "Copper Rooms"
 
 original = "https://uwcs.co.uk/events/crash-on-sat-30th-april-2016-1474489118515/"    

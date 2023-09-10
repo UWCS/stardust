@@ -3,8 +3,7 @@ title = "UWCS Steam Event on Mon 4th January 2010"
 
 [extra]
 time = "21:00:00"
-end_date = "2010-01-05"
-end_time = "00:00:00"
+end_time = "2010-01-05T00:00:00Z"
 location = "The Internet"
 
 original = "https://uwcs.co.uk/events/uwcs-steam-event-on-mon-4th-january-2010-1474489034319/"    

@@ -3,8 +3,7 @@ title = "Academic Trip on Wed 18th November 2015"
 
 [extra]
 time = "09:30:00"
-end_date = "2015-11-18"
-end_time = "17:00:00"
+end_time = "2015-11-18T17:00:00Z"
 location = "IBM Hursley"
 
 original = "https://uwcs.co.uk/events/academic-trip-on-wed-18th-november-2015-1474489113026/"    

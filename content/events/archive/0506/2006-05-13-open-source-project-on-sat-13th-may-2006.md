@@ -3,8 +3,7 @@ title = "Open Source Project on Sat 13th May 2006"
 
 [extra]
 time = "18:00:00"
-end_date = "2006-05-13"
-end_time = "20:00:00"
+end_time = "2006-05-13T20:00:00Z"
 location = "Varsity"
 
 original = "https://uwcs.co.uk/events/open-source-project-on-sat-13th-may-2006-1474488983667/"    

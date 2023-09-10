@@ -3,8 +3,7 @@ title = "🍔 Weekly Pub Meal"
 
 [extra]
 time = "18:00:00"
-end_date = "2022-10-03"
-end_time = "20:00:00"
+end_time = "2022-10-03T20:00:00Z"
 location = "Dirty Duck"
 
 original = "https://uwcs.co.uk/events/week1-pub-meal/"    

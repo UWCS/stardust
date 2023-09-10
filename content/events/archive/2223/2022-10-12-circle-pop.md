@@ -3,8 +3,7 @@ title = "🎉 Circle & POP!"
 
 [extra]
 time = "18:00:00"
-end_date = "2022-10-12"
-end_time = "22:59:00"
+end_time = "2022-10-12T22:59:00Z"
 location = "Copper Rooms"
 
 original = "https://uwcs.co.uk/events/circle-22t1w2/"    

@@ -3,8 +3,7 @@ title = "👾 Friday Night Gaming W2"
 
 [extra]
 time = "18:00:00"
-end_date = "2023-05-05"
-end_time = "22:59:00"
+end_time = "2023-05-05T22:59:00Z"
 location = "Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/fng-22t3w2/"    

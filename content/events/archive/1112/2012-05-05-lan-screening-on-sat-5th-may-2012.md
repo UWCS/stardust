@@ -3,8 +3,7 @@ title = "Lan Screening on Sat 5th May 2012"
 
 [extra]
 time = "21:00:00"
-end_date = "2012-05-05"
-end_time = "23:00:00"
+end_time = "2012-05-05T23:00:00Z"
 location = "LIB2"
 
 original = "https://uwcs.co.uk/events/lan-screening-on-sat-5th-may-2012-1474489064787/"    

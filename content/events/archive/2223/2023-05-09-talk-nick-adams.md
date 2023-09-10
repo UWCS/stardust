@@ -3,8 +3,7 @@ title = "🎤 Talk: Nick Adams"
 
 [extra]
 time = "18:00:00"
-end_date = "2023-05-09"
-end_time = "19:00:00"
+end_time = "2023-05-09T19:00:00Z"
 location = "R1.15"
 
 original = "https://uwcs.co.uk/events/talk-guest-speaker-nick-adams/"    

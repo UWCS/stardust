@@ -3,8 +3,7 @@ title = "🎤🎮 Careers in Games (DCS)"
 
 [extra]
 time = "14:00:00"
-end_date = "2023-03-01"
-end_time = "14:00:00"
+end_time = "2023-03-01T14:00:00Z"
 location = "MS.02"
 
 original = "https://uwcs.co.uk/events/careers-in-games-dcs/"    

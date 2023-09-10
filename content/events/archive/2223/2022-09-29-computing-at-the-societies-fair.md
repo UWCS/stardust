@@ -3,8 +3,7 @@ title = "🙋‍♂️Computing at the Societies Fair"
 
 [extra]
 time = "10:00:00"
-end_date = "2022-09-29"
-end_time = "16:00:00"
+end_time = "2022-09-29T16:00:00Z"
 location = "Sports Hub"
 
 original = "https://uwcs.co.uk/events/computing-at-the-societies-fair/"    

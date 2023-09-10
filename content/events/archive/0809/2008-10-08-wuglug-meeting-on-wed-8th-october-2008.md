@@ -3,8 +3,7 @@ title = "WUGLUG Meeting on Wed 8th October 2008"
 
 [extra]
 time = "17:30:00"
-end_date = "2008-10-08"
-end_time = "18:30:00"
+end_time = "2008-10-08T18:30:00Z"
 location = "Ramphal R0.03/4"
 
 original = "https://uwcs.co.uk/events/wuglug-meeting-on-wed-8th-october-2008-1474489013998/"    

@@ -3,8 +3,7 @@ title = "🏃 WASD Submissions Close"
 
 [extra]
 time = "23:59:00"
-end_date = "2023-01-09"
-end_time = "23:59:00"
+end_time = "2023-01-09T23:59:00Z"
 location = "https://warwickspeed.run/"
 
 original = "https://uwcs.co.uk/events/wasd-submissions-close/"    

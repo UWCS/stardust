@@ -3,8 +3,7 @@ title = "Alton Towers Trip on Sat 1st October 2005"
 
 [extra]
 time = "08:00:00"
-end_date = "2005-10-08"
-end_time = "19:00:00"
+end_time = "2005-10-08T19:00:00Z"
 location = "Alton Towers"
 
 original = "https://uwcs.co.uk/events/alton-towers-trip-on-sat-1st-october-2005-1474488968899/"    

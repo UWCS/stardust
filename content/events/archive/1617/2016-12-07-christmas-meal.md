@@ -3,8 +3,7 @@ title = "Christmas Meal"
 
 [extra]
 time = "18:30:00"
-end_date = "2016-12-07"
-end_time = "21:00:00"
+end_time = "2016-12-07T21:00:00Z"
 location = "The Farmhouse Restaurant, Canley"
 
 original = "https://uwcs.co.uk/events/christmas-meal/"    

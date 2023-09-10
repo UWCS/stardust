@@ -3,8 +3,7 @@ title = "⚙️Rust Course 2"
 
 [extra]
 time = "18:00:00"
-end_date = "2022-10-20"
-end_time = "20:00:00"
+end_time = "2022-10-20T20:00:00Z"
 location = "Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/rust-course-2/"    

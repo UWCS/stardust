@@ -3,8 +3,7 @@ title = "Focus Testing on Thu 21st May 2009"
 
 [extra]
 time = "14:00:00"
-end_date = "2009-05-21"
-end_time = "16:00:00"
+end_time = "2009-05-21T16:00:00Z"
 location = "FreeStyleGames"
 
 original = "https://uwcs.co.uk/events/focus-testing-on-thu-21st-may-2009-1474489021908/"    

@@ -3,8 +3,7 @@ title = "Start of Term Meal"
 
 [extra]
 time = "17:30:00"
-end_date = "2017-04-28"
-end_time = "20:00:00"
+end_time = "2017-04-28T20:00:00Z"
 location = "The Farmhouse Restaurant, Canley, CV5 6HB"
 
 original = "https://uwcs.co.uk/events/start-term-meal/"    

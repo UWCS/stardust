@@ -3,8 +3,7 @@ title = "Google I/O Keynote Event"
 
 [extra]
 time = "16:00:00"
-end_date = "2017-05-17"
-end_time = "18:00:00"
+end_time = "2017-05-17T18:00:00Z"
 location = "OC0.01, The Oculus Building, Main Campus"
 
 original = "https://uwcs.co.uk/events/google-io-keynote-event/"    

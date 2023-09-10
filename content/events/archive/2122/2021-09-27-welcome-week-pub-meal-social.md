@@ -3,8 +3,7 @@ title = "Welcome Week Pub Meal Social"
 
 [extra]
 time = "17:30:00"
-end_date = "2021-09-27"
-end_time = "20:00:00"
+end_time = "2021-09-27T20:00:00Z"
 location = "The Phantom Coach"
 
 original = "https://uwcs.co.uk/events/welcome-week-pub-meal-social/"    

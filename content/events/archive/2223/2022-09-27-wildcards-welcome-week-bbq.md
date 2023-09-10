@@ -3,8 +3,7 @@ title = "🃏 Wildcards Welcome Week BBQ"
 
 [extra]
 time = "15:00:00"
-end_date = "2022-09-27"
-end_time = "17:00:00"
+end_time = "2022-09-27T17:00:00Z"
 location = "Windmill Hill"
 
 original = "https://uwcs.co.uk/events/wildcards-welcome-week-social/"    

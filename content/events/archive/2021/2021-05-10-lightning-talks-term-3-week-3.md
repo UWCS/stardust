@@ -3,8 +3,7 @@ title = "⚡ Lightning Talks [Term 3, Week 3]"
 
 [extra]
 time = "18:00:00"
-end_date = "2021-05-10"
-end_time = "19:00:00"
+end_time = "2021-05-10T19:00:00Z"
 location = "Remote - Discord"
 
 original = "https://uwcs.co.uk/events/lightning-talks-round-6/"    

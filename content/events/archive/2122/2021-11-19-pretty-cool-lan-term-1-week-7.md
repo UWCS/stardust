@@ -3,8 +3,7 @@ title = "🕹️ Pretty Cool LAN [Term 1, Week 7]"
 
 [extra]
 time = "19:00:00"
-end_date = "2021-11-21"
-end_time = "18:00:00"
+end_time = "2021-11-21T18:00:00Z"
 location = "LIB2, Library"
 
 original = "https://uwcs.co.uk/events/week-7-lan-2122/"    

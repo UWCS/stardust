@@ -3,8 +3,7 @@ title = "Skool Dayz Week 8"
 
 [extra]
 time = "19:00:00"
-end_date = "2017-11-26"
-end_time = "02:00:00"
+end_time = "2017-11-26T02:00:00Z"
 location = "The Copper Rooms"
 
 original = "https://uwcs.co.uk/events/skool-dayz-week-8/"    

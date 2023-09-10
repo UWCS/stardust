@@ -3,8 +3,7 @@ title = "🍔 End of Term Meal"
 
 [extra]
 time = "19:00:00"
-end_date = "2022-12-05"
-end_time = "21:00:00"
+end_time = "2022-12-05T21:00:00Z"
 location = "TBC"
 
 original = "https://uwcs.co.uk/events/end-of-term-meal-22t1/"    

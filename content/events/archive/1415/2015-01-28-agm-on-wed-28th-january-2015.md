@@ -3,8 +3,7 @@ title = "AGM on Wed 28th January 2015"
 
 [extra]
 time = "15:00:00"
-end_date = "2015-01-28"
-end_time = "16:00:00"
+end_time = "2015-01-28T16:00:00Z"
 location = "MS05"
 
 original = "https://uwcs.co.uk/events/agm-on-wed-28th-january-2015-1474489105748/"    

@@ -3,8 +3,7 @@ title = "Christmas Meal on Sat 1st May 2004"
 
 [extra]
 time = "16:00:00"
-end_date = "2004-05-01"
-end_time = "19:30:00"
+end_time = "2004-05-01T19:30:00Z"
 location = "The Royal Bengal, Coventry"
 
 original = "https://uwcs.co.uk/events/christmas-meal-on-sat-1st-may-2004-1474488954992/"    

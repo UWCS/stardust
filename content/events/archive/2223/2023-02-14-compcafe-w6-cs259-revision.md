@@ -3,8 +3,7 @@ title = "☕ CompCafé W6 + CS259 Revision"
 
 [extra]
 time = "17:00:00"
-end_date = "2023-02-14"
-end_time = "21:00:00"
+end_time = "2023-02-14T21:00:00Z"
 location = "CS0.01"
 
 original = "https://uwcs.co.uk/events/compcafe-22t2w6/"    

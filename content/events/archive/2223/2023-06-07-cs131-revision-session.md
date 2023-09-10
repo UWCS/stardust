@@ -3,8 +3,7 @@ title = "🧠 CS131 Revision Session"
 
 [extra]
 time = "13:00:00"
-end_date = "2023-06-07"
-end_time = "15:00:00"
+end_time = "2023-06-07T15:00:00Z"
 location = "MS0.01"
 
 original = "https://uwcs.co.uk/events/cs131-revision-2023/"    

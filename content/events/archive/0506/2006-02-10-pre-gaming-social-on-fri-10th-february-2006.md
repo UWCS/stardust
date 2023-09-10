@@ -3,8 +3,7 @@ title = "Pre-Gaming Social on Fri 10th February 2006"
 
 [extra]
 time = "19:00:00"
-end_date = "2006-02-10"
-end_time = "22:00:00"
+end_time = "2006-02-10T22:00:00Z"
 location = "The Bar, Rootes Social Building"
 
 original = "https://uwcs.co.uk/events/pre-gaming-social-on-fri-10th-february-2006-1474488976162/"    

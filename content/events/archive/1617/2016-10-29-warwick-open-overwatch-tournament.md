@@ -3,8 +3,7 @@ title = "Warwick Open Overwatch Tournament"
 
 [extra]
 time = "17:00:00"
-end_date = "2016-10-30"
-end_time = "02:00:00"
+end_time = "2016-10-30T02:00:00Z"
 location = "Lib 2"
 
 original = "https://uwcs.co.uk/events/warwick-open-overwatch-tournament/"    

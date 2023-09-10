@@ -3,8 +3,7 @@ title = "⚙️Rust Course 4 (Final)"
 
 [extra]
 time = "19:00:00"
-end_date = "2022-11-03"
-end_time = "21:00:00"
+end_time = "2022-11-03T21:00:00Z"
 location = "CS0.01"
 
 original = "https://uwcs.co.uk/events/rust-course-4-final/"    

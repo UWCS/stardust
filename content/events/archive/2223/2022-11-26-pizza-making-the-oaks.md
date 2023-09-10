@@ -3,8 +3,7 @@ title = "🍕Pizza Making @ The Oaks"
 
 [extra]
 time = "11:00:00"
-end_date = "2022-11-26"
-end_time = "14:00:00"
+end_time = "2022-11-26T14:00:00Z"
 location = "The Oaks"
 
 original = "https://uwcs.co.uk/events/pizza-making/"    

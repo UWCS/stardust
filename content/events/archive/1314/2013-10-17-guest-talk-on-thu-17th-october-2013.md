@@ -3,8 +3,7 @@ title = "Guest Talk on Thu 17th October 2013"
 
 [extra]
 time = "16:00:00"
-end_date = "2013-10-17"
-end_time = "17:00:00"
+end_time = "2013-10-17T17:00:00Z"
 location = "F25A"
 
 original = "https://uwcs.co.uk/events/guest-talk-on-thu-17th-october-2013-1474489086109/"    

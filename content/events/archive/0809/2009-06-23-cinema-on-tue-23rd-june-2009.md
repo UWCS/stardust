@@ -3,8 +3,7 @@ title = "Cinema on Tue 23rd June 2009"
 
 [extra]
 time = "22:30:00"
-end_date = "2009-06-24"
-end_time = "00:30:00"
+end_time = "2009-06-24T00:30:00Z"
 location = "Rootes Field"
 
 original = "https://uwcs.co.uk/events/cinema-on-tue-23rd-june-2009-1474489025544/"    

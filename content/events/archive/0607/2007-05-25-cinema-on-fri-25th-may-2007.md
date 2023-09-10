@@ -3,8 +3,7 @@ title = "Cinema on Fri 25th May 2007"
 
 [extra]
 time = "17:15:00"
-end_date = "2007-05-25"
-end_time = "20:00:00"
+end_time = "2007-05-25T20:00:00Z"
 location = "Warwick Student Cinema (L3)"
 
 original = "https://uwcs.co.uk/events/cinema-on-fri-25th-may-2007-1474488995748/"    

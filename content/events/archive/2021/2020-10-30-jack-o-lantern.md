@@ -3,8 +3,7 @@ title = "Jack-O-LANtern"
 
 [extra]
 time = "18:00:00"
-end_date = "2020-11-01"
-end_time = "18:00:00"
+end_time = "2020-11-01T18:00:00Z"
 location = "Remote - Discord"
 
 original = "https://uwcs.co.uk/events/friday-night-gaming-2020-10-30/"    

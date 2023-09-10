@@ -3,8 +3,7 @@ title = "Welcome Week: Welcome to the Computing Society!"
 
 [extra]
 time = "11:00:00"
-end_date = "2021-09-28"
-end_time = "12:00:00"
+end_time = "2021-09-28T12:00:00Z"
 location = "CS1.04, Department of Computer Science + Online"
 
 original = "https://uwcs.co.uk/events/welcome-week-welcome-to-the-computing-society/"    

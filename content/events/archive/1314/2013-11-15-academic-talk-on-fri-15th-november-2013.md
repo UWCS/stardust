@@ -3,8 +3,7 @@ title = "Academic Talk on Fri 15th November 2013"
 
 [extra]
 time = "17:00:00"
-end_date = "2013-11-15"
-end_time = "18:00:00"
+end_time = "2013-11-15T18:00:00Z"
 location = "MS.04"
 
 original = "https://uwcs.co.uk/events/academic-talk-on-fri-15th-november-2013-1474489087402/"    

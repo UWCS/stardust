@@ -3,8 +3,7 @@ title = "UWCS Linux 101 Talk"
 
 [extra]
 time = "18:00:00"
-end_date = "2017-10-10"
-end_time = "19:00:00"
+end_time = "2017-10-10T19:00:00Z"
 location = "CS1.04, Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/uwcs-linux-101-talk/"    

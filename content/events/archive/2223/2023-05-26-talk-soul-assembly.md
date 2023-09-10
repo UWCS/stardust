@@ -3,8 +3,7 @@ title = "🎤 Talk: Soul Assembly"
 
 [extra]
 time = "18:00:00"
-end_date = "2023-05-26"
-end_time = "19:00:00"
+end_time = "2023-05-26T19:00:00Z"
 location = "OC1.08"
 
 original = "https://uwcs.co.uk/events/talk-guest-speaker-barnaby-smith/"    

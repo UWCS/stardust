@@ -3,8 +3,7 @@ title = "「🥛 Milk Mondays W10 🥛」"
 
 [extra]
 time = "09:00:00"
-end_date = "2023-06-26"
-end_time = "13:00:00"
+end_time = "2023-06-26T13:00:00Z"
 location = "DCS Atrium"
 
 original = "https://uwcs.co.uk/events/mm-22t3w10/"    

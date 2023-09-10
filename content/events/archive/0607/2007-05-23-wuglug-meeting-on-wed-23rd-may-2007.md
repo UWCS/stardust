@@ -3,8 +3,7 @@ title = "WUGLUG Meeting on Wed 23rd May 2007"
 
 [extra]
 time = "18:00:00"
-end_date = "2007-05-23"
-end_time = "22:00:00"
+end_time = "2007-05-23T22:00:00Z"
 location = "The Phantom Coach"
 
 original = "https://uwcs.co.uk/events/wuglug-meeting-on-wed-23rd-may-2007-1474488992976/"    

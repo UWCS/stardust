@@ -3,8 +3,7 @@ title = "Welcome Week Talk: Git Good"
 
 [extra]
 time = "14:00:00"
-end_date = "2021-09-30"
-end_time = "15:00:00"
+end_time = "2021-09-30T15:00:00Z"
 location = "CS1.04, Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/welcome-week-talk-git-good/"    

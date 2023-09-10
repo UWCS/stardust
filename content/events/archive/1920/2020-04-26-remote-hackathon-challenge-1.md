@@ -3,8 +3,7 @@ title = "Remote Hackathon - Challenge 1"
 
 [extra]
 time = "23:00:00"
-end_date = "2020-05-10"
-end_time = "22:59:00"
+end_time = "2020-05-10T22:59:00Z"
 location = "Remote"
 
 original = "https://uwcs.co.uk/events/remote-hack-challenge-1/"    

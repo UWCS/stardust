@@ -3,8 +3,7 @@ title = "Barcraft on Sat 26th November 2011"
 
 [extra]
 time = "20:00:00"
-end_date = "2011-11-27"
-end_time = "00:00:00"
+end_time = "2011-11-27T00:00:00Z"
 location = "Dirty Duck"
 
 original = "https://uwcs.co.uk/events/barcraft-on-sat-26th-november-2011-1474489057143/"    

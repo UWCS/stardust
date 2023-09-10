@@ -3,8 +3,7 @@ title = "AGM + Elections"
 
 [extra]
 time = "18:00:00"
-end_date = "2020-02-28"
-end_time = "20:00:00"
+end_time = "2020-02-28T20:00:00Z"
 location = "OC1.01, Oculus Building"
 
 original = "https://uwcs.co.uk/events/agm-elections/"    

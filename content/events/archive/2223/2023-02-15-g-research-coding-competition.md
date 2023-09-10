@@ -3,8 +3,7 @@ title = "⚙️ G-Research Coding Competition"
 
 [extra]
 time = "14:00:00"
-end_date = "2023-02-15"
-end_time = "17:00:00"
+end_time = "2023-02-15T17:00:00Z"
 location = "CS0.06"
 
 original = "https://uwcs.co.uk/events/g-research-comp-22/"    

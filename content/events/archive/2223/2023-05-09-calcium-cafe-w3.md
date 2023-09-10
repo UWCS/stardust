@@ -3,8 +3,7 @@ title = "🍵 Calcium Café W3 🍵"
 
 [extra]
 time = "16:00:00"
-end_date = "2023-05-09"
-end_time = "20:00:00"
+end_time = "2023-05-09T20:00:00Z"
 location = "CS0.01"
 
 original = "https://uwcs.co.uk/events/compcafe-22t3w3/"    

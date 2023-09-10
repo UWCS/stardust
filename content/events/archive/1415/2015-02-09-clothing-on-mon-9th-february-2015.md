@@ -3,8 +3,7 @@ title = "Clothing on Mon 9th February 2015"
 
 [extra]
 time = "15:53:09"
-end_date = "2015-02-16"
-end_time = "23:00:00"
+end_time = "2015-02-16T23:00:00Z"
 location = "SU Website"
 
 original = "https://uwcs.co.uk/events/clothing-on-mon-9th-february-2015-1474489106274/"    

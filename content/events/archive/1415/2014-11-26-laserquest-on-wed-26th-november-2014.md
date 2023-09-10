@@ -3,8 +3,7 @@ title = "Laserquest on Wed 26th November 2014"
 
 [extra]
 time = "16:00:00"
-end_date = "2014-11-26"
-end_time = "17:20:00"
+end_time = "2014-11-26T17:20:00Z"
 location = "Laser Quest, Coventry"
 
 original = "https://uwcs.co.uk/events/laserquest-on-wed-26th-november-2014-1474489103972/"    

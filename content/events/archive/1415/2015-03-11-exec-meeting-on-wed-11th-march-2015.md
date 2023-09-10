@@ -3,8 +3,7 @@ title = "Exec Meeting on Wed 11th March 2015"
 
 [extra]
 time = "13:00:00"
-end_date = "2015-03-11"
-end_time = "14:00:00"
+end_time = "2015-03-11T14:00:00Z"
 location = "DCS"
 
 original = "https://uwcs.co.uk/events/exec-meeting-on-wed-11th-march-2015-1474489107469/"    

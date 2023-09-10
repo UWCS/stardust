@@ -3,8 +3,7 @@ title = "Git Good - Intro to git"
 
 [extra]
 time = "12:00:00"
-end_date = "2019-10-09"
-end_time = "13:00:00"
+end_time = "2019-10-09T13:00:00Z"
 location = "CS1.04, Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/git-good-introduction-git-talk/"    

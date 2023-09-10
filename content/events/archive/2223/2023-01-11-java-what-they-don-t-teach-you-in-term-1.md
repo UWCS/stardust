@@ -3,8 +3,7 @@ title = "🎤 Java: What They Don't Teach You in Term 1"
 
 [extra]
 time = "13:00:00"
-end_date = "2023-01-11"
-end_time = "15:00:00"
+end_time = "2023-01-11T15:00:00Z"
 location = "MS.02"
 
 original = "https://uwcs.co.uk/events/java-what-they-dont-teach-you-in-term-1/"    

@@ -3,8 +3,7 @@ title = "CompSoc AGM"
 
 [extra]
 time = "17:00:00"
-end_date = "2017-03-01"
-end_time = "19:00:00"
+end_time = "2017-03-01T19:00:00Z"
 location = "B2.02"
 
 original = "https://uwcs.co.uk/events/compsoc-agm/"    

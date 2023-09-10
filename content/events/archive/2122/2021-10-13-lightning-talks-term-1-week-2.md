@@ -3,8 +3,7 @@ title = "⚡ Lightning Talks [Term 1, Week 2]"
 
 [extra]
 time = "16:00:00"
-end_date = "2021-10-13"
-end_time = "17:30:00"
+end_time = "2021-10-13T17:30:00Z"
 location = "Teams + Discord"
 
 original = "https://uwcs.co.uk/events/lightning-talks-times-tbd/"    

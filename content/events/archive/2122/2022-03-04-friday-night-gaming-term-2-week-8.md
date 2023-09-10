@@ -3,8 +3,7 @@ title = "🎮 Friday Night Gaming [Term 2, Week 8]"
 
 [extra]
 time = "19:00:00"
-end_date = "2022-03-05"
-end_time = "00:00:00"
+end_time = "2022-03-05T00:00:00Z"
 location = "Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/friday-night-gaming-week-22-2122/"    

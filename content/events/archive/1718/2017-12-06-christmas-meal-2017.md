@@ -3,8 +3,7 @@ title = "Christmas Meal 2017"
 
 [extra]
 time = "17:45:00"
-end_date = "2017-12-06"
-end_time = "21:00:00"
+end_time = "2017-12-06T21:00:00Z"
 location = "The Farmhouse"
 
 original = "https://uwcs.co.uk/events/christmas-meal-2017/"    

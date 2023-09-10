@@ -3,8 +3,7 @@ title = "End of Term 1 Meal"
 
 [extra]
 time = "18:00:00"
-end_date = "2018-12-05"
-end_time = "21:00:00"
+end_time = "2018-12-05T21:00:00Z"
 location = "The Farmhouse, 215 Beechwood Avenue, Coventry"
 
 original = "https://uwcs.co.uk/events/end-term-1-meal/"    

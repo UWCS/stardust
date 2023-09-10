@@ -3,8 +3,7 @@ title = "AGM - Legacy on Fri 11th February 2005"
 
 [extra]
 time = "18:00:00"
-end_date = "2005-02-11"
-end_time = "21:00:00"
+end_time = "2005-02-11T21:00:00Z"
 location = "Meeting Room 3, Union North"
 
 original = "https://uwcs.co.uk/events/agm-legacy-on-fri-11th-february-2005-1474488964718/"    

@@ -3,8 +3,7 @@ title = "Christmas Meal on Fri 4th December 2009"
 
 [extra]
 time = "18:30:00"
-end_date = "2009-12-04"
-end_time = "23:59:59"
+end_time = "2009-12-04T23:59:59Z"
 location = "Wing Wah's"
 
 original = "https://uwcs.co.uk/events/christmas-meal-on-fri-4th-december-2009-1474489031558/"    

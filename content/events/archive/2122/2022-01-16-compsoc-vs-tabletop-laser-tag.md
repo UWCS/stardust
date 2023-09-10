@@ -3,8 +3,7 @@ title = "CompSoc vs Tabletop Laser Tag"
 
 [extra]
 time = "14:15:00"
-end_date = "2022-01-16"
-end_time = "16:00:00"
+end_time = "2022-01-16T16:00:00Z"
 location = "Laser Quest Coventry"
 
 original = "https://uwcs.co.uk/events/compsoc-vs-tabletop-laser-tag/"    

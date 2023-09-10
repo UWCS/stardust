@@ -3,8 +3,7 @@ title = "👻 Spooky Weekly Pub Meal"
 
 [extra]
 time = "19:00:00"
-end_date = "2022-10-31"
-end_time = "21:00:00"
+end_time = "2022-10-31T21:00:00Z"
 location = "The Flying Standard"
 
 original = "https://uwcs.co.uk/events/pub-meal-22t1w5/"    

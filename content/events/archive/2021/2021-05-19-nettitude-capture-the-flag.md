@@ -3,8 +3,7 @@ title = "Nettitude Capture the Flag"
 
 [extra]
 time = "13:00:00"
-end_date = "2021-05-19"
-end_time = "16:00:00"
+end_time = "2021-05-19T16:00:00Z"
 location = "Remote - Teams"
 
 original = "https://uwcs.co.uk/events/nettitude-capture-flag/"    

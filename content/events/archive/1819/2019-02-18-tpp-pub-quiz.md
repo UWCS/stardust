@@ -3,8 +3,7 @@ title = "TPP Pub Quiz"
 
 [extra]
 time = "19:00:00"
-end_date = "2019-02-18"
-end_time = "22:00:00"
+end_time = "2019-02-18T22:00:00Z"
 location = "The Graduate, University of Warwick"
 
 original = "https://uwcs.co.uk/events/pub-2019-02-18/"    

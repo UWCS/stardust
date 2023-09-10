@@ -3,8 +3,7 @@ title = "☀️UWCS Wildcards x Cyber Security Society BBQ"
 
 [extra]
 time = "13:30:00"
-end_date = "2023-05-10"
-end_time = "16:00:00"
+end_time = "2023-05-10T16:00:00Z"
 location = "Claycroft BBQ Spot (Exact Location Emailed)"
 
 original = "https://uwcs.co.uk/events/wildcards-bbq-22t3w3/"    

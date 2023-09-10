@@ -3,8 +3,7 @@ title = "Cinema on Thu 28th April 2005"
 
 [extra]
 time = "17:30:00"
-end_date = "2005-04-29"
-end_time = "22:00:00"
+end_time = "2005-04-29T22:00:00Z"
 location = "Coventry Skydome"
 
 original = "https://uwcs.co.uk/events/cinema-on-thu-28th-april-2005-1474488968065/"    

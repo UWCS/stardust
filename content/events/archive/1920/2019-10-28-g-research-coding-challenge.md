@@ -3,8 +3,7 @@ title = "G-Research Coding Challenge"
 
 [extra]
 time = "19:00:00"
-end_date = "2019-10-28"
-end_time = "21:00:00"
+end_time = "2019-10-28T21:00:00Z"
 location = "Department of Computer Science, CS0.01"
 
 original = "https://uwcs.co.uk/events/g-research-coding-challenge/"    

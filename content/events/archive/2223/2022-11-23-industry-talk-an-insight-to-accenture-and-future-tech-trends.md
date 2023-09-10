@@ -3,8 +3,7 @@ title = "🎤 Industry Talk: An insight to Accenture and Future Tech Trends"
 
 [extra]
 time = "14:30:00"
-end_date = "2022-11-23"
-end_time = "15:30:00"
+end_time = "2022-11-23T15:30:00Z"
 location = "Online"
 
 original = "https://uwcs.co.uk/events/talk-w7/"    

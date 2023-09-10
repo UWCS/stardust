@@ -3,8 +3,7 @@ title = "Techteam Meeting on Sat 14th May 2011"
 
 [extra]
 time = "18:00:00"
-end_date = "2011-05-14"
-end_time = "19:00:00"
+end_time = "2011-05-14T19:00:00Z"
 location = "LIB2"
 
 original = "https://uwcs.co.uk/events/techteam-meeting-on-sat-14th-may-2011-1474489051675/"    

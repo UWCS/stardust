@@ -3,8 +3,7 @@ title = "Pub Social on Mon 2nd November 2009"
 
 [extra]
 time = "18:30:00"
-end_date = "2009-11-02"
-end_time = "20:00:00"
+end_time = "2009-11-02T20:00:00Z"
 location = "The Phantom Coach"
 
 original = "https://uwcs.co.uk/events/pub-social-on-mon-2nd-november-2009-1474489029892/"    

@@ -3,8 +3,7 @@ title = "The LAN Before Christmas"
 
 [extra]
 time = "18:00:00"
-end_date = "2018-11-25"
-end_time = "18:00:00"
+end_time = "2018-11-25T18:00:00Z"
 location = "LIB2"
 
 original = "https://uwcs.co.uk/events/lan-2018-2/"    

@@ -3,8 +3,7 @@ title = "🎮 Wildcards Gaming"
 
 [extra]
 time = "16:00:00"
-end_date = "2022-10-26"
-end_time = "19:00:00"
+end_time = "2022-10-26T19:00:00Z"
 location = "Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/wildcards-gaming/"    

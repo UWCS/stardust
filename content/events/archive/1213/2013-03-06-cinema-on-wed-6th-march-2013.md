@@ -3,8 +3,7 @@ title = "Cinema on Wed 6th March 2013"
 
 [extra]
 time = "16:30:00"
-end_date = "2013-03-06"
-end_time = "20:00:00"
+end_time = "2013-03-06T20:00:00Z"
 location = "Cinema"
 
 original = "https://uwcs.co.uk/events/cinema-on-wed-6th-march-2013-1474489075255/"    

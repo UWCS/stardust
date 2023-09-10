@@ -3,8 +3,7 @@ title = "Pub Social on Mon 2nd October 2006"
 
 [extra]
 time = "18:00:00"
-end_date = "2006-10-02"
-end_time = "22:00:00"
+end_time = "2006-10-02T22:00:00Z"
 location = "The City Arms, Earlsdon"
 
 original = "https://uwcs.co.uk/events/pub-social-on-mon-2nd-october-2006-1474488984467/"    

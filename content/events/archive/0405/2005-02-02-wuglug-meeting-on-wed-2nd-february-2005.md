@@ -3,8 +3,7 @@ title = "WUGLUG Meeting on Wed 2nd February 2005"
 
 [extra]
 time = "18:00:00"
-end_date = "2005-02-02"
-end_time = "22:00:00"
+end_time = "2005-02-02T22:00:00Z"
 location = "Cafe Xanana"
 
 original = "https://uwcs.co.uk/events/wuglug-meeting-on-wed-2nd-february-2005-1474488963921/"    

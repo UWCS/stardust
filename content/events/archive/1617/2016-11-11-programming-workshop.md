@@ -3,8 +3,7 @@ title = "Programming Workshop"
 
 [extra]
 time = "20:00:00"
-end_date = "2016-11-12"
-end_time = "00:00:00"
+end_time = "2016-11-12T00:00:00Z"
 location = "CS001 Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/programming-workshop-6/"    

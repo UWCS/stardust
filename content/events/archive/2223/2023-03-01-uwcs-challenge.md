@@ -3,8 +3,7 @@ title = "🧠 UWCS Challenge"
 
 [extra]
 time = "16:00:00"
-end_date = "2023-03-01"
-end_time = "19:00:00"
+end_time = "2023-03-01T19:00:00Z"
 location = "CS0.01"
 
 original = "https://uwcs.co.uk/events/uwcs-challenge-22t2/"    

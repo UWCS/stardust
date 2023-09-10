@@ -3,8 +3,7 @@ title = "Cinema on Wed 11th March 2015"
 
 [extra]
 time = "15:30:00"
-end_date = "2015-03-11"
-end_time = "17:15:00"
+end_time = "2015-03-11T17:15:00Z"
 location = "Odeon, Coventry "
 
 original = "https://uwcs.co.uk/events/cinema-on-wed-11th-march-2015-1474489107216/"    

@@ -3,8 +3,7 @@ title = "Sonic the Hedgehog the Movie the Social the Event Page"
 
 [extra]
 time = "20:00:00"
-end_date = "2020-02-14"
-end_time = "23:00:00"
+end_time = "2020-02-14T23:00:00Z"
 location = "Sonic the Hedgehog the Movie the Odeon in Coventry"
 
 original = "https://uwcs.co.uk/events/sonic-hedgehog-movie-social-event-page/"    

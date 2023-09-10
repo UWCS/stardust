@@ -3,8 +3,7 @@ title = "Karting on Mon 16th February 2004"
 
 [extra]
 time = "09:45:00"
-end_date = "2004-02-18"
-end_time = "18:30:00"
+end_time = "2004-02-18T18:30:00Z"
 location = "Mr. Karting, Leamington"
 
 original = "https://uwcs.co.uk/events/karting-on-mon-16th-february-2004-1474488950564/"    

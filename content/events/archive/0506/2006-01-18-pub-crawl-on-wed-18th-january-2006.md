@@ -3,8 +3,7 @@ title = "Pub Crawl on Wed 18th January 2006"
 
 [extra]
 time = "17:30:00"
-end_date = "2006-01-18"
-end_time = "23:30:00"
+end_time = "2006-01-18T23:30:00Z"
 location = "Coventry Skydome"
 
 original = "https://uwcs.co.uk/events/pub-crawl-on-wed-18th-january-2006-1474488976572/"    

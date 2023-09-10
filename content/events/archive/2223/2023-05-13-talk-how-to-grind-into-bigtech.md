@@ -3,8 +3,7 @@ title = "🎤 Talk: How to Grind into BigTech"
 
 [extra]
 time = "16:00:00"
-end_date = "2023-05-13"
-end_time = "18:00:00"
+end_time = "2023-05-13T18:00:00Z"
 location = "CS1.04"
 
 original = "https://uwcs.co.uk/events/paperwork-talk-bigtech/"    

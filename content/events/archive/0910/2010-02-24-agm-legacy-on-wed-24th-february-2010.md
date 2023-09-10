@@ -3,8 +3,7 @@ title = "AGM - Legacy on Wed 24th February 2010"
 
 [extra]
 time = "16:30:00"
-end_date = "2010-02-24"
-end_time = "18:00:00"
+end_time = "2010-02-24T18:00:00Z"
 location = "S0.09"
 
 original = "https://uwcs.co.uk/events/agm-legacy-on-wed-24th-february-2010-1474489035244/"    

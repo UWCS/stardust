@@ -3,8 +3,7 @@ title = "How do you Vue?"
 
 [extra]
 time = "12:00:00"
-end_date = "2019-10-23"
-end_time = "13:00:00"
+end_time = "2019-10-23T13:00:00Z"
 location = "Department of Computer Science, CS1.04"
 
 original = "https://uwcs.co.uk/events/how-do-you-vue/"    

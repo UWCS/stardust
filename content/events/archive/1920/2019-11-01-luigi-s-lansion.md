@@ -3,8 +3,7 @@ title = "Luigi's LANsion"
 
 [extra]
 time = "19:00:00"
-end_date = "2019-11-03"
-end_time = "17:00:00"
+end_time = "2019-11-03T17:00:00Z"
 location = "LIB2"
 
 original = "https://uwcs.co.uk/events/lan-2019-1/"    

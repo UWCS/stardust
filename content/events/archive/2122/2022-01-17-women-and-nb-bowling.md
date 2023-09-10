@@ -3,8 +3,7 @@ title = "Women and NB Bowling"
 
 [extra]
 time = "19:00:00"
-end_date = "2022-01-07"
-end_time = "21:00:00"
+end_time = "2022-01-07T21:00:00Z"
 location = "Leamington"
 
 original = "https://uwcs.co.uk/events/women-and-nb-bowling/"    

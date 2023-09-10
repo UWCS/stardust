@@ -3,8 +3,7 @@ title = "🗓️Advent of Code"
 
 [extra]
 time = "10:00:00"
-end_date = "2022-12-25"
-end_time = "23:00:00"
+end_time = "2022-12-25T23:00:00Z"
 location = "Online"
 
 original = "https://uwcs.co.uk/events/aoc-22/"    

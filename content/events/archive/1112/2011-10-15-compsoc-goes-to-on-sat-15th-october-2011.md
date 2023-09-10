@@ -3,8 +3,7 @@ title = "Compsoc goes to: on Sat 15th October 2011"
 
 [extra]
 time = "20:00:00"
-end_date = "2011-10-16"
-end_time = "02:00:00"
+end_time = "2011-10-16T02:00:00Z"
 location = "Dirty Duck"
 
 original = "https://uwcs.co.uk/events/compsoc-goes-to-on-sat-15th-october-2011-1474489055333/"    

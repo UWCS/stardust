@@ -3,8 +3,7 @@ title = "❓ Quiz Night"
 
 [extra]
 time = "20:00:00"
-end_date = "2022-09-30"
-end_time = "21:30:00"
+end_time = "2022-09-30T21:30:00Z"
 location = "Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/quiz-night/"    

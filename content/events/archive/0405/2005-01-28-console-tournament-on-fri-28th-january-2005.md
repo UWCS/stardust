@@ -3,8 +3,7 @@ title = "Console Tournament on Fri 28th January 2005"
 
 [extra]
 time = "20:00:00"
-end_date = "2005-01-30"
-end_time = "18:00:00"
+end_time = "2005-01-30T18:00:00Z"
 location = "LIB2"
 
 original = "https://uwcs.co.uk/events/console-tournament-on-fri-28th-january-2005-1474488964625/"    

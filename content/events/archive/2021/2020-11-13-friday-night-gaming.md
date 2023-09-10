@@ -3,8 +3,7 @@ title = "Friday Night Gaming"
 
 [extra]
 time = "19:00:00"
-end_date = "2020-11-13"
-end_time = "23:59:00"
+end_time = "2020-11-13T23:59:00Z"
 location = "Remote - Discord"
 
 original = "https://uwcs.co.uk/events/friday-night-gaming-13-11-2020/"    

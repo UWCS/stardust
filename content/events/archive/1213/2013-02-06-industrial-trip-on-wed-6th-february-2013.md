@@ -3,8 +3,7 @@ title = "Industrial Trip on Wed 6th February 2013"
 
 [extra]
 time = "08:40:00"
-end_date = "2013-02-06"
-end_time = "17:30:00"
+end_time = "2013-02-06T17:30:00Z"
 location = "IBM Hursley"
 
 original = "https://uwcs.co.uk/events/industrial-trip-on-wed-6th-february-2013-1474489071731/"    

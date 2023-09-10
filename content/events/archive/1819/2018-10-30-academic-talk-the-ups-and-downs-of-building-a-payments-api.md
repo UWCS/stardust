@@ -3,8 +3,7 @@ title = "Academic Talk: \"The ups and downs of building a payments API\""
 
 [extra]
 time = "17:00:00"
-end_date = "2018-10-30"
-end_time = "18:00:00"
+end_time = "2018-10-30T18:00:00Z"
 location = "MSB0.07"
 
 original = "https://uwcs.co.uk/events/academic-talk-chris-sinjakli-gocardless/"    

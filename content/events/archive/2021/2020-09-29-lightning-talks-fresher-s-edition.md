@@ -3,8 +3,7 @@ title = "Lightning Talks - Fresher's Edition"
 
 [extra]
 time = "18:00:00"
-end_date = "2020-09-29"
-end_time = "19:00:00"
+end_time = "2020-09-29T19:00:00Z"
 location = "Remote - Microsoft Teams"
 
 original = "https://uwcs.co.uk/events/lightning-talks-freshers-2020/"    

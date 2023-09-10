@@ -3,8 +3,7 @@ title = "Handover Meal on Wed 6th March 2013"
 
 [extra]
 time = "20:00:00"
-end_date = "2013-03-06"
-end_time = "22:00:00"
+end_time = "2013-03-06T22:00:00Z"
 location = "Cosmo"
 
 original = "https://uwcs.co.uk/events/handover-meal-on-wed-6th-march-2013-1474489075043/"    

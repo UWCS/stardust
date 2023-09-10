@@ -3,8 +3,7 @@ title = "Tournament on Mon 14th May 2012"
 
 [extra]
 time = "18:00:00"
-end_date = "2012-06-27"
-end_time = "18:00:00"
+end_time = "2012-06-27T18:00:00Z"
 location = "The Internet"
 
 original = "https://uwcs.co.uk/events/tournament-on-mon-14th-may-2012-1474489061767/"    

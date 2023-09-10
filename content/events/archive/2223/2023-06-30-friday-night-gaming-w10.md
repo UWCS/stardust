@@ -3,8 +3,7 @@ title = "👾 Friday Night Gaming W10 👾"
 
 [extra]
 time = "18:00:00"
-end_date = "2023-06-30"
-end_time = "22:59:00"
+end_time = "2023-06-30T22:59:00Z"
 location = "DCS Atrium"
 
 original = "https://uwcs.co.uk/events/fng-22t3w10/"    

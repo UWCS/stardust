@@ -3,8 +3,7 @@ title = "Pub Social on Mon 29th September 2014"
 
 [extra]
 time = "18:30:00"
-end_date = "2014-09-29"
-end_time = "22:00:00"
+end_time = "2014-09-29T22:00:00Z"
 location = "Dirty Duck"
 
 original = "https://uwcs.co.uk/events/pub-social-on-mon-29th-september-2014-1474489100177/"    

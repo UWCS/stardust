@@ -3,8 +3,7 @@ title = "Industrial Trip on Wed 15th November 2006"
 
 [extra]
 time = "12:00:00"
-end_date = "2006-11-15"
-end_time = "19:15:00"
+end_time = "2006-11-15T19:15:00Z"
 location = "The Bar, Rootes Social Building"
 
 original = "https://uwcs.co.uk/events/industrial-trip-on-wed-15th-november-2006-1474488985378/"    

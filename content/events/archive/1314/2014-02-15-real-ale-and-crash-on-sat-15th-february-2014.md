@@ -3,8 +3,7 @@ title = "Real Ale and Crash!! on Sat 15th February 2014"
 
 [extra]
 time = "17:45:00"
-end_date = "2014-02-16"
-end_time = "03:00:00"
+end_time = "2014-02-16T03:00:00Z"
 location = "Copper Rooms"
 
 original = "https://uwcs.co.uk/events/real-ale-and-crash-on-sat-15th-february-2014-1474489074841/"    

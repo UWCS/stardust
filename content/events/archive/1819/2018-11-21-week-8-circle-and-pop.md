@@ -3,8 +3,7 @@ title = "Week 8 Circle and Pop!"
 
 [extra]
 time = "19:00:00"
-end_date = "2018-11-21"
-end_time = "22:00:00"
+end_time = "2018-11-21T22:00:00Z"
 location = "Fusion Bar"
 
 original = "https://uwcs.co.uk/events/week-8-circle-and-pop/"    

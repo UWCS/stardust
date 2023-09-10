@@ -3,8 +3,7 @@ title = "WGD Social on Thu 25th November 2010"
 
 [extra]
 time = "18:00:00"
-end_date = "2010-11-25"
-end_time = "20:00:00"
+end_time = "2010-11-25T20:00:00Z"
 location = "S0.28"
 
 original = "https://uwcs.co.uk/events/wgd-social-on-thu-25th-november-2010-1474489044279/"    

@@ -3,8 +3,7 @@ title = "🕹️ Ceci n'est pas un LAN [Term 2, Week 7]"
 
 [extra]
 time = "19:00:00"
-end_date = "2022-02-27"
-end_time = "18:00:00"
+end_time = "2022-02-27T18:00:00Z"
 location = "LIB2, Library"
 
 original = "https://uwcs.co.uk/events/week-21-lan-2122/"    

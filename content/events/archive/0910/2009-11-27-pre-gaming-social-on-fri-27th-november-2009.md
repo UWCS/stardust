@@ -3,8 +3,7 @@ title = "Pre-Gaming Social on Fri 27th November 2009"
 
 [extra]
 time = "18:00:00"
-end_date = "2009-11-27"
-end_time = "20:00:00"
+end_time = "2009-11-27T20:00:00Z"
 location = "Dirty Duck"
 
 original = "https://uwcs.co.uk/events/pre-gaming-social-on-fri-27th-november-2009-1474489031950/"    

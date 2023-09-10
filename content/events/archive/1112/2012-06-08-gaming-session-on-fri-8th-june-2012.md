@@ -3,8 +3,7 @@ title = "Gaming Session on Fri 8th June 2012"
 
 [extra]
 time = "20:00:00"
-end_date = "2012-06-09"
-end_time = "08:00:00"
+end_time = "2012-06-09T08:00:00Z"
 location = "DCS"
 
 original = "https://uwcs.co.uk/events/gaming-session-on-fri-8th-june-2012-1474489063076/"    

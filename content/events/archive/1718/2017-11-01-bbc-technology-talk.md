@@ -3,8 +3,7 @@ title = "BBC Technology Talk"
 
 [extra]
 time = "13:00:00"
-end_date = "2017-11-01"
-end_time = "14:00:00"
+end_time = "2017-11-01T14:00:00Z"
 location = "L4, Science Concourse"
 
 original = "https://uwcs.co.uk/events/bbc-technology-talk-2017/"    

@@ -3,8 +3,7 @@ title = "Social on Sat 1st November 2003"
 
 [extra]
 time = "00:00:00"
-end_date = "2003-11-15"
-end_time = "17:00:00"
+end_time = "2003-11-15T17:00:00Z"
 location = "Coventry Skydome"
 
 original = "https://uwcs.co.uk/events/social-on-sat-1st-november-2003-1474488946177/"    

@@ -3,8 +3,7 @@ title = "Pub Social on Mon 24th June 2013"
 
 [extra]
 time = "18:30:00"
-end_date = "2013-06-24"
-end_time = "19:30:00"
+end_time = "2013-06-24T19:30:00Z"
 location = "The Farmhouse"
 
 original = "https://uwcs.co.uk/events/pub-social-on-mon-24th-june-2013-1474489079896/"    

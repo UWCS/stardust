@@ -3,8 +3,7 @@ title = "G-Research Coding Challenge"
 
 [extra]
 time = "18:00:00"
-end_date = "2020-11-26"
-end_time = "20:00:00"
+end_time = "2020-11-26T20:00:00Z"
 location = "Remote"
 
 original = "https://uwcs.co.uk/events/g-research-coding-challenge-nov-2020/"    

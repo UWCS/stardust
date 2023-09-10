@@ -3,8 +3,7 @@ title = "Programming workshop on Tue 14th January 2014"
 
 [extra]
 time = "17:00:00"
-end_date = "2014-01-14"
-end_time = "19:00:00"
+end_time = "2014-01-14T19:00:00Z"
 location = "Curiositea"
 
 original = "https://uwcs.co.uk/events/programming-workshop-on-tue-14th-january-2014-1474489089395/"    

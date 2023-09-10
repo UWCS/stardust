@@ -3,8 +3,7 @@ title = "3D Printing Talk"
 
 [extra]
 time = "18:00:00"
-end_date = "2018-11-27"
-end_time = "19:00:00"
+end_time = "2018-11-27T19:00:00Z"
 location = "MSB0.07"
 
 original = "https://uwcs.co.uk/events/3d-printing-talk/"    

@@ -3,8 +3,7 @@ title = "Optimising to the Nanosecond - Optiver Talk"
 
 [extra]
 time = "13:00:00"
-end_date = "2020-03-04"
-end_time = "14:00:00"
+end_time = "2020-03-04T14:00:00Z"
 location = "L4, Science Concourse"
 
 original = "https://uwcs.co.uk/events/optimising-nanosecond-optiver-talk/"    

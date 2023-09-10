@@ -3,8 +3,7 @@ title = "🥞 Pancakes @ The Oaks"
 
 [extra]
 time = "17:00:00"
-end_date = "2023-03-02"
-end_time = "20:00:00"
+end_time = "2023-03-02T20:00:00Z"
 location = "The Oaks"
 
 original = "https://uwcs.co.uk/events/pancakes-the-oaks/"    

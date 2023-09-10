@@ -3,8 +3,7 @@ title = "🌐 xSoc Python Course Session 5"
 
 [extra]
 time = "19:00:00"
-end_date = "2022-11-01"
-end_time = "21:00:00"
+end_time = "2022-11-01T21:00:00Z"
 location = "OC0.03 / OC0.01"
 
 original = "https://uwcs.co.uk/events/xsoc-python-course-5/"    

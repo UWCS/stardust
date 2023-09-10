@@ -3,8 +3,7 @@ title = "Guest Talk on Wed 15th February 2012"
 
 [extra]
 time = "17:00:00"
-end_date = "2012-02-15"
-end_time = "18:00:00"
+end_time = "2012-02-15T18:00:00Z"
 location = "L5"
 
 original = "https://uwcs.co.uk/events/guest-talk-on-wed-15th-february-2012-1474489060003/"    

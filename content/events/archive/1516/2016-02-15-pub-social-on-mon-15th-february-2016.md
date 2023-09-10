@@ -3,8 +3,7 @@ title = "Pub Social on Mon 15th February 2016"
 
 [extra]
 time = "18:30:00"
-end_date = "2016-02-15"
-end_time = "20:00:00"
+end_time = "2016-02-15T20:00:00Z"
 location = "Varsity"
 
 original = "https://uwcs.co.uk/events/pub-social-on-mon-15th-february-2016-1474489115695/"    

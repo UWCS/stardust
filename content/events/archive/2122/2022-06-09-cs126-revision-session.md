@@ -3,8 +3,7 @@ title = "🧠 CS126 Revision Session"
 
 [extra]
 time = "13:00:00"
-end_date = "2022-06-09"
-end_time = "15:00:00"
+end_time = "2022-06-09T15:00:00Z"
 location = "MB0.08"
 
 original = "https://uwcs.co.uk/events/cs126-revision-2022/"    

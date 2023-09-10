@@ -3,8 +3,7 @@ title = "Football on Fri 22nd October 2010"
 
 [extra]
 time = "18:00:00"
-end_date = "2010-10-22"
-end_time = "20:00:00"
+end_time = "2010-10-22T20:00:00Z"
 location = "Field outside DCS"
 
 original = "https://uwcs.co.uk/events/football-on-fri-22nd-october-2010-1474489042933/"    

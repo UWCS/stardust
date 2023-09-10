@@ -3,8 +3,7 @@ title = "Nettitude Security CTF"
 
 [extra]
 time = "14:00:00"
-end_date = "2020-01-29"
-end_time = "18:00:00"
+end_time = "2020-01-29T18:00:00Z"
 location = "CS0.03, Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/nettitude-security-ctf/"    

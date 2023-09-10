@@ -3,8 +3,7 @@ title = "Week 9 POP+Circling"
 
 [extra]
 time = "19:00:00"
-end_date = "2017-11-29"
-end_time = "02:00:00"
+end_time = "2017-11-29T02:00:00Z"
 location = "The Copper Rooms"
 
 original = "https://uwcs.co.uk/events/week-9-popcircling/"    

@@ -3,8 +3,7 @@ title = "Progcomp on Sat 2nd June 2012"
 
 [extra]
 time = "11:00:00"
-end_date = "2012-06-02"
-end_time = "16:00:00"
+end_time = "2012-06-02T16:00:00Z"
 location = "DCS"
 
 original = "https://uwcs.co.uk/events/progcomp-on-sat-2nd-june-2012-1474489060203/"    

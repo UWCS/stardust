@@ -3,8 +3,7 @@ title = "Silver's 30th on Fri 3rd February 2012"
 
 [extra]
 time = "00:00:00"
-end_date = "2012-02-03"
-end_time = "23:59:59"
+end_time = "2012-02-03T23:59:59Z"
 location = "London"
 
 original = "https://uwcs.co.uk/events/silvers-30th-on-fri-3rd-february-2012-1474489059595/"    

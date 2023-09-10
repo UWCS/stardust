@@ -3,8 +3,7 @@ title = "Clothing on Mon 10th February 2014"
 
 [extra]
 time = "15:50:40"
-end_date = "2014-03-02"
-end_time = "17:00:00"
+end_time = "2014-03-02T17:00:00Z"
 location = "veltas"
 
 original = "https://uwcs.co.uk/events/clothing-on-mon-10th-february-2014-1474489092082/"    

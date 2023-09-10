@@ -3,8 +3,7 @@ title = "WASD Summer"
 
 [extra]
 time = "11:00:00"
-end_date = "2021-08-15"
-end_time = "22:00:00"
+end_time = "2021-08-15T22:00:00Z"
 location = "Remote - Twitch"
 
 original = "https://uwcs.co.uk/events/wasd-summer/"    

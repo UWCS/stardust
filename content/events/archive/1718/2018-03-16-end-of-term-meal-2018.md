@@ -3,8 +3,7 @@ title = "End of Term Meal 2018"
 
 [extra]
 time = "17:45:00"
-end_date = "2018-03-16"
-end_time = "21:00:00"
+end_time = "2018-03-16T21:00:00Z"
 location = "The Farmhouse"
 
 original = "https://uwcs.co.uk/events/exec-handover-meal-2018/"    

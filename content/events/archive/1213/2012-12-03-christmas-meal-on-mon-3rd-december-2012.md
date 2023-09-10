@@ -3,8 +3,7 @@ title = "Christmas Meal on Mon 3rd December 2012"
 
 [extra]
 time = "18:30:00"
-end_date = "2012-12-03"
-end_time = "22:00:00"
+end_time = "2012-12-03T22:00:00Z"
 location = "Wing Wah's"
 
 original = "https://uwcs.co.uk/events/christmas-meal-on-mon-3rd-december-2012-1474489068869/"    

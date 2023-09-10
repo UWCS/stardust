@@ -3,8 +3,7 @@ title = "Bowling on Wed 27th November 2002"
 
 [extra]
 time = "16:00:00"
-end_date = "2002-11-27"
-end_time = "18:00:00"
+end_time = "2002-11-27T18:00:00Z"
 location = "The Bar, Rootes Social Building"
 
 original = "https://uwcs.co.uk/events/bowling-on-wed-27th-november-2002-1474488936405/"    

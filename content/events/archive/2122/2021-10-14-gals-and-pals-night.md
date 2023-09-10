@@ -3,8 +3,7 @@ title = "Gals and Pals Night"
 
 [extra]
 time = "16:30:00"
-end_date = "2021-10-14"
-end_time = "18:00:00"
+end_time = "2021-10-14T18:00:00Z"
 location = "The Phantom Coach"
 
 original = "https://uwcs.co.uk/events/gals-and-pals-night/"    

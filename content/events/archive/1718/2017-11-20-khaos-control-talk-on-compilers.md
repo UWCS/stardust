@@ -3,8 +3,7 @@ title = "Khaos Control Talk on Compilers"
 
 [extra]
 time = "17:00:00"
-end_date = "2017-11-20"
-end_time = "18:00:00"
+end_time = "2017-11-20T18:00:00Z"
 location = "OC0.02, The Oculus Building"
 
 original = "https://uwcs.co.uk/events/khaos-control-talk-compilers/"    

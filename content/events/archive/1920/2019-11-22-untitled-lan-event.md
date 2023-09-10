@@ -3,8 +3,7 @@ title = "Untitled LAN Event"
 
 [extra]
 time = "19:00:00"
-end_date = "2019-11-24"
-end_time = "16:00:00"
+end_time = "2019-11-24T16:00:00Z"
 location = "LIB1&2"
 
 original = "https://uwcs.co.uk/events/lan-2019-2/"    

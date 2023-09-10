@@ -3,8 +3,7 @@ title = "🕹️ To Be Named LAN [Term 2, Week 2]"
 
 [extra]
 time = "19:00:00"
-end_date = "2022-01-23"
-end_time = "18:00:00"
+end_time = "2022-01-23T18:00:00Z"
 location = "LIB2, Library"
 
 original = "https://uwcs.co.uk/events/week-16-lan-2122/"    

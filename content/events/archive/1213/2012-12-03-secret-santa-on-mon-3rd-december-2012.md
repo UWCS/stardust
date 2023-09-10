@@ -3,8 +3,7 @@ title = "Secret Santa on Mon 3rd December 2012"
 
 [extra]
 time = "20:00:00"
-end_date = "2012-12-03"
-end_time = "22:00:00"
+end_time = "2012-12-03T22:00:00Z"
 location = "The World"
 
 original = "https://uwcs.co.uk/events/secret-santa-on-mon-3rd-december-2012-1474489069218/"    

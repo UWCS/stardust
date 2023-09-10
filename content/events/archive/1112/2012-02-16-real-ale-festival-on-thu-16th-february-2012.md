@@ -3,8 +3,7 @@ title = "Real Ale Festival  on Thu 16th February 2012"
 
 [extra]
 time = "18:30:00"
-end_date = "2012-02-17"
-end_time = "00:00:00"
+end_time = "2012-02-17T00:00:00Z"
 location = "Dirty Duck"
 
 original = "https://uwcs.co.uk/events/real-ale-festival-on-thu-16th-february-2012-1474489060535/"    

@@ -3,8 +3,7 @@ title = "Summer LAN"
 
 [extra]
 time = "11:00:00"
-end_date = "2021-07-02"
-end_time = "22:00:00"
+end_time = "2021-07-02T22:00:00Z"
 location = "Remote - Discord"
 
 original = "https://uwcs.co.uk/events/summer-bfl/"    

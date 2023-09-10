@@ -3,8 +3,7 @@ title = "Football on Sun 2nd June 2013"
 
 [extra]
 time = "11:00:00"
-end_date = "2013-06-02"
-end_time = "12:00:00"
+end_time = "2013-06-02T12:00:00Z"
 location = "Westwood Tarkett Pitch"
 
 original = "https://uwcs.co.uk/events/football-on-sun-2nd-june-2013-1474489079350/"    

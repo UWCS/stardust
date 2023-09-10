@@ -3,8 +3,7 @@ title = "Bowling on Fri 28th October 2005"
 
 [extra]
 time = "12:30:00"
-end_date = "2005-11-01"
-end_time = "23:30:00"
+end_time = "2005-11-01T23:30:00Z"
 location = "Leamington Bowl"
 
 original = "https://uwcs.co.uk/events/bowling-on-fri-28th-october-2005-1474488972712/"    

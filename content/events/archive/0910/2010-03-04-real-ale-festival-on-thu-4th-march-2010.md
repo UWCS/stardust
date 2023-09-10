@@ -3,8 +3,7 @@ title = "Real Ale Festival  on Thu 4th March 2010"
 
 [extra]
 time = "19:00:00"
-end_date = "2010-03-05"
-end_time = "00:00:00"
+end_time = "2010-03-05T00:00:00Z"
 location = "Copper Rooms"
 
 original = "https://uwcs.co.uk/events/real-ale-festival-on-thu-4th-march-2010-1474489036038/"    

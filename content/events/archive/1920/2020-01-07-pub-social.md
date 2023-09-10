@@ -3,8 +3,7 @@ title = "Pub Social"
 
 [extra]
 time = "19:00:00"
-end_date = "2020-01-07"
-end_time = "22:00:00"
+end_time = "2020-01-07T22:00:00Z"
 location = "Department of Computer Science"
 
 original = "https://uwcs.co.uk/events/pub-social-2020-01-07/"    

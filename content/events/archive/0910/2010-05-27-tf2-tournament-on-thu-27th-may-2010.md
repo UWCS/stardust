@@ -3,8 +3,7 @@ title = "TF2 Tournament on Thu 27th May 2010"
 
 [extra]
 time = "00:00:00"
-end_date = "2010-05-27"
-end_time = "00:00:00"
+end_time = "2010-05-27T00:00:00Z"
 location = "The Internet"
 
 original = "https://uwcs.co.uk/events/tf2-tournament-on-thu-27th-may-2010-1474489038745/"    

@@ -3,8 +3,7 @@ title = "Group order on Wed 18th November 2009"
 
 [extra]
 time = "08:00:00"
-end_date = "2009-11-18"
-end_time = "09:00:00"
+end_time = "2009-11-18T09:00:00Z"
 location = "The Internet"
 
 original = "https://uwcs.co.uk/events/group-order-on-wed-18th-november-2009-1474489026799/"    

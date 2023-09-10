@@ -3,8 +3,7 @@ title = "LSEG Cloud Computing Talk"
 
 [extra]
 time = "13:30:00"
-end_date = "2019-11-06"
-end_time = "15:30:00"
+end_time = "2019-11-06T15:30:00Z"
 location = "L4, Science Concourse"
 
 original = "https://uwcs.co.uk/events/lseg-talk/"    

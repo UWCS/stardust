@@ -3,8 +3,7 @@ title = "Societies Night on Tue 28th February 2006"
 
 [extra]
 time = "21:00:00"
-end_date = "2006-02-28"
-end_time = "23:00:00"
+end_time = "2006-02-28T23:00:00Z"
 location = "Cholo"
 
 original = "https://uwcs.co.uk/events/societies-night-on-tue-28th-february-2006-1474488977408/"    

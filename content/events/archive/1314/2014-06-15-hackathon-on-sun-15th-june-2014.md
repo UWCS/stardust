@@ -3,8 +3,7 @@ title = "Hackathon on Sun 15th June 2014"
 
 [extra]
 time = "12:00:00"
-end_date = "2014-06-15"
-end_time = "17:00:00"
+end_time = "2014-06-15T17:00:00Z"
 location = "DCS"
 
 original = "https://uwcs.co.uk/events/hackathon-on-sun-15th-june-2014-1474489094114/"    

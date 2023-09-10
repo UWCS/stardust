@@ -3,8 +3,7 @@ title = "Lightning Talks"
 
 [extra]
 time = "18:00:00"
-end_date = "2020-06-18"
-end_time = "19:00:00"
+end_time = "2020-06-18T19:00:00Z"
 location = "Remote, Discord"
 
 original = "https://uwcs.co.uk/events/lightning-talks/"    

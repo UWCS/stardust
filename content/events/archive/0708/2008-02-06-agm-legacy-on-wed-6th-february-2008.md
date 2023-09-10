@@ -3,8 +3,7 @@ title = "AGM - Legacy on Wed 6th February 2008"
 
 [extra]
 time = "18:00:00"
-end_date = "2008-02-06"
-end_time = "21:00:00"
+end_time = "2008-02-06T21:00:00Z"
 location = "Ramphal R0.03/4"
 
 original = "https://uwcs.co.uk/events/agm-legacy-on-wed-6th-february-2008-1474489005759/"    

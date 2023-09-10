@@ -3,8 +3,7 @@ title = "Social on Mon 1st March 2004"
 
 [extra]
 time = "05:00:00"
-end_date = "2004-03-06"
-end_time = "22:00:00"
+end_time = "2004-03-06T22:00:00Z"
 location = "Bletchley Park Trip"
 
 original = "https://uwcs.co.uk/events/social-on-mon-1st-march-2004-1474488950456/"    

@@ -3,8 +3,7 @@ title = "🎤 Industry Talk: Qube"
 
 [extra]
 time = "14:30:00"
-end_date = "2022-11-02"
-end_time = "16:00:00"
+end_time = "2022-11-02T16:00:00Z"
 location = "OC0.03"
 
 original = "https://uwcs.co.uk/events/talk-w5/"    

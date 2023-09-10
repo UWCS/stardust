@@ -3,8 +3,7 @@ title = "Week 1 Circling and Pop!"
 
 [extra]
 time = "19:00:00"
-end_date = "2019-01-09"
-end_time = "22:00:00"
+end_time = "2019-01-09T22:00:00Z"
 location = "The Copper Rooms"
 
 original = "https://uwcs.co.uk/events/week-1-circling-and-pop/"    

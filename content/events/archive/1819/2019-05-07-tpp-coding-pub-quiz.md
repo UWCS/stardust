@@ -3,8 +3,7 @@ title = "TPP Coding Pub Quiz"
 
 [extra]
 time = "18:00:00"
-end_date = "2019-05-07"
-end_time = "21:00:00"
+end_time = "2019-05-07T21:00:00Z"
 location = "Varsity"
 
 original = "https://uwcs.co.uk/events/tpp-coding-pub-quiz/"    

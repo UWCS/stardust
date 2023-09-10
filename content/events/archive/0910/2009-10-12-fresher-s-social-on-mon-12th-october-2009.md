@@ -3,8 +3,7 @@ title = "Fresher's Social on Mon 12th October 2009"
 
 [extra]
 time = "18:00:00"
-end_date = "2009-10-12"
-end_time = "18:30:00"
+end_time = "2009-10-12T18:30:00Z"
 location = "MS.04"
 
 original = "https://uwcs.co.uk/events/freshers-social-on-mon-12th-october-2009-1474489026696/"    

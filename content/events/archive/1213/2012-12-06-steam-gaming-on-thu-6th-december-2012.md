@@ -3,8 +3,7 @@ title = "Steam Gaming on Thu 6th December 2012"
 
 [extra]
 time = "20:00:00"
-end_date = "2012-12-07"
-end_time = "00:00:00"
+end_time = "2012-12-07T00:00:00Z"
 location = "The Internet"
 
 original = "https://uwcs.co.uk/events/steam-gaming-on-thu-6th-december-2012-1474489070861/"    

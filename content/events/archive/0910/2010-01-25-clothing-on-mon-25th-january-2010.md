@@ -3,8 +3,7 @@ title = "Clothing on Mon 25th January 2010"
 
 [extra]
 time = "00:00:00"
-end_date = "2010-01-25"
-end_time = "00:00:00"
+end_time = "2010-01-25T00:00:00Z"
 location = "N/A"
 
 original = "https://uwcs.co.uk/events/clothing-on-mon-25th-january-2010-1474489032901/"    

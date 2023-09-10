@@ -3,8 +3,7 @@ title = "LANimal Crossing"
 
 [extra]
 time = "20:00:00"
-end_date = "2020-02-16"
-end_time = "18:00:00"
+end_time = "2020-02-16T18:00:00Z"
 location = "LIB 2"
 
 original = "https://uwcs.co.uk/events/lanimal-crossing/"    

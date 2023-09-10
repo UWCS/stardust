@@ -3,8 +3,7 @@ title = "Pub Crawl on Thu 15th June 2006"
 
 [extra]
 time = "16:00:00"
-end_date = "2006-06-15"
-end_time = "23:30:00"
+end_time = "2006-06-15T23:30:00Z"
 location = "The City Arms, Earlsdon"
 
 original = "https://uwcs.co.uk/events/pub-crawl-on-thu-15th-june-2006-1474488983965/"    
