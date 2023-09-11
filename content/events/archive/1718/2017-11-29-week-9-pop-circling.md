@@ -1,12 +1,11 @@
 +++
 title = "Week 9 POP+Circling"
+date = "2017-11-29T19:00:00Z"
 
 [extra]
-time = "19:00:00"
-end_time = "2017-11-29T02:00:00Z"
-location = "The Copper Rooms"
-
 original = "https://uwcs.co.uk/events/week-9-popcircling/"    
+ent_time = "2017-11-29T02:00:00Z"
+location = "The Copper Rooms"
 +++
 
 \*\*EDIT: Circling Tickets have run out, we're now moving pre-drinks to TBar so just buy an EVENT ticket before the day\*\*

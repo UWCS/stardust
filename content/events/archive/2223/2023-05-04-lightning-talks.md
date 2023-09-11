@@ -1,12 +1,11 @@
 +++
 title = "⚡ Lightning Talks ⚡"
+date = "2023-05-04T13:00:00Z"
 
 [extra]
-time = "13:00:00"
-end_time = "2023-05-04T15:00:00Z"
-location = "MB0.07"
-
 original = "https://uwcs.co.uk/events/lt-22t3w2/"    
+ent_time = "2023-05-04T15:00:00Z"
+location = "MB0.07"
 +++
 
 This is a rare occurrence of ***four*** talks! Each will cover its own unique topic, but they are all incredibly interesting and definitely worth checking out. Have a sneak peek at some of what will be discussed:

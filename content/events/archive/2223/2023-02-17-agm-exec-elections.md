@@ -1,12 +1,11 @@
 +++
 title = "🗳️ AGM (& Exec Elections)"
+date = "2023-02-17T19:00:00Z"
 
 [extra]
-time = "19:00:00"
-end_time = "2023-02-17T21:00:00Z"
-location = "OC1.01"
-
 original = "https://uwcs.co.uk/events/agm-22/"    
+ent_time = "2023-02-17T21:00:00Z"
+location = "OC1.01"
 +++
 
 Held on Friday Week 6 (17th February) from 7pm, in OC1.01. Here's what you need to know:

@@ -1,12 +1,11 @@
 +++
 title = "End of Term Meal 2018"
+date = "2018-03-16T17:45:00Z"
 
 [extra]
-time = "17:45:00"
-end_time = "2018-03-16T21:00:00Z"
-location = "The Farmhouse"
-
 original = "https://uwcs.co.uk/events/exec-handover-meal-2018/"    
+ent_time = "2018-03-16T21:00:00Z"
+location = "The Farmhouse"
 +++
 
 Come join Comp Soc for a nice meal together to celebrate the beginning of the revision period and the handover to new exec.

@@ -1,12 +1,11 @@
 +++
 title = "Pub Social on Mon 17th October 2011"
+date = "2011-10-17T18:30:00Z"
 
 [extra]
-time = "18:30:00"
-end_time = "2011-10-17T20:30:00Z"
-location = "The Phantom Coach"
-
 original = "https://uwcs.co.uk/events/pub-social-on-mon-17th-october-2011-1474489055433/"    
+ent_time = "2011-10-17T20:30:00Z"
+location = "The Phantom Coach"
 +++
 
 Now that we're all settling into the normal routine, what would we be without Monday Pub?  

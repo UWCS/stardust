@@ -1,12 +1,11 @@
 +++
 title = "Optiver Webinar - Low Latency C++ Workshop"
+date = "2020-10-27T13:00:00Z"
 
 [extra]
-time = "13:00:00"
-end_time = "2020-10-27T14:00:00Z"
-location = "Remote"
-
 original = "https://uwcs.co.uk/events/optiver-talk/"    
+ent_time = "2020-10-27T14:00:00Z"
+location = "Remote"
 +++
 
 Do you want to learn how to write the fastest and best performing code possible? Are you ready to dive into assembly, cache internals and squeeze the last nanosecond out of your code? If so, then join our low-latency workshop on code optimisation\!

@@ -1,12 +1,11 @@
 +++
 title = "🌮 Weekly Pub Meal W7 🌮"
+date = "2023-06-05T17:30:00Z"
 
 [extra]
-time = "17:30:00"
-end_time = "2023-06-05T20:00:00Z"
-location = "Dirty Duck"
-
 original = "https://uwcs.co.uk/events/pub-meal-22t3w7/"    
+ent_time = "2023-06-05T20:00:00Z"
+location = "Dirty Duck"
 +++
 
 We are back on track with our pub meal schedule, so it's Duck time!

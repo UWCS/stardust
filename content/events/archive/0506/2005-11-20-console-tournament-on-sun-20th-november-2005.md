@@ -1,12 +1,11 @@
 +++
 title = "Console Tournament on Sun 20th November 2005"
+date = "2005-11-20T03:00:00Z"
 
 [extra]
-time = "03:00:00"
-end_time = "2005-11-20T19:00:00Z"
-location = "LIB1"
-
 original = "https://uwcs.co.uk/events/console-tournament-on-sun-20th-november-2005-1474488973029/"    
+ent_time = "2005-11-20T19:00:00Z"
+location = "LIB1"
 +++
 
 4-7pm  

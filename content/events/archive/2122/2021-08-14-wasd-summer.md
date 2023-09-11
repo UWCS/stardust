@@ -1,12 +1,11 @@
 +++
 title = "WASD Summer"
+date = "2021-08-14T11:00:00Z"
 
 [extra]
-time = "11:00:00"
-end_time = "2021-08-15T22:00:00Z"
-location = "Remote - Twitch"
-
 original = "https://uwcs.co.uk/events/wasd-summer/"    
+ent_time = "2021-08-15T22:00:00Z"
+location = "Remote - Twitch"
 +++
 
 As many of you may already be aware, CompSoc runs WASD (Warwick’s Awesome Speedruns and Demos) - an annual charity speedrunning event that has taken place annually since 2016. This year, we are starting a sister event: WASD Summer.  

@@ -1,12 +1,11 @@
 +++
 title = "Gaming Session on Fri 31st October 2014"
+date = "2014-10-31T20:00:00Z"
 
 [extra]
-time = "20:00:00"
-end_time = "2014-11-01T02:00:00Z"
-location = "DCS"
-
 original = "https://uwcs.co.uk/events/gaming-session-on-fri-31st-october-2014-1474489103091/"    
+ent_time = "2014-11-01T02:00:00Z"
+location = "DCS"
 +++
 
 Comp Soc’s weekly 12-hour long gaming session: super spooky version

@@ -1,12 +1,11 @@
 +++
 title = "LAN Party on Fri 1st November 2013"
+date = "2013-11-01T19:00:00Z"
 
 [extra]
-time = "19:00:00"
-end_time = "2013-11-03T17:00:00Z"
-location = "LIB2"
-
 original = "https://uwcs.co.uk/events/lan-party-on-fri-1st-november-2013-1474489081139/"    
+ent_time = "2013-11-03T17:00:00Z"
+location = "LIB2"
 +++
 
 We do LANs twice a term, this will be the first for this term.

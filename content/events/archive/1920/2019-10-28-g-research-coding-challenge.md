@@ -1,12 +1,11 @@
 +++
 title = "G-Research Coding Challenge"
+date = "2019-10-28T19:00:00Z"
 
 [extra]
-time = "19:00:00"
-end_time = "2019-10-28T21:00:00Z"
-location = "Department of Computer Science, CS0.01"
-
 original = "https://uwcs.co.uk/events/g-research-coding-challenge/"    
+ent_time = "2019-10-28T21:00:00Z"
+location = "Department of Computer Science, CS0.01"
 +++
 
 *G-Research is a leading quantitative research and technology company.  By using the latest scientific techniques, we produce world-beating predictive research and build advanced technology to analyse the world’s data.*

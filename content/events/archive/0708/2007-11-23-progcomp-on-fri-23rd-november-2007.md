@@ -1,12 +1,11 @@
 +++
 title = "Progcomp on Fri 23rd November 2007"
+date = "2007-11-23T20:00:00Z"
 
 [extra]
-time = "20:00:00"
-end_time = "2007-11-25T16:30:00Z"
-location = "Various Deprecated Locations"
-
 original = "https://uwcs.co.uk/events/progcomp-on-fri-23rd-november-2007-1474489002899/"    
+ent_time = "2007-11-25T16:30:00Z"
+location = "Various Deprecated Locations"
 +++
 
 This will be a 48 Hour Event, similar to a LAN party with submissions due at 10am, 2pm and 8pm on Saturday and Sunday. Members are required to bring their own machines, preferably laptops or low powered desktops.

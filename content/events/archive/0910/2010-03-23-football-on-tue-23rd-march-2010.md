@@ -1,12 +1,11 @@
 +++
 title = "Football on Tue 23rd March 2010"
+date = "2010-03-23T15:00:00Z"
 
 [extra]
-time = "15:00:00"
-end_time = "2010-03-23T16:00:00Z"
-location = "Sports Centre"
-
 original = "https://uwcs.co.uk/events/football-on-tue-23rd-march-2010-1474489037977/"    
+ent_time = "2010-03-23T16:00:00Z"
+location = "Sports Centre"
 +++
 
 A nice and friendly kick about although be wary of Tim "Crazy Legs" Monks

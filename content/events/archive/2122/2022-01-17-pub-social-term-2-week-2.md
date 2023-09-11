@@ -1,12 +1,11 @@
 +++
 title = "🍔 Pub Social [Term 2, Week 2]"
+date = "2022-01-17T18:30:00Z"
 
 [extra]
-time = "18:30:00"
-end_time = "2022-01-17T22:00:00Z"
-location = "The Phantom Coach, Coventry"
-
 original = "https://uwcs.co.uk/events/pub-social-term-2-week-2-2122/"    
+ent_time = "2022-01-17T22:00:00Z"
+location = "The Phantom Coach, Coventry"
 +++
 
 Join us as we head out to our weekly gathering at the Phantom Coach, a pub in Canley about a 15-minute walk from campus.

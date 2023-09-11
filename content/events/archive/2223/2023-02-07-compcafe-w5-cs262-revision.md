@@ -1,12 +1,11 @@
 +++
 title = "☕ CompCafé W5 + CS262 Revision"
+date = "2023-02-07T17:00:00Z"
 
 [extra]
-time = "17:00:00"
-end_time = "2023-02-07T21:00:00Z"
-location = "CS0.01"
-
 original = "https://uwcs.co.uk/events/compcafe-22t2w5/"    
+ent_time = "2023-02-07T21:00:00Z"
+location = "CS0.01"
 +++
 
 As promised, we're also starting to do revision sessions! 2nd Years have class tests coming up, so here's what's happening:

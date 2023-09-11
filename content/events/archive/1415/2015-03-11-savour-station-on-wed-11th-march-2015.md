@@ -1,12 +1,11 @@
 +++
 title = "Savour Station on Wed 11th March 2015"
+date = "2015-03-11T18:00:00Z"
 
 [extra]
-time = "18:00:00"
-end_time = "2015-03-11T19:15:00Z"
-location = "Savour Station"
-
 original = "https://uwcs.co.uk/events/savour-station-on-wed-11th-march-2015-1474489107343/"    
+ent_time = "2015-03-11T19:15:00Z"
+location = "Savour Station"
 +++
 
 The end of term is almost here, and to celebrate we are going to watch Big Hero 6 followed by Food at Savour Station.

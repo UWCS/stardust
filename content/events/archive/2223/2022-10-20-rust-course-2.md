@@ -1,12 +1,11 @@
 +++
 title = "⚙️Rust Course 2"
+date = "2022-10-20T18:00:00Z"
 
 [extra]
-time = "18:00:00"
-end_time = "2022-10-20T20:00:00Z"
-location = "Department of Computer Science"
-
 original = "https://uwcs.co.uk/events/rust-course-2/"    
+ent_time = "2022-10-20T20:00:00Z"
+location = "Department of Computer Science"
 +++
 
 Are you ready to learn one of the most loved languages by developers? This week will dig into some of the more unique parts of Rust: borrowing and starting on traits. We might get you started on CHIP-8 as well!

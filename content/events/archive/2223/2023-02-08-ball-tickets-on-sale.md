@@ -1,12 +1,11 @@
 +++
 title = "🪩 Ball Tickets On Sale"
+date = "2023-02-08T12:00:00Z"
 
 [extra]
-time = "12:00:00"
-end_time = "2023-02-08T13:00:00Z"
-location = "go.uwcs.uk/ball"
-
 original = "https://uwcs.co.uk/events/ball-tickets-on-sale/"    
+ent_time = "2023-02-08T13:00:00Z"
+location = "go.uwcs.uk/ball"
 +++
 
 Yes, you read that right, we're having a ball.

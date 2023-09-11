@@ -1,12 +1,11 @@
 +++
 title = "Pub Social on Mon 6th October 2014"
+date = "2014-10-06T18:30:00Z"
 
 [extra]
-time = "18:30:00"
-end_time = "2014-10-06T22:00:00Z"
-location = "Varsity"
-
 original = "https://uwcs.co.uk/events/pub-social-on-mon-6th-october-2014-1474489100280/"    
+ent_time = "2014-10-06T22:00:00Z"
+location = "Varsity"
 +++
 
 Chat, Drink, and eat what could be better apart from playing Games.

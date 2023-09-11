@@ -1,12 +1,11 @@
 +++
 title = "Annual General Meeting"
+date = "2022-02-18T17:00:00Z"
 
 [extra]
-time = "17:00:00"
-end_time = "2022-02-18T19:00:00Z"
-location = "OC1.09 + Discord + Teams"
-
 original = "https://uwcs.co.uk/events/annual-general-meeting-2022/"    
+ent_time = "2022-02-18T19:00:00Z"
+location = "OC1.09 + Discord + Teams"
 +++
 
 ## **What is an AGM?**

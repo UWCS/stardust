@@ -1,12 +1,11 @@
 +++
 title = "MCM on Sat 30th October 2010"
+date = "2010-10-30T07:00:30Z"
 
 [extra]
-time = "07:00:30"
-end_time = "2010-10-30T19:08:00Z"
-location = "London"
-
 original = "https://uwcs.co.uk/events/mcm-on-sat-30th-october-2010-1474489041972/"    
+ent_time = "2010-10-30T19:08:00Z"
+location = "London"
 +++
 
 The London MCM Expo is a huge convention happening twice a year with many games, cosplay and anime-manga  

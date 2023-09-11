@@ -1,12 +1,11 @@
 +++
 title = "Gaming Session on Fri 17th June 2016"
+date = "2016-06-17T20:00:00Z"
 
 [extra]
-time = "20:00:00"
-end_time = "2016-06-18T08:00:00Z"
-location = "DCS"
-
 original = "https://uwcs.co.uk/events/gaming-session-on-fri-17th-june-2016-1474489117408/"    
+ent_time = "2016-06-18T08:00:00Z"
+location = "DCS"
 +++
 
 Mega gaming session from 8pm-8am in the Department of Computer Science.

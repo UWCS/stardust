@@ -1,12 +1,11 @@
 +++
 title = "👾 Friday Night Gaming W10 👾"
+date = "2023-06-30T18:00:00Z"
 
 [extra]
-time = "18:00:00"
-end_time = "2023-06-30T22:59:00Z"
-location = "DCS Atrium"
-
 original = "https://uwcs.co.uk/events/fng-22t3w10/"    
+ent_time = "2023-06-30T22:59:00Z"
+location = "DCS Atrium"
 +++
 
 This is it. The last Friday Night Gaming of the year. :wah:

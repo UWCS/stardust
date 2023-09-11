@@ -1,12 +1,11 @@
 +++
 title = "Clothing on Mon 19th November 2012"
+date = "2012-11-19T18:00:00Z"
 
 [extra]
-time = "18:00:00"
-end_time = "2012-12-08T02:00:00Z"
-location = "N/A"
-
 original = "https://uwcs.co.uk/events/clothing-on-mon-19th-november-2012-1474489070577/"    
+ent_time = "2012-12-08T02:00:00Z"
+location = "N/A"
 +++
 
 PLEASE READ THOROUGHLY BEFORE PLACING AN ORDER.

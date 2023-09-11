@@ -1,12 +1,11 @@
 +++
 title = "TF2 Tournament on Wed 13th April 2011"
+date = "2011-04-13T22:41:13Z"
 
 [extra]
-time = "22:41:13"
-end_time = "2011-05-01T00:00:01Z"
-location = "The Internet"
-
 original = "https://uwcs.co.uk/events/tf2-tournament-on-wed-13th-april-2011-1474489050260/"    
+ent_time = "2011-05-01T00:00:01Z"
+location = "The Internet"
 +++
 
 NUEL are running an inter-university 6v6 TF2 tournament, and as we have a fairly strong gaming base, we should put forward a team\!

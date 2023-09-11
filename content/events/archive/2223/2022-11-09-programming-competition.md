@@ -1,12 +1,11 @@
 +++
 title = "🧑‍💻 Programming Competition"
+date = "2022-11-09T16:30:00Z"
 
 [extra]
-time = "16:30:00"
-end_time = "2022-11-09T19:30:00Z"
-location = "Department of Computer Science"
-
 original = "https://uwcs.co.uk/events/programming-competition/"    
+ent_time = "2022-11-09T19:30:00Z"
+location = "Department of Computer Science"
 +++
 
 Our very own team programming contest, UWCS Challenge, is happening this Wednesday!

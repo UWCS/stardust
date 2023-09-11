@@ -1,12 +1,11 @@
 +++
 title = "XING on Fri 25th April 2014"
+date = "2014-04-25T20:00:00Z"
 
 [extra]
-time = "20:00:00"
-end_time = "2014-04-26T08:00:00Z"
-location = "DCS"
-
 original = "https://uwcs.co.uk/events/xing-on-fri-25th-april-2014-1474489093181/"    
+ent_time = "2014-04-26T08:00:00Z"
+location = "DCS"
 +++
 
 XING Is Not Gaming is a get-together for programmers and/or anyone interested in programming or learning how to program. We work on projects together, separately, and give each other help. Although sometimes people do work at XING, it's generally all leisurely programming.

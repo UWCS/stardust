@@ -1,12 +1,11 @@
 +++
 title = "Guest Talk on Thu 22nd November 2012"
+date = "2012-11-22T17:00:00Z"
 
 [extra]
-time = "17:00:00"
-end_time = "2012-11-22T18:00:00Z"
-location = "S0.13"
-
 original = "https://uwcs.co.uk/events/guest-talk-on-thu-22nd-november-2012-1474489070277/"    
+ent_time = "2012-11-22T18:00:00Z"
+location = "S0.13"
 +++
 
 After the success of the talks last year CompSoc are pleased to announce a third guest talk from CoreFiling Ltd (http://www.corefiling.com/).

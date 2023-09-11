@@ -1,12 +1,11 @@
 +++
 title = "End of Term 1 Meal"
+date = "2018-12-05T18:00:00Z"
 
 [extra]
-time = "18:00:00"
-end_time = "2018-12-05T21:00:00Z"
-location = "The Farmhouse, 215 Beechwood Avenue, Coventry"
-
 original = "https://uwcs.co.uk/events/end-term-1-meal/"    
+ent_time = "2018-12-05T21:00:00Z"
+location = "The Farmhouse, 215 Beechwood Avenue, Coventry"
 +++
 
 Join us for our end of term meal at The Farmhouse restaurant in Canley.

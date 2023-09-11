@@ -1,12 +1,11 @@
 +++
 title = "🐮 Milk Mondays W2 🐮"
+date = "2023-05-01T09:00:00Z"
 
 [extra]
-time = "09:00:00"
-end_time = "2023-05-01T13:00:00Z"
-location = "DCS Atrium"
-
 original = "https://uwcs.co.uk/events/mm-22t3w2/"    
+ent_time = "2023-05-01T13:00:00Z"
+location = "DCS Atrium"
 +++
 
 It is term three and we are maintaining our newfound tradition of 𝕄𝕚𝕝𝕜 𝕄𝕠𝕟𝕕𝕒𝕪𝕤!

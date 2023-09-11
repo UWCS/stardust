@@ -1,12 +1,11 @@
 +++
 title = "Luigi's LANsion"
+date = "2019-11-01T19:00:00Z"
 
 [extra]
-time = "19:00:00"
-end_time = "2019-11-03T17:00:00Z"
-location = "LIB2"
-
 original = "https://uwcs.co.uk/events/lan-2019-1/"    
+ent_time = "2019-11-03T17:00:00Z"
+location = "LIB2"
 +++
 
 It's time for another LAN party\!  

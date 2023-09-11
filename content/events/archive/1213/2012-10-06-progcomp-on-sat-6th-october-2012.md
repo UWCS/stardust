@@ -1,12 +1,11 @@
 +++
 title = "Progcomp on Sat 6th October 2012"
+date = "2012-10-06T01:00:00Z"
 
 [extra]
-time = "01:00:00"
-end_time = "2012-10-08T01:00:00Z"
-location = "The Internet"
-
 original = "https://uwcs.co.uk/events/progcomp-on-sat-6th-october-2012-1474489065077/"    
+ent_time = "2012-10-08T01:00:00Z"
+location = "The Internet"
 +++
 
 This summer we are holding a programming competition to write an AI for the game Bomberman. The AI can be written in any language of your choosing. The contest will take place online, with each AI being scored for its performance during the first weekend of term (01:00 6th October - 01:00 8th October). Be sure your AI is running during this time\! The winner will be announced during week 2 of the new term.

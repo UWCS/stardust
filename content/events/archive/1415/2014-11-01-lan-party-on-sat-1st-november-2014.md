@@ -1,12 +1,11 @@
 +++
 title = "LAN Party on Sat 1st November 2014"
+date = "2014-11-01T15:00:00Z"
 
 [extra]
-time = "15:00:00"
-end_time = "2014-11-02T19:00:00Z"
-location = "LIB2"
-
 original = "https://uwcs.co.uk/events/lan-party-on-sat-1st-november-2014-1474489096803/"    
+ent_time = "2014-11-02T19:00:00Z"
+location = "LIB2"
 +++
 
 The first LAN Party of the year\! -And this year it's on Halloween\! Spoooky.- Unfortunately due to room booking issues, we do not have the room on friday evening and so this LAN will no longer be taking place on Halloween.

@@ -1,12 +1,11 @@
 +++
 title = "Nettitude Capture the Flag"
+date = "2021-05-19T13:00:00Z"
 
 [extra]
-time = "13:00:00"
-end_time = "2021-05-19T16:00:00Z"
-location = "Remote - Teams"
-
 original = "https://uwcs.co.uk/events/nettitude-capture-flag/"    
+ent_time = "2021-05-19T16:00:00Z"
+location = "Remote - Teams"
 +++
 
 Nettitude will run a capture the flag (CTF) event at **2pm** on **May 19**. This will be conducted remotely via **Microsoft Teams**.

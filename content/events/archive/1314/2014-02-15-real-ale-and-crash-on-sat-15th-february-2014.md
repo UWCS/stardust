@@ -1,12 +1,11 @@
 +++
 title = "Real Ale and Crash!! on Sat 15th February 2014"
+date = "2014-02-15T17:45:00Z"
 
 [extra]
-time = "17:45:00"
-end_time = "2014-02-16T03:00:00Z"
-location = "Copper Rooms"
-
 original = "https://uwcs.co.uk/events/real-ale-and-crash-on-sat-15th-february-2014-1474489074841/"    
+ent_time = "2014-02-16T03:00:00Z"
+location = "Copper Rooms"
 +++
 
 Every year we go to the Real Ale Festival and it's always great fun. We will be meeting on the Piazza at 19:45.  

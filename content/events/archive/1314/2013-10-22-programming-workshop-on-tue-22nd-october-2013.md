@@ -1,12 +1,11 @@
 +++
 title = "Programming workshop on Tue 22nd October 2013"
+date = "2013-10-22T17:00:00Z"
 
 [extra]
-time = "17:00:00"
-end_time = "2013-10-22T19:00:00Z"
-location = "Curiositea"
-
 original = "https://uwcs.co.uk/events/programming-workshop-on-tue-22nd-october-2013-1474489085093/"    
+ent_time = "2013-10-22T19:00:00Z"
+location = "Curiositea"
 +++
 
 This will be the first of weekly programming workshops we are planning\!

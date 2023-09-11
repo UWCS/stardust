@@ -1,12 +1,11 @@
 +++
 title = "𐐘 Friday Night Gaming W9 + LAN ඞ"
+date = "2023-06-23T18:00:00Z"
 
 [extra]
-time = "18:00:00"
-end_time = "2023-06-25T11:00:00Z"
-location = "LIB2"
-
 original = "https://uwcs.co.uk/events/fng-22t3w9/"    
+ent_time = "2023-06-25T11:00:00Z"
+location = "LIB2"
 +++
 
 **This is a unique Friday Night of Gaming. For this week, we are also starting out second LAN within the FNG!**

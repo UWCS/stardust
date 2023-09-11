@@ -1,12 +1,11 @@
 +++
 title = "Academic Talk on Wed 27th November 2013"
+date = "2013-11-27T13:00:00Z"
 
 [extra]
-time = "13:00:00"
-end_time = "2013-11-27T13:30:00Z"
-location = "MS05"
-
 original = "https://uwcs.co.uk/events/academic-talk-on-wed-27th-november-2013-1474489087689/"    
+ent_time = "2013-11-27T13:30:00Z"
+location = "MS05"
 +++
 
 Ruth will be giving a talk on programming interviews.

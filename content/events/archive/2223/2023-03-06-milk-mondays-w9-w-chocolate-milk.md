@@ -1,12 +1,11 @@
 +++
 title = "🥛 Milk Mondays W9 w/ Chocolate Milk"
+date = "2023-03-06T10:00:00Z"
 
 [extra]
-time = "10:00:00"
-end_time = "2023-03-06T14:00:00Z"
-location = "DCs Atrium"
-
 original = "https://uwcs.co.uk/events/mm-22t2w9/"    
+ent_time = "2023-03-06T14:00:00Z"
+location = "DCs Atrium"
 +++
 
 at our recent agm, we elected our new exec (who we will introduce to you all very soon!) congrats to everyone who took part!

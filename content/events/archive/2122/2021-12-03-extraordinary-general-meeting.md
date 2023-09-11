@@ -1,12 +1,11 @@
 +++
 title = "Extraordinary General Meeting"
+date = "2021-12-03T17:00:00Z"
 
 [extra]
-time = "17:00:00"
-end_time = "2021-12-03T19:00:00Z"
-location = "OC1.09 + Teams + Discord"
-
 original = "https://uwcs.co.uk/events/extraordinary-general-meeting-nov-21/"    
+ent_time = "2021-12-03T19:00:00Z"
+location = "OC1.09 + Teams + Discord"
 +++
 
 We'll be holding an Extraordinary General Meeting (EGM) to elect a new Gaming Coordinator for UWCS. They are in charge of running our weekly Friday Night Gaming sessions, in addition to being the main organiser of our bi-termly LAN events.

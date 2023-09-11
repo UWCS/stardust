@@ -1,12 +1,11 @@
 +++
 title = "Pub Social on Mon 19th May 2008"
+date = "2008-05-19T18:00:00Z"
 
 [extra]
-time = "18:00:00"
-end_time = "2008-05-19T20:00:00Z"
-location = "The Phantom Coach"
-
 original = "https://uwcs.co.uk/events/pub-social-on-mon-19th-may-2008-1474489009085/"    
+ent_time = "2008-05-19T20:00:00Z"
+location = "The Phantom Coach"
 +++
 
 

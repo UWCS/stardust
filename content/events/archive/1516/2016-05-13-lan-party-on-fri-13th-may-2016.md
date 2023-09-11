@@ -1,12 +1,11 @@
 +++
 title = "LAN Party on Fri 13th May 2016"
+date = "2016-05-13T18:00:00Z"
 
 [extra]
-time = "18:00:00"
-end_time = "2016-05-15T16:00:00Z"
-location = "LIB2"
-
 original = "https://uwcs.co.uk/events/lan-party-on-fri-13th-may-2016-1474489111647/"    
+ent_time = "2016-05-15T16:00:00Z"
+location = "LIB2"
 +++
 
 NOTE: FINISH TIME HAS CHANGED TO THE EARLIER 16:00

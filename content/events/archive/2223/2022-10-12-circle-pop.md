@@ -1,12 +1,11 @@
 +++
 title = "🎉 Circle & POP!"
+date = "2022-10-12T18:00:00Z"
 
 [extra]
-time = "18:00:00"
-end_time = "2022-10-12T22:59:00Z"
-location = "Copper Rooms"
-
 original = "https://uwcs.co.uk/events/circle-22t1w2/"    
+ent_time = "2022-10-12T22:59:00Z"
+location = "Copper Rooms"
 +++
 
 Dig out your Christmas jumpers and join us for our first circle of the year next Wednesday in the Copper Rooms for some mince pies, festive cheer, and plenty of purple! We'll then migrate into POP! and experience the true majesty of Disco Dave!

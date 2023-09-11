@@ -1,12 +1,11 @@
 +++
 title = "🎤🎮 Careers in Games (DCS)"
+date = "2023-03-01T14:00:00Z"
 
 [extra]
-time = "14:00:00"
-end_time = "2023-03-01T14:00:00Z"
-location = "MS.02"
-
 original = "https://uwcs.co.uk/events/careers-in-games-dcs/"    
+ent_time = "2023-03-01T14:00:00Z"
+location = "MS.02"
 +++
 
 Hear about roles in games from design to development and production and learn about working in the industry from games professionals. We’ll be discussing; how to build your work experience, what to include in a games portfolio and how to make your applications stand out. With panellists from Rebellion and Playground Games.

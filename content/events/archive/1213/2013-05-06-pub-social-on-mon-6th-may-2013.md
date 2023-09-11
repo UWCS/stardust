@@ -1,12 +1,11 @@
 +++
 title = "Pub Social on Mon 6th May 2013"
+date = "2013-05-06T18:30:00Z"
 
 [extra]
-time = "18:30:00"
-end_time = "2013-05-06T21:00:00Z"
-location = "The Phantom Coach"
-
 original = "https://uwcs.co.uk/events/pub-social-on-mon-6th-may-2013-1474489076848/"    
+ent_time = "2013-05-06T21:00:00Z"
+location = "The Phantom Coach"
 +++
 
 Come join us in the pub for the banter, pub grub and great conversation\!

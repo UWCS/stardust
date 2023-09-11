@@ -1,12 +1,11 @@
 +++
 title = "Guest Talk on Thu 17th November 2011"
+date = "2011-11-17T12:30:00Z"
 
 [extra]
-time = "12:30:00"
-end_time = "2011-11-17T14:30:00Z"
-location = "F1.11"
-
 original = "https://uwcs.co.uk/events/guest-talk-on-thu-17th-november-2011-1474489056935/"    
+ent_time = "2011-11-17T14:30:00Z"
+location = "F1.11"
 +++
 
 Some people say that we’re actually a technology company that includes an investment bank. You can see why. We have a platform that gives pure technology businesses a run for their money:

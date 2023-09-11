@@ -1,12 +1,11 @@
 +++
 title = "Pub Social on Mon 24th June 2013"
+date = "2013-06-24T18:30:00Z"
 
 [extra]
-time = "18:30:00"
-end_time = "2013-06-24T19:30:00Z"
-location = "The Farmhouse"
-
 original = "https://uwcs.co.uk/events/pub-social-on-mon-24th-june-2013-1474489079896/"    
+ent_time = "2013-06-24T19:30:00Z"
+location = "The Farmhouse"
 +++
 
 We're doing a group trip to The Farmhouse during BFL.

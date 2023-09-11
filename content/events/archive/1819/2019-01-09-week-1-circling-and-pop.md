@@ -1,12 +1,11 @@
 +++
 title = "Week 1 Circling and Pop!"
+date = "2019-01-09T19:00:00Z"
 
 [extra]
-time = "19:00:00"
-end_time = "2019-01-09T22:00:00Z"
-location = "The Copper Rooms"
-
 original = "https://uwcs.co.uk/events/week-1-circling-and-pop/"    
+ent_time = "2019-01-09T22:00:00Z"
+location = "The Copper Rooms"
 +++
 
 We're circling again\! This time weeks 1 and 7 in the Copper Rooms\!  

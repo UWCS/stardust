@@ -1,12 +1,11 @@
 +++
 title = "Welcome Week Talk: Git Good"
+date = "2021-09-30T14:00:00Z"
 
 [extra]
-time = "14:00:00"
-end_time = "2021-09-30T15:00:00Z"
-location = "CS1.04, Department of Computer Science"
-
 original = "https://uwcs.co.uk/events/welcome-week-talk-git-good/"    
+ent_time = "2021-09-30T15:00:00Z"
+location = "CS1.04, Department of Computer Science"
 +++
 
 We'll kick of our academic events of the year with a talk introducing the society and its exec, before holding a talk on the basics of Git: a useful piece of version control software that will aid you throughout your degree and career, given by one of our former presidents.

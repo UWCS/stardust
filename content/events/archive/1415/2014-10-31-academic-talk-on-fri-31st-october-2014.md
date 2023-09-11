@@ -1,12 +1,11 @@
 +++
 title = "Academic Talk on Fri 31st October 2014"
+date = "2014-10-31T17:00:00Z"
 
 [extra]
-time = "17:00:00"
-end_time = "2014-10-31T18:30:00Z"
-location = "MS05"
-
 original = "https://uwcs.co.uk/events/academic-talk-on-fri-31st-october-2014-1474489102883/"    
+ent_time = "2014-10-31T18:30:00Z"
+location = "MS05"
 +++
 
 The advanced shell talk will introduce more basic concepts, following from the introductory shell talk earlier in the year. It shall also focus on some specific subjects with more detail.

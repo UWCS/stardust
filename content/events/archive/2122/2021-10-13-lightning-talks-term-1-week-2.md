@@ -1,12 +1,11 @@
 +++
 title = "⚡ Lightning Talks [Term 1, Week 2]"
+date = "2021-10-13T16:00:00Z"
 
 [extra]
-time = "16:00:00"
-end_time = "2021-10-13T17:30:00Z"
-location = "Teams + Discord"
-
 original = "https://uwcs.co.uk/events/lightning-talks-times-tbd/"    
+ent_time = "2021-10-13T17:30:00Z"
+location = "Teams + Discord"
 +++
 
 Lightning talks are back\! Join us as we explore certain topics in less than 15 minutes each\! The talks coming up this time include:

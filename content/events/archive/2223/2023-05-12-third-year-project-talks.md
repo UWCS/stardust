@@ -1,12 +1,11 @@
 +++
 title = "🎤 Third Year Project Talks"
+date = "2023-05-12T12:00:00Z"
 
 [extra]
-time = "12:00:00"
-end_time = "2023-05-12T15:00:00Z"
-location = "OC1.05"
-
 original = "https://uwcs.co.uk/events/typt-22t3w3/"    
+ent_time = "2023-05-12T15:00:00Z"
+location = "OC1.05"
 +++
 
 Are *you* a 2nd Year CS/DM/CSE student trying to think of some third year project ideas? 

@@ -1,12 +1,11 @@
 +++
 title = "Pub Social on Mon 2nd May 2011"
+date = "2011-05-02T18:30:00Z"
 
 [extra]
-time = "18:30:00"
-end_time = "2011-05-02T20:30:00Z"
-location = "The Phantom Coach"
-
 original = "https://uwcs.co.uk/events/pub-social-on-mon-2nd-may-2011-1474489051386/"    
+ent_time = "2011-05-02T20:30:00Z"
+location = "The Phantom Coach"
 +++
 
 Come along to the first Monday pub of the term proper on this sunny bank holiday\!  

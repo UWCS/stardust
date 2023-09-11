@@ -1,12 +1,11 @@
 +++
 title = "🎮 Friday Night Gaming W4"
+date = "2023-02-03T19:00:00Z"
 
 [extra]
-time = "19:00:00"
-end_time = "2023-02-03T23:59:00Z"
-location = "Department of Computer Science"
-
 original = "https://uwcs.co.uk/events/fng-22t2w4/"    
+ent_time = "2023-02-03T23:59:00Z"
+location = "Department of Computer Science"
 +++
 
 Join us every Friday for a night of fun!

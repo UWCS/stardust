@@ -1,12 +1,11 @@
 +++
 title = "Academic Talk on Fri 18th May 2012"
+date = "2012-05-18T16:00:00Z"
 
 [extra]
-time = "16:00:00"
-end_time = "2012-05-18T17:00:00Z"
-location = "S0.13"
-
 original = "https://uwcs.co.uk/events/academic-talk-on-fri-18th-may-2012-1474489064493/"    
+ent_time = "2012-05-18T17:00:00Z"
+location = "S0.13"
 +++
 
 We are lucky enough to have the fantastic Unruly Media coming in to deliver a talk on scalability\! We are very excited about this as Unruly are an award winning global company doing some very interesting stuff :). There will also be free pizza at this event.

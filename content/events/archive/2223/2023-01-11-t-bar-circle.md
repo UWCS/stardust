@@ -1,12 +1,11 @@
 +++
 title = "🍻 T-Bar Circle"
+date = "2023-01-11T19:15:00Z"
 
 [extra]
-time = "19:15:00"
-end_time = "2023-01-11T23:59:00Z"
-location = "T-Bar"
-
 original = "https://uwcs.co.uk/events/t-bar-circle/"    
+ent_time = "2023-01-11T23:59:00Z"
+location = "T-Bar"
 +++
 
 We are circling in Week 1 in T-Bar! We expect to start at 7:15PM, so get there early or face the consequences :P

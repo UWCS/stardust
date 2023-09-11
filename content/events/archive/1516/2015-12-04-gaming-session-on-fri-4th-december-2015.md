@@ -1,12 +1,11 @@
 +++
 title = "Gaming Session on Fri 4th December 2015"
+date = "2015-12-04T20:00:00Z"
 
 [extra]
-time = "20:00:00"
-end_time = "2015-12-05T08:00:00Z"
-location = "DCS"
-
 original = "https://uwcs.co.uk/events/gaming-session-on-fri-4th-december-2015-1474489114065/"    
+ent_time = "2015-12-05T08:00:00Z"
+location = "DCS"
 +++
 
 Mega gaming session from 8pm-8am in the Department of Computer Science.

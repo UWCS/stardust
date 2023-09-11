@@ -1,12 +1,11 @@
 +++
 title = "Progcomp on Sun 5th June 2011"
+date = "2011-06-05T11:00:00Z"
 
 [extra]
-time = "11:00:00"
-end_time = "2011-06-05T16:00:00Z"
-location = "Various Deprecated Locations"
-
 original = "https://uwcs.co.uk/events/progcomp-on-sun-5th-june-2011-1474489052256/"    
+ent_time = "2011-06-05T16:00:00Z"
+location = "Various Deprecated Locations"
 +++
 
 The Internet Problem Solving Contest (IPSC) is an online contest for teams consisting of up to three people. Several problems will be published at the beginning of the competition. Each problem consists of a problem description and two input data sets. To solve a problem you will have to compute correct output data for the given input data sets. Usually this means that you will write a program that solves the problem, but you may produce the output by hand or in any other way.

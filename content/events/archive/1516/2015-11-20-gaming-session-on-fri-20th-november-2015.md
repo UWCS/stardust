@@ -1,12 +1,11 @@
 +++
 title = "Gaming Session on Fri 20th November 2015"
+date = "2015-11-20T20:00:00Z"
 
 [extra]
-time = "20:00:00"
-end_time = "2015-11-21T08:00:00Z"
-location = "DCS"
-
 original = "https://uwcs.co.uk/events/gaming-session-on-fri-20th-november-2015-1474489113962/"    
+ent_time = "2015-11-21T08:00:00Z"
+location = "DCS"
 +++
 
 Mega gaming session from 8pm-8am in the Department of Computer Science.

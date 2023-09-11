@@ -1,12 +1,11 @@
 +++
 title = "Progcomp on Fri 22nd February 2013"
+date = "2013-02-22T20:00:00Z"
 
 [extra]
-time = "20:00:00"
-end_time = "2013-02-24T20:00:00Z"
-location = "DCS"
-
 original = "https://uwcs.co.uk/events/progcomp-on-fri-22nd-february-2013-1474489074281/"    
+ent_time = "2013-02-24T20:00:00Z"
+location = "DCS"
 +++
 
 CompSoc have collaborated with Peter Zaborszky of [Best Backups](http://www.bestbackups.com/) to create a 48 hour competition with fabulous prizes\!

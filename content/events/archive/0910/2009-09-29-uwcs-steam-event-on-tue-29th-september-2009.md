@@ -1,12 +1,11 @@
 +++
 title = "UWCS Steam Event on Tue 29th September 2009"
+date = "2009-09-29T22:00:00Z"
 
 [extra]
-time = "22:00:00"
-end_time = "2009-09-30T01:00:00Z"
-location = "The Internet"
-
 original = "https://uwcs.co.uk/events/uwcs-steam-event-on-tue-29th-september-2009-1474489026090/"    
+ent_time = "2009-09-30T01:00:00Z"
+location = "The Internet"
 +++
 
 137.205.210.236:27010  

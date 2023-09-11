@@ -1,12 +1,11 @@
 +++
 title = "🍛 Weekly Pub Meal W2 🍛"
+date = "2023-05-01T17:30:00Z"
 
 [extra]
-time = "17:30:00"
-end_time = "2023-05-01T20:00:00Z"
-location = "Phantom Coach"
-
 original = "https://uwcs.co.uk/events/pub-meal-22t3w2/"    
+ent_time = "2023-05-01T20:00:00Z"
+location = "Phantom Coach"
 +++
 
 Join us for our weekly pub meal! We love meeting new people and this is the perfect opportunity to grab a bite to eat w̶h̶i̶l̶s̶t̶ ̶t̶a̶l̶k̶i̶n̶g̶ ̶a̶b̶o̶u̶t̶ ̶t̶h̶e̶ ̶p̶a̶i̶n̶s̶ ̶o̶f̶ ̶o̶u̶r̶ ̶d̶e̶g̶r̶e̶e̶s̶.̶

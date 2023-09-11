@@ -1,12 +1,11 @@
 +++
 title = "Guest Talk on Tue 9th February 2010"
+date = "2010-02-09T18:30:00Z"
 
 [extra]
-time = "18:30:00"
-end_time = "2010-02-09T22:00:00Z"
-location = "S0.20"
-
 original = "https://uwcs.co.uk/events/guest-talk-on-tue-9th-february-2010-1474489035643/"    
+ent_time = "2010-02-09T22:00:00Z"
+location = "S0.20"
 +++
 
 This event is not run by UWCS. Information taken from http://www.facebook.com/event.php?eid=286423437270\&ref=nf

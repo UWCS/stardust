@@ -1,12 +1,11 @@
 +++
 title = "Pub Social on Mon 10th February 2014"
+date = "2014-02-10T18:30:00Z"
 
 [extra]
-time = "18:30:00"
-end_time = "2014-02-10T20:00:00Z"
-location = "The Phantom Coach"
-
 original = "https://uwcs.co.uk/events/pub-social-on-mon-10th-february-2014-1474489091975/"    
+ent_time = "2014-02-10T20:00:00Z"
+location = "The Phantom Coach"
 +++
 
 Come join us in the pub for the banter, pub grub and great conversation\!

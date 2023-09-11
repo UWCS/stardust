@@ -1,12 +1,11 @@
 +++
 title = "TPP Coding Pub Quiz"
+date = "2019-05-07T18:00:00Z"
 
 [extra]
-time = "18:00:00"
-end_time = "2019-05-07T21:00:00Z"
-location = "Varsity"
-
 original = "https://uwcs.co.uk/events/tpp-coding-pub-quiz/"    
+ent_time = "2019-05-07T21:00:00Z"
+location = "Varsity"
 +++
 
 After the success of the previous coding pub quiz last term, TPP are back to run another one\!

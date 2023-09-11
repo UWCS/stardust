@@ -1,12 +1,11 @@
 +++
 title = "Gaming Session on Fri 8th November 2013"
+date = "2013-11-08T20:00:00Z"
 
 [extra]
-time = "20:00:00"
-end_time = "2013-11-09T08:00:00Z"
-location = "DCS"
-
 original = "https://uwcs.co.uk/events/gaming-session-on-fri-8th-november-2013-1474489083894/"    
+ent_time = "2013-11-09T08:00:00Z"
+location = "DCS"
 +++
 
 Usual Friday night gaming, loads of consoles and PCs to use. You don't need to bring anything, just turn up :)

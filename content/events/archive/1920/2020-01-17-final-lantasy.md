@@ -1,12 +1,11 @@
 +++
 title = "Final LANtasy"
+date = "2020-01-17T20:00:00Z"
 
 [extra]
-time = "20:00:00"
-end_time = "2020-01-19T18:00:00Z"
-location = "LIB 2"
-
 original = "https://uwcs.co.uk/events/final-lantasy/"    
+ent_time = "2020-01-19T18:00:00Z"
+location = "LIB 2"
 +++
 
 It's time for another LAN party\!  

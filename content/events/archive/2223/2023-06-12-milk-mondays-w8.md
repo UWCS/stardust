@@ -1,12 +1,11 @@
 +++
 title = "🥛 Milk Mondays W8 🥛"
+date = "2023-06-12T09:00:00Z"
 
 [extra]
-time = "09:00:00"
-end_time = "2023-06-12T13:00:00Z"
-location = "DCS Atrium"
-
 original = "https://uwcs.co.uk/events/mm-22t3w8/"    
+ent_time = "2023-06-12T13:00:00Z"
+location = "DCS Atrium"
 +++
 
 Despite the fact most exams are done and people are leaving, we continue 𝕞𝕚𝕝𝕜 𝕞𝕠𝕟𝕕𝕒𝕪𝕤! If you are free, why not pass by and get some **free** milk?

@@ -1,12 +1,11 @@
 +++
 title = "LAN Party on Fri 21st November 2014"
+date = "2014-11-21T19:00:00Z"
 
 [extra]
-time = "19:00:00"
-end_time = "2014-11-23T17:00:00Z"
-location = "LIB2"
-
 original = "https://uwcs.co.uk/events/lan-party-on-fri-21st-november-2014-1474489097144/"    
+ent_time = "2014-11-23T17:00:00Z"
+location = "LIB2"
 +++
 
 It's almost time for the winter holidays to start and that means it's time for a LAN Party. More importantly, Dragon Age: Inquistion will have just been released. If you're playing it, try not to spoil anyone else in the room.

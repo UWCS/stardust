@@ -1,12 +1,11 @@
 +++
 title = "Guest Talk on Wed 20th November 2013"
+date = "2013-11-20T16:30:00Z"
 
 [extra]
-time = "16:30:00"
-end_time = "2013-11-20T18:00:00Z"
-location = "MS.04"
-
 original = "https://uwcs.co.uk/events/guest-talk-on-wed-20th-november-2013-1474489087179/"    
+ent_time = "2013-11-20T18:00:00Z"
+location = "MS.04"
 +++
 
 RedGate will be coming in to give us 4 lightning talks on different topics:

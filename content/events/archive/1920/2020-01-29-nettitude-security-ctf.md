@@ -1,12 +1,11 @@
 +++
 title = "Nettitude Security CTF"
+date = "2020-01-29T14:00:00Z"
 
 [extra]
-time = "14:00:00"
-end_time = "2020-01-29T18:00:00Z"
-location = "CS0.03, Department of Computer Science"
-
 original = "https://uwcs.co.uk/events/nettitude-security-ctf/"    
+ent_time = "2020-01-29T18:00:00Z"
+location = "CS0.03, Department of Computer Science"
 +++
 
 Nettitude are coming to the department on **Wednesday 29th January (Week 4)** to run a CTF (Capture the Flag) Security competition in **CS0.03** from **2pm – 6pm**\! It will be a series of challenges designed to test your skills in Computer Security, breaking into and finding weaknesses in a system they have designed.

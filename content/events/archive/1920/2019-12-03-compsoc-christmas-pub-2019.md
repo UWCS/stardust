@@ -1,12 +1,11 @@
 +++
 title = "CompSoc Christmas Pub 2019"
+date = "2019-12-03T19:00:00Z"
 
 [extra]
-time = "19:00:00"
-end_time = "2019-12-03T21:00:00Z"
-location = "[TBD]"
-
 original = "https://uwcs.co.uk/events/compsoc-christmas-pub-2019/"    
+ent_time = "2019-12-03T21:00:00Z"
+location = "[TBD]"
 +++
 
 \[Start time subject to change\]

@@ -1,12 +1,11 @@
 +++
 title = "Welcome Week Pub Meal Social"
+date = "2021-09-27T17:30:00Z"
 
 [extra]
-time = "17:30:00"
-end_time = "2021-09-27T20:00:00Z"
-location = "The Phantom Coach"
-
 original = "https://uwcs.co.uk/events/welcome-week-pub-meal-social/"    
+ent_time = "2021-09-27T20:00:00Z"
+location = "The Phantom Coach"
 +++
 
 Every Monday at 7pm we walk to the Phantom Coach pub in Canley for a meal and a drink in our weekly casual social. It's a good opportunity to meet the other members of the society and students with shared interests.

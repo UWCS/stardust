@@ -1,12 +1,11 @@
 +++
 title = "🍲 Weekly Pub Meal W3 🍲"
+date = "2023-05-08T17:30:00Z"
 
 [extra]
-time = "17:30:00"
-end_time = "2023-05-08T20:00:00Z"
-location = "Dirty Duck"
-
 original = "https://uwcs.co.uk/events/pub-meal-22t3w3/"    
+ent_time = "2023-05-08T20:00:00Z"
+location = "Dirty Duck"
 +++
 
 It's a Bank Holiday and so we *definitely* need to waddle on over to the Duck for a quackin' good meal, and you should join us! 

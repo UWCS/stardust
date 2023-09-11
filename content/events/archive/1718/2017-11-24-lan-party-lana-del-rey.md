@@ -1,12 +1,11 @@
 +++
 title = "LAN Party (LANa Del Rey)"
+date = "2017-11-24T18:00:00Z"
 
 [extra]
-time = "18:00:00"
-end_time = "2017-11-26T18:00:00Z"
-location = "LIB2"
-
 original = "https://uwcs.co.uk/events/lan-party-lana-del-rey/"    
+ent_time = "2017-11-26T18:00:00Z"
+location = "LIB2"
 +++
 
 It's LAN time\! Our bi-termly event where we take our computers to LIB2 and play games for the weekend\!

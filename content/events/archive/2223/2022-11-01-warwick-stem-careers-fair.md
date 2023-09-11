@@ -1,12 +1,11 @@
 +++
 title = "(Warwick) STEM Careers Fair"
+date = "2022-11-01T11:00:00Z"
 
 [extra]
-time = "11:00:00"
-end_time = "2022-11-01T16:00:00Z"
-location = "Rootes Building (2nd Floor)"
-
 original = "https://uwcs.co.uk/events/warwick-stem-careers-fair/"    
+ent_time = "2022-11-01T16:00:00Z"
+location = "Rootes Building (2nd Floor)"
 +++
 
 From [MyAdvantage](https://myadvantage.warwick.ac.uk/students/events/Detail/2507554/stem-careers-fair-2022)

@@ -1,12 +1,11 @@
 +++
 title = "EGM on Wed 9th October 2013"
+date = "2013-10-09T17:00:00Z"
 
 [extra]
-time = "17:00:00"
-end_time = "2013-10-09T18:00:00Z"
-location = "MS.04"
-
 original = "https://uwcs.co.uk/events/egm-on-wed-9th-october-2013-1474489083282/"    
+ent_time = "2013-10-09T18:00:00Z"
+location = "MS.04"
 +++
 
 We are electing a new Socials Officer.

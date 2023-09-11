@@ -1,12 +1,11 @@
 +++
 title = "Go Karting on Fri 20th June 2014"
+date = "2014-06-20T14:20:00Z"
 
 [extra]
-time = "14:20:00"
-end_time = "2014-06-20T19:00:00Z"
-location = "Team Sport Karting"
-
 original = "https://uwcs.co.uk/events/go-karting-on-fri-20th-june-2014-1474489095031/"    
+ent_time = "2014-06-20T19:00:00Z"
+location = "Team Sport Karting"
 +++
 
 Exams are finished, but it is still to long to wait till BFL. Don't worry as UWCS is going GO-KARTING.

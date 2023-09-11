@@ -1,12 +1,11 @@
 +++
 title = "Secret Santa on Thu 10th November 2011"
+date = "2011-11-10T13:56:46Z"
 
 [extra]
-time = "13:56:46"
-end_time = "2011-11-23T11:59:59Z"
-location = "Christmas Meal"
-
 original = "https://uwcs.co.uk/events/secret-santa-on-thu-10th-november-2011-1474489057245/"    
+ent_time = "2011-11-23T11:59:59Z"
+location = "Christmas Meal"
 +++
 
 Secret Santa\!

@@ -1,12 +1,11 @@
 +++
 title = "Academic Talk on Fri 15th November 2013"
+date = "2013-11-15T17:00:00Z"
 
 [extra]
-time = "17:00:00"
-end_time = "2013-11-15T18:00:00Z"
-location = "MS.04"
-
 original = "https://uwcs.co.uk/events/academic-talk-on-fri-15th-november-2013-1474489087402/"    
+ent_time = "2013-11-15T18:00:00Z"
+location = "MS.04"
 +++
 
 Veltas (Chris Leonard) is doing a talk on The Heap.

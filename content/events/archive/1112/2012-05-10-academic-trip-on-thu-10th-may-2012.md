@@ -1,12 +1,11 @@
 +++
 title = "Academic Trip on Thu 10th May 2012"
+date = "2012-05-10T09:00:00Z"
 
 [extra]
-time = "09:00:00"
-end_time = "2012-05-10T17:00:00Z"
-location = "Bletchley Park Trip"
-
 original = "https://uwcs.co.uk/events/academic-trip-on-thu-10th-may-2012-1474489064643/"    
+ent_time = "2012-05-10T17:00:00Z"
+location = "Bletchley Park Trip"
 +++
 
 We are running a trip to Bletchley Park, the world renowned secret wartime code breaking site and birthplace of the modern computer.  

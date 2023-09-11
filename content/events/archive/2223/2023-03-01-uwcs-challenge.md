@@ -1,12 +1,11 @@
 +++
 title = "🧠 UWCS Challenge"
+date = "2023-03-01T16:00:00Z"
 
 [extra]
-time = "16:00:00"
-end_time = "2023-03-01T19:00:00Z"
-location = "CS0.01"
-
 original = "https://uwcs.co.uk/events/uwcs-challenge-22t2/"    
+ent_time = "2023-03-01T19:00:00Z"
+location = "CS0.01"
 +++
 
 Our very own team programming contest, UWCS Challenge, is happening this Wednesday!

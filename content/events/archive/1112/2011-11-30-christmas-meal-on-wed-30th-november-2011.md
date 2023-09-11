@@ -1,12 +1,11 @@
 +++
 title = "Christmas Meal on Wed 30th November 2011"
+date = "2011-11-30T18:00:00Z"
 
 [extra]
-time = "18:00:00"
-end_time = "2011-11-30T22:00:00Z"
-location = "Wing Wah's"
-
 original = "https://uwcs.co.uk/events/christmas-meal-on-wed-30th-november-2011-1474489057462/"    
+ent_time = "2011-11-30T22:00:00Z"
+location = "Wing Wah's"
 +++
 
 Hankering for some delicious chinese food?  

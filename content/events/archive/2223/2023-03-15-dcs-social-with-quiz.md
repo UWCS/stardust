@@ -1,12 +1,11 @@
 +++
 title = "DCS Social (with Quiz)"
+date = "2023-03-15T14:00:00Z"
 
 [extra]
-time = "14:00:00"
-end_time = "2023-03-15T16:00:00Z"
-location = "Esports Centre"
-
 original = "https://uwcs.co.uk/events/dcs-social-easter-23/"    
+ent_time = "2023-03-15T16:00:00Z"
+location = "Esports Centre"
 +++
 
 DCS have booked out the Esports Centre, so join us from 2-4pm for:

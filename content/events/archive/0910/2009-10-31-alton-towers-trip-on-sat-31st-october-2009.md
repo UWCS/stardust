@@ -1,12 +1,11 @@
 +++
 title = "Alton Towers Trip on Sat 31st October 2009"
+date = "2009-10-31T08:00:00Z"
 
 [extra]
-time = "08:00:00"
-end_time = "2009-10-31T19:00:00Z"
-location = "Alton Towers"
-
 original = "https://uwcs.co.uk/events/alton-towers-trip-on-sat-31st-october-2009-1474489025639/"    
+ent_time = "2009-10-31T19:00:00Z"
+location = "Alton Towers"
 +++
 
 ok i'm pretty sure everyone knows the awesomeness of alton towers- so lets go\! afaik there hasnt been a trip for a while, and around halloween they put on a pretty spiffy show\!

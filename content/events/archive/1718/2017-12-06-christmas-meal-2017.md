@@ -1,12 +1,11 @@
 +++
 title = "Christmas Meal 2017"
+date = "2017-12-06T17:45:00Z"
 
 [extra]
-time = "17:45:00"
-end_time = "2017-12-06T21:00:00Z"
-location = "The Farmhouse"
-
 original = "https://uwcs.co.uk/events/christmas-meal-2017/"    
+ent_time = "2017-12-06T21:00:00Z"
+location = "The Farmhouse"
 +++
 
 Sign up link for Secret Santa: <https://uwcs.co.uk/events/secret-santa-2017/>  

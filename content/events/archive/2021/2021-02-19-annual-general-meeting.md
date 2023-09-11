@@ -1,12 +1,11 @@
 +++
 title = "Annual General Meeting"
+date = "2021-02-19T18:00:00Z"
 
 [extra]
-time = "18:00:00"
-end_time = "2021-02-19T20:00:00Z"
-location = "Remote - Microsoft Teams"
-
 original = "https://uwcs.co.uk/events/annual-general-meeting-2021/"    
+ent_time = "2021-02-19T20:00:00Z"
+location = "Remote - Microsoft Teams"
 +++
 
 ## **What is an AGM?**
