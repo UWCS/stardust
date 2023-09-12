@@ -18,7 +18,7 @@ taxonomies = [
 ignored_content = [
     "**/README.md",
     "**/gen_seq.py",
-    "**/archive/*/*"
+# DRAFT    "**/archive/*/*"
 ]
 
 [markdown]
