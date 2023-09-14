@@ -10,7 +10,7 @@ display_day = "Sat & Sun"     # For day in events list view
 display_date = "Sat 21 & Sun 22 Oct"  # For date in detail view
 location = "???"
 
-icon = "icons/code.svg"
+icon = "ph-code"
 colour = "#EE4F4F"
 +++
 

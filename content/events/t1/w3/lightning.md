@@ -9,7 +9,7 @@ tags = ["Lightning Talks"]
 end_time = ""
 location = "???"
 
-icon = "icons/lightning.svg"
+icon = "ph-lightning"
 colour = "#EE4F4F"
 +++
 
