@@ -5,7 +5,7 @@ sort_by = "date"
 template = "page.html"
 +++
 
-This page is a hub for most of our academic resources. Some are listed below, and you can find quick links to sub-pages along the sidebar. 
+This page is a hub for most of our academic resources. 
 
 {% note(type="info") %}
 Information about our website/services, Open Source projects and infrastructure can be found at the [Tech Team Wiki](https://techteam.uwcs.co.uk/)
@@ -36,9 +36,10 @@ We'd also recommend checking out [this tutorial](https://howtoprogram.dcs.warwic
 *(DCS Only)* In partnership with the Department of Computer Science, this talk and accompanying lab serves as a short introduction to the Linux command line and departmental machines. We cover navigation, file/folder creation/deletion, permissions, and storage/printing quotas. By the end of this lab, you should be able to host your own public page on the DCS website!
 
 ### [Git Good](@/resources/git-good/index.md)
-Git is an essential version control tool, used across the software engineering industry - from small solo projects to the world's largest tech companies. You might have used it before, but here we'll really dive in to how it works, why it's so useful, and how you can use it in your own projects going forward. Talk by Sam Coy, with an accompanying lab.
+Git is an essential version control tool, used across the software engineering industry - from small solo projects to the world's largest tech companies. You might have used it before, but here we'll really dive in to how it works, why it's so useful, and how you can use it in your own projects going forward. Talk by Edmund Goodman.
 
 ### [Docker, Contained](@/resources/docker.md)
+Docker is a tool for creating and managing containers - isolated environments for running applications. This talk will cover the basics of Docker, and how it can be used to simplify the deployment of applications. 
 
 ---
 

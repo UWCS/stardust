@@ -27,7 +27,7 @@ Gain real-world skills that aren't taught in a degree. One-off workshops on Git,
 
 ### Programming Competitions
 
-We participate in yearly events like Google Hash Code and Advent of Code, and hold our own internal programming challenges every term! Previous questions can be found on our [progcomp portal](https://progcomp.uwcs.co.uk/) or [our archive](https://github.com/UWCS/progcomps).
+We participate in yearly events like ~~Google Hash Code~~ (RIP) and Advent of Code, and hold our own internal programming challenges every term! Previous questions can be found on our [progcomp portal](https://progcomp.uwcs.co.uk/) or [our archive](https://github.com/UWCS/progcomps).
 
 ### Revision Sessions
 
@@ -71,6 +71,8 @@ Anything from paintballing, to go-karting, to invading The Wave in Coventry. Any
 
 --------
 # Tech
+
+For a full list of our services, servers, and projects, see [our wiki](https://techteam.uwcs.co.uk/).
 
 ### Hosting Services 
 

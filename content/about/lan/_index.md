@@ -24,23 +24,16 @@ connection speeds.
 
 **How often do LANs take place?**
 
-In the first two terms we run two LANs in each. These usually happen
-around weeks 4 and 8, but check our events page to be sure. In term 3 we
-run Summer LAN instead, and that takes place from Monday to Friday Week
-10.
+There is generally 1 LAN per term.
 
 **How long do they last?**
 
-Our LANs all last 48 hours (Friday evening to Sunday Evening) with the
-exception of Summer LAN, which lasts 104 hours (10am Monday to 6pm
-Friday).
+Our LANs all last 48 hours (Friday evening to Sunday Evening).
 
 **Do I have to be there the whole time?**
 
-No! Especially during Summer LAN; that would not be advised. LANs are
-drop-in events, and there will always be a member of exec in the room,
-supervising and keeping an eye on your belongings. Feel free to come and
-go as you like.
+No! Whilst there will always be an exec presence at LAN, UWCS does not
+condone staying up for extended periods of time.
 
 **Can I sleep at LAN?**
 
@@ -115,7 +108,7 @@ Other
 
 That\'s not a question, but you can email our gaming coordinator at
 <gaming-coordinator@uwcs.co.uk>, or ask any of the exec on [our
-Discord](http://discord.uwcs.co.uk) by pinging \@exec. You can also get
-in touch on [Facebook](https://www.facebook.com/groups/warwickcompsoc),
-[Twitter](https://twitter.com/uwcs/), or
+Discord](http://discord.uwcs.co.uk) by pinging \@Gaming Coordinator. 
+You can also get in touch on [Instagram](https://www.instagram.com/warwickcompsoc/),
+~~Twitter~~[X](https://x.com/uwcs/), or
 [IRC](https://uwcs.co.uk/about/irc-guide/).
