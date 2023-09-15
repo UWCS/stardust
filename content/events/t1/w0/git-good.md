@@ -7,7 +7,7 @@ tags = ["Welcome Week"]
 
 [extra]
 end_time = "5pm"
-location = "CS1.04?"
+location = "CS1.04"
 
 icon = "ph-microphone-stage"
 colour = "#ee4f4f"

@@ -4,7 +4,7 @@ title = "University of Warwick Computing Society"
 
 <!-- Unfortunately, Zola doesn't allow nested shortcodes -->
 <!-- This is expanding the blue.html shortcode -->
-<div class="blue"  data-bs-theme="dark">
+<div class="blue"  data-bs-theme="light">
 
 <h1 class="text-center">Hello, World! Here’s what we do:</h1>
 
@@ -35,5 +35,9 @@ title = "University of Warwick Computing Society"
 {% end %}
 
 </div>
+<div class="my-3"></div>
+{% note() %}
+Welcome to our new website, hopefully it has everything you need, but if you need access to the old site (dextre), find it at [old.uwcs.co.uk](https://old.uwcs.co.uk)
+{% end %}
 </div>
 
