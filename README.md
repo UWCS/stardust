@@ -5,31 +5,33 @@ The new, improved and, most importantly, simplified website for the 23/24 academ
 ## Installation
 
 1. Install Rust (see [rustup.rs](https://rustup.rs/))
-2. Install [my fork](https://github.com/ericthelemur/zola) of Zola (see [install from source](https://www.getzola.org/documentation/getting-started/installation/#from-source))
+2. Download [my fork](https://github.com/ericthelemur/zola/releases/latest) of Zola (or see [install from source](https://www.getzola.org/documentation/getting-started/installation/#from-source))
   - If you get **errors about missing square root**, you are running standard Zola, **not this fork.**
 3. Clone this repo (with submodules) `git clone --recurse-submodules`
-4. Run Zola with `zola serve` in project root
+4. Run Zola with `zola serve` in project root (might get weeks of events wrong)
     - Or `zola build` to build the static version (I've found this slightly more stable)
     - Use `python3 -m http.server --directory public 1111` and add `zola build --base-url http://127.0.0.1:1111` to preview the built version
 5. Write some Markdown in `content/`!
 
-When working on a local version, I recommend uncommenting `"**/archive/*"` in `ignored_content` in `config.toml`, but **DO NOT COMMIT THIS**. This stops the archive being rendered for quicker build times. The `# DRAFT` marks the start of draft only lines, so I can jank automate them in the build process.
+Note, if you want to build the full site (including the archive), comment out `"**/archive/*"` in `ignored_content` in `config.toml`, but **DO NOT COMMIT THIS**. Adding 3k pages does up the build time a fair bit.
 
 ## Editor Usage
 
 Best way is to run a copy locally and use an editor like VS Code to edit content and push changes to GitHub. This should be relatively straight forward, as you all are CS students. Content is written in [Markdown](https://commonmark.org/help/) (with a few bonuses), and you can mix in HTML inline if you need to. You'll mostly be concerning yourself with `content/news` and `content/events` for news and events respectively (unsurprisingly). The other directories are for the other static info pages and their resources. `_index.md` is the content for the directory's page, and all other markdown `.md` files turn into a corresponding HTML page when rendered.
 
-If you want to include images in the post, you can create a folder for it in `content` - e.g. `content/resources/git-good` and write the content in `index.md`. **Note `index.md` denotes a page with some [colocated assets](https://www.getzola.org/documentation/content/overview/)** (images in the markdown dir, not separated into `/static`) **whereas `_index.md` denotes a section** with subpages -- the difference is often kinda subtle, but worth noting.
+If you want to include images in the post, you can create a folder for it in `content` - e.g. `content/resources/git-good` and write the content in `index.md`. **Note `index.md` denotes a page with some [colocated assets](https://www.getzola.org/documentation/content/overview/)** (images in the markdown dir, not separated into `/static`) **whereas `_index.md` denotes a section** with child pages -- the difference is often kinda subtle, but worth noting (sections don't come up in page lists for instance).
 
 ### CMS
 
 Alternatively (e.g. if you are on mobile), try the only slightly janky CMS at https://new.uwcs.co.uk/admin/ . It should allow editing of the important bits of news and events, though deeper customisation is unavailable. You need to login to it with GitHub, and it will automatically make a commit for you when you save a change. Shortcode previews are in active developemtn, so may or may not work as expected, but they should render fine.
 
+Note: Currently the CMS is broken for events because of the nested folders. Hopefully this is fixable at some point.
+
 ### Website Updates
 
 When commits are pushed to GitHub, the website will automatically fully re-render itself. Since rendering the archive pages take a while, the changes will first be available on https://draft.uwcs.co.uk, which also shows pages marked as draft. This should take around 20s from commit. Shortly after, the full main website will be rendered.
 
-In future, the CMS should support a release system, so we'd only make releases (on GitHub) update the main site.
+In future, Decap (the CMS) should support a release system, so we'd only make releases (on GitHub) update the main site. If you want to work on something without it on live, use a branch or a local fork. 
 
 ### News
 
@@ -52,23 +54,38 @@ Some **more content** for the news article, this can be [markdown](https://commo
 
 ### Events
 
-Events have a few more properties, to render correctly on the events page. Instead of categories, we use `tags`, so news and events are separated. A dedicated `time` field is provided, if you want specific text for it (e.g. if you are unsure of the start time). A `location` can be provided also, with an optional `location_url` as a link, or if not provided, it will search it on the campus map.
+Events are organized into folders by term then by week. This means we can provide event dates in the form of `Monday 7pm` or any of a range of options. These are all taken relative to the `extra.base_date` of the week the event is in. The event end time/date is optional and will be parsed relative to the start date (so `in two hours` would work). If the event is multi-day, specify the day here too, and I recommend setting the `display_` properties for a better display of events. Location will be room searched (like with Apollo) to find a link. If no results are found or it's off campus, you can give a `location_url` too. 
 
-`icon` and `colour` are used for rendering the circles on the main events page: `icon` can be a [Phosphor](https://phosphoricons.com/) icon (e.g. `ph-heart`), [Bootstrap] icon (e.g. `bi-discord`), or a local image or svg (e.g. `assets/su-logo.svg`)
+The colour and icon of an event need to be given. `icon` can be a [Phosphor](https://phosphoricons.com/) icon (e.g. `ph-heart`), [Bootstrap](https://icons.getbootstrap.com/) icon (e.g. `bi-discord`), or a local image or svg (e.g. `assets/su-logo.svg`). In general, prefer Phosphor over Bootstrap and a custom image last. `colour` can be a CSS hex code (e.g. `#FF4000`), normal colour (`red`), or a UWCS set colour (`gaming` or `social`) (check `themes/uwcs/templates/macros/colours.json` for the full list). These are the same names as in Figma.
+
+The display properties are useful when we have a multi day event that the standard event system can't really handle (it assumes single day events). If you have a multi-day event, you should specify `display_day` at a minimum so the events page knows what (custom) day to put it on -- can be things like `Wed & Thurs`, `Weekend`, `All Week`, etc. `display_date` can be used to set a custom date range string, so is probably less useful. `display_time` is the time as written on both the event circle and event detail page, it can be useful to say e.g. `from 7pm`. Unfortunately, for other events systems, we still need exact datetime set as well.
 
 ```markdown
 +++
 title = "An important event"
+date = "Thurs 7pm"
 
 [taxonomies]
 tags = ["Welcome Week", "Test"]
 
 [extra]
-time = "2:30pm"
-location = "CS0.01"
+end = "9pm"    # Optional, end date of event, relative to start date
 
-icon = "bi-discord"
-colour = "#995A22"
+# Location will be room searched if on campus. Specify a URL if off campus or room search can't find
+location = "CS Dept"
+location_url = "https://some.web/url"   # Optional, custom link to location
+
+# Icon for the event, can be a Phosphor or Bootstrap icon or local image (hopefully a white svg)
+# e.g. ph-code, bi-heart or assets/su-logo.svg (upload custom if necessary)
+icon = "ph-code"
+# Colour can be a UWCS colour or a normal CSS colour
+colour = "gaming"
+
+# Optional display properties for custom options for events list
+# display_day could be Weekend or All Week, for example
+display_day = "Wed & Thurs"             # Optional, for day in events list view
+display_date = "Wed 27 - Thurs 28 Sep"  # Optional, for date in detail view
+display_time = "from 7pm"               # Optional, for time in both
 +++
 
 Some event content, can also be markdown
@@ -93,7 +110,7 @@ Detailed info on each shortcode can be found in `templates/shortcodes` or `theme
 
 ## Dev Usage
 
-Most of the formatting is in the theme at [uwcs/new-site-theme](https://github.com/UWCS/new-site-theme/) and uses [Sass](https://sass-lang.com/) and [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
+Most of the formatting is in the theme at [uwcs/new-site-theme](https://github.com/UWCS/new-site-theme/) and uses [Sass](https://sass-lang.com/) and [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/). The SASS is compiled separately, as it adds significant time to each `zola build` when it usually hasn't changed. Run `theme/uwcs/uwcs-bootstrap/build.sh` to re compile the css. This will call `sass` or `grass` if existing, otherwise will download `grass` for you (the Rust sass compiler that Zola uses).
 
 The basic structure of the project is explained in [Zola's docs](https://www.getzola.org/documentation/getting-started/directory-structure/). Referenced static files can be colocated (in same dir as markdown) or in the static folder separately. Kinda nice, but a bit limited if you want a page's images in a folder, but avoid making the page into a section.
 
@@ -113,11 +130,6 @@ The basic structure of the project is explained in [Zola's docs](https://www.get
 1. Create the thing as a macro in the macros folder
 2. In the shortcode, import the relevnant macro file and call it
 - See `shortcodes/uwcs_dots.html` for an example.
-
-### Admin Config
-- The admin config is supposed to be yaml, but is quite nice to have templating inside it (for category picking especially)
-- Zola only templates HTML files, so make the config render into a `.html` file, but point the CMS at it anyway
-- There is a warning in the console about MIME types, but I can live with that
 
 ### Shortcodes in CMS Editor
 - This is janky. 
@@ -159,10 +171,7 @@ The basic structure of the project is explained in [Zola's docs](https://www.get
 - Set alternate room names in `macros/custom-room-mapnames.json`
 
 ### Events
-- A truly horrifying macro nest. It does a lot tho
-- Grouping events by week and term is made awkward by seemingly not being able to build dictionaries in template
-    - So can't build a map to render at the end
-    - Instead we are iterating over the events, finding the day of each, when the day differs, it finds the next day/week/term
-    - At this point it inserts the end week/term, generates the gap, then starts a new block
-    - Only days are generated at once, since grid needs some more specific stuff - luckily enough this is simple(ish)
-- It also gets term dates and week numbers/names from Tabula -- that's some of the mess, Tabula's data is weird
+- Not nearly as cursed as it was, now we've organized them by week, although the CMS doesn't really like the layout any more. 
+- Most of the actual event rendering is from macros in `macros/events.html` -- the circles and the week & term formats. 
+    - It also includes the layout script, but that should probably be moved to its own file now it is actually being repeated.
+- One minor quirk is how the terms and weeks are reversed for the archive page
