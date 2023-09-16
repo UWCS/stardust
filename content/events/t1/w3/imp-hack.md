@@ -11,7 +11,7 @@ display_date = "Sat 21 & Sun 22 Oct"  # For date in detail view
 location = "???"
 
 icon = "ph-code"
-colour = "#EE4F4F"
+colour = "academic"
 +++
 
 We're joining Imperial to do the IBM Hackathon come along and have fun!

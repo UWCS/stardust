@@ -11,7 +11,7 @@ display_date = "Fri 20, Sat 21 & Sun 22 Oct"  # For date in detail view
 location = "???"
 
 icon = "icons/fng.svg"
-colour = "#3d53ff"
+colour = "gaming"
 +++
 
 Like FNG but bigger, longer, and better!

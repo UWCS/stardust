@@ -10,7 +10,7 @@ end_time = "7pm"
 location = "Sports Hub"
 
 icon = "ph-hand-waving"
-colour = "#ef892c"
+colour = "publicity"
 +++
 
 Chat to our exec members and get some freebies!

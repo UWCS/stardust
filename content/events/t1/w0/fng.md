@@ -10,7 +10,7 @@ end_time = "23:59"
 location = "CS Dept"
 
 icon = "icons/fng.svg"
-colour = "#3d53ff"
+colour = "gaming"
 +++
 
 The Friday night fun continues!

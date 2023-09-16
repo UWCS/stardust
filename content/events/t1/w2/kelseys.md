@@ -10,7 +10,7 @@ end_time = ""
 location = "Kelsey's"
 
 icon = "icons/milk.svg"
-colour = "#b53dff"
+colour = "social"
 +++
 
 We're circling at Kelsey's! Don't be late or there will be consequences.

@@ -11,7 +11,7 @@ display_date = "Fri 27, Sat 28 & Sun 29 Oct"  # For date in detail view
 location = "???"
 
 icon = "ph-code"
-colour = "#EE4F4F"
+colour = "academic"
 +++
 
 Now we're doing our own homemade hackathon. Time to do some coding!

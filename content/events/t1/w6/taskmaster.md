@@ -10,7 +10,7 @@ end_time = "9pm"
 location = "???"
 
 icon = "ph-envelope"
-colour = "#b53dff"
+colour = "social"
 +++
 
 A night of fun inspired by the TV show.

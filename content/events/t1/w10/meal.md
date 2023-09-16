@@ -10,7 +10,7 @@ end_time = "9pm"
 location = "???"
 
 icon = "ph-hamburger"
-colour = "#b53dff"
+colour = "social"
 +++
 
 Pub++

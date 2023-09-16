@@ -10,7 +10,7 @@ end_time = "5pm"
 location = "CS1.04"
 
 icon = "ph-microphone-stage"
-colour = "#ee4f4f"
+colour = "academic"
 +++
 
 Hear about our lord and saviour, Version Control.
