@@ -10,7 +10,6 @@ build_search_index = false
 theme = "uwcs"
 
 taxonomies = [
-    { name = "terms", paginate_by = 20, feed = true},
     { name = "categories", paginate_by = 20, feed = true},
     { name = "tags", paginate_by = 20, feed = true},
 ]
@@ -18,7 +17,7 @@ taxonomies = [
 ignored_content = [
     "**/README.md",
     "**/gen_seq.py",
-# DRAFT    "**/archive/*/*"
+    "**/archive/*/*"  # DRAFT
 ]
 
 [markdown]
