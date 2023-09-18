@@ -8,7 +8,7 @@ generate_feed = true
 +++
 
 {% note(type="warning") %}
-**Events are provisional and subject to change**. Please see our [discord](https://discord.uwcs.uk) for the latest information.
+Please see our [Discord](https://discord.uwcs.uk) for the latest information.
 {% end %}
 
 {% note(type="info", icon="archive") %}
