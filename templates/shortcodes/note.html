@@ -17,16 +17,18 @@ Can fit a longer body here!
 
 #}
 
+{% import "macros/shortcodes.html" as shortcodes %}
+
 {% if not type %}{% set type="primary" %}{% endif %}
 {% if not icon %}
-    {% if type == "success" %}{% set icon="check-circle-fill" %}
-    {% elif type == "warning" %}{% set icon="exclamation-triangle-fill" %}
-    {% elif type == "danger" %}{% set icon="x-octagon-fill" %}
-    {% elif type == "info" %}{% set icon="info-circle-fill" %}
+    {% if type == "success" %}{% set icon="bi-check-circle-fill" %}
+    {% elif type == "warning" %}{% set icon="bi-exclamation-triangle-fill" %}
+    {% elif type == "danger" %}{% set icon="bi-x-octagon-fill" %}
+    {% elif type == "info" %}{% set icon="bi-info-circle-fill" %}
     {% else %}{% set icon="none" %}
     {% endif %}
 {% endif %}
 
 <div class="alert alert-{{ type }}" role="alert">
-  {% if icon != "none" %}<i class="bi bi-{{ icon }} me-2"></i>{% endif %}{{ body | markdown(inline=true) | safe }}
+  {% if icon != "none" %}{{ shortcodes::icon(icon=icon) }} {% endif %}{{ body | markdown(inline=true) | safe }}
 </div>

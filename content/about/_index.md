@@ -5,7 +5,7 @@ sort_by = "weight"
 +++
 
 {% note(type="info") %}
-If you're a current student at the University of Warwick, consider [joining the Computing Society](https://www.warwicksu.com/societies-sports/societies/computing/), <i class="bi bi-discord"></i> [hanging out in our community](https://discord.uwcs.uk) or <i class="bi bi-instagram"></i> [keeping up to date with us](https://instagram.com/warwickcompsoc/)!
+If you're a current student at the University of Warwick, consider [joining the Computing Society](https://www.warwicksu.com/societies-sports/societies/computing/), {{ icon(icon="bi-discord") }} [hanging out in our community](https://discord.uwcs.uk) or {{ icon(icon="bi-instagram") }} [keeping up to date with us](https://instagram.com/warwickcompsoc/)!
 {% end %}
 
 Established as far back as 1979 ([to the best of our knowledge](https://wdc.contentdm.oclc.org/digital/collection/prospect/id/7782)), the Computing Society is one of the biggest and busiest at Warwick! Our exec team helps to organise a whole host of cool activities throughout the year. This page should help to give you an idea of what we do. We are the official British Computing Society student chapter for the University of Warwick, and have close ties to the Department of Computer Science.
