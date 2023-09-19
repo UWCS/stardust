@@ -6,7 +6,6 @@ date = "Saturday 7pm"
 tags = ["Circle", "Kelsey's"]
 
 [extra]
-end_time = ""
 location = "Kelsey's"
 
 icon = "icons/milk.svg"
