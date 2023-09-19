@@ -12,5 +12,5 @@ Please see our [Discord](https://discord.uwcs.uk) for the latest information.
 
 {% note(type="primary", icon="archive-fill") %}
 **[Events Archive](@/events/archive/_index.md):** Events from previous years  
-<i class="bi bi-clock-fill me-2"></i>**[Past Events](@/events/archive/current.md):** Events from earlier this year
+<i class="ph-bold ph-clock me-2"></i>**[Past Events](@/events/archive/current.md):** Events from earlier this year
 {% end %}
