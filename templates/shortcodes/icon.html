@@ -1,0 +1,12 @@
+{# 
+Displays an icon from Phosphor, Bootstrap or a local asset
+Arguments:
+    icon: Icon to display, can be a:
+      - a [Phosphor](https://phosphoricons.com/) icon (e.g. `ph-heart`), 
+      - [Bootstrap](https://icons.getbootstrap.com/) icon (e.g. `bi-discord`), 
+      - or a local image or svg (e.g. `assets/su-logo.svg`). 
+      In general, prefer Phosphor over Bootstrap and a custom image last.
+#}
+
+{%- import "macros/shortcodes.html" as shortcodes -%}
+{{ shortcodes::icon(icon=icon) }}

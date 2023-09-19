@@ -100,6 +100,7 @@ Some longer note text
 {% end %}
 ```
 
+- `icon`: An icon from Phosphor, Bootstrap or local, `icon` param is formatted the same as for events
 - `note`: Callout block with customizable icon and colour
 - `youtube`: YT video and/or playlist link support
 - `pdf`: PDF embed
