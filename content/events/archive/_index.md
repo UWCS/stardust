@@ -10,5 +10,5 @@ reverse_subsections = true
 <!-- more -->
 {% note(type="primary", icon="clock-fill") %}
 **[Past Events](@/events/archive/current.md):** Events from earlier this year  
-<i class="bi bi-bell-fill me-2"></i>**[Current Events](@/events/_index.md)**
+<i class="bi bi-bell-fill me-2"></i>**[Return to Current Events](@/events/_index.md)**
 {% end %}
