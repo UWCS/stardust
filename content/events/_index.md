@@ -10,7 +10,7 @@ page_template = "event.html"
 Please see our [Discord](https://discord.uwcs.uk) for the latest information.
 {% end %}
 
-{% note(type="primary", icon="archive-fill") %}
+{% note(type="primary", icon="ph-archive") %}
 **[Events Archive](@/events/archive/_index.md):** Events from previous years  
-<i class="ph-bold ph-clock me-2"></i>**[Past Events](@/events/archive/current.md):** Events from earlier this year
+{{ icon(icon="ph-clock") }} **[Past Events](@/events/archive/current.md):** Events from earlier this year
 {% end %}

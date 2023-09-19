@@ -2,7 +2,7 @@
 A coloured callout block with text and an optional icon
 Arguments:
     type: primary (blue), secondary (grey), success (green), warning (yellow), danger (red), info (light blue), light, dark
-    icon: A bootstrap icon (https://icons.getbootstrap.com) for the note, defaults to match type otherwise none
+    icon: An icon from Phosphor, Bootstrap or local as given in the icon shortcode or events
     body: Text of the note
 
 Examples:
@@ -10,7 +10,7 @@ Examples:
 {{ note(type="danger", body="oh no! you've done something") }}
 => red callout with default danger icon and body
 
-{% note(type="primary", icon="heart-fill") %}
+{% note(type="primary", icon="ph-heart-fill") %}
 Can fit a longer body here!
 {% end %}
 => blue callout with no icon and longer body
