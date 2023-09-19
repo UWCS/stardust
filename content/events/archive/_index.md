@@ -7,6 +7,8 @@ template = "event_archive.html"
 reverse_subsections = true
 +++
 
-{% note(type="primary", icon="clock") %}
-**[Past Events](@/events/archive/current.md):** Events from earlier this year
+<!-- more -->
+{% note(type="primary", icon="clock-fill") %}
+**[Past Events](@/events/archive/current.md):** Events from earlier this year  
+<i class="bi bi-bell-fill me-2"></i>**[Current Events](@/events/_index.md)**
 {% end %}

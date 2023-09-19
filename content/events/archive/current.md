@@ -6,8 +6,10 @@ template = "events.html"
 archive = true
 +++
 
-{% note(type="primary", icon="archive") %}
+Events from earlier this year!
+<!-- more -->
+
+{% note(type="primary", icon="archive-fill") %}
 **[Events Archive](@/events/archive/_index.md):** Events from previous years
 {% end %}
 
-Events from earlier this year!

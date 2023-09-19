@@ -10,8 +10,8 @@ build_search_index = false
 theme = "uwcs"
 
 taxonomies = [
-    { name = "categories", paginate_by = 20, feed = true},
-    { name = "tags", paginate_by = 20, feed = true},
+    { name = "categories", paginate_by = 20},
+    { name = "tags", paginate_by = 20},
 ]
 
 ignored_content = [

@@ -1,5 +1,6 @@
 +++
 title = "News Archive"
+template = "news_archive.html"
 weight = 1
 
 [extra]

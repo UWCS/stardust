@@ -8,5 +8,6 @@ generate_feed = true
 
 Get your society news for this academic year!
 
-##### [<i class="bi bi-archive-fill"></i> News Archive](@/news/archive/_index.md)
-##### [<i class="bi bi-bookmark-fill"></i> News Categories](/categories)
+{% note(type="primary", icon="archive-fill") %}
+**[News Archive](@/news/archive/_index.md):** News from previous years  
+{% end %}
