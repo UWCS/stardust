@@ -45,7 +45,7 @@ We are all on exam revision mode, so why not revise together? Join us from 5pm o
 
 We have a huge range of options, so relax at the end of this stressful exam week with some Mario Kart, Jackbox, and more!
 
-̶i̶ ̶h̶a̶d̶ ̶t̶o̶ ̶l̶e̶a̶r̶n̶ ̶h̶o̶w̶ ̶t̶o̶ ̶u̶s̶e̶ ̶t̶h̶e̶ ̶w̶o̶r̶d̶ ̶i̶n̶n̶i̶t̶ ̶c̶o̶r̶r̶e̶c̶t̶l̶y̶ ̶f̶o̶r̶ ̶t̶h̶i̶s̶
+~~i had to learn how to use the word innit correctly for this~~
 ***
 
 ## **[🎤 Talk: Soul Assembly](https://uwcs.co.uk/events/talk-guest-speaker-barnaby-smith/)**

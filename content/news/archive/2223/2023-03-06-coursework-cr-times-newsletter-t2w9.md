@@ -1,5 +1,5 @@
 +++
-title = "Coursework  ̶C̶r̶ Times | Newsletter T2W9"
+title = "Coursework ~~ Cr~~ Times | Newsletter T2W9"
 date = "2023-03-06T11:00:00Z"
 
 [extra]

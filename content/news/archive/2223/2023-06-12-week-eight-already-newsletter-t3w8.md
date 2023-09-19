@@ -22,7 +22,7 @@ original = "https://uwcs.co.uk/news/uwcs-22t3w8-newsletter/"
 
 term is ending soon, but 𝕞𝕚𝕝𝕜 𝕞𝕠𝕟𝕕𝕒𝕪𝕤 will never end!
 
- ̶w̶h̶y̶ ̶d̶i̶d̶ ̶w̶e̶ ̶d̶o̶ ̶t̶h̶i̶s̶
+~~ why did we do this~~
 ***
 
 ## **[🍕 Weekly Pub Meal W8 🍕](https://uwcs.co.uk/events/pub-meal-22t3w8)**

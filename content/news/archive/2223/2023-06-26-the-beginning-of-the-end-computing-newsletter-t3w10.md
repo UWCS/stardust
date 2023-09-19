@@ -22,7 +22,7 @@ original = "https://uwcs.co.uk/news/uwcs-22t3w10-newsletter/"
 > 
 > You will all be missed
 > 
->  ̶a̶l̶s̶o̶ ̶n̶o̶ ̶m̶o̶r̶e̶ ̶h̶a̶p̶p̶y̶ ̶b̶i̶r̶t̶h̶d̶a̶y̶ ̶k̶e̶e̶g̶a̶n̶
+> ~~ also no more happy birthday keegan~~
 ***
 
 ## **[「🥛 Milk Mondays W10 🥛」](https://uwcs.co.uk/events/mm-22t3w10/)**
@@ -37,7 +37,7 @@ who knows if it'll continue next year, so get **free** milk while you can!
 **🕗 Mon 26 Jun 6:30pm - 9pm  📍 Dirty Duck**  
 𝚝𝚑𝚎 𝚕𝚊𝚜𝚝 𝚘𝚏 𝚝𝚑𝚎 𝚍𝚞𝚌𝚔
 
-we are heading to Dirty Duck ̶b̶e̶c̶a̶u̶s̶e̶ ̶P̶h̶a̶n̶t̶o̶m̶ ̶C̶o̶a̶c̶h̶ ̶i̶s̶ ̶c̶l̶o̶s̶e̶d̶ ̶f̶o̶r̶ ̶r̶e̶n̶o̶v̶a̶t̶i̶o̶n̶s̶ ̶:̶w̶a̶h̶:̶ because we know it is the best ending of the year!
+we are heading to Dirty Duck~~ because Phantom Coach is closed for renovations :wah:~~ because we know it is the best ending of the year!
 
 𓅭 𓅰
 ***
@@ -48,7 +48,7 @@ we are heading to Dirty Duck ̶b̶e̶c̶a̶u̶s̶e̶ ̶P̶h̶a̶n̶t̶o̶m̶ ̶C
 
 Exams have officially ended, but we will still be offering *compcafé* for those who are dedicated to still do useful tasks in their free time!
 
- ̶o̶r̶ ̶j̶u̶s̶t̶ ̶w̶a̶n̶t̶ ̶s̶o̶m̶e̶ ̶f̶r̶e̶e̶ ̶s̶n̶a̶c̶k̶s̶
+~~ or just want some free snacks~~
 ***
 
 ## **[👾 Friday Night Gaming W10 👾](https://uwcs.co.uk/events/fng-22t3w10/)**

@@ -16,7 +16,7 @@ There are tons of options for consoles: Xbox with Rockband, Wii, Nintendo Switch
 
 If you are more into Steam, we have that too! Not only that, but you can get full access to the department computers and enjoy a wide selection of **free** games *(wow!)*
 
-It doesn't stop there folks. We also have a f̶r̶e̶a̶k̶i̶n̶g̶ Oculus VR headset, so you can immerse yourself in Metaverse games. Beat Saber is a popular choice, but we have tons of options!
+It doesn't stop there folks. We also have a ~~freaking~~ Oculus VR headset, so you can immerse yourself in Metaverse games. Beat Saber is a popular choice, but we have tons of options!
 
 Did you think that was it? We even have J͟a͟c͟k͟b͟o͟x͟, along with other party games that will continue through the night. 
 

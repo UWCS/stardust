@@ -19,7 +19,7 @@ original = "https://uwcs.co.uk/news/uwcs-22t3w4-newsletter/"
 **🕔 Mon 15 May 10am - 2pm  📍 [DCS Atrium](https://campus.warwick.ac.uk/?cmsid=14)**  
 🥛🥛🥛
 
-Milk is d̶e̶f̶i̶n̶i̶t̶e̶l̶y̶ proven to help you do better in your exams, so it is *necessary* to grab a cup!
+Milk is ~~definitely~~ proven to help you do better in your exams, so it is *necessary* to grab a cup!
 ***
 
 ## **[🍝 Weekly Pub Meal W4 🍝s](https://uwcs.co.uk/events/pub-meal-22t3w4/)**
@@ -36,7 +36,7 @@ We push through these exams 😤💪
 
 We are all on extreme exam revision mode, so why not revise together? Join us from 5pm onwards this Tuesday.
 
-̶W̶e̶ ̶w̶i̶l̶l̶ ̶d̶e̶f̶i̶n̶i̶t̶e̶l̶y̶ ̶b̶e̶ ̶p̶r̶o̶v̶i̶d̶i̶n̶g̶ ̶m̶o̶n̶s̶t̶e̶r̶ ̶e̶n̶e̶r̶g̶y̶ ̶i̶f̶ ̶y̶o̶u̶ ̶n̶e̶e̶d̶ ̶i̶t̶ d̶w̶
+~~We will definitely be providing monster energy if you need it~~ ~~dw~~
 ***
 
 ## **[👾 Friday Night Gaming W4 👾](https://uwcs.co.uk/events/fng-22t3w4/)**

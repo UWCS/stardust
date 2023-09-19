@@ -10,7 +10,7 @@ location = "MB0.07"
 
 This is a rare occurrence of ***four*** talks! Each will cover its own unique topic, but they are all incredibly interesting and definitely worth checking out. Have a sneak peek at some of what will be discussed:
 
-- **The  O̶l̶i̶v̶e̶ Cheese Wars** by Joshua Fitzmaurice
+- **The  ~~Olive~~ Cheese Wars** by Joshua Fitzmaurice
 - **Disrupting the Campus Tech Space: How Tech Team is Revolutionising Cloud and AI Infrastructure At Scale** by Joey Harrison and Alex Wright
 - **QR Codes** by Felix Bowyer
 - **Breaking "Perfect" Crypto: Side Channel Attacks** by Gareth Ma

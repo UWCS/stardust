@@ -16,14 +16,14 @@ original = "https://uwcs.co.uk/news/uwcs-22t3w2-newsletter/"
 
 ## **[💸 Merch Release 💸](https://uwcs.co.uk/events/merch-22t3w2/)**
 **🕙 Mon 1 May 8am - Mon 8 May 12pm  📍 [UWCS Merch Store](https://merch.uwcs.co.uk/)**  
-We are releasing merch for ***only*** a week, so make sure you grab the p̶r̶o̶g̶r̶a̶m̶m̶i̶n̶g̶ ̶s̶o̶c̶k̶s̶ amazing options!
+We are releasing merch for ***only*** a week, so make sure you grab the ~~programming socks~~ amazing options!
 ***
 
 ## **[🐮 Milk Mondays W2 🐮](https://uwcs.co.uk/events/mm-22t3w2/)**
 **🕙 Mon 1 May 10am - 2pm  📍 [DCS Atrium](https://campus.warwick.ac.uk/?cmsid=14)**  
 𝑪𝒉𝒐𝒄𝒐𝒍𝒂𝒕𝒆 𝑴𝒊𝒍𝒌 𝑬𝒅𝒊𝒕𝒊𝒐𝒏! Do not miss out on the Computing Societies' newest tradition. 
 
-Milk is d̶e̶f̶i̶n̶i̶t̶e̶l̶y̶ proven to help you do better in your exams, so grab a cup and hang out with us for a bit!
+Milk is ~~definitely~~ proven to help you do better in your exams, so grab a cup and hang out with us for a bit!
 ***
 
 ## **[🍛 Weekly Pub Meal W2 🍛](https://uwcs.co.uk/events/pub-meal-22t3w2/)**
@@ -53,7 +53,7 @@ We have a huge range of options, so relax at the end of this stressful revision 
 The first ever Computing Ball is happening, so gear up and head on over for this exciting event! *And they say computer scientists don't go out :kekw:*
 ***
 
-> I am sorry about not doing last week, exams have been kicking my b̶u̶t̶t̶ too, but that isn't really an excuse ;-;
+> I am sorry about not doing last week, exams have been kicking my ~~butt~~ too, but that isn't really an excuse ;-;
 > I will try to do better, i promise <3 -serene
 Links: [💬 Discord](https://discord.uwcs.co.uk/) | [📷 Instagram](https://www.instagram.com/warwickcompsoc/) | [🎟️ Join the Society](https://www.warwicksu.com/societies-sports/societies/computing/)
 

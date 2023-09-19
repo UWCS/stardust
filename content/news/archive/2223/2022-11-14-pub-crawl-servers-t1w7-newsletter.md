@@ -14,7 +14,7 @@ original = "https://uwcs.co.uk/news/uwcs-22t1w7-newsletter/"
 > We've discovered we have two old servers of ours, we didn't know existed. We're going to be investigating on Wednesday, but who knows what we'll find!  
 > If you are in 3rd year and struggling with compiler design, we have a help session on Thursday, and if you are struggling with compiler design, we have a drinking session on Friday! Everyone's welcome on our first Pub Crawl of the year: we'll be exploring Leamington in various states of drunkeness.
 >
-> We had our programming competition last week, which went great! Thanks to all of you that attended, and well done to teams: Ed Sucks, the Error Opposers and the Abelian Group for being in our top three teams. You can find all the problems and the leaderboard (for the competition period only) on our lovely new [progcomp website](https://progcomp.uwcs.co.uk) t̶h̶a̶t̶ ̶d̶e̶f̶i̶n̶i̶t̶e̶l̶y̶ ̶w̶a̶s̶n̶'̶t̶ ̶f̶i̶n̶i̶s̶h̶e̶d̶ ̶a̶t̶ ̶3̶a̶m̶ ̶t̶h̶e̶ ̶n̶i̶g̶h̶t̶ ̶b̶e̶f̶o̶r̶e̶ .
+> We had our programming competition last week, which went great! Thanks to all of you that attended, and well done to teams: Ed Sucks, the Error Opposers and the Abelian Group for being in our top three teams. You can find all the problems and the leaderboard (for the competition period only) on our lovely new [progcomp website](https://progcomp.uwcs.co.uk) ~~that definitely wasn't finished at 3am the night before~~ .
 
 ***
 
