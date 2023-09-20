@@ -1,5 +1,5 @@
 +++
-title = "Autumnul Comp Cafe Picnic"
+title = "Autumnal Comp Cafe Picnic"
 date = "Wednesday 5pm"
 
 [taxonomies]

@@ -62,7 +62,7 @@ We upload most past talks to our [YouTube](https://www.youtube.com/@warwickcompu
 
 ### Lightning Talks
 
-Hosted twice every term - sessions of three 15-minute student talks across a wide array of computing-related topics. Check out the play-list below! We're always happy to accept new talks, so get in touch if you think you've got a cool idea.
+Hosted twice every term - sessions of three 15-minute student talks across a wide array of computing-related topics. Check out the playlist below! We're always happy to accept new talks, so get in touch if you think you've got a cool idea.
 
 {{ youtube(playlist="PLM7py5yAB4FxS3FzpBD4BA29M6Ue5qyVe") }}
 
