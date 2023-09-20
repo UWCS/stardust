@@ -12,7 +12,7 @@ git restore config.toml
 
 # Build main
 sed -i 's/\(.*\)# DRAFT/# DRAFT \1/g' config.toml
-./zola build --base-url https://new.uwcs.co.uk --output-dir ../build --force
+./zola build --base-url https://uwcs.co.uk --output-dir ../build --force
 
 # Swap versions asap
 [ -d "../public" ] && mv ../public ../old
