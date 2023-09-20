@@ -1,4 +1,4 @@
-# UWCS New Site
+# UWCS Stardust
 
 The new, improved and, most importantly, simplified website for the 23/24 academic year. It's a static site generated with [Zola](https://www.getzola.org/), why not something more standard? I'd prefer not to deal with Ruby (or Go, when Rust is an option 🎆). Zola uses [Tera](tera.netlify.app/) as a template engine, which is very similar to Jinja or every other template engine. All the content is written in [Markdown](https://www.markdownguide.org/basic-syntax/), and we have the option to write content using any old editor and Git or with [Decap CMS](https://decapcms.org/) (formerly Netlify CMS) at https://new.uwcs.co.uk/admin/ . We have a GitHub Action setup to automatically rebuild the site on any pushes to `master`.
 
