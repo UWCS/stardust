@@ -1,12 +1,12 @@
 +++
 title = "Welcome Talk"
-date = "Tue 5pm"
+date = "Tue 4pm"
 
 [taxonomies]
 tags = ["Welcome Week"]
 
 [extra]
-end_time = "6pm"
+end_time = "5pm"
 location = "CS1.04"
 
 icon = "ph-microphone-stage"

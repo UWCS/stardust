@@ -1,12 +1,12 @@
 +++
 title = "Societies Fair"
-date = "Wed 11am"
+date = "Wed 10am"
 
 [taxonomies]
 tags = ["Welcome Week"]
 
 [extra]
-end_time = "7pm"
+end_time = "6pm"
 location = "Sports Hub"
 
 icon = "ph-hand-waving"

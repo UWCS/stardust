@@ -1,6 +1,6 @@
 +++
 title = "Git Good Talk"
-date = "Wed 4pm"
+date = "Wed 3pm"
 
 [taxonomies]
 tags = ["Welcome Week"]

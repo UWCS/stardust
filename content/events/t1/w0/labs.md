@@ -1,6 +1,6 @@
 +++
 title = "Linux Labs"
-date = "Thursday 7pm"
+date = "Thursday 10:30pm"
 
 [taxonomies]
 tags = ["Academic"]
@@ -8,7 +8,7 @@ tags = ["Academic"]
 [extra]
 display_day = "Wed & Thurs"     # For day in events list view
 display_date = "Wed 27 & Thurs 28 Sep"  # For date in detail view
-display_time = "11am, 12am, 1pm"    # For time in both
+display_time = "9:30, 10:30, 11:30am"    # For time in both
 
 location = "CS Dept"
 

@@ -7,7 +7,7 @@ tags = ["Welcome Week"]
 
 [extra]
 end_time = "1pm"
-location = "CS0.0X"
+location = "DCS Atrium"
 
 icon = "icons/fng.svg"
 colour = "gaming"
