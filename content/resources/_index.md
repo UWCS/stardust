@@ -86,7 +86,7 @@ We also offer longer talks from industry professionals, across a wide range of c
 
 For those who need help navigating around Discord, a previous cohort of exec made this comprehensive guide to the platform and our server. It is mostly still relevant, minus the 'demic precautions.
 
-#### [Remoting into DCS](@/resources/remote.md)
+#### [Remoting into DCS](@/resources/remotedcs.md)
 
 *(DCS Only)* A brief guide on how to remotely connect to the Department of Computer Science Linux PCs via the command line.
 
