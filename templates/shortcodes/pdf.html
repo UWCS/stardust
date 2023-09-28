@@ -2,12 +2,12 @@
 PDF embedding in page
 
 Arguments:
-    pdf: Link to the PDF
-    width: width of the viewer (fixed to 16:9 atm)
+pdf: Link to the PDF
+width: width of the viewer (fixed to 16:9 atm)
 
 Examples: content/resources/linux-101.md
 #}
 
 <div class="pdf ratio ratio-16x9 m-3">
-  <iframe src="{{ pdf }}" width="{% if width %}width{% else %}100%{%endif%}"></iframe>
+  <object data="{{config.base_url | safe}}{{ pdf | safe}}" width="{% if width %}width{% else %}100%{%endif%}"></object>
 </div>
