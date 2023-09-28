@@ -9,18 +9,20 @@
 
 <body>
     <h1>404 Page Not found :(</h1>
-    <p>If you followed a link to get here it might exist at
-        <a id="old-link" href="https://old.uwcs.co.uk/">https://old.uwcs.co.uk/</a>
+    <p id="404-paragraph">
+        <a href="/">Click here to go back to the homepage</a>
     </p>
 
     <script>
         //gets current url and replaces uwcs with old.uwcs
-        var anchor = document.getElementById("old-link");
         var currentHref = document.URL;
         var currentHostname = new URL(currentHref).hostname;
         var newHref = currentHref.replace(currentHostname, "old." + currentHostname);
-        anchor.setAttribute("href", newHref);
-        anchor.innerHTML = newHref;
+
+        var valid = await fetch(newHref);
+        if (valid.status == 200) {
+            document.getElementById("404-paragraph").innerHTML = "If you followed a link to get here it might exist at <a href='" + newHref + "'>" + newHref + "</a>";
+        }
     </script>
 </body>
 
