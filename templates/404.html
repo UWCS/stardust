@@ -14,15 +14,21 @@
     </p>
 
     <script>
-        //gets current url and replaces uwcs with old.uwcs
-        var currentHref = document.URL;
-        var currentHostname = new URL(currentHref).hostname;
-        var newHref = currentHref.replace(currentHostname, "old." + currentHostname);
+        async function main() {
+            //gets current url and replaces uwcs with old.uwcs
+            var currentHref = document.URL;
+            var currentHostname = new URL(currentHref).hostname;
+            var newHref = currentHref.replace(currentHostname, "old." + currentHostname);
+            await get_url(newHref);
 
-        var valid = await fetch(newHref);
-        if (valid.status == 200) {
-            document.getElementById("404-paragraph").innerHTML = "If you followed a link to get here it might exist at <a href='" + newHref + "'>" + newHref + "</a>";
+            async function get_url(newHref) {
+                var valid = await fetch(newHref);
+                if (valid.status == 200) {
+                    document.getElementById("404-paragraph").innerHTML = "If you followed a link to get here it might exist at <a href='" + newHref + "'>" + newHref + "</a>";
+                }
+            }
         }
+        main();
     </script>
 </body>
 
