@@ -7,6 +7,7 @@ template = "event_archive.html"
 reverse_subsections = true
 +++
 
+Past events from previous years.
 <!-- more -->
 {% note(type="primary", icon="ph-clock") %}
 **[Past Events](@/events/archive/current.md):** Events from earlier this year  
