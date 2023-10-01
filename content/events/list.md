@@ -11,7 +11,7 @@ A list view of our events, for ease of browsing.
 <!-- more -->
 
 {% note(type="primary") %}
-{{ icon(icon="ph-calendar-blank") }}**[Calendar view](@/events/_index.md):** Pretty view of events  
+{{ icon(icon="ph-calendar-blank") }}**[Weekly Calendar](@/events/_index.md):** Standard week-by-week list of events  
 {{ icon(icon="ph-archive") }}**[Events Archive](@/events/archive/_index.md):** Events from previous years  
 {{ icon(icon="ph-clock") }} **[Past Events](@/events/archive/current.md):** Events from earlier this year
 {% end %}

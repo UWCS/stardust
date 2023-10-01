@@ -14,7 +14,7 @@ Please see our [Discord](https://discord.uwcs.uk) for the latest information.
 {% end %}
 
 {% note(type="primary") %}
-{{ icon(icon="ph-list") }}**[List view](@/events/list.md):** List view of events for ease of browsing  
+{{ icon(icon="ph-list") }}**[Event List](@/events/list.md):** List view of all current events  
 {{ icon(icon="ph-archive") }}**[Events Archive](@/events/archive/_index.md):** Events from previous years  
 {{ icon(icon="ph-clock") }} **[Past Events](@/events/archive/current.md):** Events from earlier this year
 {% end %}
