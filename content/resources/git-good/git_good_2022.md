@@ -435,7 +435,3 @@ Other Git resources worth having a look at for learning more:
 - [The GitHub Documentation](https://docs.github.com/en)
 - [The Pro Git Book](https://git-scm.com/book/en/v2)
 
-You can find the webpage for the [workshop and talk from 2022 here](@/resources/git-good/git_good_2022.md).
-
-Also, you can look out for the upcoming "Git Better" talk which will cover some of these more advanced topics (this will be announced on [our discord](discord.uwcs.co.uk)).
-
