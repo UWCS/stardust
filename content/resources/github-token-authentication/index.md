@@ -1,5 +1,5 @@
 +++
-title = "Remoting into DCS"
+title = "GitHub token authentication"
 date = "2023-10-02"
 +++
 
@@ -8,10 +8,10 @@ date = "2023-10-02"
 For ✨security✨...
 
 From August 2021, GitHub announced they would not be allowing password authentication
-when using the command line to interact with GitHub.com [^1].
+when using the command line to interact with github.com [^1].
 
 This means that in order to interact with GitHub from the command line you have to
-create "authentication tokens".
+create an "authentication token".
 
 ### What are authentication tokens?
 
@@ -24,7 +24,6 @@ create "authentication tokens".
 ### How do I create an authentication token?
 
 Visit [https://github.com/settings/tokens](https://github.com/settings/tokens).
-
 This can also be found by navigating to
 "Settings>Developer Settings>Personal access tokens>Tokens (classic)"
 
@@ -42,7 +41,7 @@ Once you have authenticated, you should see a screen like this:
 There are three things you want to set here:
 
 1) Give your token a meaningful name! For example, if you plan to use it on DCS computers
-   for this academic year, you could call it "DCS machines 2023-24".
+   for the academic year starting in 2023, you could call it "DCS machines 2023-24".
 2) Set an expiry date for your token. For convenience, you can set it to last a year
    using the custom date picker. Note there is a limit on how long tokens can last.
 3) Select the scopes for the token. A possible general set of scopes for most tasks is:
@@ -57,7 +56,7 @@ There are three things you want to set here:
    - `project`
 
 Once you have set all these fields, click the green "Generate token" button at the
-bottom of the page. This should then show a screen like this:
+bottom of the page. After the button is pressed a screen like this should be shown:
 
 ![Screenshot of the screen once a new token is created](/resources/created_token.png)
 
@@ -121,8 +120,8 @@ Which should print something similar to:
 
 ### References
 
-- [^1] https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/
-- [^2] https://www.twilio.com/docs/glossary/what-is-an-authentication-token
-- [^3] https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic
-- [^4] https://stackoverflow.com/a/64632086
+- [^1] [https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/](https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/)
+- [^2] [https://www.twilio.com/docs/glossary/what-is-an-authentication-token](https://www.twilio.com/docs/glossary/what-is-an-authentication-token)
+- [^3] [https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic)
+- [^4] [https://stackoverflow.com/a/64632086](https://stackoverflow.com/a/64632086)
 
