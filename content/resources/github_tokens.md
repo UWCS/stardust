@@ -121,8 +121,8 @@ Which should print something similar to:
 
 ### References
 
-[^1] https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/
-[^2] https://www.twilio.com/docs/glossary/what-is-an-authentication-token
-[^3] https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic
-[^4] https://stackoverflow.com/a/64632086
+- [^1] https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/
+- [^2] https://www.twilio.com/docs/glossary/what-is-an-authentication-token
+- [^3] https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic
+- [^4] https://stackoverflow.com/a/64632086
 
