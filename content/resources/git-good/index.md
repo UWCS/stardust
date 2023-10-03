@@ -209,7 +209,7 @@ The command `git remote add origin https://github.com/<username>/git-good` will 
 
 Git might prompt you for a username and password to be able to push to your remote repo. The username is the email address you log in with, and for the password you'll need a [Personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
-**You can read a [full tutorial on how to do this here](@../git-token-authentication/index.md)**
+**You can read a [full tutorial on how to do this here](/resources/github-token-authentication/)**
 
 Once the push has completed correctly, refresh your GitHub repo page, and you should see your files there.
 
