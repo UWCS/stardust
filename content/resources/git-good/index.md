@@ -219,7 +219,7 @@ Another major feature of Git is branches. Branches allow you to have multiple ve
 
 Our new branch is going to be called `iterator`, because we're going to add an alternate Fibonacci class that is an [Iterator](https://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html), allowing us to more efficiently generate a sequence of numbers (again, the exact code doesn't really matter).
 
-First, run `git checkout -b iterator` to create and then switch to a new branch, `iterator`. If you run `git log --oneline --all --graph`, you'll see main, our new branch, and the remote branch all point to the same commit. More importantly, `HEAD` is now pointing to the branch `iterator`, meaning new commits will be added to this branch.
+First, run `git checkout -b iterator` to create and then switch to a new branch, `iterator` (this is just a different way to do `git branch iterator` followed by `git switch iterator` as we saw in the talk). If you run `git log --oneline --all --graph`, you'll see main, our new branch, and the remote branch all point to the same commit. More importantly, `HEAD` is now pointing to the branch `iterator`, meaning new commits will be added to this branch.
 
 ![](git-branch.png)
 
@@ -260,7 +260,7 @@ public class FibonacciGenerator implements Iterator<Integer> {
 }
 ```
 
-And update `Fibonacci.main`:
+And update the `main` method of the `Fibonacci.java` file:
 
 ```java
 public static void main(String[] args) {
