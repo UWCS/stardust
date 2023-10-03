@@ -260,7 +260,7 @@ public class FibonacciGenerator implements Iterator<Integer> {
 }
 ```
 
-And update `Fibonacci.main`:
+And update the `main` method of the `Fibonacci.java` file:
 
 ```java
 public static void main(String[] args) {
