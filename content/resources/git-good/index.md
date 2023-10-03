@@ -1,20 +1,28 @@
 +++
-title = "Git Good"
-date = "2022-10-05"
+title = "Git Good 2023"
+date = "2023-10-02"
 +++
 
-A combination of a talk (by Sam Coy) and a workshop to get you up to speed with Git, so you can avoid the inevitable accidental deletion of coursework!
+A combination of a talk (presented by Edmund Goodman in 2023, previously by Sam Coy) and a workshop to get you up to speed with Git, so you can avoid the inevitable accidental deletion of coursework!
 <!-- more -->
 
 # Talk
 
-{{ pdf(pdf="/resources/git-good/git_good_2022.pdf") }}
+## Slides
+
+Embedded below you can find the slides from this year's talk:
+
+{{ pdf(pdf="/resources/git-good/git_good_2023.pdf") }}
+
+## Recording
+
+Unfortunately, we weren't able to record the talk this year. Luckily, we do have a recording from last year as presented by Sam Coy, which is embedded below!
 
 {{ youtube(id="R__mSq-aGyQ") }}
 
 # Workshop
 
-As with all practical skills, using Git is best developed through practice. You've got the ideas from Sam, but we thought it would be a good idea to let you have a play with Git too. 
+As with all practical skills, using Git is best developed through practice. You've got the ideas from Edmund/Sam, but we thought it would be a good idea to let you have a play with Git too. 
 
 ## Git init
 
@@ -199,9 +207,11 @@ The command `git remote add origin https://github.com/<username>/git-good` will 
 
 ![](git-remote.png)
 
-Git might prompt you for a username and password to be able to push to your remote repo. The username is the email address you log in with, and for the password you'll need a [Personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).  If you want to save your credentials for later, run `git config --global credential.helper store`, and then the next time you are prompted for an email and access token they will be saved. Be aware that it will be saved as plain text on disk though, so I recommend looking into a more secure way to remotely access GitHub (eg, via SSH).
+Git might prompt you for a username and password to be able to push to your remote repo. The username is the email address you log in with, and for the password you'll need a [Personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
-Refresh your GitHub repo page, and you should see your files there.
+**You can read a [full tutorial on how to do this here](@../git-token-authentication/index.md)**
+
+Once the push has completed correctly, refresh your GitHub repo page, and you should see your files there.
 
 ## Git branch
 
@@ -434,3 +444,8 @@ Other Git resources worth having a look at for learning more:
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [The GitHub Documentation](https://docs.github.com/en)
 - [The Pro Git Book](https://git-scm.com/book/en/v2)
+
+You can find the webpage for the [workshop and talk from 2022 here](@/resources/git-good/git_good_2022.md).                                                                                     
+                                                                                                                                                                                                
+Also, you can look out for the upcoming "Git Better" talk which will cover some of these more advanced topics (this will be announced on [our discord](discord.uwcs.co.uk)).   
+
