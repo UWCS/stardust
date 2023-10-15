@@ -1,12 +1,17 @@
-+++ title = "Da Vinci Derivatives Trading Workshop" date = "Thursday 5pm"
++++
+title = "Da Vinci Derivatives Trading Workshop"
+date = "Thursday 5pm"
 
-[taxonomies] tags = ["Talk", "Da Vinci"]
+[taxonomies]
+tags = ["Talk", "Da Vinci"]
 
-[extra] end_time = "20:00" location = "FAB6.02"
-
-icon = "ph-rocket-launch" colour = "academic" 
-  
-  emoji = "📣" +++
+[extra]
+end_time = "20:00"
+location = "FAB6.02"
+icon = "ph-rocket-launch"
+colour = "academic"
+emoji = "📣"
++++
 
 Interested in the idea of working for a trading firm? Or looking to make some coin 🪙 ?
 
@@ -17,5 +22,3 @@ Interested in the idea of working for a trading firm? Or looking to make some co
 Don't miss out on this great opportunity (*which may also have free pizza! 🍕*)
 
 sign up with this form if you would like to attend: https://forms.gle/1PVotgYdSo7oRYUNA 
-
-
