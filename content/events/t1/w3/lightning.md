@@ -8,7 +8,6 @@ tags = ["Lightning Talks"]
 [extra]
 end_time = "14:00"
 location = "FAB0.08"
-
 icon = "ph-lightning"
 colour = "academic"
 +++
