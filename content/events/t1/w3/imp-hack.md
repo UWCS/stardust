@@ -6,10 +6,9 @@ date = "Sat 10am"
 tags = ["Hackathon"]
 
 [extra]
-display_day = "Sat & Sun"     # For day in events list view
-display_date = "Sat 21 & Sun 22 Oct"  # For date in detail view
+display_day = "Sat & Sun"# For day in events list view
+display_date = "Sat 21 & Sun 22 Oct"# For date in detail view
 location = "Online"
-
 icon = "ph-code"
 colour = "academic"
 +++
