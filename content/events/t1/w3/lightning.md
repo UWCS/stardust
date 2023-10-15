@@ -1,12 +1,12 @@
 +++
 title = "Lightning Talks"
-date = "Wednesday"
+date = "Wednesday 1pm"
 
 [taxonomies]
 tags = ["Lightning Talks"]
 
 [extra]
-end_time = ""
+end_time = "14:00"
 location = "FAB0.08"
 
 icon = "ph-lightning"
