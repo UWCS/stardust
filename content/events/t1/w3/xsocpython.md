@@ -1,10 +1,14 @@
-+++ title = "xSoc Python" date = "Thursday 7pm"
++++
+title = "xSoc Python"
+date = "Thursday 7pm"
 
-[taxonomies] tags = ["xSoc Python Course"]
+[taxonomies]
+tags = ["xSoc Python Course"]
 
 [extra]
 end_time = "21:00"
 location = "LIB2"
+
 icon = "ph-code"
 colour = "academic"
 +++
