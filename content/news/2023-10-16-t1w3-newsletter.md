@@ -1,17 +1,11 @@
-+++
-title="hmmmmmmmmmmmmmmmmmmm | Newsletter T1W3"
-
-[taxonomies]
-categories = ["Newsletter"]
-+++
-
-You better not be tired of us yet!
-
-This week is freaking packed. We have tons of events for you to check out, so make sure you keep your eyes out (we even have a three-day long event! 👀)
-
-Consider checking out our first *Loud and Proud* social of the year! Or maybe listen to our first set of *Lightning Talks* (topics to be announced asap!). Make sure you pass by the *Ada Lovelace Day* celebration in collaboration with Warwick Maths and Statistics societies (there is free food, come on)! This is just a taste of all the amazing things we have planned this week, so scroll down and look at what you might be interested in :D
-
-I hope you are all having an amazing week and don't get too stressed yet! Relax and enjoy the term :)
+# hmmmmmmmmmmmmmmmmmmm | Newsletter T1W3
+>You better not be tired of us yet!
+>
+>This week is freaking packed. We have tons of events for you to check out, so make sure you keep your eyes out (we even have a three-day long event! 👀)
+>Consider checking out our first *Loud and Proud* social of the year! Or maybe listen to our first set of *Lightning Talks* (topics to be announced asap!). Make sure you pass by the *Ada Lovelace Day* celebration in collaboration with Warwick Maths and Statistics societies (there is free food, come on)! This is just a taste of all the amazing things we have planned this week, so scroll down and look at what you might be interested in :D
+>
+>I hope you are all having an amazing week and don't get too stressed yet! Relax and enjoy the term :)
+***
 
 ## **[🥛 Milk Monday 🥛](https://uwcs.co.uk/events/t1/w3/milk/)**
 **🕔 Mon 16 Oct 10:30am - 11:30am  📍 [DCS Atrium](https://campus.warwick.ac.uk//search/623c8858421e6f5928c0c78f)**  
