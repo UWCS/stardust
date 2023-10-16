@@ -12,5 +12,8 @@ colour = "social"
 
 [[taxonomies.tags]]
 tag = "Test Tag"
+
+[[taxonomies.tags]]
+tag = "2nd tag to see how brokey"
 +++
 This is me testing the CMS pls ignore (thx)
