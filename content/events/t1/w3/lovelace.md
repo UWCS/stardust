@@ -1,15 +1,15 @@
 +++
-title = "Ada Lovelace Day" 
+title = "Ada Lovelace Day"
 date = "Wednesday 2:30pm"
-
-[taxonomies]
-tags = ["Wildcards"]
 
 [extra]
 end_time = "18:30"
 location = "MS.02"
 icon = "ph-laptop"
 colour = "academic"
+
+[taxonomies]
+tags = ["Wildcards", "Lovelace"]
 +++
 
 𝚠𝚎'𝚛𝚎 𝚌𝚎𝚕𝚎𝚋𝚛𝚊𝚝𝚒𝚗𝚐 𝚝𝚑𝚘𝚜𝚎 𝚙𝚑𝚎𝚗𝚘𝚖𝚎𝚗𝚊𝚕 𝚠𝚘𝚖𝚎𝚗 𝚒𝚗 𝚂𝚃𝙴𝙼!
