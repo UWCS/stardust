@@ -10,7 +10,7 @@ The new, improved and, most importantly, simplified website for the 23/24 academ
 3. Clone this repo (with submodules) `git clone --recurse-submodules`
 4. Run Zola with `zola serve` in project root (might get weeks of events wrong)
     - Or `zola build` to build the static version (I've found this slightly more stable)
-    - Use `python3 -m http.server --directory public 1111` and add `zola build --base-url http://127.0.0.1:1111` to preview the built version
+    - To view website run `zola build --base-url http://127.0.0.1:1111` then `python3 -m http.server --directory public -b 127.0.0.1 1111`
 5. Write some Markdown in `content/`!
 
 Note, if you want to build the full site (including the archive), comment out `"**/archive/*"` in `ignored_content` in `config.toml`, but **DO NOT COMMIT THIS**. Adding 3k pages does up the build time a fair bit.
@@ -23,7 +23,7 @@ If you want to include images in the post, you can create a folder for it in `co
 
 ### CMS
 
-Alternatively (e.g. if you are on mobile), try the only slightly janky CMS at https://new.uwcs.co.uk/admin/ . It should allow editing of the important bits of news and events, though deeper customisation is unavailable. You need to login to it with GitHub, and it will automatically make a commit for you when you save a change. Shortcode previews are in active developemtn, so may or may not work as expected, but they should render fine.
+Alternatively (e.g. if you are on mobile), try the only slightly janky CMS at https://uwcs.co.uk/admin/ . It should allow editing of the important bits of news and events, though deeper customisation is unavailable. You need to login to it with GitHub, and it will automatically make a commit for you when you save a change. Shortcode previews are in active developemtn, so may or may not work as expected, but they should render fine.
 
 Note: Currently the CMS is broken for events because of the nested folders. Hopefully this is fixable at some point.
 
