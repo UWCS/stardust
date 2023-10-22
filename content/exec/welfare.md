@@ -5,7 +5,6 @@ date = "1970-01-01"
 
 [extra]
 people = ["Alia Meek"]
-discords = ["@alimmeek"]
 email = "welfare@uwcs.co.uk"
 +++
 
