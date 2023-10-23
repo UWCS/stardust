@@ -9,7 +9,7 @@ tags = ["Circle", "Kelsey's"]
 end_time = "9pm"
 location = "SU"
 
-icon = "icons/milk.svg"
+icon = "ph-beer-bottle"
 colour = "social"
 +++
 
