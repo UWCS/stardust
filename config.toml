@@ -5,7 +5,7 @@ base_url = "test"
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+build_search_index = true
 
 theme = "uwcs"
 
@@ -27,6 +27,9 @@ highlight_code = true
 highlight_theme = "css"
 render_emoji = true
 external_links_target_blank = true
+
+[search]
+index_format = "elasticlunr_json"
 
 [slugify]
 paths_keep_dates = true
