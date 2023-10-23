@@ -8,4 +8,4 @@ short = "Computing"
 img = "assets/su-logo.svg"
 +++
 
-We are free to join!
+Weekly newsletter! We are free to join

@@ -35,9 +35,5 @@ title = "University of Warwick Computing Society"
 {% end %}
 
 </div>
-<div class="my-3"></div>
-{% note() %}
-Welcome to our new website! Hopefully it has everything you need, but if you need access to the old site (Dextre) you can find it at [old.uwcs.co.uk](https://old.uwcs.co.uk)
-{% end %}
 </div>
 
