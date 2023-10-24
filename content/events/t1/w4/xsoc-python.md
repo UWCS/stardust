@@ -16,4 +16,4 @@ We getting into the good stuff now (aka files and the command line)
 
 Come to a beginner-friendly course, in collaboration with Warwick AI and Code Soc. There will be an opportunity to learn some valuable coding skills that companies would love to see!
 
-All labs and documents can be found at [go.uwcs.co.uk/python](go.uwcs.co.uk/python) and on our [YouTube](https://www.youtube.com/watch?v=hGJT7yCaqAQ&list=PLM7py5yAB4FwniKHqApP_0YmFeEvSQnWf)
+All labs and documents can be found at [go.uwcs.co.uk/python](https://go.uwcs.co.uk/python) and on our [YouTube](https://www.youtube.com/watch?v=hGJT7yCaqAQ&list=PLM7py5yAB4FwniKHqApP_0YmFeEvSQnWf)
