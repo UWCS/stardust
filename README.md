@@ -4,13 +4,17 @@ The new, improved and, most importantly, simplified website for the 23/24 academ
 
 ## Installation
 
-1. Install Rust (see [rustup.rs](https://rustup.rs/))
-2. Download [my fork](https://github.com/ericthelemur/zola/releases/latest) of Zola (or see [install from source](https://www.getzola.org/documentation/getting-started/installation/#from-source))
-  - If you get **errors about missing square root**, you are running standard Zola, **not this fork.**
+1. Install my fork of Zola:
+    - Run script `install-linux.sh`, `install-windows.ps1` or `install-mac-m1.sh` to download and install prebuilt releases of (my fork of) Zola
+    - If this doesn't work, install Rust (see [rustup.rs](https://rustup.rs/)) then run/follow `install-source.sh` 
+        - (script may change by OS, but clone then build should always work, even if release build may take a while)
+    - If you get **errors about missing square root**, you are running standard Zola, **not this fork.**
 3. Clone this repo (with submodules) `git clone --recurse-submodules`
-4. Run Zola with `zola serve` in project root (might get weeks of events wrong)
-    - Or `zola build` to build the static version (I've found this slightly more stable)
-    - To view website run `zola build --base-url http://127.0.0.1:1111` then `python3 -m http.server --directory public -b 127.0.0.1 1111`
+4. Run Zola with `zola serve` in project root
+    - This rebuilds the website on changes, and serves it at http://127.0.0.1:1111 (view in browser)
+    - This has occasionally caused problems, if it does replace it with:
+        - `python3 -m http.server --directory public -b 127.0.0.1 1111 > web.log &`
+        - then run `zola build --base-url http://127.0.0.1:1111` on any changes
 5. Write some Markdown in `content/`!
 
 Note, if you want to build the full site (including the archive), comment out `"**/archive/*"` in `ignored_content` in `config.toml`, but **DO NOT COMMIT THIS**. Adding 3k pages does up the build time a fair bit.
