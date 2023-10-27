@@ -7,6 +7,6 @@ page_template = "sponsor.html"
 colour = "#7CADE3"
 +++
 
-> Interested in sponsoring the Computing Society for 23/24? [Get in touch.](@/exec/_index.md)
+> Interested in sponsoring the Computing Society? [Get in touch.](@/exec/_index.md)
 
-We'd like to thank the following sponsors for the 22/23 academic year:
+We'd like to thank our sponsors:
