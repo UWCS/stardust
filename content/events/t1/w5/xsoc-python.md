@@ -12,7 +12,7 @@ emoji = "🐍"
 [taxonomies]
 tags = ["xSoc Python Course"]
 +++
-If you're still here, your deep into the Python wormhole (i am sorry)
+If you're still here, you're deep into the Python wormhole (i am sorry)
 
 Come to a beginner-friendly course, in collaboration with Warwick AI and Code Soc. There will be an opportunity to learn some valuable coding skills that companies would love to see!
 
