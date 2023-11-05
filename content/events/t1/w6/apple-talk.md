@@ -1,6 +1,6 @@
 +++
 title = "Apple Talk: GPU & Hardware Architecture"
-date = "Wednesday 2:30pm"
+date = "Wed 2:30pm"
 
 [extra]
 location = "OC1.05"
