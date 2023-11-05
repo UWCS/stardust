@@ -6,7 +6,7 @@ date = "Wednesday 2:30pm"
 location = "OC1.05"
 icon = "ph-apple-logo"
 colour = "academic"
-end_time = "16:00pm"
+end_time = "16:00"
 
 [taxonomies]
 tags = ["Talks", "Apple", "Hardware"]
