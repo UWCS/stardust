@@ -12,7 +12,7 @@ emoji = "🐍"
 [taxonomies]
 tags = ["xSoc Python Course"]
 +++
-𝚝𝚑𝚎 𝚏𝚒𝚗𝚊𝚕 𝚜𝚝𝚛𝚎𝚝𝚌𝚑! (𝚢𝚘𝚞'𝚛𝚎 𝚋𝚊𝚜𝚒𝚌𝚊𝚕𝚕𝚢 𝚊 𝚙𝚢𝚝𝚑𝚘𝚗 𝚖𝚊𝚜𝚝𝚎𝚛 𝚊𝚝 𝚝𝚑𝚒𝚜 𝚙𝚘𝚒𝚗𝚝, 𝚊𝚍𝚍 𝚒𝚝 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚌𝚟)
+The final stretch! (you're basically a python master at this point, just put it in your cv)
 
 Come to a beginner-friendly course, in collaboration with Warwick AI and Code Soc. There will be an opportunity to learn some valuable coding skills that companies would love to see!
 
