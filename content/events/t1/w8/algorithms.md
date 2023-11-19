@@ -11,7 +11,6 @@ colour = "academic"
 [taxonomies]
 tags = ["Algorithms", "Revision", "Academic"]
 +++
-
 𝕨𝕖𝕖𝕜𝕖𝕟𝕕 𝕔𝕒𝕞𝕡𝕦𝕤 𝕥𝕣𝕚𝕡??
 
 Second years have their CS260 Algorithms exam on *Monday* at **5pm**. We know this, we know you are worried and stressed.
