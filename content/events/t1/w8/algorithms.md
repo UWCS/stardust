@@ -12,7 +12,7 @@ colour = "academic"
 tags = ["Algorithms", "Revision", "Academic"]
 +++
 
-𝕘𝕠𝕟𝕟𝕒 𝕔𝕠𝕞𝕖 𝕠𝕟 𝕔𝕒𝕞𝕡𝕦𝕤 𝕕𝕦𝕣𝕚𝕟𝕘 𝕥𝕙𝕖 𝕨𝕖𝕖𝕜𝕖𝕟𝕕?
+𝕨𝕖𝕖𝕜𝕖𝕟𝕕 𝕔𝕒𝕞𝕡𝕦𝕤 𝕥𝕣𝕚𝕡??
 
 Second years have their CS260 Algorithms exam on *Monday* at **5pm**. We know this, we know you are worried and stressed.
 
