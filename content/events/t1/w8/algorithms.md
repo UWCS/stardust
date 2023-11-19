@@ -1,5 +1,5 @@
 +++
-title = "Algorithms Revision Session"
+title = "[CS260] Algorithms Revision Session"
 date = "Saturday 2pm"
 
 [extra]
