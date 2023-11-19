@@ -9,7 +9,7 @@ icon = "ph-puzzle-piece"
 colour = "academic"
 
 [taxonomies]
-tags = ["Algorithms", "Revision", "Academic]
+tags = ["Algorithms", "Revision", "Academic"]
 +++
 
 𝕘𝕠𝕟𝕟𝕒 𝕔𝕠𝕞𝕖 𝕠𝕟 𝕔𝕒𝕞𝕡𝕦𝕤 𝕕𝕦𝕣𝕚𝕟𝕘 𝕥𝕙𝕖 𝕨𝕖𝕖𝕜𝕖𝕟𝕕?
