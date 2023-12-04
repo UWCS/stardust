@@ -3,7 +3,7 @@ title = "Birmingham Christmas Market"
 date = "Fri 7pm"
 
 [taxonomies]
-tags = ["Charity", "League", "Gaming, "Twitch"]
+tags = ["Charity", "League", "Gaming", "Twitch"]
 
 [extra]
 end_time = "10pm"
