@@ -1,5 +1,5 @@
 +++
-title = "Birmingham Christmas Market"
+title = "UWCS vs LeagueSoc Charity Showmatch"
 date = "Fri 7pm"
 
 [taxonomies]
