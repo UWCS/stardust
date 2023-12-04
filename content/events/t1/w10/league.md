@@ -7,7 +7,7 @@ tags = ["Charity", "League", "Gaming"]
 
 [extra]
 end_time = "10pm"
-location = "DCS/Twitch"
+location = "DCS"
 
 icon = "ph-twitch-logo"
 colour = "gaming"
