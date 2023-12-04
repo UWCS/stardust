@@ -1,12 +1,12 @@
 +++
 title = "Milk Monday"
-date = "Monday 10:30am"
+date = "Monday 10am"
 
 [taxonomies]
 tags = ["Milk Monday"]
 
 [extra]
-end_time = "11:30am"
+end_time = "2pm"
 location = "DCS Atrium"
 
 icon = "icons/milk.svg"
