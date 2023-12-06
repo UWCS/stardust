@@ -12,7 +12,6 @@ location = "DCS Atrium"
 icon = "ph-snowflake"
 colour = "social"
 +++
-
 TAKE A BREAK FROM COURSEWORK!! 
 
 Come grab some free mince pies and alcohol (and even pizza later) at the annual DCS Xmas Social!
