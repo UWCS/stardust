@@ -13,4 +13,10 @@ icon = "ph-snowflake"
 colour = "social"
 +++
 
-Every Monday you can find a variety of milks available in the Department of Computer Science Atrium (plant-based options included). Come by, grab a cup, and have a little chat with some of us :)
+TAKE A BREAK FROM COURSEWORK!! 
+
+Come grab some free mince pies and alcohol (and even pizza later) at the annual DCS Xmas Social!
+
+UWCS will be helping set up some games, and we will be hosting a series of talks, including a karaoke talk by the infamous James Archbold! *You don't want to miss this*
+
+We will also be hosting a quiz, as you can expect the amazing rounds as per usual so you should definitely come and check it out :)
