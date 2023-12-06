@@ -90,9 +90,3 @@ You can find out more information about the event on our discord, and don't forg
 > I HOPE YOU ALL RELAX AND ENJOY YOUR WINTER BREAK, AS OF RIGHT NOW I AM JUST THINKING OF DEADLINES AND COURSEWORK
 >
 >but also it was snowing and that was kind of epic :D ~serene
->
->i'll just say we have some cool planning for wasd going on (watch out for our announcement) and i am also really excited for a league charity match we might be planning soon :)
->
->i hope everyone is staying healthy because i've literally gotten sick like three times in the past two weeks, so stay warm and stay safe everyone <3 
->
->also, just so everyone knows, oliver, our publicity officer, writes all the newsletter titles ~serene
