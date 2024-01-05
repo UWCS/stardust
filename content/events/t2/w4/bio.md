@@ -4,7 +4,7 @@ date = "Tue 5pm"
 
 [extra]
 end_time = "7pm"
-location = "OC1.01/06"
+location = "OC1.01 & OC1.06"
 icon = "icons/fng.svg"
 colour = "gaming"
 
