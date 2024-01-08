@@ -4,7 +4,7 @@ date = "Mon 6pm"
 
 [extra]
 end_time = "8pm"
-location = "The Dirty Duck"
+location = "The Phantom Coach"
 icon = "ph-hamburger"
 colour = "social"
 
