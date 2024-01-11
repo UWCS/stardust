@@ -9,7 +9,7 @@ tags = ["WASD"]
 end_time = "Sun 9pm"
 location = "SU Atrium"
 
-icon = "icons/wasd24.svg"
+icon = "icons/wasd.svg"
 colour = "#a201b9"
 +++
 
