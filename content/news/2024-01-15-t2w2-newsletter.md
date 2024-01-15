@@ -1,69 +1,92 @@
 +++
-title = "Educating the mind without educating the heart is no education at all -Aristotle | Newsletter T2W2"
+title = "Sleighing Bugs in My Coursework This Christmas 😐  | Newsletter T1W10"
 
 
 [taxonomies]
 categories = ["Newsletter"]
 +++
 
-i hardly know what's going on in my lectures, so sorry about that Aristotle 🙄
+let me out! let me out! this is not a dance. 
 
 <!-- more -->
 
-Welp, we are in week two of term. This feels like it has been going both too fast and too slow.
+It is a Ricky and Morty reference. If you haven't seen the video, please watch it. If you have, ~vibes~
 
-**REGARDLESS,** we have tons of awesome events going on (and by awesome i mean the typical ones we have).
+We have heard the calls for calcium, we know the effects that have developed. We heard and we listened, so we have brought back *Milk Monday* once a month, with it being the start of each month so we can bring **chocolate milk**.
 
-We've got all th weekly classics: *Pub Meal*, *Comp Cafe*, or *Friday Night Gaming* for some free drinks and snacks, or just a fun time.
+You should **definitely** consider our typical weekly events (might get some special snacks for last week of term ofc): *Comp Cafe* and *Friday Night Gaming*
 
-**There is also** a __Pub Traversal__ (yes you heard that correctly folks, a *traversal* ~~not crawl~~). We will be exploring Leamington, so why not join us?
+Besides that, we've got some special events you probably would like: *DCS Xmas Social* and *UWCS vs League Soc Charity Showmatch*. Both are a great opportunity to kick back, relax, and enjoy your time in DCS after all the stress of coursework!!
 
-Computing students going around bars in Leamington, that's mad :o
+I know some of you are stressing, so please do take the opportunities to get some free snacks and relax while you can!
 ***
 
-## **[🍕 Pub Meal 🍕](https://uwcs.co.uk/events/t2/w2/pub/)**
-**🕔 Mon 15 Jan 6pm - 8pm  📍 Dirty Duck**  
-𝕚 𝕡𝕣𝕠𝕞𝕚𝕤𝕖 𝕥𝕙𝕖 𝕝𝕠𝕔𝕒𝕥𝕚𝕠𝕟 𝕚𝕤 𝕔𝕠𝕣𝕣𝕖𝕔𝕥 𝕥𝕙𝕚𝕤 𝕥𝕚𝕞𝕖
+## **[🐄 Milk Monday 🐄](https://uwcs.co.uk/events/t1/w10/milk/)**
+**🕔 Mon 4 Dec 10:30am - 11:30am  📍 [DCS Atrium](https://campus.warwick.ac.uk//search/623c8858421e6f5928c0c78f)**  
+𝕝𝕒𝕤𝕥 𝕞𝕚𝕝𝕜 𝕞𝕠𝕟𝕕𝕒𝕪 𝕠𝕗 𝕥𝕙𝕖 𝕥𝕖𝕣𝕞!
 
-Okay, the location *may* have changed suddenly last week. 
+We have decided to bring *Milk Monday* monthly, so you can enjoy **chocolate milk** at the start of each month :D
 
-**However,** for our second Pub Meal of the term, we are heading over to the Dirty Duck on campus to enjoy some food and drinks! Pop by and relax for a bit :)
-
-𓅭 𓅰 𓅭 𓅰𓅭 𓅰 𓅭 𓅰 𓅭 𓅰 𓅭 𓅰𓅭 𓅰 𓅭 𓅰 𓅭 𓅰 𓅭 𓅰𓅭 𓅰 𓅭 𓅰 𓅭 𓅰 𓅭 𓅰𓅭 𓅰 𓅭 𓅰 
-
+This just happens to perfectly align with the end of the term, so you can enjoy the end of courseworks with a nice cup of cold milk.
 ***
 
-## **[🥐 Comp Café 🥐](https://uwcs.co.uk/events/t2/w2/compcafe/)**
-**🕑 Tue 16 Jan 5pm - 9pm  📍 [CS0.06](https://campus.warwick.ac.uk//search/623c888a421e6f5928c0d038)**  
-𝒾 𝒶𝓂 𝓈𝑜𝓇𝓇𝓎 𝒾𝒻 𝓎𝑜𝓊 𝒶𝓁𝓇𝑒𝒶𝒹𝓎 𝒽𝒶𝓋𝑒 𝒸𝑜𝓊𝓇𝓈𝑒𝓌𝑜𝓇𝓀
+## **[☕ Comp Café ☕](https://uwcs.co.uk/events/t1/w10/compcafe/)**
+**🕑 Tue 5 Dec 5pm - 9pm  📍 [CS0.06](https://campus.warwick.ac.uk//search/623c888a421e6f5928c0d038)**  
+𝒾𝓉'𝓈 𝑜𝓋𝑒𝓇 𝒾𝓉'𝓈 𝑜𝓋𝑒𝓇 𝒾𝓉'𝓈 𝑜𝓋𝑒𝓇 𝒾𝓉'𝓈 𝑜𝓋𝑒𝓇
 
-I know lots of people don't have much coursework going on now, but we are still running Comp Cafe if you do! Pass by and enjoy some snacks and drinks whilst working on your assignments, or just hanging with friends!
+**IT'S THE LAST WEEK**, so we are basically at the end of all the pain of coursework. LET'S RELIEVE THAT PAIN WITH SOME FREE SNACKS AND SOME TIME WORKING IN THE LABS TO WRAP IT ALL UP.
 
 There will always be free vend from the coffee machine in the common room for anyone wanting that as well :)
 ***
 
-## **[🍻 Pub Traversal 🍻 ](https://uwcs.co.uk/events/t2/w2/pubcrawl/)**
-**🕔 Thu 18 Jan 6:30pm - LATE  📍 Tbar -> Leam**  
-𝘊𝘰𝘮𝘱𝘶𝘵𝘪𝘯𝘨 𝘴𝘵𝘶𝘥𝘦𝘯𝘵𝘴 𝘦𝘹𝘱𝘭𝘰𝘳𝘪𝘯𝘨 𝘵𝘩𝘦 𝘣𝘢𝘳𝘴 𝘰𝘧 𝘭𝘦𝘢𝘮𝘪𝘯𝘨𝘵𝘰𝘯? 𝘚𝘪𝘯𝘤𝘦 𝘸𝘩𝘦𝘯??
+## **[❄️ DCS Xmas Social ❄️](https://uwcs.co.uk/events/t1/w10/dcsxmas/)**
+**🕔 Wed 6 Dec 2pm - 7pm  📍 [DCS Atrium](https://campus.warwick.ac.uk//search/623c8858421e6f5928c0c78f)**  
+𝚘𝚑 𝚖𝚢 𝚐𝚘𝚜𝚑 𝚏𝚛𝚎𝚎 𝚖𝚒𝚗𝚌𝚎 𝚙𝚒𝚎𝚜 𝚊𝚗𝚍 𝚖𝚞𝚕𝚕𝚎𝚍 𝚠𝚒𝚗𝚎???
 
-We are venturing to the unknown lands (aka bars in leamington). Join us for a little pub traversal ~~we cannot say crawl anymore~~ whilst we enjoy the beginning of term before coursework ramps up!
+It's Christmas time. We've got to celebrate!!!
 
-*Sober exec will be around*
+We are collaborating alongside DCS to offer a social filled with tons of fun activities. This includes a *talk by Richard Kirk*, plenty of *fun games and activities*, a series of *Lightning and Karaoke Talks*, and a *quiz to end it all off*!
+
+You definitely don't want to miss any of this, so stop by and grab some snacks while you enjoy the fun winter brings :)
 ***
 
-## **[🎮 Friday Night Gaming 🎮](https://uwcs.co.uk/events/t2/w1/fng/)**
-**🕔 Fri 19 Jan 7pm - 11:59pm  📍 [DCS](https://campus.warwick.ac.uk/search/623c8858421e6f5928c0c78f)**  
-𝚏𝚛𝚒𝚍𝚊𝚢 𝚗𝚒𝚐𝚑𝚝 𝚐𝚊𝚖𝚒𝚗𝚐? :>
+## **[❄️ End of Term Meal ❄️](https://uwcs.co.uk/events/t1/w10/meal/)**
+**🕔 Thu 7 Dec 7pm - 9pm  📍 Blue Orchid**  
+𝙬𝙚𝙚𝙠𝙡𝙮 𝙥𝙪𝙗 𝙢𝙚𝙖𝙡 𝙤𝙣 𝙖 𝙙𝙞𝙛𝙛𝙚𝙧𝙚𝙣𝙩 𝙙𝙖𝙮?? 𝙬𝙝𝙖𝙩 𝙞𝙨 𝙩𝙝𝙞𝙨??
 
-It's our typical Friday Night Gaming. Half the people game. The other half are in the labs doing coursework. Life goes on.
+End of Term Meal Time!! We are having our weekly pub meal on a Thursday in the Blue Orchid for a change of scenery (and to properly celebrate everything finally being over with).
+
+Join us for a night of relaxation! Please do let us know if you are coming though as there is a limited capacity.
+
+pub++;
+***
+
+## **[🎮 Friday Night Gaming 🎮](https://uwcs.co.uk/events/t1/w10/fng/)**
+**🕔 Fri 8 Dec 7pm - 11:59pm  📍 [DCS](https://campus.warwick.ac.uk/search/623c8858421e6f5928c0c78f)**  
+ʟᴀꜱᴛ ꜰʀɪᴅᴀʏ ɴɪɢʜᴛ ɢᴀᴍɪɴɢ ᴏꜰ ᴛᴇʀᴍ, ʟᴇᴛ'ꜱ ɢᴏ ᴏᴜᴛ ᴡɪᴛʜ ᴀ ʙᴀɴɢ!!
+
+You're basically done with coursework at this point, why not just sit back and relax with a fun night of gaming?
+
+It is our last Friday Night Gaming for the term, so there *might* be some special activities planned, but you'll have to pass by to find out 👀
 
 We have tons of consoles and games you can play around with if you want (or need) a break! Steam, Jackbox, Wii, Rockband and more!
 
 Stop by and enjoy our weekly FNG with us! (*also, we will be providing free snacks so just take some*)
 ***
 
-i am eepy.
+## **[👾 UWCS vs LeagueSoc Charity Showmatch 👾](https://uwcs.co.uk/events/t1/w10/league/)**
+**🕔 Fri 8 Dec 7pm - 10pm  📍 [DCS](https://campus.warwick.ac.uk/search/623c8858421e6f5928c0c78f)**  
+𝚝𝚑𝚒𝚜 𝚠𝚊𝚜 𝚞𝚗𝚎𝚡𝚙𝚎𝚌𝚝𝚎𝚍......
 
-modules are already ramping up. hopefully this term is okay though!!
+We didn't expect this. You didn't expect this. And yet, here we are! A collaboration with League Society to raise money and awareness for two charities: Epilepsy Action and MIND. 
 
-hope everyone is doing good. send me song recommendations if you have any i need new music :) ~serene
+You can find out more information about the event on our discord, and don't forget to come and watch it live in *DCS* on the day of, our watch it on [Twitch](https://www.twitch.tv/warwickesports/about).
+***
+
+>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+>
+> I AM STRESSED PLEASE
+>
+> I HOPE YOU ALL RELAX AND ENJOY YOUR WINTER BREAK, AS OF RIGHT NOW I AM JUST THINKING OF DEADLINES AND COURSEWORK
+>
+>but also it was snowing and that was kind of epic :D ~serene
