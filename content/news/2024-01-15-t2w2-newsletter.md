@@ -19,7 +19,6 @@ We've got all th weekly classics: *Pub Meal*, *Comp Cafe*, or *Friday Night Gami
 **There is also** a __Pub Traversal__ (yes you heard that correctly folks, a *traversal* ~~not crawl~~). We will be exploring Leamington, so why not join us?
 
 Computing students going around bars in Leamington, that's mad :o
-
 ***
 
 ## **[🍕 Pub Meal 🍕](https://uwcs.co.uk/events/t2/w2/pub/)**
