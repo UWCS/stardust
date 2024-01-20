@@ -31,12 +31,12 @@ You can then create a new token with the "Generate new token (classic)" button. 
 also create fine-grained tokens for individual repositories, but for general use classic
 tokens are easier
 
-![Screenshot of the button to generate a new token](/resources/generate_token.png)
+![Screenshot of the button to generate a new token](generate_token.png)
 
 After you have pressed this button, you may be prompted for 2-factor authentication.
 Once you have authenticated, you should see a screen like this:
 
-![Screenshot of the screen to create a new token](/resources/new_personal_token.png)
+![Screenshot of the screen to create a new token](new_personal_token.png)
 
 There are three things you want to set here:
 
@@ -58,7 +58,7 @@ There are three things you want to set here:
 Once you have set all these fields, click the green "Generate token" button at the
 bottom of the page. After the button is pressed a screen like this should be shown:
 
-![Screenshot of the screen once a new token is created](/resources/created_token.png)
+![Screenshot of the screen once a new token is created](created_token.png)
 
 The generated token should start with a `ghp_` prefix. **You must copy this token now!
 You won't be able to see it once the page closes**
@@ -66,7 +66,7 @@ You won't be able to see it once the page closes**
 **This token acts like a password! You shouldn't show anyone it, and should revoke
 it if anyone sees it**. To delete a token, click the delete button on the tokens page.
 
-![Screenshot of the screen to delete a token](/resources/delete_token.png)
+![Screenshot of the screen to delete a token](delete_token.png)
 
 You can also read a different set of instructions for this process
 [on the GitHub website](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic) [^3].

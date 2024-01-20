@@ -8,13 +8,11 @@ We’re going to make a super simple web API using Python and Flask, containeris
 ---
 
 ## A Python Project
-Login to the DCS machines, create a new directory called `my-flask-app` and cd into it. 
+Login to the DCS machines, open you web browser of choice, go to [GitHub](https://github.com/) and create a new repo called `my-flask-app`. Leave the repo blank and create it. Copy the URL in the address bar. In the terminal, clone your repo with `git clone <repo url>`, and then `cd` into it.
 
 We’re going to use [pipenv](https://pipenv.pypa.io/en/latest/) to create a new python project. Pipenv manages dependencies and virtual environments for us, making it much more ergonomic than just using pip and virtualenvs manually. Install it with `python3.9 -m pip install --user pipenv`.  You can then invoke pipenv with `python3.9 -m pipenv <subcommand>`. Add [Flask](https://flask.palletsprojects.com/en/2.2.x/) to your project with `python 3.9 -m pipenv install flask`.
 
-There’s another dependency that we’ll need later on as well: [gunicorn](https://gunicorn.org/). Gunicorn is a Python HTTP server, and will serve our Flask app for us: `pipenv install gunicorn`.
-
-Also initalise your folder as a git repo: `git init`.
+There’s another dependency that we’ll need later on as well: [gunicorn](https://gunicorn.org/). Gunicorn is a Python HTTP server, and will serve our Flask app for us: `python3.9 -m pipenv install gunicorn`.
 
 ### Flask
 
@@ -31,11 +29,11 @@ def hello():
 ```
 This is the most simple Flask app possible. The `app` variable refers to an object that encapsulates your app and all it's API routes, and then we create a new route that returns simply the text “Hello, world”. Customise the string so your app is unique to you.
 
-You can start your app with `pipenv run flask run`: this will start the flask *development* server within the python environment that pipenv has created. Head to the URL that is printed in the terminal and you will see your response. 
+You can start your app with `python3.9 -m pipenv run flask run`: this will start the flask *development* server within the python environment that pipenv has created. Head to the URL that is printed in the terminal and you will see your response. 
 
 (Note how the development server prints a message about using a production WSGI server instead? That's where gunicorn will come in.)
 
-Congrats, you’ve created your very own web app! Commit this to Git, and then create a new GitHub repo and push your commit.
+Congrats, you’ve created your very own web app! Commit this to GitHub (`git add .`, `git commit -am "first commit"`, `git push origin main`). If this results in a user password field we have a handy [guide](https://uwcs.co.uk/resources/github-token-authentication/) on how to generate a token for this.
 
 ---
 
@@ -204,19 +202,19 @@ This is great because now you can run anyone else’s app on your machine easily
 
 ## Deployment (Portainer)
 
-So we have our app, it's published and anyone can run it anywhere. What if we want to host it somewhere so it's available all the time? There are lots of container hosting platforms out there, but we actually have our own that is set up using [Portainer](https://www.portainer.io/), available for members of the society to use. Head to <https://portainer.uwcs.co.uk> and log in with your UWCS account. If you've forgotten your details or can't log in then talk to Joey or skiros (or email tech@uwcs.co.uk if you're reading this on our website after the session).
+So we have our app, it's published and anyone can run it anywhere. What if we want to host it somewhere so it's available all the time? There are lots of container hosting platforms out there, but we actually have our own that is set up using [Portainer](https://www.portainer.io/), available for members of the society to use. Head to <https://portainer.uwcs.co.uk> and log in with your ITS account. If you've forgotten your details or can't log in then talk to an exec member (or email tech@uwcs.co.uk / send a message in the #tech=team channel on discord if you're reading this on our website after the session).
 
 Portainer provides a nice interface for setting up containers running as services. Click on 'UWCS Public Docker' to access our shared Portainer environment. Click containers, then click the blue 'add container' button in the top right.
 
 Fill out the details to use your image to start a new container. This screen is essentially configuring your `podman run` command but with a GUI. Put the name of your image in the 'image name' field, and under 'network ports configuration', map a random port (above 10000) to 8080 in the container. 
 
-To map your port to a domain name, add an container *label* that maps the key `traefik.http.routers.NAME.rule` to the value `Host(``NAME.containers.uwcs.uk``)`. Replace NAME with your name. Use a single backtick where I've used double, this markdown renderer fucking sucks.
+To map your port to a domain name, add the environment variable `VIRTUAL_HOST` with the value `<yourname>`. This will make your app accessible at `https://<yourname>.containers.uwcs.co.uk`.
 
 Give your container a name as well, something descriptive. See <https://docs.portainer.io/user/docker/services/configure> for the full documentation on how to configure a service.
 
 Start your container and it should pull your image and spin up. If it doesn't work then you're probably trying to use a port that someone else is already using on the host, so try another one. You should be able to see your running container. Try accessing the logs, and you can even start a new shell within it by clicking 'console' under 'container status'.
 
-Head to <https://yourname.containers.uwcs.uk>, and your app should be accessible from the outside world.
+Head to <https://<yourname>.containers.uwcs.co.uk>, and your app should be accessible from the outside world.
 
 ---
 
