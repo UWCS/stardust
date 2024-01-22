@@ -1,5 +1,5 @@
 +++
-title = "CS221: Your assignment feedback for "Week 3" is now available | Newsletter T2W3"
+title = "CS221: Your assignment feedback for \"Week 3\" is now available | Newsletter T2W3"
 
 
 [taxonomies]
