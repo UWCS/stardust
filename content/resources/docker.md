@@ -1,6 +1,6 @@
 +++
 title = "Docker, Contained"
-date = "2023-01-18"
+date = "2024-01-25"
 +++
 
 We’re going to make a super simple web API using Python and Flask, containerise it with Docker, set up continuous integration with Github Actions, and then deploy it using Docker too.
@@ -8,7 +8,7 @@ We’re going to make a super simple web API using Python and Flask, containeris
 ---
 
 ## A Python Project
-Login to the DCS machines, open you web browser of choice, go to [GitHub](https://github.com/) and create a new repo called `my-flask-app`. Leave the repo blank and create it. Copy the URL in the address bar. In the terminal, clone your repo with `git clone <repo url>`, and then `cd` into it.
+Login to the DCS machines, open your web browser of choice, go to [GitHub](https://github.com/) and create a new repo called `my-flask-app`, this can be either public or private it doesn't matter (a private repo does require some more effort). Leave the repo blank and create it. Copy the URL in the address bar. In the terminal, clone your repo with `git clone <repo url>`, and then `cd` into it.
 
 We’re going to use [pipenv](https://pipenv.pypa.io/en/latest/) to create a new python project. Pipenv manages dependencies and virtual environments for us, making it much more ergonomic than just using pip and virtualenvs manually. Install it with `python3.9 -m pip install --user pipenv`.  You can then invoke pipenv with `python3.9 -m pipenv <subcommand>`. Add [Flask](https://flask.palletsprojects.com/en/2.2.x/) to your project with `python 3.9 -m pipenv install flask`.
 
@@ -25,9 +25,10 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-	return "Hello, World!"
+	return "Hello World!"
 ```
-This is the most simple Flask app possible. The `app` variable refers to an object that encapsulates your app and all it's API routes, and then we create a new route that returns simply the text “Hello, world”. Customise the string so your app is unique to you.
+
+Some of you should hopefully recognise this from CS139, this is a very simple Flask app. The `app` variable refers to an object that encapsulates your app and all it's API routes, and then we create a new route that returns simply the text “Hello, world”. Customise the string so your app is unique to you.
 
 You can start your app with `python3.9 -m pipenv run flask run`: this will start the flask *development* server within the python environment that pipenv has created. Head to the URL that is printed in the terminal and you will see your response. 
 
@@ -82,7 +83,7 @@ We need to use pipenv to install the dependencies for our project within the con
 RUN pipenv install --system
 ```
 
-We’ve set up everything we need for our app, so now we tell Docker how to run it. The `CMD` command tells the container how to start the process when we do `docker run`. We want to use gunicorn to start our flask app as a HTTP server. We do this instead of using the development server, [because using the development server for production is bad](https://stackoverflow.com/questions/12269537/is-the-server-bundled-with-flask-safe-to-use-in-production)
+We’ve set up everything we need for our app, so now we tell Docker how to run it. The `CMD` command tells the container how to start the process when we do `docker run`. We want to use gunicorn to start our flask app as a HTTP server. We do this instead of using the development server, because using the development server for production is [bad](https://stackoverflow.com/questions/12269537/is-the-server-bundled-with-flask-safe-to-use-in-production)
 
 ```docker
 CMD gunicorn app:app -b 0.0.0.0:8080
@@ -106,19 +107,20 @@ DCS have something called `podman` installed, which is a docker-compatible conta
 
 You can now start your app with `podman run myapp`. You’ll see gunicorn starting up, and then head to `localhost:8080` in your browser to see your hello world message again.
 
-This won’t work: why? We said that containers are isolated from their host, which includes networking and ports. We need to explicitly expose ports from the container to the host when we start it.
+This didn’t work: why? We said that containers are isolated from their host, which includes networking and ports. We need to explicitly expose ports from the container to the host when we start it.
 
 We’re going to use a different command to start the container.
 ```
 podman run -d -p '8080:8080' myapp
 ```
 
-The `-d` flag tells podman to start the container in the background. The `-p '8080:8080'` flag tells podman that we want to map port 8080 on the host to port 8080 on the container. You can now head to `localhost:8080` in your browser to see your ‘Hello, world’ message!
+The `-d` flag tells podman to start the container in the background. The `-p '8080:8080'` flag tells podman that we want to map port 8080 on the host to port 8080 on the container. You can now head to `localhost:8080` in your browser to see your ‘Hello World!’ message!
 
 A few other useful podman commands:
 - `podman ps` will show all running containers and their names
 - `podman logs` will show the logs from any running containers
 - `podman attach` will attach to a running container
+- `podman stop` will stop a running container
 
 Create a new Git commit with your Dockerfile and push it.
 
@@ -128,7 +130,7 @@ Create a new Git commit with your Dockerfile and push it.
 
 So we can build and run a container image, how do we share it with other people so everyone else can run our amazing app too? We mentioned container registries earlier, and we’re going to use the Github Container Registry, or `ghcr.io`.
 
-Github Actions is a platform built into GitHub that allows you to automate software and deployment workflows for continuous integration and deployment (CI/CD). We’re going to create a simple workflow that builds and publishes our image for us every time we push new code to GitHub. Make sure your repo is public, or you might need to add some extra config to the workflow file.
+Github Actions is a platform built into GitHub that allows you to automate software and deployment workflows for continuous integration and deployment (CI/CD). We’re going to create a simple workflow that builds and publishes our image for us every time we push new code to GitHub.
 
 Create a new file at `.github/workflows/ci.yml` with the following contents:
 
@@ -154,7 +156,8 @@ jobs:
 			
 	# the steps that this job consists of
     steps:
-	  - uses: actions/checkout@v3 # check out our repo
+	  - name: Checkout  # check out our repo
+      uses: actions/checkout@v3
 	  
 	  - name: Log in to the container registry
         uses: docker/login-action@v2
@@ -194,7 +197,16 @@ Steps usually use workflows provided by other people. Here, we’re using workfl
 
 GitHub Actions is a very large topic and can be very confusing, but this simple workflow file will be enough to get us started for now. Have a look at the [workflow files for Apollo](https://github.com/UWCS/apollo/blob/master/.github/workflows/ci.yaml) if you want a larger example.
 
-Commit your file and push it to GitHub. Go to the actions tab, and you should see your workflow being run. Once it’s complete, the built image should should appear in the right sidebar of your repo’s homepage under ‘Packages’. You might need to mess with your package settings to make it public, [see here for more info](https://docs.github.com/en/packages/learn-github-packages/configuring-a-packages-access-control-and-visibility).
+If your repo is private, you'll need to create deploy keys for your repo. See [this stackoverflow thread](https://stackoverflow.com/a/70283191). If you name your repository secret `CI_SSH_KEY_PRIVATE` alter your checkout step to look like this:
+
+```yaml
+- name: Checkout # check out our repo
+  uses: actions/checkout@v3 
+  with:
+    ssh-key: ${{ secrets.CI_SSH_KEY_PRIVATE }} 
+```
+
+Commit your file and push it to GitHub. Go to the actions tab, and you should see your workflow being run. Once it’s complete, the built image should should appear in the right sidebar of your repo’s homepage under ‘Packages’. You might need to mess with your package settings to make it public (this is will be required if your repo is private), [see here for more info](https://docs.github.com/en/packages/learn-github-packages/configuring-a-packages-access-control-and-visibility#configuring-visibility-of-packages-for-an-organization).
 
 This is great because now you can run anyone else’s app on your machine easily: `podman run ghcr.io/<github name>/<repo name>:latest` will pull down their image and run it. Don’t forget to add the port mapping in your `run` command!
 
@@ -202,19 +214,22 @@ This is great because now you can run anyone else’s app on your machine easily
 
 ## Deployment (Portainer)
 
-So we have our app, it's published and anyone can run it anywhere. What if we want to host it somewhere so it's available all the time? There are lots of container hosting platforms out there, but we actually have our own that is set up using [Portainer](https://www.portainer.io/), available for members of the society to use. Head to <https://portainer.uwcs.co.uk> and log in with your ITS account. If you've forgotten your details or can't log in then talk to an exec member (or email tech@uwcs.co.uk / send a message in the #tech=team channel on discord if you're reading this on our website after the session).
+So we have our app, it's published and anyone can run it anywhere. What if we want to host it somewhere so it's available all the time? There are lots of container hosting platforms out there, but we actually have our own that is set up using [Portainer](https://www.portainer.io/), available for members of the society to use. Head to <https://portainer.uwcs.co.uk> and log in with your ITS account. If you've forgotten your details or can't log in then talk to an exec member (or email tech@uwcs.co.uk / send a message in the #tech-team channel on discord if you're reading this on our website after the session).
 
 Portainer provides a nice interface for setting up containers running as services. Click on 'UWCS Public Docker' to access our shared Portainer environment. Click containers, then click the blue 'add container' button in the top right.
 
-Fill out the details to use your image to start a new container. This screen is essentially configuring your `podman run` command but with a GUI. Put the name of your image in the 'image name' field, and under 'network ports configuration', map a random port (above 10000) to 8080 in the container. 
-
-To map your port to a domain name, add the environment variable `VIRTUAL_HOST` with the value `<yourname>`. This will make your app accessible at `https://<yourname>.containers.uwcs.co.uk`.
-
-Give your container a name as well, something descriptive. See <https://docs.portainer.io/user/docker/services/configure> for the full documentation on how to configure a service.
+Fill out the details to use your image to start a new container. This screen is essentially configuring your `podman run` command but with a GUI.
+- Name your container something unique and identifiable
+- Change the registry to `GitHub`
+- set the image to `<your github name>/<your repo name>:latest`
+- publish a network port (host should be a random port from 1000-8080 (6969 is taken), container should be 8080)
+- scroll down to advanced
+- override the command with `'/bin/sh' '-c' 'gunicorn app:app -b 0.0.0.0:8080'`
+- click on Env and at the enviroment variable `VIRTUAL_HOST` with the value being the name of your container for example `my-flask-app`
 
 Start your container and it should pull your image and spin up. If it doesn't work then you're probably trying to use a port that someone else is already using on the host, so try another one. You should be able to see your running container. Try accessing the logs, and you can even start a new shell within it by clicking 'console' under 'container status'.
 
-Head to <https://<yourname>.containers.uwcs.co.uk>, and your app should be accessible from the outside world.
+Head to <https://<yourname>.containers.uwcs.co.uk>, and your app should be accessible from the outside world!
 
 ---
 
