@@ -149,41 +149,41 @@ jobs:
   build: 
     name: Build and Push Container Image # the job's full name
     runs-on: ubuntu-latest # the OS that this job runs on
-		
-	# we need write permissions to publish the package
+    
+  # we need write permissions to publish the package
     permissions: 
       packages: write
-			
-	# the steps that this job consists of
+      
+  # the steps that this job consists of
     steps:
-	  - name: Checkout  # check out our repo
+    - name: Checkout  # check out our repo
       uses: actions/checkout@v3
-	  
-	  - name: Log in to the container registry
-        uses: docker/login-action@v2
-        with:
-          registry: ghcr.io
-          username: ${{ github.repository_owner }}
-          password: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Log in to the container registry
+      uses: docker/login-action@v2
+      with:
+        registry: ghcr.io
+        username: ${{ github.repository_owner }}
+        password: ${{ secrets.GITHUB_TOKEN }}
 
-		# generate the tags that we'll use to name our image
-      - name: Get Docker metadata
-        id: meta
-        uses: docker/metadata-action@v4
-        with:
-          images: ghcr.io/${{ github.repository }}
-          tags: | # tag with commit hash and with 'latest'
-            type=sha 
-            type=raw,value=latest,enable={{is_default_branch}}
-		
-		# build and push our image, using output from previous step
-      - name: Build and push Docker image
-        uses: docker/build-push-action@v3
-        with:
-          context: .
-          push: true
-          tags: ${{ steps.meta.outputs.tags }}
-          labels: ${{ steps.meta.outputs.labels }}
+    # generate the tags that we'll use to name our image
+    - name: Get Docker metadata
+      id: meta
+      uses: docker/metadata-action@v4
+      with:
+        images: ghcr.io/${{ github.repository }}
+        tags: | # tag with commit hash and with 'latest'
+          type=sha 
+          type=raw,value=latest,enable={{is_default_branch}}
+    
+    # build and push our image, using output from previous step
+    - name: Build and push Docker image
+      uses: docker/build-push-action@v3
+      with:
+        context: .
+        push: true
+        tags: ${{ steps.meta.outputs.tags }}
+        labels: ${{ steps.meta.outputs.labels }}
 ```
 
 GitHub Actions workflows are comprised of multiple jobs, which themselves consist of multiple steps. This workflow will be run by GitHub every time you push to your `main` branch. Here, we define a single job, `build`, with 4 steps:
