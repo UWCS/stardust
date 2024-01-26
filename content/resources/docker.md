@@ -8,11 +8,28 @@ We’re going to make a super simple web API using Python and Flask, containeris
 ---
 
 ## A Python Project
-Login to the DCS machines, open your web browser of choice, go to [GitHub](https://github.com/) and create a new repo called `my-flask-app`, this can be either public or private it doesn't matter (a private repo does require some more effort). Leave the repo blank and create it. Copy the URL in the address bar. In the terminal, clone your repo with `git clone <repo url>`, and then `cd` into it.
+Login to the DCS machines, open your web browser of choice, go to [GitHub](https://github.com/) and create a new repo called `my-flask-app`, this can be either public or private it doesn't matter (a private repo does require some more effort). Leave the repo blank and create it. Copy the URL in the address bar. In the terminal, clone your repo with `git clone <repo url>`, and then `cd` into it (if your repo is private you will need to follow the [token](https://uwcs.co.uk/resources/github-token-authentication/) steps early).
 
-We’re going to use [pipenv](https://pipenv.pypa.io/en/latest/) to create a new python project. Pipenv manages dependencies and virtual environments for us, making it much more ergonomic than just using pip and virtualenvs manually. Install it with `python3.9 -m pip install --user pipenv`.  You can then invoke pipenv with `python3.9 -m pipenv <subcommand>`. Add [Flask](https://flask.palletsprojects.com/en/2.2.x/) to your project with `python 3.9 -m pipenv install flask`.
+We’re going to use [pipenv](https://pipenv.pypa.io/en/latest/) to create a new python project. Pipenv manages dependencies and virtual environments for us, making it much more ergonomic than just using pip and virtualenvs manually. Double check you're in your app's direcoty and install pipenv with `python3.9 -m pip install --user pipenv`.  You can then invoke pipenv with `python3.9 -m pipenv <subcommand>`. Add [Flask](https://flask.palletsprojects.com/en/2.2.x/) to your project with `python 3.9 -m pipenv install flask` (make sure you are installing with pipenv otherwise things will break further down the line).
 
 There’s another dependency that we’ll need later on as well: [gunicorn](https://gunicorn.org/). Gunicorn is a Python HTTP server, and will serve our Flask app for us: `python3.9 -m pipenv install gunicorn`.
+
+Your Pipfile should look something like this:
+```toml
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+gunicorn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
+```
 
 ### Flask
 
@@ -28,13 +45,13 @@ def hello():
 	return "Hello World!"
 ```
 
-Some of you should hopefully recognise this from CS139, this is a very simple Flask app. The `app` variable refers to an object that encapsulates your app and all it's API routes, and then we create a new route that returns simply the text “Hello, world”. Customise the string so your app is unique to you.
+Some of you should hopefully recognise this from CS139, this is a very simple Flask app. The `app` variable refers to an object that encapsulates your app and all it's API routes, and then we create a new route that returns simply the text “Hello World!”. Customise the string so your app is unique to you.
 
 You can start your app with `python3.9 -m pipenv run flask run`: this will start the flask *development* server within the python environment that pipenv has created. Head to the URL that is printed in the terminal and you will see your response. 
 
 (Note how the development server prints a message about using a production WSGI server instead? That's where gunicorn will come in.)
 
-Congrats, you’ve created your very own web app! Commit this to GitHub (`git add .`, `git commit -am "first commit"`, `git push origin main`). If this results in a user password field we have a handy [guide](https://uwcs.co.uk/resources/github-token-authentication/) on how to generate a token for this.
+Congrats, you’ve created your very own web app! Commit this to GitHub (`git add .`, `git commit -am "first commit"`, `git push origin main`). If this results in a user, password field we have a handy [guide](https://uwcs.co.uk/resources/github-token-authentication/) on how to generate a token for this.
 
 ---
 
@@ -48,7 +65,7 @@ The way Docker works is you build an *image*, which contains everything we need 
 
 That's the short version, see <https://docs.docker.com/get-started/> for more: the way Docker works within the Linux kernel is very interesting.
 
-Create a file called `Dockerfile`, which is where the description of our container image will go. We’ll create our Dockerfile line by line.
+Create a file called `Dockerfile` (case sensitive), which is where the description of our container image will go. We’ll create our Dockerfile line by line.
 
 The first line is
 ```docker
@@ -101,9 +118,18 @@ RUN pipenv install --system
 CMD gunicorn app:app -b 0.0.0.0:8080
 ```
 
-DCS have something called `podman` installed, which is a docker-compatible container tool, so we’ll make use of that. Run `podman build -t myapp .` to build your container and tag it with the name  ‘myapp’.
+Create a new Git commit with your Dockerfile and push it.
 
 ### Running a Container
+
+> ###### WARNING!!!!!!!!!! Because of the university changing the way ID numbers are generated, podman may not work if you joined the university on or after 2023. Please proceed to github actions if this affects you.
+
+DCS have something called `podman` installed, which is a docker-compatible container tool, so we’ll make use of that.
+
+```
+podman build -t myapp .
+```
+Will build your container and map it to the name `myapp`.
 
 You can now start your app with `podman run myapp`. You’ll see gunicorn starting up, and then head to `localhost:8080` in your browser to see your hello world message again.
 
@@ -121,8 +147,6 @@ A few other useful podman commands:
 - `podman logs` will show the logs from any running containers
 - `podman attach` will attach to a running container
 - `podman stop` will stop a running container
-
-Create a new Git commit with your Dockerfile and push it.
 
 ---
 
@@ -185,6 +209,7 @@ jobs:
         tags: ${{ steps.meta.outputs.tags }}
         labels: ${{ steps.meta.outputs.labels }}
 ```
+(note the indentation is important; for a working example see [this example](https://github.com/UWCS/flask-service/blob/main/.github/workflows/ci.yml))
 
 GitHub Actions workflows are comprised of multiple jobs, which themselves consist of multiple steps. This workflow will be run by GitHub every time you push to your `main` branch. Here, we define a single job, `build`, with 4 steps:
 
@@ -220,16 +245,16 @@ Portainer provides a nice interface for setting up containers running as service
 
 Fill out the details to use your image to start a new container. This screen is essentially configuring your `podman run` command but with a GUI.
 - Name your container something unique and identifiable
-- Change the registry to `GitHub`
-- set the image to `<your github name>/<your repo name>:latest`
-- publish a network port (host should be a random port from 1000-8080 (6969 is taken), container should be 8080)
-- scroll down to advanced
-- override the command with `'/bin/sh' '-c' 'gunicorn app:app -b 0.0.0.0:8080'`
-- click on Env and at the enviroment variable `VIRTUAL_HOST` with the value being the name of your container for example `my-flask-app`
+- Change the registry to `GitHub` (if this is not an option then select "Advanced mode" and type `ghcr.io/` into the registry field)
+- Set the image to `<your github name>/<your repo name>:latest`
+- Manuallu publish a network port (host should be a unique random port from 1000-8080 (6969 is taken), container should be 8080)
+- Scroll down to advanced
+- Override the command with `'/bin/sh' '-c' 'gunicorn app:app -b 0.0.0.0:8080'`
+- Click on Env and at the enviroment variable `VIRTUAL_HOST` with the value being the name of your container for example `my-flask-app` (this needs to be unique so don't use `my-flask-app`)
 
 Start your container and it should pull your image and spin up. If it doesn't work then you're probably trying to use a port that someone else is already using on the host, so try another one. You should be able to see your running container. Try accessing the logs, and you can even start a new shell within it by clicking 'console' under 'container status'.
 
-Head to <https://<yourname>.containers.uwcs.co.uk>, and your app should be accessible from the outside world!
+Head to `https://<VIRTUAL_HOST>.containers.uwcs.co.uk>` and your app should be accessible from the outside world!
 
 ---
 
