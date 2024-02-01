@@ -6,6 +6,7 @@ date = "Thu 7pm"
 end_time = "10pm"
 location = "OC1.07"
 icon = "ph-envelope-open"
+colour = "blue"
 
 [taxonomies]
 tags = ["AGM", "Elections"]
