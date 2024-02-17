@@ -35,7 +35,7 @@ Any member of the society! Even if you're not standing, how you vote or what you
 
 ### Eligibility
 
-Any standard member of the society can stand or vote in the elections. You need to have been a society member since at least 14 days before the AGM (that's 7pm on February 3rd). You can stand for a position at the AGM itself, if you want.
+Any standard member of the society can stand or vote in the elections. You need to have been a society member since at least 7 days before the AGM (that's 7pm on February 22nd). You can stand for a position at the AGM itself, if you want.
 
 ### Roles Available
 | Role        | Slots* | Responsible for:                                                                                             | Recommended if you:                                                                                                                    |
