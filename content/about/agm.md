@@ -23,7 +23,7 @@ Why are we doing this? Because we're a Warwick SU society, and have to follow [R
 
 ### Where and When is our AGM?
 
-OC1.01 starting at 7pm, this Friday (17/02/23).
+OC1.07 7pm Feburary 29th
 
 ### Who can take part in the AGM?
 
@@ -95,7 +95,7 @@ Each position will be discussed in turn:
 
 You can no longer submit constitution-changing motions. You can still submit motions that don't affect the constitution, but the society exec has no obligation to follow them even if passed.
 
-[Current Constitution](UWCS_Constitution_2223.pdf)
+[Current Constitution](../UWCS_constitution_23_24.pdf)
 
 [Motion Template](https://docs.google.com/document/d/1SvgtgYYuHPoti1gEcyHcsyNtp-4e-lssiEVDRJbfAkE/edit)
 
