@@ -7,8 +7,8 @@ weight = 30
 
 ---
 
-# WWWWW
-### What is an AGM? Why is an AGM?
+# AGM INFO STUFF
+### What happens at an AGM?
 
 An AGM, or Annual General Meeting, must be held in Term 2 by every society. It's not always called that, but it's meant to be an event where the society looks back on the year's events, and looks forward to how it wants to plan things in the future.
 
@@ -16,15 +16,15 @@ This is a great event, and can be quite entertaining. At the AGM we do 4 things:
 
 - the annual report (exec talk for a really long time about all the events we ran)
 - run society elections (hopeful exec talk for a really long time about events they want to run ~~but won't get round to~~)
-- vote on motions (~~idiots~~ members request normal things of a computing society and there is *NO* joking about)
+- vote on motions (~~idiots~~ members request **normal** things of a computing society and there is *NO* joking about)
 - spend all of our sponsor money on pizza
 
 Why are we doing this? Because we're a Warwick SU society and have to follow [Regulation 9](https://www.warwicksu.com/your-union/how-the-su-works/governingdocuments/), and also because it would also be really nice to have an exec for next year.
 
 ### Where and When is our AGM?
 
-Place: OC1.07
-Date/Time: 7pm Feburary 29th
+*Place:* **OC1.07** \
+*Date/Time:* **7pm Feburary 29th**
 
 ### Who can take part in the AGM?
 
