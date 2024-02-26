@@ -4,7 +4,7 @@ date = "Sunday 1pm"
 
 [extra]
 end_time = "3pm"
-location = "CS0.06
+location = "CS0.06"
 icon = "bi-gear-wide"
 colour = "academic"
 
