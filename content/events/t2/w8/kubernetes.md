@@ -1,10 +1,10 @@
 +++
 title = "Kubernetes"
-date = "Sunday"
+date = "Sunday 1pm"
 
 [extra]
-end_time = ""
-location = "???"
+end_time = "3pm"
+location = "CS0.06
 icon = "bi-gear-wide"
 colour = "academic"
 

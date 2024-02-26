@@ -7,7 +7,7 @@ tags = ["Pub Meal"]
 
 [extra]
 end_time = "8pm"
-location = "The Dirty Duck"
+location = "Phantom Coach"
 
 icon = "ph-hamburger"
 colour = "social"
