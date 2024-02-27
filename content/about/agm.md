@@ -50,6 +50,7 @@ Any standard member of the society can stand or vote in the elections. You need 
 | Tech        | 2      | Maintaining our Linux servers and member services, and looking after our open-source projects.               | Want to get hands-on experience with servers. Accept things aren’t going to go to plan. Can quickly pick up new technologies.          |
 | Inclusivity | 2      | Creating a welcoming environment for members, regardless of background. Hosts Wildcards (women & NB) events. | Represent an under-represented group in CS. Want to improve outcomes for similar students. Can be pretty confident, but also friendly. |
 | Publicity   | 2      | Making sure people know what we’re up to, whether that be through social media, or something more unique.    | Can make publicity graphics (preferably Figma). Know what makes social media platforms tick. Are creative, but can be concise.         |
+| Welfare   | 2      | Ensures the safety of members at events/in the society as a whole, and should be the first point of contact for any issues.    | Approachable, comfortable talking about sensitive issues and will be active at events.       |
 
 \*This is in accordance with our *new and improved shared office clause 6.3*. There is also the possibility of running in groups, e.g. two people can run as one candidate.
 
