@@ -7,4 +7,4 @@ link = "https://www.linkedin.com/company/uwcs/"
 short = "uwcs"
 +++
 
-Networking and retrospectives
+Networking, retrospectives and business updates
