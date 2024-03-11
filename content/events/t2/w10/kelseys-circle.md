@@ -1,6 +1,6 @@
 +++
 title = "Kelsey's Circle"
-date = "Thu 7pm"
+date = "Sat 7pm"
 
 [extra]
 end_time = "22:00"
