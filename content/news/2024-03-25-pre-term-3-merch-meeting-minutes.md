@@ -1,32 +1,14 @@
-+++ 
++++
 title = "Pre-Term 3 Merch Meeting Minutes (25/03/24)"
 
-[taxonomies] 
-categories = ["Meeting Minutes"] 
-+++ 
+[taxonomies]
+categories = ["Meeting Minutes"]
++++
 
-Programmer socks rerun? 
+Programmer socks rerun?! 
 
 <!-- more --> 
 
-# Attendance 
-* Alia 
-* Josh R.
-* Lucy
-* Ray
-* Finn
-* Harmony 
-* Jasmine 
-* Louis 
-* Josh S. 
-* Serene 
-* Owen 
-* Rowan 
-* Samit 
-* Nick 
-* Joel (late) 
-
-# Notes
 ## Agenda I: How  
 * Most items are 20 - 40 orders 
 * May or may not be able to subsidise, need to check SU finance & student activities (email) 
