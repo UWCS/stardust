@@ -1,9 +1,10 @@
 +++
-title = "Pre-Term 3 Social Meeting Minutes (25/03/24) "
+title = "Pre-Term 3 Social Meeting Minutes (25/03/24)"
 
 [taxonomies]
 categories = ["Meeting Minutes"]
 +++
+
 Sorting out events for the next term :) 
 
 <!-- more --> 
