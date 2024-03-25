@@ -6,6 +6,10 @@ draft = false
 [taxonomies]
 categories = ["Meeting Minutes"]
 +++
+Sorting out events for the next term :) 
+
+<!-- more --> 
+
 ## Agenda I: Circles
 
 * **Number of Events** 
@@ -17,9 +21,8 @@ categories = ["Meeting Minutes"]
   * In a field
 * **When/Where**
 
-  *  Would have to be after exam season - hosting in a field means it needs to be warm 
-
-    * w/b 17th June (T3W9) as the provisional date 
+  * Would have to be after exam season - hosting in a field means it needs to be warm 
+  * w/b 17th June (T3W9) as the provisional date 
   * Held in a field avoids the SU circling booking process
 
     * Risk assessment needs to be completed
@@ -44,7 +47,7 @@ categories = ["Meeting Minutes"]
     * Towards the end of the week (probably Friday or Saturday)
 * **Pub golf** 
 
-  *  Would be done in groups 
+  * Would be done in groups 
 * **Tenpin bowling** 
 
   * Alcohol is sold on site, however there are probably restrictions in place 
@@ -97,17 +100,15 @@ categories = ["Meeting Minutes"]
   * Playing for yourself/playing for charity? 
 * **Bake Off**
 
-  *  Term 1 
-
-    * Should be held when its raining more as it's an inside event 
-    * Towards the end of the term 
+  * Term 1 
+  * Should be held when its raining more as it's an inside event 
+  * Towards the end of the term 
   * Location
 
-    *  Last years bake off was sponsored by the Oaks 
-
-      * They won't financially sponsor this year 
-      * Need to check we can still use their kitchens if needs be
-    *  Can research on campus event spaces and see if any have large catering kitchens 
+    * Last years bake off was sponsored by the Oaks 
+    * They won't financially sponsor this year 
+    * Need to check we can still use their kitchens if needs be
+    * Can research on campus event spaces and see if any have large catering kitchens 
 * **Charity Casino Night**
 
   * When?
