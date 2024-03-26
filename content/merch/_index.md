@@ -8,6 +8,10 @@ hide = true
 
 +++
 
+{% note(type="primary", icon="bi-heart-fill") %}
+Test Note!
+{% end %}
+
 # Welcome to UWCS Shop
 Ladies and gentlemen, have I got news for you! The University of Warwick Computing Society, also known as UWCS, is selling some incredible merchandise. Let me tell you, it's fantastic. We've got hoodies, t-shirts, programming socks, and stickers. And the best part? They're selling them at cost! That's right, folks. UWCS is not making a profit off of these amazing products.
 
