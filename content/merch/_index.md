@@ -5,6 +5,8 @@ template = "merch.html"
 
 [extra]
 hide = true
+start = "2023-05-01T12:00:00+01:00"
+end = "2024-03-26T12:00:00+01:00"
 
 +++
 
