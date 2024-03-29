@@ -2,17 +2,20 @@
 title = "Merch"
 sort_by = "weight"
 template = "merch.html"
+page_template = "merch_page.html"
 
 [extra]
 hide = true
 start = "2023-05-01T12:00:00+01:00"
-end = "2024-03-29T12:00:00+01:00"
+end = "2024-04-29T12:00:00+01:00"
 preview = false
 +++
 
+<!--
 {% note(type="primary", icon="bi-star-fill") %}
 Test Alert!
 {% end %}
+-->
 
 # Welcome to UWCS Shop
 Ladies and gentlemen, have I got news for you! The University of Warwick Computing Society, also known as UWCS, is selling some incredible merchandise. Let me tell you, it's fantastic. We've got hoodies, t-shirts, programming socks, and stickers. And the best part? They're selling them at cost! That's right, folks. UWCS is not making a profit off of these amazing products.
