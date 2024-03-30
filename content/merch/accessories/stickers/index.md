@@ -7,7 +7,10 @@ link = "https://www.warwicksu.com/shop/product/10211800/"
 
 +++
 
-Do you like stickers? We have a lot of them. The mega sticker pack includes a wide array of high-quality designs, with sizes ranging from 5-8cm wide. Whether you're looking to slap these bad boys on the back of your laptop, want to show off the superiority of "GitHub" on the fridge, or brand someone with the mark of Milk Mondays, now's your chance!
+Do you like stickers? We have a lot of them. The mega sticker pack includes a wide array of high-quality designs, with sizes ranging from 5-8cm wide. 
+
+Whether you're looking to slap these bad boys on the back of your laptop, want to show off the superiority of "GitHub" on the fridge, or brand someone with the mark of Milk Mondays, now's your chance!
+<!-- more -->
 
 **Includes:**  
 **Standalone:** UWCS Shield, *Glitter* UWCS Pride Shield, and an Optional UWCS Rust Shield  
