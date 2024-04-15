@@ -11,13 +11,13 @@ We have exec!!!!
 <!-- more --> 
 
 ## Exec for 24/25
-Exactdeatils can be found at
+Exec deatils can be found at
 
 President - Alia Meek  
 Secretary - Lucy Siket  
 Treasurer - Josh Fitz, Jasmine Tan  
 Social - Nicholas Mason-Apps & Rowan Shields​, Joshua Rawlings & Oliver Cordeaux  
-Gaming - Finn McGoldrick
+Gaming - Finn McGoldrick   
 Inclusivity - Harmony Bouabid, Poppy Wallis & Alysha Kuruparan  
 Welfare - Jensen Taylor, Serene Alrawi  
 Tech - Joel Coulon, Josh Heng, Adam Skrzymowski & Alex Wright, and Ali Aljeshi  
