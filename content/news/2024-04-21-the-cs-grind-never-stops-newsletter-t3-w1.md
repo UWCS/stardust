@@ -1,6 +1,6 @@
 +++
 title = "The CS grind NEVER stops | Newsletter T3 W1"
-date = "Su April yyyy"
+date = "21/04/2024"
 draft = false
 
 [taxonomies]
