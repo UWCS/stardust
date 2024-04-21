@@ -4,7 +4,7 @@ weight = 2
 date = "1970-01-01"
 
 [extra]
-people = ["Serene Alrawi"]
+people = ["Lucy Siket"]
 email = "secretary@uwcs.co.uk"
 +++
 

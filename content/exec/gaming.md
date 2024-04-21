@@ -4,7 +4,7 @@ weight = 5
 date = "1970-01-01"
 
 [extra]
-people = ["Joshua Rawlings", "Samit Awal"," Lewis Parry"]
+people = ["Finn McGoldrick"]
 email = "gaming-coordinator@uwcs.co.uk"
 +++
 

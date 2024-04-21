@@ -4,7 +4,7 @@ weight = 8
 date = "1970-01-01"
 
 [extra]
-people = ["Ivan Kudryavtsev", "Shivani Dave"]
+people = ["Nicholas Mason-Apps", "Rowan Shields", "Oliver Cordeaux", "Joshua Rawlings"]
 email = "socials@uwcs.co.uk"
 +++
 
