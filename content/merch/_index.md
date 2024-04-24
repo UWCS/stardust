@@ -8,7 +8,7 @@ page_template = "merch_page.html"
 hide = true
 start = "2023-05-01T12:00:00+01:00"
 end = "2024-04-29T12:00:00+01:00"
-preview = false
+preview = true
 +++
 
 <!--
@@ -24,10 +24,8 @@ The hoodies are just tremendous. They're warm, they're cozy, and they look sharp
 
 And don't even get me started on the stickers. They're beautiful, they're durable, and they're perfect for laptops, water bottles, and even cars. It's an excellent way to show your support for UWCS.
 
-So what are you waiting for, folks? Get yourself some UWCS merchandise today. You won't regret it. And remember, UWCS is selling them at cost. It's a deal you won't find anywhere else. Thank you, and God bless UWCS!
+So what are you waiting for, folks? Get yourself some UWCS merchandise today. You won't regret it. And remember, UWCS is selling them at cost. It's a deal you won't find anywhere else. Thank you!
 
 ***
 
-Unfortunately, last year, the SU got annoyed at us subsidising you guys' merch, **so we have to sell exactly at cost**. We are not allowed to subsidise or profit on anything, except we are allowed to subsidise exec hoodies and give away free non-clothing items, go figure.
-
-Also note some of the images on the SU's site are from last year, and so out of date. **The versions on this site are correct.**
+We are not allowed to subsidise or profit on anything, except we are allowed to subsidise exec hoodies and give away free non-clothing items, go figure.
