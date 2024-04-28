@@ -4,7 +4,7 @@ date = "Saturday 7pm"
 
 [extra]
 end_time = ""
-location = "Bus Interchange"
+location = ""
 icon = "ph-beer"
 colour = "social"
 
