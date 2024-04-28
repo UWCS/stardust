@@ -3,9 +3,9 @@ title = "The Pub Traversal"
 date = "Saturday 7pm"
 
 [extra]
-end_time = "'til we drop"
-location = "Bus Interchange"
-icon = ""
+end_time = ""
+location = ""
+icon = "ph-beer-stein"
 colour = "social"
 emoji = ":beer:"
 
