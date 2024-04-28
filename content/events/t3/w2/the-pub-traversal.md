@@ -7,7 +7,7 @@ end_time = ""
 location = ""
 icon = "ph-beer-stein"
 colour = "social"
-emoji = ":beer:"
+emoji = "🍺"
 
 [taxonomies]
 tags = ["Traversal"]
