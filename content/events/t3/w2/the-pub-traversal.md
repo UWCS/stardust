@@ -5,9 +5,9 @@ date = "Saturday 7pm"
 [extra]
 end_time = ""
 location = "Bus Interchange"
-icon = "ph-beer-stein"
+icon = ""
 colour = "social"
-emoji = ""
+emoji = "🍺"
 location_url = "https://maps.app.goo.gl/eeSSRViS6Zrsmdz57"
 
 [taxonomies]
