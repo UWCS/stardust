@@ -4,10 +4,11 @@ date = "Saturday 7pm"
 
 [extra]
 end_time = ""
-location = ""
+location = "Bus Interchange"
 icon = "ph-beer-stein"
 colour = "social"
-emoji = "🍺"
+emoji = ""
+location_url = "https://maps.app.goo.gl/eeSSRViS6Zrsmdz57"
 
 [taxonomies]
 tags = ["Traversal"]
