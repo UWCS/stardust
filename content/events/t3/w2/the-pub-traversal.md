@@ -3,7 +3,7 @@ title = "The Pub Traversal"
 date = "Saturday 7pm"
 
 [extra]
-end_time = "'Til we drop"
+end_time = ""
 location = "Bus Interchange"
 icon = "ph-beer"
 colour = "social"
