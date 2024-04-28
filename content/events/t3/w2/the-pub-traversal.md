@@ -1,12 +1,13 @@
 +++
-title = ":beer: The Pub Traversal :beer:"
+title = "The Pub Traversal"
 date = "Saturday 7pm"
 
 [extra]
 end_time = "'til we drop"
 location = "Bus Interchange"
-icon = "ph-beer"
+icon = ""
 colour = "social"
+emoji = ":beer:"
 
 [taxonomies]
 tags = ["Traversal"]
