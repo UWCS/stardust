@@ -1,5 +1,5 @@
 +++
-title = "The Pub Traversal"
+title = ":beer: The Pub Traversal :beer:"
 date = "Saturday 7pm"
 
 [extra]
@@ -11,10 +11,6 @@ colour = "social"
 [taxonomies]
 tags = ["Traversal"]
 +++
-# :beer: The Pub Traversal :beer:
-**🕘When:** Saturday 22nd Apr, from 7pm 'til we drop
-**📍Where:** Bus Interchange
-
 We are back with a vengeance this term with a pub traversal like no other! One, two, or even three pubs? **FAT CHANCE** - we're gonna hit **7 :scream:** because why settle for anything less? :thinking::thinking::thinking:
 
 Join the **CHAOS** at the Bus Interchange at 7pm sharp, as we embark on our heroic voyage: starting at the Oak Inn and finishing at spoons, Coventry won't know what hit 'em. Get ready for a night so unbelievably good you'll be questioning if you've dropped dead already :melting_face:
