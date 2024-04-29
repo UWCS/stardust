@@ -12,7 +12,7 @@ ANYWAY, this week we have our usual events, plus one to ~~forget about April exa
 
 Although there's no UWCS revision sessions this week, keep an eye out for the DCS run ones 👀. 
 
-Nominations are still open for the **Gaming Coordinator** by-election (which will be taking place at FNG this friday)! There will also be free pizza, ~~as an incentive~~!
+Nominations are still open for the **Gaming Coordinator** by-election (which will be taking place at FNG this friday)! If you're interested in running, DM Finn (@flynt251 on Discord), or one of the ex gaming coordinators. There will also be free pizza, ~~as an incentive~~!
 
 Hopefully everyone is coping with exams ~~I don't know of a single person~~ and is ready to face *EVEN MORE EXAMS*!
 
