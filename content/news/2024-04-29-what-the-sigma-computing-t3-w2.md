@@ -1,5 +1,5 @@
 +++
-title = "What the SIGMA?! | Computing T3 W2"
+title = "What the SIGMA?! | Newsletter T3 W2"
 date = "2024-04-29"
 draft = false
 
