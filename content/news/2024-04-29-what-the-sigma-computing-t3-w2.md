@@ -21,7 +21,7 @@ But seriously, exam periods can be tough and we want to make sure you are all do
 --------------------------------------------------------------------------
 # [🍔 Pub meal 🍔](https://uwcs.co.uk/events/t3/w2/pub/)
 
-#### 🕘Monday 29nd Apr 6pm-8pm📍The Dirty Duck
+#### 🕘Monday 29nd Apr 6pm-8pm📍[The Dirty Duck](https://campus.warwick.ac.uk/search/623c889c421e6f5928c0d39a?projectId=warwick)
 #### *Delicious comfort food*
 
 Whether you're celebrating, procrastinating, ~~or coping with your academic failures~~, come along to The Dirty Duck pub meal at 6pm!
