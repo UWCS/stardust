@@ -1,6 +1,6 @@
 +++
 title = "Sponsors"
-weight = 10
+weight = 5
 template = "section_double_depth.html"
 page_template = "sponsor.html"
 +++

@@ -1,13 +1,14 @@
 +++
 title = "Merch"
+weight = 8
 sort_by = "weight"
 template = "merch.html"
 page_template = "merch_page.html"
 
 [extra]
 hide = true
-start = "2023-05-01T12:00:00+01:00"
-end = "2024-04-29T12:00:00+01:00"
+start = "2024-05-06T18:00:00+01:00"
+end = "2024-05-10T23:59:59+01:00"
 preview = true
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = "About"
-weight = 4
+weight = 1
 sort_by = "weight"
 +++
 

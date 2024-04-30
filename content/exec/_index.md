@@ -1,6 +1,6 @@
 +++
 title = "Contact"
-weight = 5
+weight = 6
 template = "contact.html"
 sort_by = "weight"
 generate_feed = true

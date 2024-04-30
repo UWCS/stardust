@@ -1,6 +1,6 @@
 +++
 title = "News"
-weight = 1
+weight = 3
 sort_by = "date"
 paginate_by = 20
 generate_feed = true
