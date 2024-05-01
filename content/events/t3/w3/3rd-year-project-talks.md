@@ -2,14 +2,14 @@
 title = "3rd Year Project Talks"
 date = "Tuesday 1pm"
 
+[taxonomies]
+tags = ["talks"]
+
 [extra]
 end_time = "4pm"
 location = "OC1.05"
 colour = "academic"
 icon = "ph-graduation-cap"
-
-[taxonomies]
-tags = ["talks"]
 +++
 Struggling to come up with ideas for your 3rd year project? Want to learn some super secret tips DCS don't want you knowing? We have 6 incredible speakers from both CS & CSE presenting their project to you:
 
