@@ -1,5 +1,6 @@
 +++
 title = "Zipped Hoodie"
+weight = 2
 
 [extra]
 price = "35.10"

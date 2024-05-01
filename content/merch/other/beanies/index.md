@@ -1,5 +1,6 @@
 +++
 title = "Beanies"
+weight = 3
 
 [extra]
 price = "9.45"

@@ -1,5 +1,6 @@
 +++
 title = "Lanyards"
+weight = 4
 
 [extra]
 price = "1.70"

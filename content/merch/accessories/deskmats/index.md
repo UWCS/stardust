@@ -1,5 +1,6 @@
 +++
 title = "Desk Mats"
+weight = 6
 
 [extra]
 price = "30.05"

@@ -1,5 +1,6 @@
 +++
 title = "Rubber Duck"
+weight = 3
 
 [extra]
 price = "1.71"

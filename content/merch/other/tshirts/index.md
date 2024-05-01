@@ -1,5 +1,6 @@
 +++
 title = "T-Shirts"
+weight = 2
 
 [extra]
 price = "8.10"
