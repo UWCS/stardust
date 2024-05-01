@@ -2,8 +2,8 @@
 title = "Zipped Hoodie"
 
 [extra]
-price = "30.10"
-link = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+price = "35.10"
+link = "https://www.warwicksu.com/shop/product/10274150/"
 
 +++
 

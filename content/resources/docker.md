@@ -68,7 +68,7 @@ That's the short version, see <https://docs.docker.com/get-started/> for more: t
 Create a file called `Dockerfile` (case sensitive), which is where the description of our container image will go. We’ll create our Dockerfile line by line.
 
 The first line is
-```docker
+```dockerfile
 FROM python:3.9
 ```
 
@@ -76,7 +76,7 @@ Here, we give Docker a name of another image that we want to use as a base for o
 
 The next thing we want to do is install pipenv so we can use it within our container. Remember that container builds are isolated from the rest of the system, so any tools we want to use we need to install in our container:
 
-```docker
+```dockerfile
 RUN pip install pipenv
 ```
 
@@ -102,14 +102,14 @@ RUN pipenv install --system
 
 We’ve set up everything we need for our app, so now we tell Docker how to run it. The `CMD` command tells the container how to start the process when we do `docker run`. We want to use gunicorn to start our flask app as a HTTP server. We do this instead of using the development server, because using the development server for production is [bad](https://stackoverflow.com/questions/12269537/is-the-server-bundled-with-flask-safe-to-use-in-production)
 
-```docker
+```dockerfile
 CMD gunicorn app:app -b 0.0.0.0:8080
 ```
 
 We tell gunicorn to run `app:app`, which means the Flask application called `app` within the file `app` that we created (confusing, I know). We also tell it to listen for connections from on  `0.0.0.0:8080`, which means the server will accept connections on port `8080`.
 
 Your complete dockerfile should look like this:
-```docker
+```dockerfile
 FROM python:3.9
 RUN pip install pipenv
 WORKDIR /app
