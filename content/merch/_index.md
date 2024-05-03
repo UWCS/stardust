@@ -6,17 +6,11 @@ template = "merch.html"
 page_template = "merch_page.html"
 
 [extra]
-hide = true
+hide = false
 start = "2024-05-03T19:00:00+01:00"
 end = "2024-05-10T23:59:59+01:00"
-preview = true
+preview = false
 +++
-
-<!--
-{% note(type="primary", icon="bi-star-fill") %}
-Test Alert!
-{% end %}
--->
 
 # Welcome to UWCS Shop
 
