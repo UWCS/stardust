@@ -18,4 +18,4 @@ Here you can find all the UWCS merch that we have available for purchase. We hav
 
 ***
 
-We are not allowed to subsidise or profit on anything, except we are allowed to subsidise exec hoodies and give away free non-clothing items, go figure.
+All merch is being sold at cost so you know you're getting the best deal!
