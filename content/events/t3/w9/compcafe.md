@@ -1,5 +1,5 @@
 +++
-title = "Comp Cafe All Nighter"
+title = "Comp Cafe"
 date = "Tuesday 5pm"
 
 [extra]
@@ -11,4 +11,4 @@ colour = "academic"
 [taxonomies]
 tags = ["CompCafe"]
 +++
-Coursework deadlines exist :( Time to go all night :)
+Hehe caffeine go brrrrrrr
