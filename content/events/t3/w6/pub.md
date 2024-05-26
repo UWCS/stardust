@@ -2,15 +2,14 @@
 title = "Pub Meal"
 date = "Monday 6pm"
 
-[taxonomies]
-tags = ["Pub Meal"]
-
 [extra]
 end_time = "7pm"
-location = "The Dirty Duck"
-
+location = "Phantom Coach"
 icon = "ph-hamburger"
 colour = "social"
+
+[taxonomies]
+tags = ["Pub Meal"]
 +++
 
-Every Monday we go to one of the local pubs for some socializing and some food!
+Duck is closed because bank holiday, off to phoach! (for the 4th time in a row)
