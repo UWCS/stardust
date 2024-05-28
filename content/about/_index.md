@@ -44,7 +44,7 @@ If Friday isn't your thing, feel free to [hop on our Discord](https://discord.uw
 
 ### LAN - Like gaming, but bigger
 
-The answer to the question: what if Gaming was bigger and had a bunch more events and also ran continously for a whole weekend? We run these once every term, and collaborate with other societies to make sure you have a good time. We pull out all the stops, bringing along all our consoles and board games, and super fast internet! For more information, see [this page](@/about/lan/_index.md) (somewhat outdated).
+The answer to the question: what if Gaming was bigger and had a bunch more events and also ran continously for a whole weekend? We run these once every term, and collaborate with other societies to make sure you have a good time. We pull out all the stops, bringing along all our consoles and board games, and super fast internet! For more information, see [this page](@/about/lan/_index.md).
 
 ### WASD - Warwick's Awesome Speedruns & Demos
 
