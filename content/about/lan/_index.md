@@ -1,114 +1,90 @@
 +++
-title = "LAN Information"
+title = "The UWCS Guide to LANs"
 weight = 100
 +++
 
-An FAQ on our LAN Parties
+A quick overview of our LAN Parties
 <!-- more -->
 ------------------------------------------------------------------------
 
-**What is a LAN Party?**
+In computing, the term "LAN" stands for Local Area Network. In our case, it refers to our flagship gaming event where we gather a bunch of computers and hook them together to one router and play games together for an entire weekend (a full fourty-eight hours, to be exact). These usually take place once every term.
 
-A LAN party is an event where everyone brings their computer to a big
-room to all play games together and eat unhealthy amounts of junk food.
+## Bringing a device
 
-**What does LAN stand for?**
+> If at any point you plan to step away from your device during LAN, no matter for how long, please ensure you are able to lock it, as we cannot accept any liability for its security during the event.
 
-LAN stands for Local Area Network which is what we are all connected to
-while at these events.
+We welcome a wide range of devices at LAN, from gaming laptops, to consoles old and new, to gargantuan desktops! If you plan on bringing a device with you, be sure to let us know on the Discord, and we can give a helping hand and/or some general advice on getting your setup from your place to ours. You don't have to bring a device with you to join in on LAN, but as the saying goes, the more the merrier!
 
-It basically means we\'re all connected by ethernet cables for superfast
-connection speeds.
+We'll provide cables for networking, i.e. Ethernet, but anything else you'll be expected to bring yourself. This includes monitors, cables, power bricks, controllers, and so on. Don't be that one person who forgets their mouse!
 
-------------------------------------------------------------------------
+#### Got Desktop?
 
-**How often do LANs take place?**
+We will typically aim to provide some sort of pick-up service to help you get to LAN. Please check the announcements on our Discord to check if we're offering this. Failing that, we provide desktop tower carrying cases, monitor bags and trolleys to help you out. No doubt you'll also want to bring a monitor too, but bear in mind you're limited to **one monitor per desktop or console unit**.
 
-There is generally 1 LAN per term.
+## What else to bring
 
-**How long do they last?**
+Even though you're not required to bring any computer hardware to join in on LAN, there are still a few things we recommend you bring, notably some snacks (because there's no way we'll have a sufficient amount of snacks to feed everyone), some cash if you want to pop to the local shops or order food for yourself, and a pillow to help make yourself comfortable. Please also make sure you bring yourself, in an orderly state, i.e. please make sure you've showered the night before the event, are wearing suitable clothes, have put on deodourant, etc.
 
-Our LANs all last 48 hours (Friday evening to Sunday Evening).
+Also, LAN is a strictly sober event. **Please do not bring alcohol to the venue otherwise you will be asked to leave.** You will also be told to leave if the exec team believes you are in an unfit state to participate. Outside of potential damage to very expensive equipment, there have been notable incidents involving alcohol at LANs in the past: we do not wish to replicate them.
 
-**Do I have to be there the whole time?**
+## What we bring
 
-No! Whilst there will always be an exec presence at LAN, UWCS does not
-condone staying up for extended periods of time.
+We'll do our best to ensure there's something for everyone, so we'll haul over the equipment we usually bring out for our Friday Night Gaming events, such as the Nintendo Switches, VR Headsets, etc. We recommend using the #lan channel on our Discord to find out what people are planning on bringing, so you can plan ahead. In very lucky circumstances, we may have additional PCs from sponsors, but this is rare.
 
-**Can I sleep at LAN?**
+We'll also have our own in-house music server, Amphi, running, where anyone in LAN can submit ~~audible horrors~~ their favourite music. Amphi was brought to life by none other than the amazing Alex Dixon (Yes, the same Alex who teaches CS141)!
 
-You cannot sleep at LAN (security don\'t like it)
+> As a quick aside, we typically provide a small array of snacks every once in a while, and might (just might!) get pizza for everyone at some point.
 
-If you intend to attend a large proportion of LAN, please make sure to
-shower before the event.
+## What we do
 
-------------------------------------------------------------------------
+First and foremost, **we game.** And we eat our fair share of junk food.
 
-**What does UWCS provide?**
+But we also host special events throughout the LAN which aim to get anyone and everyone involved. Here's what you can expect from a typical LAN...
 
-A room, tables, chairs, and the network
+- **Jackbox** - A series of ridiculously hilarious games where your phone is the controller. It truly brings out the ~~worst~~ best in people.
 
-Network cables: For connecting to the network
+- **Tournaments** - From Mario Kart to Super Smash Bros, put your skills to the test!
 
-A music server attendees can queue YouTube videos to
+- **Film Nights** - Why not take a break from gaming, sit down, and watch a couple of classic films?
 
-Sometimes we are able to bring out our VR Headset ([the
-Index](https://store.steampowered.com/valveindex)), and other consoles
-from Friday Night Gaming
+- **Quizzes** - Typically we host our last quiz social in our Term 3 LAN. Usual deal: Teams of four, five-or-so rounds, ideally get as many questions right as possible.
 
-Sometimes exec, or other members, bring board games with them - feel
-free to bring your own, but we can\'t guarantee space for them
+- **Society Collabs** - We've done Smash with NinSoc, Ultra Hardcore Minecraft with MineSoc... the list goes on!
 
-**What doesn\'t UWCS provide?**
+But this is not an exhaustive list. Be sure to check our schedule to see what ~~insane~~ exciting events we've got going on!
 
-Computers/games: Sometimes we provide free-to-use gaming laptops curtesy
-of our sponsors; however unless we state otherwise, assume you have to
-provide your own computer and games
+## Where we LAN
+
+Typically, **LIB2** at the Library is our go-to spot for LAN. We understand that most people aren't familiar with this room's whereabouts, so we'll do our best to explain. First, be sure to check its location on [campus.warwick.ac.uk](https://campus.warwick.ac.uk/search/623c88f2421e6f5928c0e4ec?projectId=warwick).
+
+Facing the front of the library builing, go down to the left side, closer to the Faculty of Arts Building. Enter the building through the door towards the back, and go straight down the corridor. Congrats! You've just made it to LAN!
 
 ------------------------------------------------------------------------
 
-**What should I bring?**
+## Frequently asked questions
 
-Hardware
+<br>
 
--   Base unit with installed Network Card
--   Monitor (one monitor only, due to limited space)
--   Keyboard
--   Mouse (+ mat)
--   Headphones
-    -   NOTE: With 60+ computers in one room, speakers are not permitted
-        at LANs
-        -   If you want to play music we do have a [music
-            server](https://uwcs.co.uk/about/lan-information/music-servers/).
--   Joystick, steering wheel, or any other peripherals you require
--   Mobile phone
--   Any cables your devices require
-    -   PSU Power lead
-    -   Monitor Power lead (if required)
-    -   Mains adaptor (4-way minimum - a maximum of 2 sockets per
-        person)
+#### Aaah! I'm at LAN and something's broken!
 
-Other
+Um, that's not a question, but don't panic! We'll have members of the exec team to hand who can lend their help (plus maybe some tools) if your computer encounters any issues at LAN.
 
--   Money: For food and drinks from the local cafes, outlets, and
-    supermarkets.
--   Food and drink: If you don\'t want to go out to buy it
--   Appropriate clothing
-    -   It gets warm in the summer, and cold at night
--   A pillow
-    -   Comfy
-    -   Feel free to leave it at LAN while you go home to sleep
--   Yourself!
-    -   In a reasonable state
-        -   Sleepy is fine
+#### Can I sleep at LAN?
 
-------------------------------------------------------------------------
+We wouldn't encourage it. Generally speaking, security gets upset when people do this, but regardless, we doubt you'd be able to sleep comfortably in the room. Instead, maybe head home to catch up on rest ~~or just neck down some pure caffeine in true gamer spirit~~.
 
-**My question isn\'t answered here\...**
+#### If I go, do I have to stay for the entire LAN?
 
-That\'s not a question, but you can email our gaming coordinator at
-<gaming-coordinator@uwcs.co.uk>, or ask any of the exec on [our
-Discord](http://discord.uwcs.co.uk) by pinging \@Gaming Coordinator. 
-You can also get in touch on [Instagram](https://www.instagram.com/warwickcompsoc/),
-~~Twitter~~[X](https://x.com/uwcs/), or
-[IRC](https://uwcs.co.uk/about/irc-guide/).
+Nope! Feel free to head out if and when you need to eat, sleep, or just go outside (highly recommended actually, vitamin d go brrr). We will always have at least one exec member inside the room to make sure your stuff stays safe during the event. That being said, if you'd like to head off early, that's totally fine.
+
+#### Is there a limit on how many devices I can bring?
+
+While we don't have a hard limit on devices, we suggest that people are sensible about the devices they bring. If you're bringing a desktop, that should be plenty to bring with you. Outside of this, something like a laptop plus a console would be fine. ~~For obvious reasons, you can't bring an enterprise server to LAN.~~
+
+#### I still need help!
+
+No worries. Hop on our [Discord](https://discord.uwcs.co.uk) and ask any member of our current gaming exec team if there's anything else you'd like to know about LAN. I promise we won't bite. You can also send us an email at [gaming@uwcs.co.uk](mailto:gaming@uwcs.co.uk), or follow our [Instagram](https://www.instagram.com/warwickcompsoc/) for updates.
+
+In fact, Discord tends to be our best source of info regarding events in UWCS, so be sure to join to get the *very latest* updates on our various happenings!
+
+We look forward to seeing you at our next LAN!
