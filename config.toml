@@ -41,3 +41,7 @@ repo = "uwcs/new-site"
 cms_auth_url = "https://cms-auth.containers.uwcs.co.uk"
 academic_year = "23/24"
 room_links = true
+
+# Register on https://htmlcsstoimage.com
+htmltoimg_userid = "user"
+htmltoimg_apikey = "key"
