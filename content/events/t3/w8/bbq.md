@@ -1,9 +1,9 @@
 +++
 title = "The End of Year BBQ"
-date = "Thursday 6:00pm"
+date = "Thursday 6pm"
 
 [extra]
-end_time = "Late"
+end_time = "9pm"
 location = "CC2 BBQ"
 icon = "icons/bbq.svg"
 colour = "social"
