@@ -1,15 +1,33 @@
 +++
-title = "BBQ"
-date = "Thursday 7pm"
+title = "The End of Year BBQ"
+date = "Thursday 7pm-Late"
 
 [extra]
-end_time = "21:00"
+end_time = "Late"
 location = "CC2 BBQ"
 icon = "icons/bbq.svg"
 colour = "social"
+location_url = "https://maps.app.goo.gl/GNbpmkPrSX8pucpt8"
 
 [taxonomies]
 tags = ["BBQ"]
 +++
+# :hotdog::hamburger: **End of Term BBQ** :hamburger::hotdog:
+### :clock6: When: Thursday 13th W8 @ 6:00pm
+### :round_pushpin: Where: Claycroft BBQ Area 
 
-Exams are done, so free food. If you're attending (especially if you have diatary requirements), please fill out [https://forms.gle/bKJnvW3NrMJEL6sUA](https://forms.gle/bKJnvW3NrMJEL6sUA).
+We are kicking off the UWCS end of term socials with a bang, with the first and last BBQ of the year! Congratulations to everyone who's finished exams, now here's your reward (the best jokes of all time): :scream::scream: :scream:
+
+1. Lets all **meat** up :nerd:
+2. We got the **grill**, you bring the **thrill** :smile:
+3. **Steaks** are high and so is the fun, don't miss out :hotdog:
+
+~~Bad~~ Excellent jokes aside, there will be loads of free food, so there is actually no reason not to come. This will be held in the Claycroft BBQ area, found at this link:
+
+:round_pushpin:**https://maps.app.goo.gl/GNbpmkPrSX8pucpt8**
+
+If you are wanting to attend please fill in this form or have dietary requirements please fill out this form: 
+
+:clipboard:**https://forms.gle/bKJnvW3NrMJEL6sUA**
+
+**NOTE:** For any dietary requirements it is **PARAMOUNT** you fill out the form
