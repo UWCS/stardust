@@ -4,7 +4,7 @@ date = "Thursday 6pm"
 
 [extra]
 end_time = "9pm"
-location = "CC2 BBQ"
+location = "Claycroft BBQ Area"
 icon = "icons/bbq.svg"
 colour = "social"
 location_url = "https://maps.app.goo.gl/GNbpmkPrSX8pucpt8"
@@ -12,10 +12,6 @@ location_url = "https://maps.app.goo.gl/GNbpmkPrSX8pucpt8"
 [taxonomies]
 tags = ["BBQ"]
 +++
-# :hotdog::hamburger: **The End of Year BBQ** :hamburger::hotdog:
-### :clock6: When: Thursday 13th W8 @ 6:00pm
-### :round_pushpin: Where: Claycroft BBQ Area 
-
 We are kicking off the UWCS end of term socials with a bang, with the first and last BBQ of the year! Congratulations to everyone who's finished exams, now here's your reward (the best jokes of all time): :scream::scream: :scream:
 
 1. Lets all **meat** up :nerd:
