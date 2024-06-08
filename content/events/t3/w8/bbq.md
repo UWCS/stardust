@@ -1,6 +1,6 @@
 +++
 title = "The End of Year BBQ"
-date = "Thursday 7pm-Late"
+date = "Thursday 6:00pm"
 
 [extra]
 end_time = "Late"
@@ -12,7 +12,7 @@ location_url = "https://maps.app.goo.gl/GNbpmkPrSX8pucpt8"
 [taxonomies]
 tags = ["BBQ"]
 +++
-# :hotdog::hamburger: **End of Term BBQ** :hamburger::hotdog:
+# :hotdog::hamburger: **The End of Year BBQ** :hamburger::hotdog:
 ### :clock6: When: Thursday 13th W8 @ 6:00pm
 ### :round_pushpin: Where: Claycroft BBQ Area 
 
@@ -26,7 +26,7 @@ We are kicking off the UWCS end of term socials with a bang, with the first and 
 
 :round_pushpin:**https://maps.app.goo.gl/GNbpmkPrSX8pucpt8**
 
-If you are wanting to attend please fill in this form or have dietary requirements please fill out this form: 
+If you are wanting to attend please fill out this form, so we have a rough idea how much food to get:
 
 :clipboard:**https://forms.gle/bKJnvW3NrMJEL6sUA**
 
