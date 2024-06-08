@@ -20,10 +20,10 @@ We are kicking off the UWCS end of term socials with a bang, with the first and 
 
 ~~Bad~~ Excellent jokes aside, there will be loads of free food, so there is actually no reason not to come. This will be held in the Claycroft BBQ area, found at this link:
 
-:round_pushpin:**https://maps.app.goo.gl/GNbpmkPrSX8pucpt8**
+:round_pushpin:**[https://maps.app.goo.gl/GNbpmkPrSX8pucpt8](https://maps.app.goo.gl/GNbpmkPrSX8pucpt8)**
 
 If you are wanting to attend please fill out this form, so we have a rough idea how much food to get:
 
-:clipboard:**https://forms.gle/bKJnvW3NrMJEL6sUA**
+:clipboard:**[https://forms.gle/bKJnvW3NrMJEL6sUA](https://forms.gle/bKJnvW3NrMJEL6sUA)**
 
 **NOTE:** For any dietary requirements it is **PARAMOUNT** you fill out the form
