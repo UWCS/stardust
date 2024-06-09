@@ -6,7 +6,7 @@ draft = false
 [taxonomies]
 categories = ["Newsletter"]
 +++
-*Editor's note: Once again I am getting absolutely destroyed by exams once again, so this week we have another guest edition (this time from a math's student with a superiority complex!). I apologise in advance*
+*Editor's note: Once again I am getting absolutely destroyed by exams, so this week we have another guest edition (this time from a math's student with a superiority complex!). I apologise in advance*
 
 HELLOOO (fake, faker, and fakest) mathematicians, it is with great displeasure that I will be writing this weeks newsletter; so buckle up, get showered, put on deodorant, and enjoy.
 
