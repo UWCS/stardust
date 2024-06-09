@@ -32,7 +32,7 @@ Eat food at the Dirty Duck! Food good. Come with. Exam yuck; Food yum.
 #### 🕘Tuesday 11th June 5pm-9pm📍[CS0.06](https://campus.warwick.ac.uk/search/623c888a421e6f5928c0d038)
 #### *Nom nom nibble bite*
 
-ve literally not been here but ive heard there's free snacks if you come to work, so theres that! The coffee machine will be on free vend until 7, but don’t consume too much caffeine or you’ll get put in the naughty corner (cardiac arrest (but it’s okay, there’s welfare officers))… *Editor's note: Please don't give the welfare officers more work, they're bad enough with their own caffeine*
+I've literally not been here but ive heard there's free snacks if you come to work, so theres that! The coffee machine will be on free vend until 7, but don’t consume too much caffeine or you’ll get put in the naughty corner (cardiac arrest (but it’s okay, there’s welfare officers))… *Editor's note: Please don't give the welfare officers more work, they're bad enough with their own caffeine*
 
 --------------------------------------------------------------------------
 
