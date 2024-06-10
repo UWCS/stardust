@@ -7,7 +7,7 @@ tags = ["Talks"]
 
 [extra]
 end_time = "4pm"
-location = "BLT"
+location = "PLT"
 
 icon = "ph-microphone-stage"
 colour = "academic"
