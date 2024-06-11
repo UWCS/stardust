@@ -5,7 +5,7 @@ date = "Sunday 7pm"
 [extra]
 end_time = "23:59"
 location = "Leamington Spa"
-icon = "ph-tree-structure"
+icon = "ph-beer-stein"
 colour = "social"
 
 [taxonomies]

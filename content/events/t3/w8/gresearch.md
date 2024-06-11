@@ -9,7 +9,7 @@ tags = ["Talks"]
 end_time = "4pm"
 location = "PLT"
 
-icon = "ph-microphone-stage"
+icon = "/sponsors/silver/gresearch.png"
 colour = "academic"
 +++
 
