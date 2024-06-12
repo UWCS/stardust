@@ -2,8 +2,8 @@
 title = "Events Calendar"
 weight = 2
 sort_by = "weight"
-template = "events.html"
-page_template = "event.html"
+template = "events/events.html"
+page_template = "events/event.html"
 +++
 
 A pretty view view of our events, looks similar to our social posts.

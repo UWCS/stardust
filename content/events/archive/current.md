@@ -1,6 +1,6 @@
 +++
 title = "Past Events"
-template = "events_list.html"
+template = "events/events_list.html"
 
 [extra]
 archive = true
