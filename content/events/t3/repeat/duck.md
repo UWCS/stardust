@@ -4,11 +4,10 @@ date = "Monday 6pm"
 
 [extra]
 end_time = "8pm"
-location = "Dirty Duck"
-location_url = ""
+location = "The Dirty Duck"
 icon = "ph-hamburger"
 colour = "social"
-weeks = [2, 4, 6, 8, 10]
+weeks = [2, 4, 7, 8]
 
 [taxonomies]
 tags = ["Pub Meal"]

@@ -5,10 +5,10 @@ date = "Monday 6pm"
 [extra]
 end_time = "8pm"
 location = "Phantom Coach"
-location_url = ""
+location_url = "https://goo.gl/maps/wAptxmC4L7uajZEPA"
 icon = "ph-hamburger"
 colour = "social"
-weeks = [1, 3, 5, 7, 9]
+weeks = [1, 3, 5, 6, 9]
 
 [taxonomies]
 tags = ["Pub Meal"]
