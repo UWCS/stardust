@@ -13,8 +13,8 @@ tags = ["Traversal"]
 +++
 After the resounding success of the BBQ where you *very hungry people* consumed **80 burgers AND 80 hot-dogs** :scream::scream::scream: I've been given permission to run yet another Pub Traversal, this time in **Leamington Spa** (so RIP your wallets :money_with_wings: :money_with_wings: :money_with_wings:) and on a Sunday so you can cure your hangover from Skool Dayz with yet more alcohol. As a result we have prepared:
 ### The Ultimate ***Route***
-Now lets take some time to talk about the ultimate ***route***, this ***route*** is most certainly a ***route***, if God himself sat down and thought "let's devise a ***route*** to rule all ***routes***" then this ***route*** would certainly be that ***route***. Rest assured that you will not be disappointed with the ***route*** and that means you have no:
+Starting at 4:00pm in T-Bar followed by the 4:40 bus into Leamington where we have **8** pubs lined up, as it is a Sunday we are going to have to speed run the hell out of this and finish before the pubs all shut at 11pm, so it certainly will be a mental turn of events. Rest assured that you will not be disappointed with the ***route*** and that means you have no:
 ### Excuses :minibus: :minibus: :minibus: 
 Nick's impressive line: you have no excuse to ditch like your tinder date ditched you.
 
-**TDLR**: It's gonna be awesome, you got sweet FA to do on a Sunday so why not?
+**TLDR**: It's gonna be awesome, you got sweet FA to do on a Sunday so why not?
