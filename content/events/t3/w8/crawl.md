@@ -17,4 +17,4 @@ Now lets take some time to talk about the ultimate ***route***, this ***route***
 ### Excuses :middle_finger: :middle_finger: :middle_finger: 
 Now lets take some time to talk about excuses, you honestly have no excuse not to come, if you don't come that is boring, you don't want to be called boring, very bad! If like me you can't answer any of them then there really is no excuse this time. We expect everyone to be here, if you don't it will be good to remember that there is a circle next week so...**WATCH OUT!** 
 
-**TDLR**: It's gonna be awesome, you got sweet FA to do on a Sunday so why not?
+**TDLR**: It is gonna be awesome, you got sweet FA to do on a Sunday so why not?
