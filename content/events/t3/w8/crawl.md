@@ -3,8 +3,8 @@ title = "The Pub Traversal++"
 date = "Sunday 4pm"
 
 [extra]
-end_time = "23:59"
-location = "Leamington Spa"
+end_time = ""
+location = "T-Bar"
 icon = "ph-tree-structure"
 colour = "social"
 
