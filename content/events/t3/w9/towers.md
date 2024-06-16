@@ -1,9 +1,9 @@
 +++
 title = "Alton Towers Trip"
-date = "Tuesday"
+date = "Tuesday 7:45am"
 
 [taxonomies]
-tags = ["CompCafe"]
+tags = []
 
 [extra]
 location = "Alton Towers"
