@@ -103,4 +103,4 @@ Technical or not, if you’re interested in what we do, we’d love to see you a
 ### Our Sponsors
 We'd like to thank [our sponsors](@/sponsors/_index.md) for the current academic year.
 
-Our current constitution can be found [here](UWCS_Constitution_2223.pdf). 
+Our current constitution can be found [here](UWCS_constitution.pdf). 

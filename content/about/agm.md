@@ -110,7 +110,7 @@ Each position will be discussed in turn:
 
 Send the completed motion documents to `president@uwcs.co.uk` or to the President via discord. Motions require a seconder who is also a member of the society, so you can't just submit them on your own.
 
-[Current Constitution](../UWCS_constitution_23_24.pdf)
+[Current Constitution](../UWCS_constitution.pdf)
 
 [Motion Template](https://docs.google.com/document/d/1SvgtgYYuHPoti1gEcyHcsyNtp-4e-lssiEVDRJbfAkE/edit)
 
