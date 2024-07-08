@@ -11,7 +11,7 @@ In computing, the term "LAN" stands for Local Area Network. In our case, it refe
 
 ## Bringing a device
 
-> If at any point you plan to step away from your device during LAN, no matter for how long, please ensure you are able to lock it, as we cannot accept any liability for its security during the event.
+> We cannot accept any liability for the security of personal devices or their data at LAN, so if at any point you plan to step away from your device, no matter for how long, please ensure you use its screen lock, if possible.
 
 We welcome a wide range of devices at LAN, from gaming laptops, to consoles old and new, to gargantuan desktops! If you plan on bringing a device with you, be sure to let us know on the Discord, and we can give a helping hand and/or some general advice on getting your setup from your place to ours. You don't have to bring a device with you to join in on LAN, but as the saying goes, the more the merrier!
 
@@ -19,7 +19,7 @@ We'll provide cables for networking, i.e. Ethernet, but anything else you'll be 
 
 #### Got Desktop?
 
-We will typically aim to provide some sort of pick-up service to help you get to LAN. Please check the announcements on our Discord to check if we're offering this. Failing that, we provide desktop tower carrying cases, monitor bags and trolleys to help you out. No doubt you'll also want to bring a monitor too, but bear in mind you're limited to **one monitor per desktop or console unit**.
+We will typically aim to provide some sort of pick-up service to help you get to LAN. Please check the announcements on our Discord to check if we're offering this. Failing that, we provide desktop tower carrying cases, monitor bags and trolleys to help you out. No doubt you'll also want to bring a monitor too, but bear in mind you're limited to **one monitor per desktop or console unit**. Additionally, please don't bring speakers: we would instead recommend you bring headphones.
 
 ## What else to bring
 
@@ -33,7 +33,7 @@ We'll do our best to ensure there's something for everyone, so we'll haul over t
 
 We'll also have our own in-house music server, Amphi, running, where anyone in LAN can submit ~~audible horrors~~ their favourite music. Amphi was brought to life by none other than the amazing Alex Dixon (Yes, the same Alex who teaches CS141)!
 
-> As a quick aside, we typically provide a small array of snacks every once in a while, and might (just might!) get pizza for everyone at some point.
+Lastly, we typically provide a small array of snacks at least once across the event, and might (just might!) get pizza for everyone at some point.
 
 ## What we do
 
@@ -41,23 +41,23 @@ First and foremost, **we game.** And we eat our fair share of junk food.
 
 But we also host special events throughout the LAN which aim to get anyone and everyone involved. Here's what you can expect from a typical LAN...
 
-- **Jackbox** - A series of ridiculously hilarious games where your phone is the controller. It truly brings out the ~~worst~~ best in people.
-
 - **Tournaments** - From Mario Kart to Super Smash Bros, put your skills to the test!
 
 - **Film Nights** - Why not take a break from gaming, sit down, and watch a couple of classic films?
 
-- **Quizzes** - Typically we host our last quiz social in our Term 3 LAN. Usual deal: Teams of four, five-or-so rounds, ideally get as many questions right as possible.
+- **Quizzes** - Teams of four, five-or-so rounds, ideally get as many questions right as possible.
 
 - **Society Collabs** - We've done Smash with NinSoc, Ultra Hardcore Minecraft with MineSoc... the list goes on!
 
-But this is not an exhaustive list. Be sure to check our schedule to see what ~~insane~~ exciting events we've got going on!
+But this is not an exhaustive list. Be sure to check our schedule to see what exciting events we've got going on!
 
 ## Where we LAN
 
 Typically, **LIB2** at the Library is our go-to spot for LAN. We understand that most people aren't familiar with this room's whereabouts, so we'll do our best to explain. First, be sure to check its location on [campus.warwick.ac.uk](https://campus.warwick.ac.uk/search/623c88f2421e6f5928c0e4ec?projectId=warwick).
 
-Facing the front of the library builing, go down to the left side, closer to the Faculty of Arts Building. Enter the building through the door towards the back, and go straight down the corridor. Congrats! You've just made it to LAN!
+Facing the front of the library builing, go down to the right side, past the Café. You'll see a sliding door with a card reader, so you'll need your Student ID card to enter. Once you're inside, go through the left-hand set of doors, then straight ahead. Congrats! You've just made it to LAN!
+
+> Note: The door to LIB2 will reject your card after 10pm. Don't worry if this happens, there will be at least one exec member available to let you in, just let us know you're here on our discord.
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,11 @@ Nope! Feel free to head out if and when you need to eat, sleep, or just go outsi
 
 #### Is there a limit on how many devices I can bring?
 
-While we don't have a hard limit on devices, we suggest that people are sensible about the devices they bring. If you're bringing a desktop, that should be plenty to bring with you. Outside of this, something like a laptop plus a console would be fine. ~~For obvious reasons, you can't bring an enterprise server to LAN.~~
+While we don't have a hard limit on devices, we suggest that people are sensible about the devices they bring. We would recommend *one* computer or console, plus a monitor, hence using two sockets.
+
+#### Can I bring an extension cord?
+
+Yes, but please only use it on the outlets on the walls of the room. DO NOT plug extension cords into the electrical leads coming down from the ceiling, as these are not designed to handle them, and doing so could lead to potential fire risk. These should provide more than enough plugs anyway.
 
 #### I still need help!
 
