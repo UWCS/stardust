@@ -3,19 +3,26 @@
 The new, improved and, most importantly, simplified website for the 23/24 academic year. It's a static site generated with [Zola](https://www.getzola.org/), why not something more standard? I'd prefer not to deal with Ruby (or Go, when Rust is an option 🎆). Zola uses [Tera](tera.netlify.app/) as a template engine, which is very similar to Jinja or every other template engine. All the content is written in [Markdown](https://www.markdownguide.org/basic-syntax/), and we have the option to write content using any old editor and Git or with [Decap CMS](https://decapcms.org/) (formerly Netlify CMS) at https://new.uwcs.co.uk/admin/ . We have a GitHub Action setup to automatically rebuild the site on any pushes to `master`.
 
 ## Installation
+### On Hopper / NixOS
+1. Install Custom Zola: `nix profile install github:UWCS/stardust`
+2. Follow steps for All Platforms
 
+### Other Platform
 1. Install my fork of Zola:
     - Run script `install-linux.sh`, `install-windows.ps1` or `install-mac-m1.sh` to download and install prebuilt releases of (my fork of) Zola
     - If this doesn't work, install Rust (see [rustup.rs](https://rustup.rs/)) then run/follow `install-source.sh` 
         - (script may change by OS, but clone then build should always work, even if release build may take a while)
     - If you get **errors about missing square root**, you are running standard Zola, **not this fork.**
-3. Clone this repo (with submodules) `git clone --recurse-submodules`
-4. Run Zola with `zola serve` in project root
+2. Follow steps for All Platforms
+
+### All Platforms
+2. Clone this repo (with submodules) `git clone --recurse-submodules`
+3. Run Zola with `zola serve` in project root
     - This rebuilds the website on changes, and serves it at http://127.0.0.1:1111 (view in browser)
     - This has occasionally caused problems, if it does replace it with:
         - `python3 -m http.server --directory public -b 127.0.0.1 1111 > web.log &`
         - then run `zola build --base-url http://127.0.0.1:1111` on any changes
-5. Write some Markdown in `content/`!
+4. Write some Markdown in `content/`!
 
 Note, if you want to build the full site (including the archive), comment out `"**/archive/*"` in `ignored_content` in `config.toml`, but **DO NOT COMMIT THIS**. Adding 3k pages does up the build time a fair bit.
 
