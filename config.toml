@@ -39,7 +39,7 @@ paths_keep_dates = true
 
 repo = "uwcs/new-site"
 cms_auth_url = "https://cms-auth.containers.uwcs.co.uk"
-academic_year = "23/24"
+academic_year = "24/25"
 room_links = true
 
 # Register on https://htmlcsstoimage.com
