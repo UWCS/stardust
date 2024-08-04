@@ -9,7 +9,7 @@ tags = ["Welcome Week"]
 end_time = "5pm"
 location = "CS1.04"
 
-icon = "ph-picnic-table"
+icon = "ph-microphone-stage"
 colour = "academic"
 +++
 

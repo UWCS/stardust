@@ -9,8 +9,8 @@ tags = ["Welcome Week"]
 end_time = "3pm"
 location = "Windmill Hill"
 
-icon = "ph-microphone-stage"
-colour = "wildcards"
+icon = "ph-picnic-table"
+colour = "inclusivity"
 +++
 
 ** This event is aimed towards our Women and Non-binary members **
