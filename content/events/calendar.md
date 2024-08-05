@@ -2,7 +2,7 @@
 title = "Events Calendar"
 weight = 2
 sort_by = "weight"
-template = "events.html"
+template = "events/events.html"
 page_template = "event.html"
 +++
 

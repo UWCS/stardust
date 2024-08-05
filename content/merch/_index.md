@@ -2,8 +2,8 @@
 title = "Merch"
 weight = 8
 sort_by = "weight"
-template = "merch.html"
-page_template = "merch_page.html"
+template = "merch/merch.html"
+page_template = "merch/merch_page.html"
 
 [extra]
 hide = true
