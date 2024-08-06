@@ -1,4 +1,4 @@
 +++
 title = "Events ICal"
-template = "events.ical"
+template = "events/events.ical"
 +++

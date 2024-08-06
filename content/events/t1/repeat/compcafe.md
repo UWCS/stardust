@@ -10,7 +10,7 @@ end_time = "21:00"
 location = "CS0.06"
 
 icon = "ph-coffee"
-colour = "academic"
+colour = "compcafe"
 +++
 
 𝚢𝚘𝚞 𝚙𝚛𝚘𝚋𝚊𝚋𝚕𝚢 𝚑𝚊𝚟𝚎 𝚜𝚘𝚖𝚎 𝚠𝚘𝚛𝚔, 𝚜𝚘 𝚠𝚑𝚢 𝚗𝚘𝚝 𝚍𝚘 𝚒𝚝 𝚠𝚒𝚝𝚑 𝚏𝚛𝚎𝚎 𝚜𝚗𝚊𝚌𝚔𝚜!
