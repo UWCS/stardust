@@ -13,7 +13,7 @@ icon = "icons/fng.svg"
 colour = "gaming"
 +++
 
-The Friday night fun begins!
+The Friday night fun continues!
 
 We have a huge selection of fun activities for you to choose from, so come along for a great night :)
 

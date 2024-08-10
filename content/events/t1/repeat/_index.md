@@ -1,8 +1,8 @@
 +++
 template = "events/event_week.html"
 
-title = "Week 1"
+title = "Repeat Events"
 
 [extra]
-base_date = "2023-10-02"
+base_date = "2024-04-15"
 +++

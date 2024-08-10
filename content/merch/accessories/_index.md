@@ -1,7 +1,7 @@
 +++
 title = "Accessories"
 weight = 1
-template = "merch_cat.html"
+template = "merch/merch_cat.html"
 sort_by = "weight"
 
 [extra]
