@@ -1,10 +1,11 @@
 +++
-title = "Inclusivity Officers"
+title = "Inclusivity Officer"
 weight = 6
 date = "1970-01-01"
 
 [extra]
 people = ["Harmony Bouabid", "Poppy Wallis", "Alysha Kuruparan"]
+plural = "Inclusivity Officers"
 email = "inclusivity@uwcs.co.uk"
 +++
 

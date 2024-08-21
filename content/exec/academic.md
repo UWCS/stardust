@@ -1,10 +1,11 @@
 +++
-title = "Academic Coordinators"
+title = "Academic Coordinator"
 weight = 4
 date = "1970-01-01"
 
 [extra]
 people = ["Ed Denton", "Josh Sands", "Louis Tanak"]
+plural = "Academic Coordinators"
 email = "academic@uwcs.co.uk"
 +++
 
