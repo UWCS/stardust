@@ -5,6 +5,7 @@ date = "1970-01-01"
 
 [extra]
 people = ["Alia Meek"]
+plural = "Presidents"
 email = "president@uwcs.co.uk"
 +++
 

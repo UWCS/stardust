@@ -1,10 +1,11 @@
 +++
-title = "Fresher Reps"
+title = "Fresher Rep"
 weight = 10
 date = "1970-01-01"
 
 [extra]
-people = ["Rowan Shields", "Nick Mason-Apps"]
+people = ["TBD"]
+plural = "Fresher Reps"
 email = "frep@uwcs.co.uk"
 +++
 

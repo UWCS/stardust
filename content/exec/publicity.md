@@ -1,10 +1,11 @@
 +++
-title = "Publicity Officers"
+title = "Publicity Officer"
 weight = 8
 date = "1970-01-01"
 
 [extra]
 people = ["Harmony Bouabid", "Lewis Parry"]
+plural = "Publicity Officers"
 email = "publicity@uwcs.co.uk"
 +++
 

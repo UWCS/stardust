@@ -1,10 +1,11 @@
 +++
-title = "Treasurers"
+title = "Treasurer"
 weight = 3
 date = "1970-01-01"
 
 [extra]
 people = ["Joshua Fitzmaurice", "Jasmine Tan"]
+plural = "Treasurers"
 email = "treasurer@uwcs.co.uk"
 +++
 

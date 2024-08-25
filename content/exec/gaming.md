@@ -1,10 +1,11 @@
 +++
-title = "Gaming Coordinators"
+title = "Gaming Coordinator"
 weight = 5
 date = "1970-01-01"
 
 [extra]
 people = ["Finn McGoldrick", "Rohan Tantepudi", "Krister Hughes"]
+plural = "Gaming Coordinators"
 email = "gaming-coordinator@uwcs.co.uk"
 +++
 
