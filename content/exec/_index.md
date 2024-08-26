@@ -4,6 +4,10 @@ weight = 6
 template = "contact.html"
 sort_by = "weight"
 generate_feed = true
+
+[extra]
+multiple_roles = { "Harmony Bouabid" = ["Publicity Officer", "Inclusivity Officer"] }
+
 +++
 
 {% note() %}
