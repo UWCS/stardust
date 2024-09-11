@@ -19,7 +19,7 @@ Treasurer - Josh Fitz, Jasmine Tan
 Social - Nicholas Mason-Apps & Rowan Shields​, Joshua Rawlings & Oliver Cordeaux  
 Gaming - Finn McGoldrick   
 Inclusivity - Harmony Bouabid, Poppy Wallis & Alysha Kuruparan  
-Welfare - Jensen Taylor, Serene Alrawi  
+Welfare - Raven Taylor, Serene Alrawi  
 Tech - Joel Coulon, Josh Heng, Adam Skrzymowski & Alex Wright, and Ali Aljeshi  
 Academic - Ed Denton, Josh Sands, and Louis Tanak  
 Publicity - Harmony Bouabid, Lewis Parry  

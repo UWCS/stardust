@@ -4,7 +4,7 @@ weight = 9
 date = "1970-01-01"
 
 [extra]
-people = ["Jensen Taylor", "Serene Alrawi"]
+people = ["Raven Taylor", "Serene Alrawi"]
 plural = "Welfare Officers"
 email = "welfare@uwcs.co.uk"
 +++
