@@ -2,15 +2,14 @@
 title = "Git Good Talk"
 date = "Wed 3pm"
 
-[taxonomies]
-tags = ["Welcome Week"]
-
 [extra]
 end_time = "5pm"
-location = "CS1.04"
-
+location = "FAB0.03"
 icon = "ph-microphone-stage"
 colour = "academic"
+
+[taxonomies]
+tags = ["Welcome Week"]
 +++
 
 Hear about our lord and saviour, Version Control.
