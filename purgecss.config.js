@@ -3,5 +3,6 @@ module.exports = {
   css: ['*.css'],
   output: ['.'],
   dynamicAttributes: ["data-bs-theme", "aria-expanded"],
-  safelist: [/day-2/, /day-3/]
+  safelist: [/day-2/, /day-3/],
+  whitelistPatterns: [/show/]
 }
