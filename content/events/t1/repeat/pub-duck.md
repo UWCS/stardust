@@ -1,9 +1,9 @@
 +++
 title = "Pub Meal"
-date = "Monday 6pm"
+date = "Monday 7pm"
 
 [extra]
-end_time = "8pm"
+end_time = "9pm"
 location = "The Dirty Duck"
 icon = "ph-hamburger"
 colour = "social"
