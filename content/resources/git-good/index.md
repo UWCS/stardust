@@ -1,9 +1,9 @@
 +++
-title = "Git Good 2023"
-date = "2023-10-02"
+title = "Git Good"
+date = "2024-10-04"
 +++
 
-A combination of a talk (presented by Edmund Goodman in 2023, previously by Sam Coy) and a workshop to get you up to speed with Git, so you can avoid the inevitable accidental deletion of coursework!
+A combination of a talk (presented by Joel Coulon in 2024, previously by Sam Coy & Edmund Goodman) and a workshop to get you up to speed with Git, so you can avoid the inevitable accidental deletion of coursework!
 <!-- more -->
 
 # Talk
@@ -12,11 +12,11 @@ A combination of a talk (presented by Edmund Goodman in 2023, previously by Sam 
 
 Embedded below you can find the slides from this year's talk:
 
-{{ pdf(pdf="/resources/git-good/git_good_2023.pdf") }}
+{{ pdf(pdf="/resources/git-good/git_good_2024.pdf") }}
 
 ## Recording
 
-Unfortunately, we weren't able to record the talk this year. Luckily, we do have a recording from last year as presented by Sam Coy, which is embedded below!
+Unfortunately, we weren't able to record the talk this year, due to audio corruption. Luckily, we do have a recording from 2022 as presented by Sam Coy, which is embedded below!
 
 {{ youtube(id="R__mSq-aGyQ") }}
 
@@ -28,11 +28,11 @@ As with all practical skills, using Git is best developed through practice. You'
 
 Open up a terminal. We're going to do as much as we can from the command line so you can get a bit of practice with it. Create a new directory called `git-good` with `mkdir`, change directory into it using `cd`, and then use `git init` to make it a repository.
 
-![](git-init.png)
+![git-init](git-init.png)
 
 The command `git status` will tell you about the current state of your repository. Run it, and your output should look as shown. We're on the default branch (if it is master, run `git branch -m main` to rename it), and we have no commits and nothing to commit (the folder is empty).
 
-![](git-status.png)
+![git-status](git-status.png)
 
 ## Git commit
 
@@ -63,7 +63,7 @@ Then, once we're happy with the state of the staging area, we can create a new c
 git commit -m "Initial commit, added FibonacciCalculator class."
 ```
 
-![](git-commit.png)
+![git-commit](git-commit.png)
 
 Take note of how the output of `git status` changes between each command. If this is your first time using Git on this machine, it may prompt you to set your name and email address in settings before you can make commits. This is so it can attach your identity to the commit messages. Run the two commands below to do that, substituting your name and email, then create the commit.
 
@@ -112,7 +112,7 @@ public class Fibonacci {
 
 Compile both files with `javac`, and have a play around generating sequences with `java Fibonacci <n>`
 
-![](fibonacci.png)
+![fibonacci-java](fibonacci.png)
 
 Follow the same steps as before to create a new commit to add `Fibonacci.java`:
 
@@ -130,13 +130,13 @@ If you run `git status` now, you will see that you still have two untracked file
 
 `.gitignore` uses [glob syntax](https://git-scm.com/docs/gitignore) to specify what files to ignore, allowing you to add patterns such as our wildcard pattern for all files with names ending `.class`. You will have to commit the `.gitignore` file, however, so go through the same steps as before to add and then commit it.
 
-![](git-ignore.png)
+![git-ignore](git-ignore.png)
 
 ## Git log
 
 We have created three commits in total now, which we may want to browse at some point to see what we or other people have done. We can use `git log` to view the commit history of our branch:
 
-![](git-log.png)
+![git-log](git-log.png)
 
 The top commit marked (HEAD -> main) shows where our branch is currently at. This commit history shows a lot of info, and we can customise what is shown using options passed to `git log`. Commit histories can be thousands of commits in some repos, so the output is piped into a pager, which allows you to scroll through Take a look at [the man pages](https://git-scm.com/docs/git-log) for full details, but you can just try Sam's favourite options for now:
 
@@ -144,7 +144,7 @@ The top commit marked (HEAD -> main) shows where our branch is currently at. Thi
 git log --color --oneline --graph --decorate --all
 ```
 
-![](git-log-2.png)
+![git-log-2](git-log-2.png)
 
 ## Git checkout
 
@@ -152,7 +152,7 @@ So we can see the commit history, what if we wanted to go and check out previous
 
 Have a browse of your commit history by jumping to different commit hashes. The commit hash for your own commits will be different to the ones shown in my screenshots, so you'll need to use those. You don't need the full hash, just the first 4/5 characters will do it (until there is a unique match).
 
-![](git-checkout.png)
+![git-checkout](git-checkout.png)
 
 Jumping back to a previous commit shows us where our `HEAD` is in the log, and shows the status as `HEAD detached`. The `.gitignore` and `Fibonacci.java` files are gone from the directory, because they weren't present in this commit.
 
@@ -181,17 +181,17 @@ public class FibonacciCalculator {
 
 The new calculate method is just a wrapper for `fib`, the new recursive method which has only a single recursive call instead of two, making it much faster. Create a new commit to update `FibonacciCalculator.java`.
 
-![](git-reset-1.png)
+![git-reset](git-reset-1.png)
 
 If you copy-pasted the above code and tried to compile the file, you will notice that there has been a drastic mistake. Somehow, one of the semicolons has gone missing. How ridiculous! We need to move our branch back one commit to remove this very embarrassing mistake from the commit history.
 
 `git reset` is similar to git checkout, but allows us to make more permanent changes to the commit history. As well as moving the `HEAD` pointer, it moves the current branch pointer with it. Run the command `git reset HEAD~1` to move undo that commit.
 
-![](git-reset-2.png)
+![git-reset-2](git-reset-2.png)
 
 Using `git reset` like this has left the changes in place, so we can just go into the file and add our semicolon. Add the changes and commit, as before. Have a look at your new commit history, and we can see that the old commit with the error has gone.
 
-![](git-reset-3.png)
+![git-reset-3](git-reset-3.png)
 
 Note how the commit hash and message have changed? It's an entirely different commit, that we checked worked before we committed it. You should always test your code _before_ you commit!
 
@@ -205,7 +205,7 @@ Go back to your terminal, where we're going to add GitHub as a remote for our lo
 
 The command `git remote add origin https://github.com/<username>/git-good` will add the GitHub repo as a remote repo named `origin` . Then, run `git push -u origin main` to move (`push`) your changes onto the remote `origin`. `origin/main` is used to refer to the remote copy (on `origin`) of the local branch `main` . This makes`origin/main` 'track' your `main` branch. `origin` is the name usually given to the remote, as it is often where the repo *origin*ates from.
 
-![](git-remote.png)
+![git-remote](git-remote.png)
 
 Git might prompt you for a username and password to be able to push to your remote repo. The username is the email address you log in with, and for the password you'll need a [Personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
@@ -221,7 +221,7 @@ Our new branch is going to be called `iterator`, because we're going to add an a
 
 First, run `git checkout -b iterator` to create and then switch to a new branch, `iterator` (this is just a different way to do `git branch iterator` followed by `git switch iterator` as we saw in the talk). If you run `git log --oneline --all --graph`, you'll see main, our new branch, and the remote branch all point to the same commit. More importantly, `HEAD` is now pointing to the branch `iterator`, meaning new commits will be added to this branch.
 
-![](git-branch.png)
+![git-branch](git-branch.png)
 
 Create the new `FibonacciGenerator.java` file:
 
@@ -282,11 +282,11 @@ Then, making sure you're on the iterator branch, make a new commit with these ch
 
 You might want to work on your new feature later elsewhere, so let's push the branch to GitHub. Each branch has to be pushed separately, and when you first push a branch you have to include the `-u` flag to create the upstream (remote) branch. `git push -u origin iterator` will push the iterator branch to origin.
 
-![](git-branch-2.png)
+![git-branch-2](git-branch-2.png)
 
 Your branch should now be visible on GitHub, and you can view the different branches using the dropdown menu to the top-left of the files:
 
-![](github-branches.png)
+![github-branch](github-branches.png)
 
 Run `git checkout main` to switch back to the main branch.
 
@@ -298,11 +298,11 @@ Have you noticed a subtle bug in our implementations? See what happens if you ru
 
 Check your git log now. You should be able to see your two branches with diverging commit histories, and be able to switch between them and the two versions of the code.
 
-![](git-merge-1.png)
+![git-merge](git-merge-1.png)
 
 We've decided now that the iterator branch is done, and we want to update main to include the changes we made. Git lets us do this using `git merge`, which copies the changes from one branch into another, combining their changes. Merging gets really complicated when you have lots of commits to merge or conflicting changes, but we'll keep it simple for now. Making sure you're on main and that your working tree is clean (nothing modified), run `git merge iterator` to merge iterator *into the current branch*. Git might prompt you to enter a commit message, in which case just leave it as the default.
 
-![](git-merge-2.png)
+![git-merge-2](git-merge-2.png)
 
 See the little graph in the git log? The `main` branch is now on our new merge commit, which combines the two previous commits into a new commit with both sets of changes. Take a look at your code to see how the merge has been applied, and check the bug has been fixed along with using the new iterator method for the sequence.
 
@@ -312,7 +312,7 @@ You can push your updated `main` branch up to GitHub with `git push`. We won't b
 
 You might notice GitHub asking you to add a README:
 
-![](github-readme.png)
+![readme](github-readme.png)
 
 READMEs are files that are displayed on your repo's homepage, and are designed to tell users about the repo, along with any instructions on how to install/compile/use/configure your software. Let's go ahead and do that. Click that big green button, and add the following contents to the file:
 
@@ -338,11 +338,11 @@ READMEs on GitHub are usually formatted with Markdown, a lightweight syntax for 
 
 Commit the changes directly to `main` using the options at the bottom of the page, and you should see your lovely readme rendered on your repo's homepage.
 
-![](github-commit.png)
+![github-commit](github-commit.png)
 
 Go back to your terminal, and have a look at your repo again. `README.md` was committed to the remote, but your local has not yet been updated to reflect the change. Use `git pull` to update `main` by fetching all the changes from the remote and merging them into your local `main`. `README.md` should appear in your local repo.
 
-![](git-pull.png)
+![git-pull](git-pull.png)
 
 ## Git with friends
 
@@ -363,11 +363,11 @@ Let's get some practice by making a pull request on someone else's repo. What's 
 
 Find a friend (talk to someone sat next to you, ask on discord our use [our repo](https://github.com/UWCS/git-good)), and ask them for a link to their GitHub repo with their Git Good code from this workshop stored in it. Use the fork button in the top right of their repo to fork it, which creates a copy of your friend's repo under your name. **Give the fork a different name to your own `git-good` repo**, because you can't have two repos with the same name.
 
-![](github-fork.png)
+![github-fork](github-fork.png)
 
 Go back to your terminal, and run `git clone https://github.com/<your username>/<forked repo name>`. This downloads the fork to your local machine, creating a local repo that you can push to your fork from. We want to create a new branch to commit our changes to, so create a branch for our changes called `patch-overflow` with `git checkout -b`.
 
-![](pr-1.png)
+![pr-1](pr-1.png)
 
 We want to go into `FibonacciGenerator.java` and change some of the types `int` to `long`, and `Integer` to `Long`. `Long` types are 64 bits instead of 32, so will allow us to generate even larger numbers. Note that this won't fix the problem completely, it will just overflow at 96 now instead of 48. See if you can work out which variables need changing yourself, but the full changed file is shown below if you get stuck.
 
@@ -408,15 +408,15 @@ public class FibonacciGenerator implements Iterator<Long> {
 
 Make the change, then make a new commit on the `patch-overflow` branch with an appropriate commit message for your friend to see what you've done to their code. Push the change to your fork using `git push -u origin patch-overflow`.
 
-![](pr-2.png)
+![pr-2](pr-2.png)
 
 We're done on our machine now, back to GitHub. Go to your friend's repo, and click on the pull requests tab at the top. You should see something like this, showing you that your repo had recent pushes and suggesting you open a PR.
 
-![](pr-open.png)
+![pr-open](pr-open.png)
 
 Click the big green button, and you should be able to see a page with all the info for your pull request. You can add a comment, change the repos/branches, and see the diff at the bottom. GitHub is really good at showing diffs, summarising changes between versions of files.
 
-![](pr-diff.png)
+![pr-diff](pr-diff.png)
 
 Create the pull request with the big green button again, and your new pull request should appear in your friend's repo, where you can both see the PR with the commits, changes made, any comments and messages etc. Ask your friend very nicely to accept your PR, and GitHub will merge the branch from your fork into their `main` branch. Your changes are now part of their repo, and they can pull them down to their local repo with `git pull`, and try out your patch.
 
