@@ -8,7 +8,7 @@ if [ -z $NO_PULL ]; then git pull --recurse-submodules; fi
 # Build draft
 sed -i 's/# DRAFT//g' config.toml
 ./zola build --drafts --base-url https://draft.uwcs.co.uk --output-dir ../draft --force
-./zold build --drafts --base-url https://sponsors.uwcs.co.uk --output-dir ../sponsors --force
+./zola build --drafts --base-url https://sponsors.uwcs.co.uk --output-dir ../sponsors --force
 
 git restore config.toml
 
