@@ -7,7 +7,7 @@ end_time = "9pm"
 location = "The Dirty Duck"
 icon = "ph-hamburger"
 colour = "social"
-weeks = ["w2", "w3", "w5", "w7", "w9"]
+weeks = ["w2", "w4", "w6", "w8"]
 
 [taxonomies]
 tags = ["Pub Meal"]
