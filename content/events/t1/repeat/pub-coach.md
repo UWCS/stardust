@@ -8,12 +8,9 @@ location = "Phantom Coach"
 location_url = "https://goo.gl/maps/wAptxmC4L7uajZEPA"
 icon = "ph-hamburger"
 colour = "social"
-weeks = ["w1", "w4", "w6", "w8"]
+weeks = ["w1", "w3", "w5", "w7", "w9"]
 
 [taxonomies]
 tags = ["Pub Meal"]
 +++
-
 Every Monday we go to one of the local pubs for some socializing and some food!
-
-*We will be meeting at DCS at 5:45, so meet us there if you'd like and we can walk over together.*
