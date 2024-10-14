@@ -1,5 +1,5 @@
 +++
-title = "LaTeX Collab"
+title = "LaTeX Workshop"
 date = "Wednesday 5pm"
 draft = false
 
