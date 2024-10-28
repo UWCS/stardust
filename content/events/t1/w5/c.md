@@ -7,7 +7,7 @@ tags = ["C"]
 
 [extra]
 end_time = "19:00"
-location = "TBC"
+location = "CS0.06"
 
 icon = "ph-file-c"
 colour = "academic"
