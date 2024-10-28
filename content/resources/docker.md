@@ -10,7 +10,7 @@ We’re going to make a super simple web API using Python and Flask, containeris
 ## A Python Project
 Login to the DCS machines, open your web browser of choice, go to [GitHub](https://github.com/) and create a new repo called `my-flask-app`, this can be either public or private it doesn't matter (a private repo does require some more effort). Leave the repo blank and create it. Copy the URL in the address bar. In the terminal, clone your repo with `git clone <repo url>`, and then `cd` into it (if your repo is private you will need to follow the [token](https://uwcs.co.uk/resources/github-token-authentication/) steps early).
 
-We’re going to use [pipenv](https://pipenv.pypa.io/en/latest/) to create a new python project. Pipenv manages dependencies and virtual environments for us, making it much more ergonomic than just using pip and virtualenvs manually. Double check you're in your app's direcoty and install pipenv with `python3.9 -m pip install --user pipenv`.  You can then invoke pipenv with `python3.9 -m pipenv <subcommand>`. Add [Flask](https://flask.palletsprojects.com/en/2.2.x/) to your project with `python 3.9 -m pipenv install flask` (make sure you are installing with pipenv otherwise things will break further down the line).
+We’re going to use [pipenv](https://pipenv.pypa.io/en/latest/) to create a new python project. Pipenv manages dependencies and virtual environments for us, making it much more ergonomic than just using pip and virtualenvs manually. Double check you're in your app's directory and install pipenv with `python3.9 -m pip install --user pipenv`.  You can then invoke pipenv with `python3.9 -m pipenv <subcommand>`. Add [Flask](https://flask.palletsprojects.com/en/2.2.x/) to your project with `python 3.9 -m pipenv install flask` (make sure you are installing with pipenv otherwise things will break further down the line).
 
 There’s another dependency that we’ll need later on as well: [gunicorn](https://gunicorn.org/). Gunicorn is a Python HTTP server, and will serve our Flask app for us: `python3.9 -m pipenv install gunicorn`.
 
@@ -247,14 +247,14 @@ Fill out the details to use your image to start a new container. This screen is 
 - Name your container something unique and identifiable
 - Change the registry to `GitHub` (if this is not an option then select "Advanced mode" and type `ghcr.io/` into the registry field)
 - Set the image to `<your github name>/<your repo name>:latest`
-- Manuallu publish a network port (host should be a unique random port from 1000-8080 (6969 is taken), container should be 8080)
+- Manually publish a network port (host should be a unique random port from 1000-8080 (6969 is taken), container should be 8080)
 - Scroll down to advanced
 - Override the command with `'/bin/sh' '-c' 'gunicorn app:app -b 0.0.0.0:8080'`
-- Click on Env and at the enviroment variable `VIRTUAL_HOST` with the value being the name of your container for example `my-flask-app` (this needs to be unique so don't use `my-flask-app`)
+- Click on Env and add the environment variable `VIRTUAL_HOST` with the value being the name of your container for example `my-flask-app` (this needs to be unique so don't use `my-flask-app`)
 
 Start your container and it should pull your image and spin up. If it doesn't work then you're probably trying to use a port that someone else is already using on the host, so try another one. You should be able to see your running container. Try accessing the logs, and you can even start a new shell within it by clicking 'console' under 'container status'.
 
-Head to `https://<VIRTUAL_HOST>.containers.uwcs.co.uk>` and your app should be accessible from the outside world!
+Head to `<https://<VIRTUAL_HOST>.containers.uwcs.co.uk>` and your app should be accessible from the outside world!
 
 ---
 
