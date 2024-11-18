@@ -23,7 +23,7 @@ If you need any support, you can reach out to our welfare officers on Discord: S
 Unfortunately we won't be able to have another **mega mixed grill** table this week (smash burger table instead?!?!) but come along to **The Dirty Duck** this Monday to yap with us after a *very long day*.
 
 --------------------------------------------------------------------------
-# [🗣️ Interview Workshop 🗣️]()
+# 🗣️ Interview Workshop 🗣️
 
 #### 🕘 Tuesday 19th November 6pm 📍[CS1.04](https://campus.warwick.ac.uk/search/623c888b421e6f5928c0d062?projectId=warwick)
 #### *Please give me an internship please please please*
@@ -50,7 +50,7 @@ You can either meet us at the *track itself at 5:40pm* or at the *bus interchang
 Take a *break* at the end of this week with some gaming at FNG. <3
 
 --------------------------------------------------------------------------
-# [🏳️‍🌈 Gender Minority Games Night 🏳️‍🌈]()
+# 🏳️‍🌈 Gender Minority Games Night 🏳️‍🌈
 
 #### 🕘 Saturday 23rd November 7pm - 10pm📍[CS0.03](https://campus.warwick.ac.uk/search/623c888a421e6f5928c0d02a?projectId=warwick)
 #### *Did FNG not fill your weekly thirst for gaming?*
@@ -60,7 +60,7 @@ We're running a chill games night as a collaboration with **The Pack**. We're go
 This is a great chance to meet new people so do come and drop by :)
 
 --------------------------------------------------------------------------
-# [🖥️ CS260 Class Test Revision Session 🖥️]()
+# 🖥️ CS260 Class Test Revision Session 🖥️
 
 #### 🕘 Saturday 23rd November 5pm - 7pm 📍[MS.04](https://campus.warwick.ac.uk/search/623c88a4421e6f5928c0d522?projectId=warwick)
 #### *Can you prove that P = NP? No? You're COOKED buddy.*
