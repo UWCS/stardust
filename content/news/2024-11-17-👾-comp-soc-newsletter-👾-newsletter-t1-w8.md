@@ -23,7 +23,7 @@ If you need any support, you can reach out to our welfare officers on Discord: S
 Unfortunately we won't be able to have another **mega mixed grill** table this week (smash burger table instead?!?!) but come along to **The Dirty Duck** this Monday to yap with us after a *very long day*.
 
 --------------------------------------------------------------------------
-# 🗣️ Interview Workshop 🗣️
+# [🗣️ Interview Workshop 🗣️]()
 
 #### 🕘 Tuesday 19th November 6pm 📍[CS1.04](https://campus.warwick.ac.uk/search/623c888b421e6f5928c0d062?projectId=warwick)
 #### *Please give me an internship please please please*
