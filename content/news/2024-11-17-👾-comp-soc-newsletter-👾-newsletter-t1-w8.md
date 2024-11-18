@@ -68,7 +68,7 @@ This is a great chance to meet new people so do come and drop by :)
 Just kidding. We are going to run an **informal** revision session where we prepare for the **CS260** class test together. Come and get some practice!
 
 --------------------------------------------------------------------------
-# [🏸 Sports Sunday - Badminton 🏸]()
+# 🏸 Sports Sunday - Badminton 🏸
 
 #### 🕘 Sunday 24th November 3pm 📍[Westwood Games Hall](https://campus.warwick.ac.uk/search/623c8861421e6f5928c0c838?projectId=warwick)
 #### *I put the bad in badminton*
