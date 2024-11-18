@@ -26,5 +26,3 @@ jobs:
 
 concurrency:
   group: ${{ github.repositoryUrl }}-build
-  
-  
