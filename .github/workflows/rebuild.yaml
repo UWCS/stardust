@@ -16,3 +16,7 @@ jobs:
           if_key_exists: fail
       - name: Update Server
         run: ssh sites "/srv/new-site/source/build.sh"
+      - uses: sarisia/actions-status-discord@v1
+        if: failure()
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
