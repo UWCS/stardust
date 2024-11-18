@@ -23,3 +23,8 @@ jobs:
         if: failure()
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
+
+concurrency:
+  group: ${{ github.repositoryUrl }}-build
+  
+  
