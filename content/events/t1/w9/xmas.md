@@ -1,6 +1,6 @@
 +++
 title = "Birmingham XMas Markets"
-date = "Wednesday 6:30pm"
+date = "Wednesday 6:00pm"
 draft = false
 
 [extra]
