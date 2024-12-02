@@ -11,10 +11,6 @@ colour = "social"
 [taxonomies]
 tags = ["Pub Traversal"]
 +++
-
-## When :clock7: : Thursday, 6pm-late
-## Where :round_pushpin:: T-Bar @ 6pm OR Leamington Upper Parade @ 7:15pm
-
 ### This is the moment you’ve been waiting for... :fire::fire::fire:
 The grind. The deadlines. The doom. It all leads up to this.
 Prepare yourselves for what is certain to be the defining moment of the term, your uni career, and maybe even your life.
