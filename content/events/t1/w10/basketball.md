@@ -1,9 +1,9 @@
 +++
 title = "Sport Sunday: Basketball"
-date = "Sunday"
+date = "Sunday 2pm"
 
 [extra]
-location = "TBC"
+location = "Sherbourne Courts"
 icon = "ph-basketball"
 colour = "social"
 
