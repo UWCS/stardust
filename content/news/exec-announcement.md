@@ -3,7 +3,7 @@ title = "Exec for 24/25"
 date = "2024-03-27"
 
 [taxonomies]
-categories = ["Exec Announcment"]
+categories = ["Exec Announcement"]
 +++
 
 We have exec!!!!
