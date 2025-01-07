@@ -1,13 +1,12 @@
 +++
 title = "React Course"
-date = "Wednesday 6pm"
+date = "Wednesday 5pm"
 
 [extra]
-end_time = "7pm"
+end_time = "6pm"
 location = "MS.02"
 icon = "ph-atom"
 colour = "academic"
-weeks = ["w3", "w4", "w5", "w6"]
 
 [taxonomies]
 tags = ["React"]

@@ -23,7 +23,7 @@ We host bi-termly sets of 15-minute [lightning talks](https://www.youtube.com/pl
 
 ### Courses and Workshops
 
-Gain real-world skills that aren't taught in a degree. One-off workshops on Git, Docker, and more. We're offering a cross-society [Python Course](go.uwcs.uk/python) for beginners, and a hands-on [Rust course](https://rs118.uwcs.co.uk/) if you feel more confident (not running 23/24).
+Gain real-world skills that aren't taught in a degree. One-off workshops on Git, Docker, and more. We're offering a cross-society [Python Course](go.uwcs.uk/python) for beginners;a hands-on [Rust course](https://rs118.uwcs.co.uk/) if you feel more confident (not running 23/24); and new for 2025 a [React Course](https://readytoreact.net/).
 
 ### Programming Competitions
 
