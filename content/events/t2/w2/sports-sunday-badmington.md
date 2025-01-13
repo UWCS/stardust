@@ -12,4 +12,4 @@ colour = "social"
 [taxonomies]
 tags = ["Sports"]
 +++
-This sports sunday its badmington, join us at Court 2!
+This sports sunday its badminton, join us at Court 2!
