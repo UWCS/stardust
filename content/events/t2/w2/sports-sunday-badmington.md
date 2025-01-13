@@ -1,5 +1,5 @@
 +++
-title = "Sports Sunday Badmington"
+title = "Sports Sunday Badminton"
 date = "Sun 2pm"
 draft = false
 
