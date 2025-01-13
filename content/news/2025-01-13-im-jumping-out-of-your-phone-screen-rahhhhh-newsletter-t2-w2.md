@@ -54,7 +54,7 @@ We'll be going to pop afterwards, and as always there will be sober exec present
 --------------------------------------------------------------------------
 
 
-# [🎮 Friday night gaming🎮](https://uwcs.co.uk/events/t3/w4/fng/)
+# [🎮 Friday night gaming🎮](https://uwcs.co.uk/events/t2/repeat/fng/)
 
 #### 🕘Friday 17th Jan 7pm - Late📍[CS Dept](https://campus.warwick.ac.uk/?slid=23888)
 #### *Return of Fruity Friday?*
