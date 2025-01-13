@@ -14,8 +14,6 @@ Last week was quiet for a reason... it only gets crazier from here.
 
 And just as a reminder, we have our usual welfare officers always here to help you: Serene (@thiswasdumb) and Raven (@raven0034) 
 
-But seriously, exam periods can be tough and we want to make sure you are all doing ok. If you are struggling please get in contact with wellbeing services, or speak to one of our welfare officers: Serene (@thiswasdumb on Discord) or Raven (@raven0034 on Discord). We've got this!! :D
-
 --------------------------------------------------------------------------
 
 # [🍔 Pub meal 🍔](https://uwcs.co.uk/events/t2/repeat/pub-coach/)
