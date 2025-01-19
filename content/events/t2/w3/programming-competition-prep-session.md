@@ -6,6 +6,6 @@ draft = false
 [extra]
 end_time = "6pm"
 location = "CS1.04"
-colour = "red"
+colour = "academic"
 +++
 Come prep for the programming competition on Saturday! :)
