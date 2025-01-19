@@ -4,7 +4,7 @@ date = "Tuesday 4pm"
 draft = false
 
 [extra]
-end_time = "18:00"
+end_time = "6pm"
 location = "CS1.04"
 colour = "Red"
 +++
