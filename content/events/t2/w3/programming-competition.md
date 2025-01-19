@@ -7,4 +7,4 @@ draft = false
 end_time = "18:00"
 colour = "Red"
 +++
-Teams are three people, make sure to bring a laptop. Good luck! :)
+Teams are three people, make sure to bring a laptop. There will be prizes and free food! Good luck! :)
