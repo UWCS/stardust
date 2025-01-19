@@ -1,6 +1,6 @@
 +++
 title = "Pub Golf"
-date = "Saturday 25th January 2025 19:00"
+date = "Saturday 7pm"
 draft = false
 
 [extra]
