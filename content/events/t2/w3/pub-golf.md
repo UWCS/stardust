@@ -6,6 +6,6 @@ draft = false
 [extra]
 location = "The Clarendon, Leamington Spa"
 location_url = "https://maps.app.goo.gl/3yyR7XB1Xj2JEo1m8"
-colour = "Purple"
+colour = "social"
 +++
 Pub Golf
