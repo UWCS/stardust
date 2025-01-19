@@ -1,6 +1,6 @@
 +++
 title = "Programming Competition Prep Session"
-date = "Tuesday 21st January 2025 16:00"
+date = "Tuesday 4pm"
 draft = false
 
 [extra]
