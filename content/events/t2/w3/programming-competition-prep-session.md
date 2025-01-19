@@ -7,5 +7,6 @@ draft = false
 end_time = "6pm"
 location = "CS1.04"
 colour = "academic"
+icon = "ph-file-code"
 +++
 Come prep for the programming competition on Saturday! :)
