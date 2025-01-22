@@ -10,18 +10,11 @@ location_url = "https://maps.app.goo.gl/hYedqFRTb8RjAzWq5"
 icon = "ph-bowling-ball"
 colour = "social"
 +++
-# UWCS x CyberSoc Bowling Tournament
-
 [*Tickets can be purchased on the WarwickSU website (here)*](https://www.warwicksu.com/venues-events/events/4133/26599/)
-
-## When: Sat 1st Feb @ 7:30pm
-## Where: Tenpin Leamington Spa
-
 
 ### Which society is just better?
 
 A great question one would think, but how do we determine?
-
 -A fight to the death?
 -Who has got the biggest...membership?
 -Who stinks out the lecture hall the least?
