@@ -51,7 +51,7 @@ We have a huge selection of games on a ton of consoles, Xbox, Wii, Nintendo Swit
 #### 🕘Saturday 1st Feb 2pm - 3pm📍Sports Hub - 5 Aside Pitch 5
 #### *Doesn't football involve touching grass??*
 
-Join us at the sports hub this saturday for football! Even CS students need to touch grass sometimes
+Join us at the sports hub this Saturday for football! Even CS students need to touch grass sometimes
 
 --------------------------------------------------------------------------
 
