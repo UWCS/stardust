@@ -29,8 +29,6 @@ To the first years: coursework season comes far too soon... why not enjoy the fr
 #### 🕘Wednesday 29th Jan 5pm - 6pm📍[MS.02](https://campus.warwick.ac.uk/?slid=40879)
 #### *I'm not sure how you'll REACT to this one*
 
-Our academic Josh will providing a brief intermission to the brainrot:
-
 "Ready to React" is the course for mastering the ultimate web dev library! Over 5 weeks, you will learn the basics to building full-featured applications, gaining everything you need to become fluent in React.
 
 Sessions cover topics such as components, JSX, state, lists, keys, forms, side effects, data fetching, and references. You'll build a flashcard app, a Wordle clone, and learn advanced concepts like routing, global state management, and custom hooks. Plus, get tips on how to continue advancing your React skills.
