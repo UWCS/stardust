@@ -4,7 +4,7 @@ date = "Saturday"
 
 [extra]
 end_time = "Sunday"
-location = "ESports Centre"
+location = "Esports Centre"
 icon = "images/frame-27.png"
 colour = "#49A700"
 display_day = "Weekend"
