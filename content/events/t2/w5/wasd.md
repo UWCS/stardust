@@ -14,6 +14,6 @@ display_time = "Weekend"
 tags = ["WASD"]
 +++
 
-This week is our charity event [Warwick Speedrunning (WASD)](https://warwickspeed.run/). You can come drop by the ESports centre anytime on Saturday (10am-10pm) or Sunday (10am-6pm) - or you can watch [online.](https://twitch.tv/warwickspeedrun)
+This week is our charity event [Warwick Speedrunning (WASD)](https://warwickspeed.run/). You can come drop by the Esports centre anytime on Saturday (10am-10pm) or Sunday (10am-6pm) - or you can watch [online.](https://twitch.tv/warwickspeedrun)
 
 You can check out the schedule [here!](https://oengus.io/marathon/wasd2025/schedule/wasd2025)
