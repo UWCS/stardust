@@ -3,7 +3,7 @@ title = "AGM & Elections"
 weight = 30
 +++
 
-> New and updated info on the AGM! Very cool! - Mat
+> Ah @$?! not this again - Alia
 
 ---
 
@@ -12,19 +12,20 @@ weight = 30
 
 An AGM, or Annual General Meeting, must be held in Term 2 by every society. It's not always called that, but it's meant to be an event where the society looks back on the year's events, and looks forward to how it wants to plan things in the future.
 
-This is a great event, and can be quite entertaining. At the AGM we do 4 things:
+This is a great event, and can be quite entertaining. At the AGM we do 5 things:
 
 - the annual report (exec talk for a really long time about all the events we ran)
 - run society elections (hopeful exec talk for a really long time about events they want to run ~~but won't get round to~~)
 - vote on motions (~~idiots~~ members request **normal** things of a computing society and there is *NO* joking about)
 - spend all of our sponsor money on pizza
+- get kicked out of the room by Community Safety because they want to close the building
 
 Why are we doing this? Because we're a Warwick SU society and have to follow [Regulation 9](https://www.warwicksu.com/your-union/how-the-su-works/governingdocuments/), and also because it would also be really nice to have an exec for next year.
 
 ### Where and When is our AGM?
 
-*Place:* **OC1.07** \
-*Date/Time:* **7pm Feburary 29th**
+*Place:* **Physics Lecture Theatre (PLT)** \
+*Date/Time:* **6pm February 26th**
 
 ### Who can take part in the AGM?
 
@@ -36,7 +37,7 @@ Any member of the society! Even if you're not standing, how you vote or what you
 
 ### Eligibility
 
-Any standard member of the society can stand or vote in the elections. You need to have been a society member since at least 14 days before the AGM (that's 7pm on February 15th) to vote. You can stand for a position at the AGM itself, if you want.
+Any standard member of the society can stand or vote in the elections. You need to have been a society member since at least 14 days before the AGM (that's 6pm on February 12th) to vote. You can stand for a position at the AGM itself, if you want.
 
 ### Roles Available
 | Role        | Slots* | Responsible for:                                                                                             | Recommended if you:                                                                                                                    |
@@ -51,20 +52,22 @@ Any standard member of the society can stand or vote in the elections. You need 
 | Inclusivity | 2      | Creating a welcoming environment for members, regardless of background. Hosts Wildcards (women & NB) events. | Represent an under-represented group in CS. Want to improve outcomes for similar students. Can be pretty confident, but also friendly. |
 | Publicity   | 2      | Making sure people know what we’re up to, whether that be through social media, or something more unique.    | Can make publicity graphics (preferably Figma). Know what makes social media platforms tick. Are creative, but can be concise.         |
 | Welfare   | 2      | Ensures the safety of members at events/in the society as a whole, and should be the first point of contact for any issues.    | Approachable, comfortable talking about sensitive issues and will be active at events.       |
+| Events    | 1      | Co-ordinating major society events, and ensuring all forms are submitted to the SU on time. | Generally organised and on top of things, want to plan a variety of things, like the idea of ~~harassing~~ working with the SU. |
+| Sports    | 1      | Organising sports sessions; covering a wide variety of sports and ability levels. Getting involved with sports leagues. | Likes sports, wants to collaborate with other societies, just a teeny bit competitive. |
 
-\*This is in accordance with our *new and improved shared office clause 6.3*. There is also the possibility of running in groups, e.g. two people can run as one candidate.
+\*This is in accordance with our *shared office clause 6.3*. There is also the possibility of running in groups, e.g. two people can run as one candidate.
 
 ### Voting
 
 We use the STV, or [Single Transferable Vote](https://en.wikipedia.org/wiki/Single_transferable_vote) system. For each position, you can rank as many candidates as you want in order of preference. The system works in elimination rounds. If your preferred candidate is eliminated, your vote will be transferred to your next non-eliminated preference until a single candidate remains.
 
-You can also vote to Re-Open Nominations, by selecting a candidate affectionately labeled as RON. Note that RON is an active vote against any candidates below that option, so you should only use RON if you feel the alternative really is that bad.
+You can also vote to Re-Open Nominations, by selecting a candidate affectionately labeled as RON. Note that RON is an active vote against any candidates below that option, so you should only use RON if you feel the alternative really is that bad ~~(e.g. they don't show up to the AGM)~~.
 
-We'll be using our online voting platform, [UWCS Vote](https://vote.uwcs.co.uk). This will be open for 72 hours from the end of the AGM. Quorum is 40, so that many people need to vote on each position's election for it to count.
+We'll be using our online voting platform, [UWCS Vote](https://vote.uwcs.co.uk). This will be open from the end of the AGM until 12pm on Sun 2nd March. Quorum is 35, so that many people need to vote on each position's election for it to count.
 
 ### Shared Office
 
-Introduced in the 2022 AGM and promptly updated in the 2023 AGM (might happen again this time, who knows), Shared office is a clause in the constitution which reads as follows:
+Introduced in the 2022 AGM and updated in the 2023 AGM, Shared office is a clause in the constitution which reads as follows:
 
 **6.3** Shared Office \
 **6.3.1** All positions will be filled up to a maximum of 2 for all available positions, with
@@ -106,7 +109,7 @@ Each position will be discussed in turn:
 
 # Motions
 
-**Constitutionally changing motions can be submitted until Thurs 22nd Feb**, and any other motions right up until the AGM (but please send them in good time so we don't have to look through our emails for them at the meeting).
+**Constitutionally changing motions can be submitted until Weds 19 February**, and any other motions right up until the AGM (but please send them in good time so we don't have to look through our emails for them at the meeting).
 
 Send the completed motion documents to `president@uwcs.co.uk` or to the President via discord. Motions require a seconder who is also a member of the society, so you can't just submit them on your own.
 
@@ -116,13 +119,13 @@ Send the completed motion documents to `president@uwcs.co.uk` or to the Presiden
 
 ### On the day
 
-Each motion will be read out by the returning officer (Mat), and time will be given for members to:
+Each motion will be read out by the returning officer (Alia), and time will be given for members to:
 
 - Ask questions to the proposer/seconder
 - Voice support for or opposition to the motion (general discussion of the motion)
 
 ### Voting
 
-You can vote to support a motion, vote against a motion, or vote to abstain. If more people vote to support a motion than vote against, and at least 50 people have voted on it, the motion passes.
+You can vote to support a motion, vote against a motion, or vote to abstain. If more people vote to support a motion than vote against, and at least 53 people have voted on it, the motion passes.
 
-We'll be using our online voting platform, [UWCS Vote](https://vote.uwcs.co.uk). This will be open for 72 hours from the end of the AGM, and results should be announced soon after.
+We'll be using our online voting platform, [UWCS Vote](https://vote.uwcs.co.uk). This will be open from the end of the AGM until 12pm on Sun 2nd March, and results should be announced soon after.
