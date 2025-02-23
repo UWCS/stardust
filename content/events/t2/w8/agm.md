@@ -7,7 +7,7 @@ draft = false
 end_time = "10pm"
 location = "PLT "
 location_url = "https://campus.warwick.ac.uk/search/623c88d1421e6f5928c0de68?projectId=warwick"
-icon = "ph-presentation"
+icon = "ph-gavel"
 colour = "#3D53FF"
 +++
 Our AGM is on Wednesday, ready for you guys to vote for next years exec and vote for constitutionally changing motions. 
