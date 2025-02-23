@@ -6,7 +6,7 @@ template = "events/events_list.html"
 archive = true
 +++
 
-Events from earlier this year!
+Events from earlier this term!
 <!-- more -->
 
 {% note(type="primary") %}
