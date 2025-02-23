@@ -1,8 +1,8 @@
 +++
-title = "Events 23/24"
+title = "Events 24/25"
 weight = 23
 sort_by = "weight"
 
 +++
 
-Events from 23/24!
+Events from 24/25!
