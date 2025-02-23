@@ -20,7 +20,7 @@ All information about the AGM can be found [here](https://uwcs.co.uk/about/agm/)
 3) Announcement of motions
 
 **HOW TO STAND**
-Email `president@uwcs.co.uk` with your name, student ID, positions you're standing for, and a quick description of why you'd be good in that role (<100 words). You can also stand on the day at the AGM when we are announcing the positions.
+Email president@uwcs.co.uk with your name, student ID, positions you're standing for, and a quick description of why you'd be good in that role (<100 words). You can also stand on the day at the AGM when we are announcing the positions.
 At the AGM you will then be invited to talk more about why you'd be good in the role and what you want to do (<2 mins) and there will be a mini Q&A with questions posed to all candidates for that role.
 You can stand with a membership bought at any time, even at the AGM!
 
