@@ -1,6 +1,6 @@
 +++
 title = "Lightning talks"
-date = "Wednesday 4pm"
+date = "Tuesday 4pm"
 draft = false
 
 [extra]
