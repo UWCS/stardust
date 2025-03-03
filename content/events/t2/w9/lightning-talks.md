@@ -1,9 +1,12 @@
 +++
 title = "Lightning talks"
-date = "Wednesday 5th March 2025 16:00"
+date = "Wednesday 4pm"
 draft = false
 
 [extra]
-colour = "Red"
+end_time = "5pm"
+colour = "academic"
+icon = "ph-lightning"
+location = "OC0.03"
 +++
 Lightning talks
