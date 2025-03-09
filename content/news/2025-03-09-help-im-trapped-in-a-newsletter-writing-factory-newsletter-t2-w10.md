@@ -6,7 +6,7 @@ draft = false
 [taxonomies]
 categories = ["Newsletter"]
 +++
-Unfortunately I made some poor decisions and got reelected as secretary. That's a terrible shame, because you've all signed yourself up for another year of insane newsletters, but let's be honest, who actually reads these anyway?
+Unfortunately I made some poor decisions and got re-elected as secretary. That's a terrible shame, because you've all signed yourself up for another year of insane newsletters, but let's be honest, who actually reads these anyway?
 
 As always, we have our wonderful Welfare Officers here to help you if you encounter any issues: Thomas (@tomo.li) and Raven (@raven0034)
 
@@ -19,7 +19,7 @@ As always, we have our wonderful Welfare Officers here to help you if you encoun
 
 The end of term is nearly here! And that means only one thing - no, not more deadlines - it's time for DCS' end of term social!
 
-This term we'll be in Bar Fusion and the Esports centre, with acess to the Esports machines and consoles. DCS are also handing out a Fusion voucher to buy food and drink.
+This term we'll be in Bar Fusion and the Esports centre, with access to the Esports machines and consoles. DCS are also handing out a Fusion voucher to buy food and drink.
 
 From 4pm, we'll be hosting a quiz with some fun prizes, so stick around to the end!
 
