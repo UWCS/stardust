@@ -40,7 +40,7 @@ paths_keep_dates = true
 repo = "uwcs/new-site"
 cms_auth_url = "https://cms-auth.containers.uwcs.co.uk"
 academic_year = "24/25"
-room_links = true
+room_links = false
 
 # Register on https://htmlcsstoimage.com
 htmltoimg_userid = "user"
