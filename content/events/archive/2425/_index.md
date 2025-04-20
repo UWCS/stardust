@@ -1,6 +1,6 @@
 +++
 title = "Events 24/25"
-weight = 23
+weight = 24
 sort_by = "weight"
 
 +++
