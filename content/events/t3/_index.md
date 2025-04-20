@@ -1,6 +1,6 @@
 +++
 template = "events/event_term.html"
 
-title = "Term 2"
-weight = 2
+title = "Term 3"
+weight = 3
 +++
