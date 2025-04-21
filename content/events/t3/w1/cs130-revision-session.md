@@ -7,7 +7,8 @@ draft = false
 end_time = "8pm"
 location = "MS.01"
 colour = "academic"
-emoji = "ph-book-bookmark"
+emoji = ""
+icon = "ph-book-bookmark"
 
 [taxonomies]
 tags = ["revision-session"]
