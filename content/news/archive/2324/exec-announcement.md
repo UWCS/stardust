@@ -11,7 +11,6 @@ We have exec!!!!
 <!-- more --> 
 
 ## Exec for 24/25
-Exec deatils can be found at
 
 President - Alia Meek  
 Secretary - Lucy Siket  
@@ -26,7 +25,7 @@ Publicity - Harmony Bouabid, Lewis Parry
 
 ## Motion Results
 Format of votes is: (For, Abstain, Against), all reached quorum.
-Details on motions can be found at [https://github.com/UWCS/motions-24](https://github.com/UWCS/motions-24)
+Details on motions can be found at [our democracy repo](https://github.com/UWCS/democracy/tree/main/motions-24)
 
 Fresher Rep Motion - Passed (58, 5, 5)  
 Motherboard Motion - Passed (55, 5, 8)  
