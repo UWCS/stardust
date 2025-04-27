@@ -15,7 +15,6 @@ tags = ["BALLS"]
 +++
 Warwick Computing Society, Warwick AI and Warwick Coding Society have collaborated to bring you the biggest Computing Ball yet!!
 
-If you've paid for a ticket, we're treating you to a **four course meal**, after which we're bringing you **poker**, **blackjack**, and **roulette**, and much more!
+If you've paid for a ticket, we're treating you to a **three course meal**, after which we're bringing you **poker**, **blackjack**, and **roulette**, and much more!
 
 Check out our Discord for the latest information!
-
