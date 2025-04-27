@@ -4,7 +4,7 @@ date = "Friday 6pm"
 draft = false
 
 [extra]
-end_time = "Saturday 12am"
+end_time = "23:59"
 location = "The House & Orangery, Leamington Spa"
 location_url = "https://maps.app.goo.gl/sC1U9yTa6dLFsCdk9"
 icon = "ph-cake"
