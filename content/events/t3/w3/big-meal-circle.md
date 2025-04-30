@@ -1,6 +1,6 @@
 +++
 title = "BIG MEAL CIRCLE"
-date = "Wed 7 from 7:30pm"
+date = "2024-01-01 19:30"
 draft = false
 
 [extra]
