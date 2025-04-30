@@ -18,7 +18,7 @@ This term, UWCS is bringing you **TWO CIRCLES** alongside a lineup of *epic* soc
 **What does "Big Meal" mean?**\
 Great question. The *true* meaning has been lost to time... but that just means you guys get to take the risk of **figuring it out!**  
 
-Come dressed as **anything** you'd find in, on, or around a **BIG MEAL** - whether that's a **:hamburger: burger**, a **:hotdog: hotdog**, a **:fork_knife_plate: dining table**, or even a **:salt: salt shaker**. The wilder, the better! 
+Come dressed as **anything** you'd find in, on, or around a **BIG MEAL** - whether that's a **:hamburger: burger**, a **:hotdog: hotdog**, a **dining table**, or even a **:salt: salt shaker**. The wilder, the better! 
 
 We'll be heading to **POP** after Kelsey's, so grab your tickets now:\
 :link: <https://tickets.warwicksu.com/ents/event/26767/>
