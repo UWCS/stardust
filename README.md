@@ -140,7 +140,7 @@ The basic structure of the project is explained in [Zola's docs](https://www.get
 ### Mixing Macros and Shortcodes
 - Not possible by default, but doable with a bit of boilerplate.
 1. Create the thing as a macro in the macros folder
-2. In the shortcode, import the relevnant macro file and call it
+2. In the shortcode, import the relevant macro file and call it
 - See `shortcodes/uwcs_dots.html` for an example.
 
 ### Shortcodes in CMS Editor
