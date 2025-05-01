@@ -1,6 +1,6 @@
 +++
 title = "DCS Careers Fair"
-date = "Wednesday 12pm"
+date = "Wednesday 11:59"
 draft = false
 
 [extra]
