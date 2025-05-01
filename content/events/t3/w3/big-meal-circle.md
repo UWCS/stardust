@@ -1,9 +1,10 @@
 +++
 title = "BIG MEAL CIRCLE"
-date = "Wed 7:30pm"
+date = "Wednesday 7:30pm"
 draft = false
 
 [extra]
+end_time = "Thursday 2am"
 location = "Kelseys, Leamington Spa"
 location_url = "https://maps.app.goo.gl/p76GWhoRy8CZrQNc6"
 icon = "ph-circle"
@@ -21,7 +22,7 @@ Great question. The *true* meaning has been lost to time... but that just means 
 Come dressed as **anything** you'd find in, on, or around a **BIG MEAL** - whether that's a **:hamburger: burger**, a **:hotdog: hotdog**, a **dining table**, or even a **:salt: salt shaker**. The wilder, the better! 
 
 We'll be heading to **POP** after Kelsey's, so grab your tickets now:\
-:link: <https://tickets.warwicksu.com/ents/event/26767/>
+:link: <https://tickets.warwicksu.com/ents/event/26765/>
 
 
 **BONUS:** Snag your **W8 Circle + Event Ticket** here for our W8 SU Circle\

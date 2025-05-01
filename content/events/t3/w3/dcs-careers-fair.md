@@ -1,16 +1,16 @@
 +++
 title = "DCS Careers Fair"
-date = "Wednesday 11:59"
+date = "Wednesday 11:59am"
 draft = false
 
 [extra]
+end_time = "3pm"
 location = "DCS"
 colour = "academic"
-end_time = "3pm"
 icon = "ph-laptop"
 
 [taxonomies]
-tags = ["DCS"]
+tags = []
 +++
 The final DCS Careers fair of the year, open to all students, including postgrads and masters students. There will many companies around, along with Career Consultants you can talk to.
 

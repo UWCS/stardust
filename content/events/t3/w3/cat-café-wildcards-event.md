@@ -1,6 +1,6 @@
 +++
 title = "Cat Café Wildcards Event"
-date = "Saturday 12pm"
+date = "Saturday 11:59am"
 draft = false
 
 [extra]

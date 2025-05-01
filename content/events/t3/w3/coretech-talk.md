@@ -1,10 +1,10 @@
 +++
 title = "CoreTech Talk"
-date = "Wednesday 15:30"
+date = "Wednesday 3:30pm"
 draft = false
 
 [extra]
-end_time = "16:30"
+end_time = "4:30pm"
 location = "CS1.04"
 colour = "academic"
 icon = "ph-code"

@@ -4,7 +4,7 @@ date = "Saturday 7:30pm"
 draft = false
 
 [extra]
-end_time = "23:59"
+end_time = "11:59pm"
 location = "TBC"
 icon = "ph-beer-bottle"
 colour = "social"
