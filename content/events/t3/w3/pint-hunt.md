@@ -5,7 +5,7 @@ draft = false
 
 [extra]
 end_time = "11:59pm"
-location = "TBC"
+location = "Upper Parade, Leamington Spa"
 icon = "ph-beer-bottle"
 colour = "social"
 
