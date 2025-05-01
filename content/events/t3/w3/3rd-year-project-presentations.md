@@ -1,12 +1,13 @@
 +++
 title = "3rd Year Project Presentations"
-date = "Tuesday 00:00"
+date = "Tuesday 2pm"
 draft = false
 
 [extra]
-end_time = "23:59"
-icon = "ph-android-logo"
+end_time = "3pm"
+icon = "ph-notebook"
 colour = "academic"
+location = "OC1.05"
 
 [taxonomies]
 tags = ["3rdYearProjectTalks"]
