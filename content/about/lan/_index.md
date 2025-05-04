@@ -1,6 +1,6 @@
 +++
 title = "The UWCS Guide to LANs"
-weight = 100
+weight = 4
 +++
 
 A quick overview of our LAN Parties

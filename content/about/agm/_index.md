@@ -1,6 +1,6 @@
 +++
 title = "AGM & Elections"
-weight = 30
+weight = 3
 +++
 
 > Ah @$?! not this again - Alia
