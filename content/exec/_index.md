@@ -6,7 +6,7 @@ sort_by = "weight"
 generate_feed = true
 
 [extra]
-multiple_roles = { "Harmony Bouabid" = ["Publicity Officer", "Inclusivity Officer"] }
+multiple_roles = { "Raven Taylor" = ["Gaming Coordinator", "Welfare Officer"], "Thomas Sweet" = ["Tech Officer", "Welfare Officer"] }
 
 +++
 
