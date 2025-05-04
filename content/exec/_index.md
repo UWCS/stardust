@@ -11,8 +11,9 @@ multiple_roles = { "Raven Taylor" = ["Gaming Coordinator", "Welfare Officer"], "
 +++
 
 {% note() %}
-The main way to reach out to our society is via our general email, [exec@uwcs.co.uk](mailto:exec@uwcs.co.uk).  
-All current exec have access to this inbox, and we're always happy to hear about opportunities for/from our members.  
+The main way to reach out to our society is via our general email, [exec@uwcs.co.uk](mailto:exec@uwcs.co.uk).
+All current exec have access to this inbox, and we're always happy to hear about opportunities for/from our members.<br>
+If you have wellbeing concerns about a member, an event etc, please contact [welfare@uwcs.co.uk](mailto:welfare@uwcs.co.uk).<br>
 For sponsorship proposals, contact [treasurer@uwcs.co.uk](mailto:treasurer@uwcs.co.uk).
 {% end %}
 
