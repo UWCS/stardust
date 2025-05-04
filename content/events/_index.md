@@ -1,6 +1,6 @@
 +++
 title = "Events"
-weight = 2
+weight = 3
 sort_by = "weight"
 template = "events/events_list.html"
 page_template = "events/event.html"

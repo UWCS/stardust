@@ -1,6 +1,6 @@
 +++
-title = "Contact"
-weight = 6
+title = "Exec Team"
+weight = 2
 template = "contact.html"
 sort_by = "weight"
 generate_feed = true
