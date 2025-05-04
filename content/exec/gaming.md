@@ -6,7 +6,7 @@ date = "1970-01-01"
 [extra]
 people = ["Raven Taylor", "Robert Barbu", "Lyon Fan", "Arda Ozden", "Sharvil Kadam"]
 plural = "Gaming Coordinators"
-email = "gaming-coordinator@uwcs.co.uk"
+email = "gaming@uwcs.co.uk"
 +++
 
 The Gaming Coordinator handles organising gaming events within the society. This includes:
