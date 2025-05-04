@@ -20,7 +20,7 @@ The new, improved and, most importantly, simplified website for the 23/24 academ
 3. Run Zola with `zola serve` in project root
     - This rebuilds the website on changes, and serves it at http://127.0.0.1:1111 (view in browser)
     - This has occasionally caused problems, if it does replace it with:
-        - `python3 -m http.server --directory public -b 127.0.0.1 1111 > web.log &`
+        - `python3 -m http.server --directory public -b 127.0.0.1 1111 > web.log &` (or e.g. `Start-Process -NoNewWindow -FilePath "python" -ArgumentList "-m http.server 1111 --directory public --bind 127.0.0.1" -RedirectStandardOutput "web.log"` for PowerShell)
         - then run `zola build --base-url http://127.0.0.1:1111` on any changes
 4. Write some Markdown in `content/`!
 
@@ -34,7 +34,7 @@ If you want to include images in the post, you can create a folder for it in `co
 
 ### CMS
 
-Alternatively (e.g. if you are on mobile), try the only slightly janky CMS at https://uwcs.co.uk/admin/ . It should allow editing of the important bits of news and events, though deeper customisation is unavailable. You need to login to it with GitHub, and it will automatically make a commit for you when you save a change. Shortcode previews are in active developemtn, so may or may not work as expected, but they should render fine.
+Alternatively (e.g. if you are on mobile), try the only slightly janky CMS at https://uwcs.co.uk/admin/ . It should allow editing of the important bits of news and events, though deeper customisation is unavailable. You need to login to it with GitHub, and it will automatically make a commit for you when you save a change. Shortcode previews are in active development, so may or may not work as expected, but they should render fine.
 
 Note: Currently the CMS is broken for events because of the nested folders. Hopefully this is fixable at some point.
 
