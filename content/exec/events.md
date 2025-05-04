@@ -1,6 +1,6 @@
 +++
 title = "Events Officer"
-weight = 10
+weight = 11
 date = "1970-01-01"
 
 [extra]

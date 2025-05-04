@@ -1,6 +1,6 @@
 +++
 title = "Publicity Officer"
-weight = 8
+weight = 10
 date = "1970-01-01"
 
 [extra]

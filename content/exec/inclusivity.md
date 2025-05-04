@@ -1,6 +1,6 @@
 +++
 title = "Inclusivity Officer"
-weight = 6
+weight = 7
 date = "1970-01-01"
 
 [extra]

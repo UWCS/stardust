@@ -1,6 +1,6 @@
 +++
 title = "Gaming Coordinator"
-weight = 5
+weight = 6
 date = "1970-01-01"
 
 [extra]

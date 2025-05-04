@@ -1,6 +1,6 @@
 +++
 title = "Tech Officer"
-weight = 7
+weight = 9
 date = "1970-01-01"
 
 [extra]
