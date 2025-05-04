@@ -4,7 +4,7 @@ weight = 1
 date = "1970-01-01"
 
 [extra]
-people = ["Alia Meek"]
+people = ["Lewis Parry", "Joshua Rawlings"]
 plural = "Presidents"
 email = "president@uwcs.co.uk"
 +++

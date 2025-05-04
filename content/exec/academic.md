@@ -4,7 +4,7 @@ weight = 4
 date = "1970-01-01"
 
 [extra]
-people = ["Ed Denton", "Josh Sands", "Louis Tanak"]
+people = ["Edward Denton", "Edward O'Dwyer", "Subhan Sohail"]
 plural = "Academic Coordinators"
 email = "academic@uwcs.co.uk"
 +++
@@ -15,3 +15,4 @@ The Academic Coordinator handles the organisation of academic events within the 
 - Liaising with the external sponsors to identify when and what they may want to give an event on
 - Try to ensure there are minimal clashes with DCS timetabled lectures/seminars and other major events
 - Smoothing over any technical issues that might occur when dealing with external events
+- Running other events such as revision sessions and courses

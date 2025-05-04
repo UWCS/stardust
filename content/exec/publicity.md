@@ -4,7 +4,7 @@ weight = 8
 date = "1970-01-01"
 
 [extra]
-people = ["Harmony Bouabid", "Lewis Parry"]
+people = ["Harmony Bouabid", "Tara Fahey", "Prisha Jaiswal"]
 plural = "Publicity Officers"
 email = "publicity@uwcs.co.uk"
 +++

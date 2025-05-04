@@ -4,7 +4,7 @@ weight = 6
 date = "1970-01-01"
 
 [extra]
-people = ["Harmony Bouabid", "Luna Knight"]
+people = ["Irene Peleteiro Paniagua"]
 plural = "Inclusivity Officers"
 email = "inclusivity@uwcs.co.uk"
 +++
