@@ -52,8 +52,8 @@ Any standard member of the society can stand or vote in the elections. You need 
 | Inclusivity | 2      | Creating a welcoming environment for members, regardless of background. Hosts Wildcards (women & NB) events. | Represent an under-represented group in CS. Want to improve outcomes for similar students. Can be pretty confident, but also friendly. |
 | Publicity   | 2      | Making sure people know what we’re up to, whether that be through social media, or something more unique.    | Can make publicity graphics (preferably Figma). Know what makes social media platforms tick. Are creative, but can be concise.         |
 | Welfare   | 2      | Ensures the safety of members at events/in the society as a whole, and should be the first point of contact for any issues.    | Approachable, comfortable talking about sensitive issues and will be active at events.       |
-| Events    | 1      | Co-ordinating major society events, and ensuring all forms are submitted to the SU on time. | Generally organised and on top of things, want to plan a variety of things, like the idea of ~~harassing~~ working with the SU. |
-| Sports    | 1      | Organising sports sessions; covering a wide variety of sports and ability levels. Getting involved with sports leagues. | Likes sports, wants to collaborate with other societies, just a teeny bit competitive. |
+| Events    | 2      | Co-ordinating major society events, and ensuring all forms are submitted to the SU on time. | Generally organised and on top of things, want to plan a variety of things, like the idea of ~~harassing~~ working with the SU. |
+| Sports    | 2      | Organising sports sessions; covering a wide variety of sports and ability levels. Getting involved with sports leagues. | Likes sports, wants to collaborate with other societies, just a teeny bit competitive. |
 
 \*This is in accordance with our *shared office clause 6.3*. There is also the possibility of running in groups, e.g. two people can run as one candidate.
 
@@ -95,7 +95,7 @@ Send an email to [**president@uwcs.co.uk**](mailto:president@uwcs.co.uk) with th
 - Whether you'll be there in-person or online
 - Description (optional, max 100 words, per position)
 
-Or send the same information to the President on discord (username: `.mat.k` and appears as `MAT`).
+Or send the same information to the President on discord (username: `alimmeek` and appears as `Alia`).
 
 ### On the day
 
