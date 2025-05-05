@@ -16,7 +16,7 @@ As always, a reminder that we have our usual welfare officers always here to hel
 
 # [🍺 Pub Meal 🍺](https://uwcs.co.uk/events/t3/repeat/pub-coach/)
 
-#### 🕘Monday 5th May 7pm - 9pm[Phantom Coach](https://goo.gl/maps/wAptxmC4L7uajZEPA)
+#### 🕘Monday 5th May 7pm - 9pm📍[Phantom Coach](https://goo.gl/maps/wAptxmC4L7uajZEPA)
 #### *The only good reason to live in Canley*
 
 We're back at it again to forget about exam season and spend your entire bank balance on pub food and drinks! As usual we'll be there from 7pm. 
