@@ -5,7 +5,7 @@ draft = false
 
 [extra]
 end_time = "3pm"
-location = "DCS"
+location = "Panorama Suite, Rootes Building"
 colour = "academic"
 icon = "ph-laptop"
 
