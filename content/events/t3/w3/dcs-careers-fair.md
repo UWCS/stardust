@@ -1,5 +1,5 @@
 +++
-title = "DCS Careers Fair"
+title = "Summer Careers Fair"
 date = "Wednesday 11:59am"
 draft = false
 
@@ -12,7 +12,7 @@ icon = "ph-laptop"
 [taxonomies]
 tags = []
 +++
-The final DCS Careers fair of the year, open to all students, including postgrads and masters students. There will many companies around, along with Career Consultants you can talk to.
+The final Summer Careers fair of the year, open to all students, including postgrads and masters students. There will many companies around, along with Career Consultants you can talk to.
 
 Want to find out more and book onto the event? Check it out [here](https://myadvantage.warwick.ac.uk/students/events/Detail/3677123)!
 
