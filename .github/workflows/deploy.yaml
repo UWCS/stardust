@@ -20,7 +20,7 @@ jobs:
       - name: Update Server
         run: ssh sites "/srv/new-site/source/build.sh"
       - uses: sarisia/actions-status-discord@v1
-        if: failure()
+        if: failure() && !cancelled()
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
 
