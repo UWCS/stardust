@@ -10,7 +10,9 @@ sed -i 's/# DRAFT//g' config.toml
 ./zola build --drafts --base-url https://draft.uwcs.co.uk --output-dir ../draft --force
 ./zola build --drafts --base-url https://sponsors.uwcs.co.uk --output-dir ../sponsors --force
 
+sleep 5
 git restore config.toml
+rm -rf ../build
 
 # Build main
 sed -i 's/\(.*\)# DRAFT/# DRAFT \1/g' config.toml
