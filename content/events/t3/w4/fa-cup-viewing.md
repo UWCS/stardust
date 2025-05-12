@@ -1,6 +1,6 @@
 +++
 title = "FA Cup Final Viewing"
-date = "Friday 4:30pm"
+date = "Saturday 4:30pm"
 draft = false
 
 [extra]
