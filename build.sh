@@ -1,6 +1,11 @@
 #!/bin/sh
 set -e
 
+# Switch to git user if running as root (for non-CI runs only)
+if [ $(whoami) == "root" ]; then
+    su git-user
+fi
+
 export SCRIPT_DIR=$(dirname "$(realpath $0)")
 cd $SCRIPT_DIR && echo "Running in $SCRIPT_DIR"
 if [ -z $NO_PULL ]; then git pull --recurse-submodules; fi
