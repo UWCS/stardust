@@ -2,8 +2,9 @@
 set -e
 
 # Switch to git user if running as root (for non-CI runs only)
-if [ $(whoami) == "root" ]; then
-    su git-user
+if [ $(whoami) != "git-user" ]; then
+    echo "Run script as git-user only. Aborting..."
+    exit
 fi
 
 export SCRIPT_DIR=$(dirname "$(realpath $0)")
