@@ -5,9 +5,9 @@ draft = false
 
 [extra]
 end_time = "6:30pm"
-location = "Fusion Bar (TBC)"
+location = "The Old Library, Leamington Spa"
 colour = "sports"
 icon = "ph-soccer-ball"
 +++
 
-Join as we head to Fusion (probably) to view the FA Cup Final!
+Join us as we head to The Old Library ~~The Old Library The Old Library~~ to view the FA Cup Final!
