@@ -1,15 +1,15 @@
 +++
 title = "Merch"
-weight = 8
+weight = 1
 sort_by = "weight"
 template = "merch/merch.html"
 page_template = "merch/merch_page.html"
 
 [extra]
-hide = true
+hide = false
 start = "2025-05-19T21:00:00+01:00"
 end = "2025-05-23T20:59:59+01:00"
-preview = true
+preview = false
 +++
 
 # Welcome to UWCS Shop
