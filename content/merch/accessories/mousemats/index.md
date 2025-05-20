@@ -3,6 +3,7 @@ title = "Mouse Mats"
 weight = 5
 
 [extra]
+hidden = true
 price = "25.05"
 link = "https://www.warwicksu.com/shop/product/10274110/"
 

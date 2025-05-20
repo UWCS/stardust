@@ -3,6 +3,7 @@ title = "Rubber Duck"
 weight = 3
 
 [extra]
+hidden = true
 price = "1.71"
 link = "https://www.warwicksu.com/shop/product/10274130/"
 

@@ -4,8 +4,8 @@ weight = 4
 
 [extra]
 price = "1.70"
-link = "https://www.warwicksu.com/shop/product/10274160/"
+link = "https://www.warwicksu.com/shop/product/10305070/"
 
 +++
 
-You have an ID card, so why not have it on a UWCS lanyard?
+UWCS is our home, rep it and make your ID card part of it with a lanyard!

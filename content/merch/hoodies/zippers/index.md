@@ -3,9 +3,10 @@ title = "Zipped Hoodie"
 weight = 2
 
 [extra]
-price = "35.10"
-link = "https://www.warwicksu.com/shop/product/10274150/"
+price = "36.60"
+link = "https://www.warwicksu.com/shop/product/10305050/"
 
 +++
 
-Like the regular pullover but with a fancy zip (you can unveil your matching UWCS tshirt)
+**Colours: Black, White, Grey; Sizes: XS - 2XL**<br>
+Ever heard of a zip? Me neither till recently! Use it to stun people with your UWCS T-Shirt underneath!

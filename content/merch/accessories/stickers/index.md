@@ -3,9 +3,11 @@ title = "Sticker Pack"
 weight = 1
 
 [extra]
-price = "1.49"
-link = "https://www.warwicksu.com/shop/product/10274180/"
+price = "2.50"
+link = "https://www.warwicksu.com/shop/product/10305100/"
 
 +++
 
-Whether you're looking to: slap these bad boys on the back of your laptop; want to show off the superiority of "GitHub" on the fridge; or let tech know they've failed at their jobs,now's your chance!
+Want to get sticky? Well now you can (or you can just put them on your laptop). 11 fresh, drippy and glossy stickers are available, to turn any peripheral into the coolest, swaggiest and epikiest equipment around campus. *DISCLAIMER* you may suddenly experience increased rizz, confidence and aura upon purchase.
+
+~~further disclaimer from Raven: Jakub wrote this, not me~~

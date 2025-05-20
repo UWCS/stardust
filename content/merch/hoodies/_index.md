@@ -1,6 +1,6 @@
 +++
 title = "Hoodies"
-weight = 2
+weight = 3
 template = "merch/merch_cat.html"
 
 [extra]
