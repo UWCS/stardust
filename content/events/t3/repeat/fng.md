@@ -5,7 +5,7 @@ date = "Friday 7pm"
 [extra]
 end_time = "Saturday 1am"
 location = "CS Dept"
-weeks = ["w1", "w3", "w4", "w5", "w7", "w8", "w9", "w10"]
+weeks = ["w1", "w3", "w4", "w5", "w6", "w7", "w8", "w9", "w10"]
 icon = "icons/fng.svg"
 colour = "gaming"
 
