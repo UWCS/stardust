@@ -8,7 +8,7 @@ location = "Phantom Coach"
 location_url = "https://goo.gl/maps/wAptxmC4L7uajZEPA"
 icon = "ph-hamburger"
 colour = "social"
-weeks = ["w1", "w3", "w5", "w7", "w9"]
+weeks = ["w1", "w3", "w5", "w6", "w8", "w9"]
 
 [taxonomies]
 tags = ["Pub Meal"]
