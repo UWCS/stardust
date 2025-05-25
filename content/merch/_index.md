@@ -6,7 +6,7 @@ template = "merch/merch.html"
 page_template = "merch/merch_page.html"
 
 [extra]
-hide = false
+hide = true
 start = "2025-05-19T21:00:00+01:00"
 end = "2025-05-23T20:59:59+01:00"
 preview = false
