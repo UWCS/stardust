@@ -7,23 +7,27 @@ if [ $(whoami) != "git-user" ]; then
     exit
 fi
 
+# Move to project root dir
 export SCRIPT_DIR=$(dirname "$(realpath $0)")
 cd $SCRIPT_DIR && echo "Running in $SCRIPT_DIR"
+
+# Record pid to ensure only one running
+if [ -f "./stardust.pid" ] && ps -p $(cat "./stardust.pid") >/dev/null 2>&1
+then
+    echo "Cancelling other run..."
+    kill $(cat "./stardust.pid")
+    sleep 3
+fi
+trap 'rm -f "./stardust.pid"' EXIT
+echo $$ > "./stardust.pid"
+
+
+# Pull changes
 if [ -z $NO_PULL ]; then git pull --recurse-submodules; fi
 
 # Build draft
 sed -i 's/# DRAFT//g' config.toml
 ./zola build --drafts --base-url https://draft.uwcs.co.uk --output-dir ../draft --force
-
-# if [ -f "./stardust.pid" ] && ps -p $(cat "./stardust.pid") >/dev/null 2>&1
-# then
-#     echo "Cancelling other run..."
-#     kill $(cat "./stardust.pid")
-#     sleep 3
-#     echo "Starting this run..."
-# fi
-# trap 'rm -f "./stardust.pid"' EXIT
-# echo $$ > "./stardust.pid"
 
 # Build main
 git restore config.toml
@@ -42,7 +46,7 @@ if which purgecss; then
 fi
 
 # Stop storing pid (ensures cancel doesn't come mid move)
-# rm -f "./stardust.pid"
+rm -f "./stardust.pid"
 
 # Swap versions asap
 [ -d "../public" ] && mv ../public ../old
