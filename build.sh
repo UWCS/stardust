@@ -14,15 +14,21 @@ if [ -z $NO_PULL ]; then git pull --recurse-submodules; fi
 # Build draft
 sed -i 's/# DRAFT//g' config.toml
 ./zola build --drafts --base-url https://draft.uwcs.co.uk --output-dir ../draft --force
-./zola build --drafts --base-url https://sponsors.uwcs.co.uk --output-dir ../sponsors --force
 
-sleep 5
-git restore config.toml
-rm -rf ../build
+# if [ -f "./stardust.pid" ] && ps -p $(cat "./stardust.pid") >/dev/null 2>&1
+# then
+#     echo "Cancelling other run..."
+#     kill $(cat "./stardust.pid")
+#     sleep 3
+#     echo "Starting this run..."
+# fi
+# trap 'rm -f "./stardust.pid"' EXIT
+# echo $$ > "./stardust.pid"
 
 # Build main
+git restore config.toml
 sed -i 's/\(.*\)# DRAFT/# DRAFT \1/g' config.toml
-./zola build --base-url https://uwcs.co.uk --output-dir ../build --force
+exec ./zola build --base-url https://uwcs.co.uk --output-dir ../build --force
 
 git restore config.toml
 
@@ -34,6 +40,9 @@ if which purgecss; then
     purgecss --config $SCRIPT_DIR/purgecss.config.js --css icon-packs/*.css --output icon-packs
     )
 fi
+
+# Stop storing pid (ensures cancel doesn't come mid move)
+# rm -f "./stardust.pid"
 
 # Swap versions asap
 [ -d "../public" ] && mv ../public ../old
