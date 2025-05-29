@@ -4,7 +4,7 @@ date = "2005-10-20T17:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/lecture-on-thu-20th-october-2005-1474488972512/"    
-ent_time = "2005-10-20T19:30:00Z"
+end_time = "2005-10-20T19:30:00Z"
 location = "LIB2"
 +++
 

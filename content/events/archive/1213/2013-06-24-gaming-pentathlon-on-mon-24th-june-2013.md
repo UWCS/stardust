@@ -4,7 +4,7 @@ date = "2013-06-24T16:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/gaming-pentathlon-on-mon-24th-june-2013-1474489078494/"    
-ent_time = "2013-06-28T18:00:00Z"
+end_time = "2013-06-28T18:00:00Z"
 location = "LIB2"
 +++
 

@@ -4,7 +4,7 @@ date = "2022-02-28T18:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-social-term-2-week-8-2122/"    
-ent_time = "2022-02-28T22:00:00Z"
+end_time = "2022-02-28T22:00:00Z"
 location = "The Phantom Coach, Coventry"
 +++
 

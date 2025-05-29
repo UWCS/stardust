@@ -4,7 +4,7 @@ date = "2014-01-29T19:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/circling-pop-on-wed-29th-january-2014-1474489090607/"    
-ent_time = "2014-01-30T02:00:00Z"
+end_time = "2014-01-30T02:00:00Z"
 location = "Bar Fusion "
 +++
 

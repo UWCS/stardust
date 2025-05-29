@@ -4,7 +4,7 @@ date = "2023-03-02T19:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/wildcards-do-gaming/"    
-ent_time = "2023-03-02T22:00:00Z"
+end_time = "2023-03-02T22:00:00Z"
 location = "CS0.01"
 +++
 

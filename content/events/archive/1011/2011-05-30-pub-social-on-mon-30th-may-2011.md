@@ -4,7 +4,7 @@ date = "2011-05-30T18:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-social-on-mon-30th-may-2011-1474489052155/"    
-ent_time = "2011-05-30T20:30:00Z"
+end_time = "2011-05-30T20:30:00Z"
 location = "The Phantom Coach"
 +++
 

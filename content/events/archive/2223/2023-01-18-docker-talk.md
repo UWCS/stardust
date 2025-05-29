@@ -4,7 +4,7 @@ date = "2023-01-18T13:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/docker-talk/"    
-ent_time = "2023-01-18T15:00:00Z"
+end_time = "2023-01-18T15:00:00Z"
 location = "TBC"
 +++
 

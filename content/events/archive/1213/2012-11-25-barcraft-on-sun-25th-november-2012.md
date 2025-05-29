@@ -4,7 +4,7 @@ date = "2012-11-25T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/barcraft-on-sun-25th-november-2012-1474489070477/"    
-ent_time = "2012-11-26T00:00:00Z"
+end_time = "2012-11-26T00:00:00Z"
 location = "Dirty Duck"
 +++
 

@@ -4,7 +4,7 @@ date = "2008-02-27T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/beerfest-on-wed-27th-february-2008-1474489007256/"    
-ent_time = "2008-02-27T22:00:00Z"
+end_time = "2008-02-27T22:00:00Z"
 location = "The Cooler"
 +++
 

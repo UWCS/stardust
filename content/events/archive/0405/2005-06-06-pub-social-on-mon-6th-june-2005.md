@@ -4,7 +4,7 @@ date = "2005-06-06T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-social-on-mon-6th-june-2005-1474488967742/"    
-ent_time = "2005-06-06T23:00:00Z"
+end_time = "2005-06-06T23:00:00Z"
 location = "The City Arms, Earlsdon"
 +++
 

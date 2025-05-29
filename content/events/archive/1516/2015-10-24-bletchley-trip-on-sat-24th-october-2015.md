@@ -4,7 +4,7 @@ date = "2015-10-24T10:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/bletchley-trip-on-sat-24th-october-2015-1474489110140/"    
-ent_time = "2015-10-24T16:30:00Z"
+end_time = "2015-10-24T16:30:00Z"
 location = "Bletchley Park"
 +++
 

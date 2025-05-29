@@ -4,7 +4,7 @@ date = "2022-11-04T20:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/fresher-rep-election/"    
-ent_time = "2022-11-04T21:00:00Z"
+end_time = "2022-11-04T21:00:00Z"
 location = "Department of Computer Science"
 +++
 

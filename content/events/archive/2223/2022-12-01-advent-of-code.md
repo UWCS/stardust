@@ -4,7 +4,7 @@ date = "2022-12-01T10:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/aoc-22/"    
-ent_time = "2022-12-25T23:00:00Z"
+end_time = "2022-12-25T23:00:00Z"
 location = "Online"
 +++
 

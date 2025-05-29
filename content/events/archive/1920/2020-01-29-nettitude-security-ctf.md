@@ -4,7 +4,7 @@ date = "2020-01-29T14:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/nettitude-security-ctf/"    
-ent_time = "2020-01-29T18:00:00Z"
+end_time = "2020-01-29T18:00:00Z"
 location = "CS0.03, Department of Computer Science"
 +++
 

@@ -4,7 +4,7 @@ date = "2006-07-21T21:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/guest-talk-on-fri-21st-july-2006-1474488984260/"    
-ent_time = "2006-07-23T18:00:00Z"
+end_time = "2006-07-23T18:00:00Z"
 location = "Wolverhampton"
 +++
 

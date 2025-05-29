@@ -4,7 +4,7 @@ date = "2022-10-26T16:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/wildcards-gaming/"    
-ent_time = "2022-10-26T19:00:00Z"
+end_time = "2022-10-26T19:00:00Z"
 location = "Department of Computer Science"
 +++
 

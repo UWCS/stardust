@@ -4,7 +4,7 @@ date = "2022-11-01T11:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/warwick-stem-careers-fair/"    
-ent_time = "2022-11-01T16:00:00Z"
+end_time = "2022-11-01T16:00:00Z"
 location = "Rootes Building (2nd Floor)"
 +++
 

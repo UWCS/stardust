@@ -4,7 +4,7 @@ date = "2009-05-21T14:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/focus-testing-on-thu-21st-may-2009-1474489021908/"    
-ent_time = "2009-05-21T16:00:00Z"
+end_time = "2009-05-21T16:00:00Z"
 location = "FreeStyleGames"
 +++
 

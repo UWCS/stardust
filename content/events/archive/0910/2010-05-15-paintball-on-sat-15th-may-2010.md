@@ -4,7 +4,7 @@ date = "2010-05-15T11:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/paintball-on-sat-15th-may-2010-1474489038079/"    
-ent_time = "2010-05-15T17:00:00Z"
+end_time = "2010-05-15T17:00:00Z"
 location = "National Paintball Fields Birmingham"
 +++
 

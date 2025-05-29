@@ -4,7 +4,7 @@ date = "2020-04-26T23:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/remote-hack-challenge-1/"    
-ent_time = "2020-05-10T22:59:00Z"
+end_time = "2020-05-10T22:59:00Z"
 location = "Remote"
 +++
 

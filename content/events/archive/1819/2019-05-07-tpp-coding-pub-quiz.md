@@ -4,7 +4,7 @@ date = "2019-05-07T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/tpp-coding-pub-quiz/"    
-ent_time = "2019-05-07T21:00:00Z"
+end_time = "2019-05-07T21:00:00Z"
 location = "Varsity"
 +++
 

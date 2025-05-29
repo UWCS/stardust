@@ -4,7 +4,7 @@ date = "2021-10-29T21:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/week-4-lan/"    
-ent_time = "2021-10-31T18:00:00Z"
+end_time = "2021-10-31T18:00:00Z"
 location = "LIB2, Library"
 +++
 

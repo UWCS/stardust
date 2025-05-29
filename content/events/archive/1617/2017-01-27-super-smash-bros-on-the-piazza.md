@@ -4,7 +4,7 @@ date = "2017-01-27T17:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/super-smash-bros-piazza/"    
-ent_time = "2017-01-27T19:00:00Z"
+end_time = "2017-01-27T19:00:00Z"
 location = "The Piazza"
 +++
 

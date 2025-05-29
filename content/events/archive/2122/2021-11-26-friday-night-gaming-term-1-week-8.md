@@ -4,7 +4,7 @@ date = "2021-11-26T19:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/friday-night-gaming-week-8-2122/"    
-ent_time = "2021-11-27T00:00:00Z"
+end_time = "2021-11-27T00:00:00Z"
 location = "Department of Computer Science"
 +++
 

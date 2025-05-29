@@ -4,7 +4,7 @@ date = "2017-05-08T17:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-social-t3w3/"    
-ent_time = "2017-05-08T20:00:00Z"
+end_time = "2017-05-08T20:00:00Z"
 location = "Phantom Coach, Canley"
 +++
 

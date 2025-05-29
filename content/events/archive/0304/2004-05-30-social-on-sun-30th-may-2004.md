@@ -4,7 +4,7 @@ date = "2004-05-30T13:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/social-on-sun-30th-may-2004-1474488955492/"    
-ent_time = "2004-05-30T16:30:00Z"
+end_time = "2004-05-30T16:30:00Z"
 location = "Coventry Skydome"
 +++
 

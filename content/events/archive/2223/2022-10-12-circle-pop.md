@@ -4,7 +4,7 @@ date = "2022-10-12T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/circle-22t1w2/"    
-ent_time = "2022-10-12T22:59:00Z"
+end_time = "2022-10-12T22:59:00Z"
 location = "Copper Rooms"
 +++
 

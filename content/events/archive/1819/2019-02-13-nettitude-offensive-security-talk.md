@@ -4,7 +4,7 @@ date = "2019-02-13T15:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/nettitude-offensive-security-talk/"    
-ent_time = "2019-02-13T17:00:00Z"
+end_time = "2019-02-13T17:00:00Z"
 location = "MB0.07"
 +++
 

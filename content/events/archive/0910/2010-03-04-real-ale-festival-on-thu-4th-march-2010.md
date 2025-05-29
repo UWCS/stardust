@@ -4,7 +4,7 @@ date = "2010-03-04T19:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/real-ale-festival-on-thu-4th-march-2010-1474489036038/"    
-ent_time = "2010-03-05T00:00:00Z"
+end_time = "2010-03-05T00:00:00Z"
 location = "Copper Rooms"
 +++
 

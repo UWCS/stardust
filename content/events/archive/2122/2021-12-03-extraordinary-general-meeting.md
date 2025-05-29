@@ -4,7 +4,7 @@ date = "2021-12-03T17:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/extraordinary-general-meeting-nov-21/"    
-ent_time = "2021-12-03T19:00:00Z"
+end_time = "2021-12-03T19:00:00Z"
 location = "OC1.09 + Teams + Discord"
 +++
 

@@ -4,7 +4,7 @@ date = "2016-06-23T17:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/go-karting-on-thu-23rd-june-2016-1474489118617/"    
-ent_time = "2016-06-23T20:30:00Z"
+end_time = "2016-06-23T20:30:00Z"
 location = "Team Sport Karting"
 +++
 

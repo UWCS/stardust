@@ -4,7 +4,7 @@ date = "2023-01-12T16:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/physcafe-22t2w1/"    
-ent_time = "2023-01-12T18:00:00Z"
+end_time = "2023-01-12T18:00:00Z"
 location = "TBC"
 +++
 

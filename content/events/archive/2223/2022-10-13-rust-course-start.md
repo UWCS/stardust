@@ -4,7 +4,7 @@ date = "2022-10-13T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/rust-course-start/"    
-ent_time = "2022-10-13T20:00:00Z"
+end_time = "2022-10-13T20:00:00Z"
 location = "MS.01 / CS0.06"
 +++
 

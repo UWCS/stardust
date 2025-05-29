@@ -4,7 +4,7 @@ date = "2006-04-21T19:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pre-gaming-social-on-fri-21st-april-2006-1474488970592/"    
-ent_time = "2006-04-21T22:00:00Z"
+end_time = "2006-04-21T22:00:00Z"
 location = "The Bar, Rootes Social Building"
 +++
 

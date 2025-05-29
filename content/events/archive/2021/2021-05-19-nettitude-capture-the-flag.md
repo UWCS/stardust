@@ -4,7 +4,7 @@ date = "2021-05-19T13:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/nettitude-capture-flag/"    
-ent_time = "2021-05-19T16:00:00Z"
+end_time = "2021-05-19T16:00:00Z"
 location = "Remote - Teams"
 +++
 

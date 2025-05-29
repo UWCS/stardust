@@ -4,7 +4,7 @@ date = "2018-10-30T17:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/academic-talk-chris-sinjakli-gocardless/"    
-ent_time = "2018-10-30T18:00:00Z"
+end_time = "2018-10-30T18:00:00Z"
 location = "MSB0.07"
 +++
 

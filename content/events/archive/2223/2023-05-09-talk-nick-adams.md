@@ -4,7 +4,7 @@ date = "2023-05-09T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/talk-guest-speaker-nick-adams/"    
-ent_time = "2023-05-09T19:00:00Z"
+end_time = "2023-05-09T19:00:00Z"
 location = "R1.15"
 +++
 

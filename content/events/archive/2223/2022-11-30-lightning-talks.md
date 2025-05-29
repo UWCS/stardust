@@ -4,7 +4,7 @@ date = "2022-11-30T17:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/lightning-talks-22t1w7/"    
-ent_time = "2022-11-30T18:30:00Z"
+end_time = "2022-11-30T18:30:00Z"
 location = "MB0.07"
 +++
 

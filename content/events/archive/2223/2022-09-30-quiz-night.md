@@ -4,7 +4,7 @@ date = "2022-09-30T20:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/quiz-night/"    
-ent_time = "2022-09-30T21:30:00Z"
+end_time = "2022-09-30T21:30:00Z"
 location = "Department of Computer Science"
 +++
 

@@ -4,7 +4,7 @@ date = "2023-01-28T18:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-crawl-22t2/"    
-ent_time = "2023-01-28T23:59:00Z"
+end_time = "2023-01-28T23:59:00Z"
 location = "Coventry"
 +++
 

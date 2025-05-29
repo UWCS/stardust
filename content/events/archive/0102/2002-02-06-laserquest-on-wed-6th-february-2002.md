@@ -4,7 +4,7 @@ date = "2002-02-06T13:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/laserquest-on-wed-6th-february-2002-1474488929798/"    
-ent_time = "2002-02-06T16:00:00Z"
+end_time = "2002-02-06T16:00:00Z"
 location = "The Bar, Rootes Social Building"
 +++
 

@@ -4,7 +4,7 @@ date = "2006-05-22T19:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-social-on-mon-22nd-may-2006-1474488980632/"    
-ent_time = "2006-05-22T23:00:00Z"
+end_time = "2006-05-22T23:00:00Z"
 location = "The Old Clarence, Earlsdon"
 +++
 

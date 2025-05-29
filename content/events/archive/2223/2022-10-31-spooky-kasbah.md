@@ -4,7 +4,7 @@ date = "2022-10-31T21:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/kasbah-22t1w5/"    
-ent_time = "2022-10-31T23:59:00Z"
+end_time = "2022-10-31T23:59:00Z"
 location = "Kasbah Night Club"
 +++
 

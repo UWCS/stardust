@@ -4,7 +4,7 @@ date = "2023-03-29T14:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/sega-hardlight-talk-w-game-design/"    
-ent_time = "2023-03-29T16:00:00Z"
+end_time = "2023-03-29T16:00:00Z"
 location = "TBC"
 +++
 

@@ -4,7 +4,7 @@ date = "2005-02-11T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/agm-legacy-on-fri-11th-february-2005-1474488964718/"    
-ent_time = "2005-02-11T21:00:00Z"
+end_time = "2005-02-11T21:00:00Z"
 location = "Meeting Room 3, Union North"
 +++
 

@@ -4,7 +4,7 @@ date = "2023-02-06T18:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-meal-22t2w5/"    
-ent_time = "2023-02-06T21:00:00Z"
+end_time = "2023-02-06T21:00:00Z"
 location = "Phantom Coach"
 +++
 

@@ -4,7 +4,7 @@ date = "2022-11-05T15:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/scratch-game-jam/"    
-ent_time = "2022-11-05T18:00:00Z"
+end_time = "2022-11-05T18:00:00Z"
 location = "Department of Computer Science"
 +++
 

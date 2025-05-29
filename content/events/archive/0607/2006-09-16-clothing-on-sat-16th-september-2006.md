@@ -4,7 +4,7 @@ date = "2006-09-16T06:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/clothing-on-sat-16th-september-2006-1474488984363/"    
-ent_time = "2006-09-16T07:00:00Z"
+end_time = "2006-09-16T07:00:00Z"
 location = "Freshers' Fayre"
 +++
 

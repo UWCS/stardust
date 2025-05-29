@@ -4,7 +4,7 @@ date = "2022-10-04T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/xsoc-python-course-start/"    
-ent_time = "2022-10-04T20:00:00Z"
+end_time = "2022-10-04T20:00:00Z"
 location = "OC0.03 then OC0.01"
 +++
 

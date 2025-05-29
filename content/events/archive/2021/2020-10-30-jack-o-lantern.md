@@ -4,7 +4,7 @@ date = "2020-10-30T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/friday-night-gaming-2020-10-30/"    
-ent_time = "2020-11-01T18:00:00Z"
+end_time = "2020-11-01T18:00:00Z"
 location = "Remote - Discord"
 +++
 

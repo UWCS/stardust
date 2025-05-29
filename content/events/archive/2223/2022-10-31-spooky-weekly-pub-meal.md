@@ -4,7 +4,7 @@ date = "2022-10-31T19:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-meal-22t1w5/"    
-ent_time = "2022-10-31T21:00:00Z"
+end_time = "2022-10-31T21:00:00Z"
 location = "The Flying Standard"
 +++
 

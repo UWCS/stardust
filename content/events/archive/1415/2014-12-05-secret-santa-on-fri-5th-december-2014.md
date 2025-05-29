@@ -4,7 +4,7 @@ date = "2014-12-05T20:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/secret-santa-on-fri-5th-december-2014-1474489104156/"    
-ent_time = "2014-12-05T21:00:00Z"
+end_time = "2014-12-05T21:00:00Z"
 location = "DCS"
 +++
 

@@ -4,7 +4,7 @@ date = "2017-04-28T17:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/start-term-meal/"    
-ent_time = "2017-04-28T20:00:00Z"
+end_time = "2017-04-28T20:00:00Z"
 location = "The Farmhouse Restaurant, Canley, CV5 6HB"
 +++
 

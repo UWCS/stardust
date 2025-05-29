@@ -4,7 +4,7 @@ date = "2020-03-13T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/end-term-meal-term-march-2020/"    
-ent_time = "2020-03-13T20:00:00Z"
+end_time = "2020-03-13T20:00:00Z"
 location = "The Farmhouse, Coventry"
 +++
 

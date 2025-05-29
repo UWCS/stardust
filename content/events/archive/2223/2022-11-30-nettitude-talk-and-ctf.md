@@ -4,7 +4,7 @@ date = "2022-11-30T13:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/nettitude-talk-and-ctf/"    
-ent_time = "2022-11-30T17:00:00Z"
+end_time = "2022-11-30T17:00:00Z"
 location = "IMC246"
 +++
 

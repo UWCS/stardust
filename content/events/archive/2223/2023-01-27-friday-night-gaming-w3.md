@@ -4,7 +4,7 @@ date = "2023-01-27T19:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/fng-22t2w3/"    
-ent_time = "2023-01-27T23:59:00Z"
+end_time = "2023-01-27T23:59:00Z"
 location = "Department of Computer Science"
 +++
 

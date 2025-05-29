@@ -4,7 +4,7 @@ date = "2012-02-22T19:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/handover-meal-on-wed-22nd-february-2012-1474489060353/"    
-ent_time = "2012-02-22T23:30:00Z"
+end_time = "2012-02-22T23:30:00Z"
 location = "Cosmo"
 +++
 

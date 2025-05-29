@@ -4,7 +4,7 @@ date = "2019-11-09T14:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/animesoc-vs-compsoc-laserquest/"    
-ent_time = "2019-11-09T16:00:00Z"
+end_time = "2019-11-09T16:00:00Z"
 location = "LaserQuest, Coventry"
 +++
 

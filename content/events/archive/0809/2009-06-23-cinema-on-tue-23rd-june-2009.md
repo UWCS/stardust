@@ -4,7 +4,7 @@ date = "2009-06-23T22:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/cinema-on-tue-23rd-june-2009-1474489025544/"    
-ent_time = "2009-06-24T00:30:00Z"
+end_time = "2009-06-24T00:30:00Z"
 location = "Rootes Field"
 +++
 

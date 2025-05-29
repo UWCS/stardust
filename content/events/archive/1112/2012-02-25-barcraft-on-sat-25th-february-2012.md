@@ -4,7 +4,7 @@ date = "2012-02-25T14:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/barcraft-on-sat-25th-february-2012-1474489061156/"    
-ent_time = "2012-02-25T20:00:00Z"
+end_time = "2012-02-25T20:00:00Z"
 location = "The Phantom Coach"
 +++
 

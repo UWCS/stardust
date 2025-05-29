@@ -4,7 +4,7 @@ date = "2006-01-18T17:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-crawl-on-wed-18th-january-2006-1474488976572/"    
-ent_time = "2006-01-18T23:30:00Z"
+end_time = "2006-01-18T23:30:00Z"
 location = "Coventry Skydome"
 +++
 

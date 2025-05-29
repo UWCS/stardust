@@ -4,7 +4,7 @@ date = "2009-03-07T20:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/cinema-on-sat-7th-march-2009-1474489021386/"    
-ent_time = "2009-03-07T23:55:00Z"
+end_time = "2009-03-07T23:55:00Z"
 location = "Coventry Skydome"
 +++
 

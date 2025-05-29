@@ -4,7 +4,7 @@ date = "2017-02-10T20:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/programming-workshop-t2w5/"    
-ent_time = "2017-02-11T01:00:00Z"
+end_time = "2017-02-11T01:00:00Z"
 location = "CS001 Department of Computer Science"
 +++
 

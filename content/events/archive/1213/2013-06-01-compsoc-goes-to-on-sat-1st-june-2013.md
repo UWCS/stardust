@@ -4,7 +4,7 @@ date = "2013-06-01T20:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/compsoc-goes-to-on-sat-1st-june-2013-1474489079465/"    
-ent_time = "2013-06-03T12:12:20Z"
+end_time = "2013-06-03T12:12:20Z"
 location = "Dirty Duck"
 +++
 

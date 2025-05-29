@@ -4,7 +4,7 @@ date = "2022-11-07T19:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-meal-22t1w6/"    
-ent_time = "2022-11-07T21:00:00Z"
+end_time = "2022-11-07T21:00:00Z"
 location = "Phantom Coach"
 +++
 

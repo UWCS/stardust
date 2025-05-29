@@ -4,7 +4,7 @@ date = "2003-02-09T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/open-source-project-on-sun-9th-february-2003-1474488939279/"    
-ent_time = "2003-02-09T20:00:00Z"
+end_time = "2003-02-09T20:00:00Z"
 location = "Meeting Room 6, Union North"
 +++
 

@@ -4,7 +4,7 @@ date = "2022-09-29T10:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/computing-at-the-societies-fair/"    
-ent_time = "2022-09-29T16:00:00Z"
+end_time = "2022-09-29T16:00:00Z"
 location = "Sports Hub"
 +++
 

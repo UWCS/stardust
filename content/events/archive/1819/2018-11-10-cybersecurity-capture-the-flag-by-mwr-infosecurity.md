@@ -4,7 +4,7 @@ date = "2018-11-10T10:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/cybersecurity-capture-flag-mwr-infosecurity/"    
-ent_time = "2018-11-10T17:00:00Z"
+end_time = "2018-11-10T17:00:00Z"
 location = "CS0;06"
 +++
 

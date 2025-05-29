@@ -4,7 +4,7 @@ date = "2021-09-27T17:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/welcome-week-pub-meal-social/"    
-ent_time = "2021-09-27T20:00:00Z"
+end_time = "2021-09-27T20:00:00Z"
 location = "The Phantom Coach"
 +++
 

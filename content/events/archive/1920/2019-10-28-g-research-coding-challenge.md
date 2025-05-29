@@ -4,7 +4,7 @@ date = "2019-10-28T19:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/g-research-coding-challenge/"    
-ent_time = "2019-10-28T21:00:00Z"
+end_time = "2019-10-28T21:00:00Z"
 location = "Department of Computer Science, CS0.01"
 +++
 

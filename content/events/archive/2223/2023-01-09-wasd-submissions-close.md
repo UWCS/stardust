@@ -4,7 +4,7 @@ date = "2023-01-09T23:59:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/wasd-submissions-close/"    
-ent_time = "2023-01-09T23:59:00Z"
+end_time = "2023-01-09T23:59:00Z"
 location = "https://warwickspeed.run/"
 +++
 

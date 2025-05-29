@@ -4,7 +4,7 @@ date = "2022-10-24T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-meal-22t1w4/"    
-ent_time = "2022-10-24T20:00:00Z"
+end_time = "2022-10-24T20:00:00Z"
 location = "Dirty Duck"
 +++
 

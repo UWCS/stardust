@@ -4,7 +4,7 @@ date = "2019-11-06T13:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/lseg-talk/"    
-ent_time = "2019-11-06T15:30:00Z"
+end_time = "2019-11-06T15:30:00Z"
 location = "L4, Science Concourse"
 +++
 

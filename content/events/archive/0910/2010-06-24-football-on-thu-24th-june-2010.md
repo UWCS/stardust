@@ -4,7 +4,7 @@ date = "2010-06-24T16:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/football-on-thu-24th-june-2010-1474489041057/"    
-ent_time = "2010-06-24T17:00:00Z"
+end_time = "2010-06-24T17:00:00Z"
 location = "Westwood Astro Pitch 2"
 +++
 

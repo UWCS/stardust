@@ -4,7 +4,7 @@ date = "2023-05-22T09:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/mm-22t3w5/"    
-ent_time = "2023-05-22T13:00:00Z"
+end_time = "2023-05-22T13:00:00Z"
 location = "DCS Atrium"
 +++
 

@@ -4,7 +4,7 @@ date = "2018-03-16T17:45:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/exec-handover-meal-2018/"    
-ent_time = "2018-03-16T21:00:00Z"
+end_time = "2018-03-16T21:00:00Z"
 location = "The Farmhouse"
 +++
 

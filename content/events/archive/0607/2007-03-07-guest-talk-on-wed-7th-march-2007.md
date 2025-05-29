@@ -4,7 +4,7 @@ date = "2007-03-07T14:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/guest-talk-on-wed-7th-march-2007-1474488987619/"    
-ent_time = "2007-03-07T16:00:00Z"
+end_time = "2007-03-07T16:00:00Z"
 location = "Social Studies"
 +++
 

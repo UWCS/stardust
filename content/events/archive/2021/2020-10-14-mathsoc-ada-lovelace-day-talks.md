@@ -4,7 +4,7 @@ date = "2020-10-14T13:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/mathsoc-ada-lovelace-day-talks/"    
-ent_time = "2020-10-14T16:00:00Z"
+end_time = "2020-10-14T16:00:00Z"
 location = "Remote"
 +++
 

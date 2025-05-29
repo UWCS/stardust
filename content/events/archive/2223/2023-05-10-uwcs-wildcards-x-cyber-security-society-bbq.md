@@ -4,7 +4,7 @@ date = "2023-05-10T13:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/wildcards-bbq-22t3w3/"    
-ent_time = "2023-05-10T16:00:00Z"
+end_time = "2023-05-10T16:00:00Z"
 location = "Claycroft BBQ Spot (Exact Location Emailed)"
 +++
 

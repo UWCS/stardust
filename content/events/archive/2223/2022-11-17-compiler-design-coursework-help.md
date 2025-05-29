@@ -4,7 +4,7 @@ date = "2022-11-17T17:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/compiler-design-coursework-help/"    
-ent_time = "2022-11-17T19:00:00Z"
+end_time = "2022-11-17T19:00:00Z"
 location = "CS0.06"
 +++
 

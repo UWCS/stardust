@@ -4,7 +4,7 @@ date = "2011-12-07T18:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/academic-talk-on-wed-7th-december-2011-1474489057784/"    
-ent_time = "2011-12-07T21:00:00Z"
+end_time = "2011-12-07T21:00:00Z"
 location = "Coventry University"
 +++
 

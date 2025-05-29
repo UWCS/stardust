@@ -4,7 +4,7 @@ date = "2021-08-14T11:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/wasd-summer/"    
-ent_time = "2021-08-15T22:00:00Z"
+end_time = "2021-08-15T22:00:00Z"
 location = "Remote - Twitch"
 +++
 

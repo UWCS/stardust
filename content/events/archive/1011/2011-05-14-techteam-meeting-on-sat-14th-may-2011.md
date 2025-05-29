@@ -4,7 +4,7 @@ date = "2011-05-14T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/techteam-meeting-on-sat-14th-may-2011-1474489051675/"    
-ent_time = "2011-05-14T19:00:00Z"
+end_time = "2011-05-14T19:00:00Z"
 location = "LIB2"
 +++
 

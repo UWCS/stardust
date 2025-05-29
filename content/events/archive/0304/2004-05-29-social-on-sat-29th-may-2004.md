@@ -4,7 +4,7 @@ date = "2004-05-29T12:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/social-on-sat-29th-may-2004-1474488955592/"    
-ent_time = "2004-06-19T18:00:00Z"
+end_time = "2004-06-19T18:00:00Z"
 location = "Wolverhampton"
 +++
 

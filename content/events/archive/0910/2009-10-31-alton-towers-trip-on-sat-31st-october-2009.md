@@ -4,7 +4,7 @@ date = "2009-10-31T08:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/alton-towers-trip-on-sat-31st-october-2009-1474489025639/"    
-ent_time = "2009-10-31T19:00:00Z"
+end_time = "2009-10-31T19:00:00Z"
 location = "Alton Towers"
 +++
 

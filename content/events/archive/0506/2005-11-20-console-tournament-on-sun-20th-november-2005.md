@@ -4,7 +4,7 @@ date = "2005-11-20T03:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/console-tournament-on-sun-20th-november-2005-1474488973029/"    
-ent_time = "2005-11-20T19:00:00Z"
+end_time = "2005-11-20T19:00:00Z"
 location = "LIB1"
 +++
 

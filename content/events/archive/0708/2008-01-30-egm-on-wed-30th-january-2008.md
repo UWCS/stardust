@@ -4,7 +4,7 @@ date = "2008-01-30T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/egm-on-wed-30th-january-2008-1474489005958/"    
-ent_time = "2008-01-30T21:00:00Z"
+end_time = "2008-01-30T21:00:00Z"
 location = "Social Studies"
 +++
 

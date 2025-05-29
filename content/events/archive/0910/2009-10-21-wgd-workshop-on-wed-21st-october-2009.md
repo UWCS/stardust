@@ -4,7 +4,7 @@ date = "2009-10-21T14:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/wgd-workshop-on-wed-21st-october-2009-1474489028271/"    
-ent_time = "2009-10-21T17:00:00Z"
+end_time = "2009-10-21T17:00:00Z"
 location = "Learning Grid"
 +++
 

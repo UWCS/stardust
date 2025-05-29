@@ -4,7 +4,7 @@ date = "2009-05-22T18:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pre-gaming-social-on-fri-22nd-may-2009-1474489023381/"    
-ent_time = "2009-05-22T20:00:00Z"
+end_time = "2009-05-22T20:00:00Z"
 location = "The Varsity"
 +++
 

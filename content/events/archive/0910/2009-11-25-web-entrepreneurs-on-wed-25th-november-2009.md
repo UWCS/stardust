@@ -4,7 +4,7 @@ date = "2009-11-25T14:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/web-entrepreneurs-on-wed-25th-november-2009-1474489032257/"    
-ent_time = "2009-11-25T17:00:00Z"
+end_time = "2009-11-25T17:00:00Z"
 location = "Digital Laboratory"
 +++
 

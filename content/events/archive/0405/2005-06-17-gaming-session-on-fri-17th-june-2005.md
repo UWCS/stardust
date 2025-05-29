@@ -4,7 +4,7 @@ date = "2005-06-17T21:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/gaming-session-on-fri-17th-june-2005-1474488966792/"    
-ent_time = "2005-06-18T04:00:00Z"
+end_time = "2005-06-18T04:00:00Z"
 location = "Physics Concourse Computer Rooms"
 +++
 

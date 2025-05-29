@@ -4,7 +4,7 @@ date = "2019-12-03T19:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/compsoc-christmas-pub-2019/"    
-ent_time = "2019-12-03T21:00:00Z"
+end_time = "2019-12-03T21:00:00Z"
 location = "[TBD]"
 +++
 

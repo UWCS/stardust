@@ -4,7 +4,7 @@ date = "2022-01-16T14:15:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/compsoc-vs-tabletop-laser-tag/"    
-ent_time = "2022-01-16T16:00:00Z"
+end_time = "2022-01-16T16:00:00Z"
 location = "Laser Quest Coventry"
 +++
 

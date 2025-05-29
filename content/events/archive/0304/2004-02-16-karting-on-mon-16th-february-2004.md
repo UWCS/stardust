@@ -4,7 +4,7 @@ date = "2004-02-16T09:45:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/karting-on-mon-16th-february-2004-1474488950564/"    
-ent_time = "2004-02-18T18:30:00Z"
+end_time = "2004-02-18T18:30:00Z"
 location = "Mr. Karting, Leamington"
 +++
 

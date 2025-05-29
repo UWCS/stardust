@@ -4,7 +4,7 @@ date = "2019-03-01T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/creams-ice-cream-parlour-trip/"    
-ent_time = "2019-03-01T20:00:00Z"
+end_time = "2019-03-01T20:00:00Z"
 location = "Department of Computer Science"
 +++
 

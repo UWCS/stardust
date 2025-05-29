@@ -4,7 +4,7 @@ date = "2004-10-27T18:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/wuglug-meeting-on-wed-27th-october-2004-1474488959451/"    
-ent_time = "2004-10-27T19:30:00Z"
+end_time = "2004-10-27T19:30:00Z"
 location = "Cafe Xanana"
 +++
 

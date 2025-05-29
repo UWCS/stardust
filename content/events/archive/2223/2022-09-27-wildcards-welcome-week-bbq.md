@@ -4,7 +4,7 @@ date = "2022-09-27T15:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/wildcards-welcome-week-social/"    
-ent_time = "2022-09-27T17:00:00Z"
+end_time = "2022-09-27T17:00:00Z"
 location = "Windmill Hill"
 +++
 

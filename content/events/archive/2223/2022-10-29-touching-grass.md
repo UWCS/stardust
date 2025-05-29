@@ -4,7 +4,7 @@ date = "2022-10-29T12:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/touching-grass/"    
-ent_time = "2022-10-29T15:00:00Z"
+end_time = "2022-10-29T15:00:00Z"
 location = "Leamington"
 +++
 

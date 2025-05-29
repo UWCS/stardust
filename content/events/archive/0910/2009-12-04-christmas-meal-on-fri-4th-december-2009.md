@@ -4,7 +4,7 @@ date = "2009-12-04T18:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/christmas-meal-on-fri-4th-december-2009-1474489031558/"    
-ent_time = "2009-12-04T23:59:59Z"
+end_time = "2009-12-04T23:59:59Z"
 location = "Wing Wah's"
 +++
 

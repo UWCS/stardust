@@ -4,7 +4,7 @@ date = "2023-01-27T19:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/agm-22-cutoff-1w/"    
-ent_time = "2023-01-27T21:00:00Z"
+end_time = "2023-01-27T21:00:00Z"
 location = "warwicksu.com/societies-sports/societies/computing"
 +++
 

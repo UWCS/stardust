@@ -4,7 +4,7 @@ date = "2023-03-15T19:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/eot-meal-22t2/"    
-ent_time = "2023-03-15T21:00:00Z"
+end_time = "2023-03-15T21:00:00Z"
 location = "Blue Orchid"
 +++
 

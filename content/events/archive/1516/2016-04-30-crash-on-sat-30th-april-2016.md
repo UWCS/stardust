@@ -4,7 +4,7 @@ date = "2016-04-30T22:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/crash-on-sat-30th-april-2016-1474489118515/"    
-ent_time = "2016-05-01T02:00:00Z"
+end_time = "2016-05-01T02:00:00Z"
 location = "Copper Rooms"
 +++
 

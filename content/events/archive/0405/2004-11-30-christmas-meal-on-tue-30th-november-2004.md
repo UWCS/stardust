@@ -4,7 +4,7 @@ date = "2004-11-30T11:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/christmas-meal-on-tue-30th-november-2004-1474488960398/"    
-ent_time = "2004-12-01T23:00:00Z"
+end_time = "2004-12-01T23:00:00Z"
 location = "The Virgin and Castle, Kenilworth"
 +++
 

@@ -4,7 +4,7 @@ date = "2019-10-23T12:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/how-do-you-vue/"    
-ent_time = "2019-10-23T13:00:00Z"
+end_time = "2019-10-23T13:00:00Z"
 location = "Department of Computer Science, CS1.04"
 +++
 

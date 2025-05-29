@@ -4,7 +4,7 @@ date = "2010-06-26T20:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/chaplaincy-ball-on-sat-26th-june-2010-1474489040733/"    
-ent_time = "2010-06-27T02:00:00Z"
+end_time = "2010-06-27T02:00:00Z"
 location = "Chaplaincy"
 +++
 

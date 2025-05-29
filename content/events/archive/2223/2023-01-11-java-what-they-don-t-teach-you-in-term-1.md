@@ -4,7 +4,7 @@ date = "2023-01-11T13:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/java-what-they-dont-teach-you-in-term-1/"    
-ent_time = "2023-01-11T15:00:00Z"
+end_time = "2023-01-11T15:00:00Z"
 location = "MS.02"
 +++
 

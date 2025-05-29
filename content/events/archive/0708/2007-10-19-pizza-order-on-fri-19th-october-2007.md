@@ -4,7 +4,7 @@ date = "2007-10-19T21:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pizza-order-on-fri-19th-october-2007-1474489001990/"    
-ent_time = "2007-10-19T22:00:00Z"
+end_time = "2007-10-19T22:00:00Z"
 location = "LIB1"
 +++
 

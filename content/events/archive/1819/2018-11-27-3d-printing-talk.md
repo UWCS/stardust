@@ -4,7 +4,7 @@ date = "2018-11-27T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/3d-printing-talk/"    
-ent_time = "2018-11-27T19:00:00Z"
+end_time = "2018-11-27T19:00:00Z"
 location = "MSB0.07"
 +++
 

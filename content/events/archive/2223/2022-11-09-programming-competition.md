@@ -4,7 +4,7 @@ date = "2022-11-09T16:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/programming-competition/"    
-ent_time = "2022-11-09T19:30:00Z"
+end_time = "2022-11-09T19:30:00Z"
 location = "Department of Computer Science"
 +++
 

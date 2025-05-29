@@ -4,7 +4,7 @@ date = "2013-02-06T08:40:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/industrial-trip-on-wed-6th-february-2013-1474489071731/"    
-ent_time = "2013-02-06T17:30:00Z"
+end_time = "2013-02-06T17:30:00Z"
 location = "IBM Hursley"
 +++
 

@@ -4,7 +4,7 @@ date = "2006-12-13T18:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/wuglug-social-on-wed-13th-december-2006-1474488987414/"    
-ent_time = "2006-12-13T23:00:00Z"
+end_time = "2006-12-13T23:00:00Z"
 location = "The Phantom Coach"
 +++
 

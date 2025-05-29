@@ -4,7 +4,7 @@ date = "2021-06-28T11:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/summer-bfl/"    
-ent_time = "2021-07-02T22:00:00Z"
+end_time = "2021-07-02T22:00:00Z"
 location = "Remote - Discord"
 +++
 

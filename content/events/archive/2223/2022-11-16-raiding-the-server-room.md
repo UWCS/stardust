@@ -4,7 +4,7 @@ date = "2022-11-16T14:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/raiding-the-server-room/"    
-ent_time = "2022-11-16T17:00:00Z"
+end_time = "2022-11-16T17:00:00Z"
 location = "Department of Computer Science"
 +++
 

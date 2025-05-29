@@ -4,7 +4,7 @@ date = "2017-05-17T16:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/google-io-keynote-event/"    
-ent_time = "2017-05-17T18:00:00Z"
+end_time = "2017-05-17T18:00:00Z"
 location = "OC0.01, The Oculus Building, Main Campus"
 +++
 

@@ -4,7 +4,7 @@ date = "2006-10-25T12:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/linuxworld-trip-on-wed-25th-october-2006-1474488985277/"    
-ent_time = "2006-10-25T20:00:00Z"
+end_time = "2006-10-25T20:00:00Z"
 location = "London"
 +++
 

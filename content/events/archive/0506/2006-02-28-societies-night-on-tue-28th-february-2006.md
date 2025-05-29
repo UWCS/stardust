@@ -4,7 +4,7 @@ date = "2006-02-28T21:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/societies-night-on-tue-28th-february-2006-1474488977408/"    
-ent_time = "2006-02-28T23:00:00Z"
+end_time = "2006-02-28T23:00:00Z"
 location = "Cholo"
 +++
 

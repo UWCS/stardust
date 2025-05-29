@@ -4,7 +4,7 @@ date = "2007-11-23T20:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/progcomp-on-fri-23rd-november-2007-1474489002899/"    
-ent_time = "2007-11-25T16:30:00Z"
+end_time = "2007-11-25T16:30:00Z"
 location = "Various Deprecated Locations"
 +++
 

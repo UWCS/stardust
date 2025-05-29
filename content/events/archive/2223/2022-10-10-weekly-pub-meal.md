@@ -4,7 +4,7 @@ date = "2022-10-10T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-meal-22t1w2/"    
-ent_time = "2022-10-10T20:00:00Z"
+end_time = "2022-10-10T20:00:00Z"
 location = "Varsity"
 +++
 

@@ -4,7 +4,7 @@ date = "2019-01-21T18:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-2019-01-21/"    
-ent_time = "2019-01-21T21:30:00Z"
+end_time = "2019-01-21T21:30:00Z"
 location = "Phantom Coach, Canley"
 +++
 

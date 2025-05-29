@@ -4,7 +4,7 @@ date = "2009-10-21T19:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/wgd-console-social-on-wed-21st-october-2009-1474489028055/"    
-ent_time = "2009-10-22T00:00:00Z"
+end_time = "2009-10-22T00:00:00Z"
 location = "B2.02"
 +++
 

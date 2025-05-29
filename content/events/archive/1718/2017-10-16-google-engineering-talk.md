@@ -4,7 +4,7 @@ date = "2017-10-16T17:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/google-engineering-talk/"    
-ent_time = "2017-10-16T18:00:00Z"
+end_time = "2017-10-16T18:00:00Z"
 location = "OC0.02, The Oculus Building"
 +++
 

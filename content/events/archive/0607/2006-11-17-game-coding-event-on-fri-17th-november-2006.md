@@ -4,7 +4,7 @@ date = "2006-11-17T19:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/game-coding-event-on-fri-17th-november-2006-1474488985484/"    
-ent_time = "2006-11-19T19:00:00Z"
+end_time = "2006-11-19T19:00:00Z"
 location = "Physics Concourse Computer Rooms"
 +++
 

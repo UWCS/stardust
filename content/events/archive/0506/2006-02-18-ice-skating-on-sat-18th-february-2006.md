@@ -4,7 +4,7 @@ date = "2006-02-18T12:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/ice-skating-on-sat-18th-february-2006-1474488976995/"    
-ent_time = "2006-02-18T16:30:00Z"
+end_time = "2006-02-18T16:30:00Z"
 location = "Coventry Skydome"
 +++
 

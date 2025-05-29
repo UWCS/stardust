@@ -4,7 +4,7 @@ date = "2023-05-06T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/computing-ball/"    
-ent_time = "2023-05-06T22:00:00Z"
+end_time = "2023-05-06T22:00:00Z"
 location = "Riverside Glasshouse"
 +++
 

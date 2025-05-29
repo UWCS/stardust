@@ -4,7 +4,7 @@ date = "2004-02-02T00:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/christmas-meal-on-mon-2nd-february-2004-1474488950353/"    
-ent_time = "2004-02-02T01:30:00Z"
+end_time = "2004-02-02T01:30:00Z"
 location = "Oriental Star, Leamington"
 +++
 

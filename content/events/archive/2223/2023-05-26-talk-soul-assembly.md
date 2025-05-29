@@ -4,7 +4,7 @@ date = "2023-05-26T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/talk-guest-speaker-barnaby-smith/"    
-ent_time = "2023-05-26T19:00:00Z"
+end_time = "2023-05-26T19:00:00Z"
 location = "OC1.08"
 +++
 

@@ -4,7 +4,7 @@ date = "2022-11-18T18:30:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-crawl-22t1/"    
-ent_time = "2022-11-18T23:59:00Z"
+end_time = "2022-11-18T23:59:00Z"
 location = "Leamington Spa"
 +++
 

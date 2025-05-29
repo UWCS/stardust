@@ -4,7 +4,7 @@ date = "2012-10-17T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/laserquest-on-wed-17th-october-2012-1474489067129/"    
-ent_time = "2012-10-17T20:00:00Z"
+end_time = "2012-10-17T20:00:00Z"
 location = "Laser Quest, Coventry"
 +++
 

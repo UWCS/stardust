@@ -4,7 +4,7 @@ date = "2020-02-28T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/agm-elections/"    
-ent_time = "2020-02-28T20:00:00Z"
+end_time = "2020-02-28T20:00:00Z"
 location = "OC1.01, Oculus Building"
 +++
 

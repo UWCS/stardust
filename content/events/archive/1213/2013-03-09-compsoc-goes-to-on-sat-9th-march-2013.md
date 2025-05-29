@@ -4,7 +4,7 @@ date = "2013-03-09T22:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/compsoc-goes-to-on-sat-9th-march-2013-1474489074721/"    
-ent_time = "2013-03-10T02:00:00Z"
+end_time = "2013-03-10T02:00:00Z"
 location = "Copper Rooms"
 +++
 

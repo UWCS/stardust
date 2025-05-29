@@ -4,7 +4,7 @@ date = "2020-01-07T19:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-social-2020-01-07/"    
-ent_time = "2020-01-07T22:00:00Z"
+end_time = "2020-01-07T22:00:00Z"
 location = "Department of Computer Science"
 +++
 

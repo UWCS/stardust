@@ -4,7 +4,7 @@ date = "2020-02-14T20:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/lanimal-crossing/"    
-ent_time = "2020-02-16T18:00:00Z"
+end_time = "2020-02-16T18:00:00Z"
 location = "LIB 2"
 +++
 

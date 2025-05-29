@@ -4,7 +4,7 @@ date = "2010-11-26T17:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/48hr-wgd-competition-on-fri-26th-november-2010-1474489044035/"    
-ent_time = "2010-11-28T17:00:00Z"
+end_time = "2010-11-28T17:00:00Z"
 location = "B2.05/06"
 +++
 

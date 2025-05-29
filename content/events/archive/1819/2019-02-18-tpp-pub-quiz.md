@@ -4,7 +4,7 @@ date = "2019-02-18T19:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/pub-2019-02-18/"    
-ent_time = "2019-02-18T22:00:00Z"
+end_time = "2019-02-18T22:00:00Z"
 location = "The Graduate, University of Warwick"
 +++
 

@@ -4,7 +4,7 @@ date = "2022-10-08T16:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/stem-social/"    
-ent_time = "2022-10-08T19:00:00Z"
+end_time = "2022-10-08T19:00:00Z"
 location = "Copper Rooms"
 +++
 

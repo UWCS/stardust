@@ -4,7 +4,7 @@ date = "2010-05-26T13:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/exec-meeting-on-wed-26th-may-2010-1474489040490/"    
-ent_time = "2010-05-26T14:00:00Z"
+end_time = "2010-05-26T14:00:00Z"
 location = "DCS"
 +++
 

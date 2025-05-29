@@ -4,7 +4,7 @@ date = "2018-12-05T18:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/end-term-1-meal/"    
-ent_time = "2018-12-05T21:00:00Z"
+end_time = "2018-12-05T21:00:00Z"
 location = "The Farmhouse, 215 Beechwood Avenue, Coventry"
 +++
 

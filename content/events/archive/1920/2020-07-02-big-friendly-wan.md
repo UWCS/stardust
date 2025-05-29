@@ -4,7 +4,7 @@ date = "2020-07-02T23:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/big-friendly-wan/"    
-ent_time = "2020-07-07T22:59:00Z"
+end_time = "2020-07-07T22:59:00Z"
 location = "Remote"
 +++
 

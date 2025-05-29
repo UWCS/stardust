@@ -4,7 +4,7 @@ date = "2021-09-30T14:00:00Z"
 
 [extra]
 original = "https://uwcs.co.uk/events/welcome-week-talk-git-good/"    
-ent_time = "2021-09-30T15:00:00Z"
+end_time = "2021-09-30T15:00:00Z"
 location = "CS1.04, Department of Computer Science"
 +++
 
