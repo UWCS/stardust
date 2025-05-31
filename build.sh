@@ -11,6 +11,39 @@ fi
 export SCRIPT_DIR=$(dirname "$(realpath $0)")
 cd $SCRIPT_DIR && echo "Running in $SCRIPT_DIR"
 
+cleaned=0
+
+cleanup() {
+    if [ "$cleaned" -eq 1 ]; then
+        return
+    fi
+
+    cleaned=1
+    
+    echo "At $(pwd)"
+    echo "Clean up"
+
+    git restore config.toml
+
+    # Remove redundant css from prod site
+    if which purgecss; then
+        (
+        cd ../build
+        purgecss --config $SCRIPT_DIR/purgecss.config.js
+        purgecss --config $SCRIPT_DIR/purgecss.config.js --css icon-packs/*.css --output icon-packs
+        )
+    fi
+
+    # Stop storing pid (ensures cancel doesn't come mid move)
+    rm -f "./stardust.pid"
+
+    # Swap versions asap
+    [ -d "../public" ] && mv ../public ../old
+    mv ../build ../public
+    rm -rf ../old
+}
+trap cleanup EXIT INT TERM
+
 # Record pid to ensure only one running
 if [ -f "./stardust.pid" ] && ps -p $(cat "./stardust.pid") >/dev/null 2>&1
 then
@@ -18,7 +51,6 @@ then
     kill $(cat "./stardust.pid")
     sleep 3
 fi
-trap 'rm -f "./stardust.pid"' EXIT
 echo $$ > "./stardust.pid"
 
 
@@ -32,23 +64,4 @@ sed -i 's/# DRAFT//g' config.toml
 # Build main
 git restore config.toml
 sed -i 's/\(.*\)# DRAFT/# DRAFT \1/g' config.toml
-exec ./zola build --base-url https://uwcs.co.uk --output-dir ../build --force
-
-git restore config.toml
-
-# Remove redundant css from prod site
-if which purgecss; then
-    (
-    cd ../build
-    purgecss --config $SCRIPT_DIR/purgecss.config.js
-    purgecss --config $SCRIPT_DIR/purgecss.config.js --css icon-packs/*.css --output icon-packs
-    )
-fi
-
-# Stop storing pid (ensures cancel doesn't come mid move)
-rm -f "./stardust.pid"
-
-# Swap versions asap
-[ -d "../public" ] && mv ../public ../old
-mv ../build ../public
-rm -rf ../old
+./zola build --base-url https://uwcs.co.uk --output-dir ../build --force
