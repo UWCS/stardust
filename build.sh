@@ -14,7 +14,7 @@ cd $SCRIPT_DIR && echo "Running in $SCRIPT_DIR"
 # Record pid to ensure only one running
 if [ -f "./stardust.pid" ];
 then
-    if [ ps -p $(cat "./stardust.pid") >/dev/null 2>&1 ]; then
+    if ps -p $(cat "./stardust.pid"); then
         echo "Cancelling other run..."
         kill $(cat "./stardust.pid")
         sleep 3
@@ -24,6 +24,13 @@ then
 fi
 
 echo $$ > "./stardust.pid"
+
+pids=$(pgrep -u git-user -f 'zola build') || true
+if [ -n "$pids" ]; then
+    echo "Killing lingering zola builds: $pids"
+    kill $pids
+    sleep 3
+fi
 
 
 # Pull changes
