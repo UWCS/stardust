@@ -7,7 +7,9 @@ draft = false
 categories = ["Newsletter"]
 +++
 
-It's your favourite Impostor Secretary Raven, celebrating the anniversary of my first newsletter! There seems to have been an emergency evacuation at the Newsletter Factory, but the workers are safe and having some R＆R, don't worry! In the meantime I'll do my best Saul impression: And that's why I (fight) write newsletters for you (Albuquerque) UWCS! Speaking of Saul, this is a perfect segue into the next section, because you, in fact, have rights!
+It's your favourite Impostor Secretary Raven, celebrating the anniversary of my first newsletter! For this one, I'ma do my best Saul impression: And that's why I (fight) write newsletters for you (Albuquerque) UWCS! Speaking of Saul, this is a perfect segue into the next section, because you, in fact, have rights!
+
+There has been an emergency evacuation at the Newsletter Factory, but the workers are safe and having some rest and recuperation, don't worry!
 
 --------------------------------------------------------------------------
 
