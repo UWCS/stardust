@@ -100,7 +100,7 @@ In any case, come along to the session to conquer the jungle of web development 
 
 The successful UWCS Run Club returns, having done weekly 5K runs throughout this term hosted by the Sports Officers on a variety of routes! Whether it's building the leg muscles up or getting the rage ~~against the machine~~ energy that's built up over exam season, come along for a run ~~or walk~~ - this is open to all ability levels!
 
-Meet Zach and Alfie outside DCS at 5pm, avoid the temptation of eating the grass (we can't all be geese!), and clock in that extra distance1
+Meet Zach and Alfie outside DCS at 5pm, avoid the temptation of eating the grass (we can't all be geese!), and clock in that extra distance!
 
 UWCS has a Strava that you should join [here](https://www.strava.com/clubs/1426021)!
 
