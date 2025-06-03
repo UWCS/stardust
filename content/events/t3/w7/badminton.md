@@ -4,8 +4,7 @@ date = "Sunday 11am"
 draft = false
 
 [extra]
-end_time = "11:59am"
-display_time = "11am - 12pm"
+end_time = "12pm"
 location = "Westwood Games Hall"
 colour = "sports"
 icon = "ph-racquet"

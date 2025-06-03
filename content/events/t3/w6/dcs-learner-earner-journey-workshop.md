@@ -1,11 +1,10 @@
 +++
 title = "DCS Learner-Earner Journey Workshop"
-date = "Friday 11:59am"
+date = "Friday 12:30pm"
 draft = false
 
 [extra]
 end_time = "1:30pm"
-display_time = "12:30pm - 1:30pm"
 location = "S0.21"
 colour = "academic"
 icon = "ph-bank"
