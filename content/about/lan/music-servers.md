@@ -54,8 +54,9 @@ server-based coup, please add their name to the hall of shame here.*
 -   2018 - Clippy Music - Thomas Richards - NodeJS -
     <https://github.com/Deskbot/Clippy-Music>
 -   2018 - Music ServR - TheImpasta - R
--   2019 -JAMS - David \"Sleepless\" Barringer - Vue.js -
+-   2019 - JAMS - David \"Sleepless\" Barringer - Vue.js -
     <https://github.com/DavidBarringer/JAMS> - 9:07 for optimal for War
     of the Worlds
 -   2020 - Amphi - dixonary - Typescript (+ React) -
     <https://github.com/dixonary/amphi-frontend>
+-   2025 - RAAAAAAAAAAAAAAAAmphi - tomo.li - Typescript (SvelteKit + Colyseus) -

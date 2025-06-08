@@ -1,43 +1,61 @@
 +++
 title = "The UWCS Guide to LANs"
-weight = 4
+weight = 0
 +++
 
-A quick overview of our LAN Parties
 <!-- more -->
 ------------------------------------------------------------------------
 
-In computing, the term "LAN" stands for Local Area Network. In our case, it refers to our flagship gaming event where we gather a bunch of computers and hook them together to one router and play games together for an entire weekend (a full fourty-eight hours, to be exact). These usually take place once every term.
+In computing, the term "LAN" stands for Local Area Network. In our case, it refers to our flagship gaming event where we gather a bunch of computers and hook them together to one router and play games together for an entire weekend (well, a full 48 hours). These usually take place once each term, where we reasonably have the capacity to run them.
 
 ## Bringing a device
 
-> We cannot accept any liability for the security of personal devices or their data at LAN, so if at any point you plan to step away from your device, no matter for how long, please ensure you use its screen lock, if possible.
+> We cannot accept any liability for the security of personal devices or their data at LAN. **If at any point you plan to step away from your device, please ensure to lock your devices, even if it's for a short while.**
 
-We welcome a wide range of devices at LAN, from gaming laptops, to consoles old and new, to gargantuan desktops! If you plan on bringing a device with you, be sure to let us know on the Discord, and we can give a helping hand and/or some general advice on getting your setup from your place to ours. You don't have to bring a device with you to join in on LAN, but as the saying goes, the more the merrier!
+We welcome a wide range of devices at LAN, from gaming laptops, to consoles old and new, to gargantuan desktops! You don't have to bring your own devices to participate in LAN, but absolutely feel free to!
+
+If you need a hand, or some general advice about transporting your setup, have a chat to us through our [Discord](https://discord.uwcs.co.uk)!
 
 We'll provide cables for networking, i.e. Ethernet, but anything else you'll be expected to bring yourself. This includes monitors, cables, power bricks, controllers, and so on. Don't be that one person who forgets their mouse!
 
-#### Got Desktop?
+#### Desktops
 
-We will typically aim to provide some sort of pick-up service to help you get to LAN. Please check the announcements on our Discord to check if we're offering this. Failing that, we provide desktop tower carrying cases, monitor bags and trolleys to help you out. No doubt you'll also want to bring a monitor too, but bear in mind you're limited to **one monitor per desktop or console unit**. Additionally, please don't bring speakers: we would instead recommend you bring headphones.
+Where we're able to, we'll offer a pick-up service to transport your desktop to LAN. You'll know if we're running this via `#announcements` on our [Discord](https://discord.uwcs.co.uk).
 
-## What else to bring
+We can also aim to lend desktop tower carrying cases, monitor bags and potentially other bits to help you out.
 
-Even though you're not required to bring any computer hardware to join in on LAN, there are still a few things we recommend you bring, notably some snacks (because there's no way we'll have a sufficient amount of snacks to feed everyone), some cash if you want to pop to the local shops or order food for yourself, and a pillow to help make yourself comfortable. Please also make sure you bring yourself, in an orderly state, i.e. please make sure you've showered the night before the event, are wearing suitable clothes, have put on deodourant, etc.
+You'll want to bring a monitor, but keep in mind you're limited to **bringing one monitor**.
 
-Also, LAN is a strictly sober event. **Please do not bring alcohol to the venue otherwise you will be asked to leave.** You will also be told to leave if the exec team believes you are in an unfit state to participate. Outside of potential damage to very expensive equipment, there have been notable incidents involving alcohol at LANs in the past: we do not wish to replicate them.
+We want to be mindful of the events and people at LAN, so **bring headphones rather than speakers**.
 
-## What we bring
+## What else should you bring?
 
-We'll do our best to ensure there's something for everyone, so we'll haul over the equipment we usually bring out for our Friday Night Gaming events, such as the Nintendo Switches, VR Headsets, etc. We recommend using the #lan channel on our Discord to find out what people are planning on bringing, so you can plan ahead. In very lucky circumstances, we may have additional PCs from sponsors, but this is rare.
+- Snacks (we'd bankrupt the society trying to feed everyone)
+- Money (woooo snacks, or maybe you can pitch in with Milk Midnight)
+- Pillow
+- Yourself, in an orderly, hygienic state, for the sake of being mindful to those at the event
 
-We'll also have our own in-house music server, Amphi, running, where anyone in LAN can submit ~~audible horrors~~ their favourite music. Amphi was brought to life by none other than the amazing Alex Dixon (Yes, the same Alex who teaches CS141)!
+We recommend using `#lan` on our [Discord](https://discord.uwcs.co.uk) to find out what people are planning on bringing, so you can plan ahead. In very lucky circumstances, we may have additional PCs from sponsors, but this is rare.
 
-Lastly, we typically provide a small array of snacks at least once across the event, and might (just might!) get pizza for everyone at some point.
+Also, LAN is a strictly sober event. **Please do not bring alcohol to the venue otherwise you will be asked to leave**.
+
+You will also be told to leave if the exec team believes you are in an unfit state to participate. Outside of potential damage to very expensive equipment, there have been notable incidents involving alcohol at LANs in the past: we do not wish to replicate them.
+
+If you have any concerns, get in touch with the Welfare Officers, either in-person, or via our [Discord](https://discord.uwcs.co.uk), or at [welfare@uwcs.co.uk](mailto:welfare@uwcs.co.uk).
+
+## What do we bring?
+
+- A *lot*. We bring over a lot of the equipment you'd typicall see at Friday Night Gaming - the consoles, VR Headsets and more!
+
+- Amphi has been retired, and on its way out it almost cost us a rather large sum of money. Fear not, for we have a new music server ~~again~~: **RAAAAAAAAAAAAAAAAmphi**! Hopefully, it gets used for more than just Jackie's Box, but hey, sometimes we gotta temper our expectations a little. Anyway, you'll be able submit your favourite """music""" here!
+
+- Snacks, more snacks, even more snacks, sometimes milk, and often pizza when we do our quiz!
+
+- Just enough sanity to hold everything together for 48 hours, hopefully without a repeat of e.g. Alarm LAN.
 
 ## What we do
 
-First and foremost, **we game.** And we eat our fair share of junk food.
+First and foremost, **we game**. And we eat our fair share of junk food.
 
 But we also host special events throughout the LAN which aim to get anyone and everyone involved. Here's what you can expect from a typical LAN...
 
@@ -53,11 +71,14 @@ But this is not an exhaustive list. Be sure to check our schedule to see what ex
 
 ## Where we LAN
 
-Typically, **LIB2** at the Library is our go-to spot for LAN. We understand that most people aren't familiar with this room's whereabouts, so we'll do our best to explain. First, be sure to check its location on [campus.warwick.ac.uk](https://campus.warwick.ac.uk/search/623c88f2421e6f5928c0e4ec?projectId=warwick).
+Typically, **LIB2** at the Library is our go-to spot for LAN.
 
-Facing the front of the library builing, go down to the right side, past the Café. You'll see a sliding door with a card reader, so you'll need your Student ID card to enter. Once you're inside, go through the left-hand set of doors, then straight ahead. Congrats! You've just made it to LAN!
+Not sure where LIB2 is? All good!
+- You can see LIB2's location on [campus.warwick.ac.uk](https://campus.warwick.ac.uk/search/623c88f2421e6f5928c0e4ec?projectId=warwick).
 
-> Note: The door to LIB2 will reject your card after 10pm. Don't worry if this happens, there will be at least one exec member available to let you in, just let us know you're here on our discord.
+- Facing the front of the library builing, go down to the right side, past the Café. You'll see a sliding door with a card reader, so you'll need your Student ID card to enter. Once you're inside, go through the left-hand set of doors, then straight ahead. Congrats! You've just made it to LAN!
+
+> Note: The door to LIB2 will reject your card after 10pm. Don't worry if this happens, there will be at least one exec member available to let you in, just let us know you're here on our [Discord](https://discord.uwcs.co.uk).
 
 ------------------------------------------------------------------------
 
@@ -71,11 +92,11 @@ Um, that's not a question, but don't panic! We'll have members of the exec team 
 
 #### Can I sleep at LAN?
 
-We wouldn't encourage it. Generally speaking, security gets upset when people do this, but regardless, we doubt you'd be able to sleep comfortably in the room. Instead, maybe head home to catch up on rest ~~or just neck down some pure caffeine in true gamer spirit~~.
+We wouldn't encourage it. Generally speaking, security gets upset when people do this, but regardless, we doubt you'd be able to sleep comfortably in the room (chair bed LAN though...). Instead, maybe head home to catch up on rest ~~or just neck down some pure caffeine in true gamer spirit~~.
 
 #### If I go, do I have to stay for the entire LAN?
 
-Nope! Feel free to head out if and when you need to eat, sleep, or just go outside (highly recommended actually, vitamin d go brrr). We will always have at least one exec member inside the room to make sure your stuff stays safe during the event. That being said, if you'd like to head off early, that's totally fine.
+Nope! Feel free to head out if and when you need to eat, sleep, or just go outside (highly recommended actually, Vitamin D go brrr). We will always have at least one exec member inside the room to make sure your stuff stays safe during the event. That being said, if you'd like to head off early, that's totally fine. It would be pretty irresponsible of us to hold you hostage, after all.
 
 #### Is there a limit on how many devices I can bring?
 
@@ -83,12 +104,12 @@ While we don't have a hard limit on devices, we suggest that people are sensible
 
 #### Can I bring an extension cord?
 
-Yes, but please only use it on the outlets on the walls of the room. DO NOT plug extension cords into the electrical leads coming down from the ceiling, as these are not designed to handle them, and doing so could lead to potential fire risk. These should provide more than enough plugs anyway.
+Yes, but please only use it on the outlets on the walls of the room. **DO NOT plug extension cords into the electrical leads coming down from the ceiling**. These are not designed to handle them, and doing so could lead to potential fire risk (and a return of the dreaded Alarm LAN). These should provide more than enough plugs anyway.
 
 #### I still need help!
 
-No worries. Hop on our [Discord](https://discord.uwcs.co.uk) and ask any member of our current gaming exec team if there's anything else you'd like to know about LAN. I promise we won't bite. You can also send us an email at [gaming@uwcs.co.uk](mailto:gaming@uwcs.co.uk), or follow our [Instagram](https://www.instagram.com/warwickcompsoc/) for updates.
+No worries. Hop on our [Discord](https://discord.uwcs.co.uk) and ask any member of our current Gaming Coordinators if there's anything else you'd like to know about LAN. I promise we won't bite. You can also send us an email at [gaming@uwcs.co.uk](mailto:gaming@uwcs.co.uk), or follow our [Instagram](https://www.instagram.com/warwickcompsoc/) for updates.
 
-In fact, Discord tends to be our best source of info regarding events in UWCS, so be sure to join to get the *very latest* updates on our various happenings!
+In fact, Discord tends to be our best source of info regarding events in UWCS, so be sure to join to get the *very latest* updates on our various happenings - you can grab the `Lanlubbers` role to get live updates on events!
 
 We look forward to seeing you at our next LAN!
