@@ -3,7 +3,7 @@ title = "End of Term Activities???? 🎉🎉🎉 | Newsletter T3W9"
 date = "2023-06-19T03:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t3w9-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t3w9-newsletter/"
 +++
 
 <p data-block-key="sfd3i"><b>End of term, come by to anything you can and enjoy the end of the academic year itself!</b></p>

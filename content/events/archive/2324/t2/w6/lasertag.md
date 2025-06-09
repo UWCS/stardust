@@ -2,13 +2,13 @@
 title = "Laser Tag"
 date = "Sat 4pm"
 
-[extra]
-location = "Laser Quest, Coventry"
-icon = "ph-alien"
-colour = "social"
-
 [taxonomies]
 tags = ["Laser Tag", "Collab"]
+
+[extra]
+location = "Laser Quest, Coventry"
+colour = "social"
+icon = "ph-alien"
 +++
 Do you hate everyone around you? Then shoot them (in Minecraft with lasers)!
 

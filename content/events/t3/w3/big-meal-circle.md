@@ -6,9 +6,9 @@ draft = false
 [extra]
 end_time = "Thursday 2am"
 location = "Kelseys, Leamington Spa"
-location_url = "https://maps.app.goo.gl/p76GWhoRy8CZrQNc6"
-icon = "ph-circle"
 colour = "social"
+icon = "ph-circle"
+location_url = "https://maps.app.goo.gl/p76GWhoRy8CZrQNc6"
 +++
 # **:rotating_light: EMERGENCY: IT'S CIRCLE TIME! :rotating_light:**
 

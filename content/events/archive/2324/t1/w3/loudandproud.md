@@ -7,9 +7,9 @@ tags = ["Loud and Proud"]
 
 [extra]
 location = "Tbar ⇒ Copper Rooms"
-icon = "ph-rainbow"
 colour = "social"
 emoji = "🌈"
+icon = "ph-rainbow"
 +++
 
 𝕔𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕤𝕔𝕚𝕖𝕟𝕥𝕚𝕤𝕥𝕤 𝕞𝕒𝕪 𝕟𝕠𝕥 𝕓𝕖 𝕝𝕠𝕦𝕕, 𝕓𝕦𝕥 𝕨𝕖 𝕤𝕦𝕣𝕖 𝕒𝕤 𝕙𝕖𝕝𝕝 𝕒𝕣𝕖 𝕡𝕣𝕠𝕦𝕕

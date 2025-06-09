@@ -3,9 +3,9 @@ title = "XING on Fri 21st November 2014"
 date = "2014-11-21T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/xing-on-fri-21st-november-2014-1474489104298/"    
 end_time = "2014-11-22T02:00:00Z"
 location = "LIB2"
+original = "https://uwcs.co.uk/events/xing-on-fri-21st-november-2014-1474489104298/"
 +++
 
 A get-together of people for coding and other related projects, this week in LIB2 during LAN.

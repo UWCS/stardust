@@ -3,9 +3,9 @@ title = "LAN Party on Fri 23rd January 2015"
 date = "2015-01-23T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/lan-party-on-fri-23rd-january-2015-1474489098312/"    
 end_time = "2015-01-25T17:00:00Z"
 location = "LIB2"
+original = "https://uwcs.co.uk/events/lan-party-on-fri-23rd-january-2015-1474489098312/"
 +++
 
 It's cold outside but the heat of our many computers will keep us warm.

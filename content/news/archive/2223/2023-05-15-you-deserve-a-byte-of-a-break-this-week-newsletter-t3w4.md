@@ -3,7 +3,7 @@ title = "You Deserve a Byte of a Break This Week! | Newsletter T3W4"
 date = "2023-05-15T03:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t3w4-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t3w4-newsletter/"
 +++
 
 <p data-block-key="sfd3i">Merchandise just around the corner! Take a break at some of our socials this week, and prepare for the first Computing Ball :)</p>

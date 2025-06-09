@@ -2,15 +2,15 @@
 title = "Events Officer By-Election"
 date = "Friday 6:59pm"
 
-[extra]
-end_time = "8pm"
-display_time = "7pm - 8pm"
-location = "CS Dept"
-colour = "events"
-icon = "ph-crown"
-
 [taxonomies]
 tags = ["By-election"]
+
+[extra]
+end_time = "8pm"
+location = "CS Dept"
+colour = "events"
+display_time = "7pm - 8pm"
+icon = "ph-crown"
 +++
 
 We currently have an empty seat for our Events Officer Role, meaning if you didn't run for a position in the AGM and want to, now's your chance!

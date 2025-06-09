@@ -3,9 +3,9 @@ title = "Guest Talk on Wed 29th October 2014"
 date = "2014-10-29T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/guest-talk-on-wed-29th-october-2014-1474489102688/"    
 end_time = "2014-10-29T19:00:00Z"
 location = "B0.12"
+original = "https://uwcs.co.uk/events/guest-talk-on-wed-29th-october-2014-1474489102688/"
 +++
 
 PlayStation has become one of the most distinctive and recognisable brands in the world. The PlayStation 2 reshaped the gaming industry, and remains the biggest selling gaming console in history with over 160 million units sold. The latest iteration, the PlayStation 4, sold 1 million consoles in its first 24 hours on sale, becoming the fastest selling console in history. PlayStation continues to outsell its rivals by 3:1 in Europe.

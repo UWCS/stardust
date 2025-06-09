@@ -6,11 +6,11 @@ date = "Friday 7pm"
 tags = ["LAN"]
 
 [extra]
-display_day = "Fri, Sat & Sun"
-display_date = "Fri, Sat & Sun"
 location = "CS0.01"
-icon = "icons/fng.svg"
 colour = "gaming"
+display_date = "Fri, Sat & Sun"
+display_day = "Fri, Sat & Sun"
+icon = "icons/fng.svg"
 +++
 Like FNG but bigger, longer, and better!
 (although FNG is still pretty good)

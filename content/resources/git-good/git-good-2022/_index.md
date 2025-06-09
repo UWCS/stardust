@@ -1,5 +1,7 @@
 +++
 title = "Git Good 2022"
+
+[extra]
 date = "2022-10-05"
 +++
 

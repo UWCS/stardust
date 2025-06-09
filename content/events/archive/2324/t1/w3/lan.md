@@ -6,11 +6,11 @@ date = "Friday 7pm"
 tags = ["LAN"]
 
 [extra]
-display_day = "Fri, Sat & Sun"     # For day in events list view
-display_date = "Fri 20, Sat 21 & Sun 22 Oct"  # For date in detail view
 location = "DCS Atrium ⇒ LIB2"
-icon = "icons/fng.svg"
 colour = "gaming"
+display_date = "Fri 20, Sat 21 & Sun 22 Oct"  # For date in detail view
+display_day = "Fri, Sat & Sun"     # For day in events list view
+icon = "icons/fng.svg"
 +++
 
 Like FNG but bigger, longer, and better!

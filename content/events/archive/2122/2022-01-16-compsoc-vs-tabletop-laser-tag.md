@@ -3,9 +3,9 @@ title = "CompSoc vs Tabletop Laser Tag"
 date = "2022-01-16T14:15:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/compsoc-vs-tabletop-laser-tag/"    
 end_time = "2022-01-16T16:00:00Z"
 location = "Laser Quest Coventry"
+original = "https://uwcs.co.uk/events/compsoc-vs-tabletop-laser-tag/"
 +++
 
 Not a lot has occurred in the past 3 years, but the battle is still raging on between CompSoc and Tabletop. Both sides are now planning their next moves, and it's time to once again go head-to-head. Last time, CompSoc and Tabletop were tied 2-2, so it's all to play for this time around. Which team will reign victorious? Their fate is in your hands.

@@ -2,14 +2,14 @@
 title = "EGM"
 date = "Friday 7:30pm"
 
+[taxonomies]
+tags = ["EGM", "Meeting"]
+
 [extra]
 end_time = "21:00"
 location = "DCS Atrium"
-icon = "ph-users-three"
 colour = "academic"
-
-[taxonomies]
-tags = ["EGM", "Meeting"]
+icon = "ph-users-three"
 +++
 
 We are holding our first Extraordinary General Meeting!

@@ -3,9 +3,9 @@ title = "LAN Party on Fri 4th March 2016"
 date = "2016-03-04T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/lan-party-on-fri-4th-march-2016-1474489111313/"    
 end_time = "2016-03-06T18:00:00Z"
 location = "LIB2"
+original = "https://uwcs.co.uk/events/lan-party-on-fri-4th-march-2016-1474489111313/"
 +++
 
 Our LAN parties last almost 48 hours from Friday evening to Sunday evening. Don’t worry, though\! You don’t have to stay there the whole time. There will always be a member of exec in the room, supervising and keeping an eye on your belongings.

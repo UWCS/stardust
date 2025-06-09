@@ -1,9 +1,9 @@
 +++
 title = "Events"
-weight = 3
+page_template = "events/event.html"
 sort_by = "weight"
 template = "events/events_list.html"
-page_template = "events/event.html"
+weight = 3
 +++
 
 Check out our events! 

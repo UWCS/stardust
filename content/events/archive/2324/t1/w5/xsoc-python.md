@@ -2,15 +2,15 @@
 title = "xSoc Python"
 date = "Thu 7pm"
 
+[taxonomies]
+tags = ["xSoc Python Course"]
+
 [extra]
 end_time = "9pm"
 location = "LIB2"
-icon = "ph-code"
 colour = "academic"
 emoji = "🐍"
-
-[taxonomies]
-tags = ["xSoc Python Course"]
+icon = "ph-code"
 +++
 If you're still here, you're deep into the Python wormhole (i am sorry)
 

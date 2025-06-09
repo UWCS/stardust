@@ -8,10 +8,9 @@ tags = ["Friday Night Gaming"]
 [extra]
 end_time = "23:59"
 location = "CS Dept"
-weeks = ["w1", "w2", "w3", "w4", "w5", "w7", "w8", "w9", "w10"]
-
-icon = "icons/fng.svg"
 colour = "gaming"
+icon = "icons/fng.svg"
+weeks = ["w1", "w2", "w3", "w4", "w5", "w7", "w8", "w9", "w10"]
 +++
 
 The Friday night fun continues!

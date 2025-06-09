@@ -8,9 +8,8 @@ tags = ["Friday Night Gaming"]
 [extra]
 end_time = "23:59"
 location = "CS Dept"
-
-icon = "icons/fng.svg"
 colour = "gaming"
+icon = "icons/fng.svg"
 +++
 
 The Friday night fun continues!

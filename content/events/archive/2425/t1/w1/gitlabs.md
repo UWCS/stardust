@@ -2,13 +2,13 @@
 title = "Git Good Labs"
 date = "Friday 5pm"
 
+[taxonomies]
+tags = ["Git Good"]
+
 [extra]
 end_time = "19:00"
 location = "CS0.06"
-icon = "ph-git-branch"
 colour = "academic"
-
-[taxonomies]
-tags = ["Git Good"]
+icon = "ph-git-branch"
 +++
 <https://uwcs.co.uk/resources/git-good/>

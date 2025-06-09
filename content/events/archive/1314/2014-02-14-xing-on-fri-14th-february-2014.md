@@ -3,9 +3,9 @@ title = "XING on Fri 14th February 2014"
 date = "2014-02-14T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/xing-on-fri-14th-february-2014-1474489092176/"    
 end_time = "2014-02-15T05:00:00Z"
 location = "DCS"
+original = "https://uwcs.co.uk/events/xing-on-fri-14th-february-2014-1474489092176/"
 +++
 
 Provisionally in the same room as Friday night gaming at the moment, one of the labs in downstairs DCS. Knock on the window to get in.

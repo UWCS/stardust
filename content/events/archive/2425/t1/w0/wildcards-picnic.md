@@ -8,9 +8,8 @@ tags = ["Welcome Week"]
 [extra]
 end_time = "3pm"
 location = "Windmill Hill"
-
-icon = "ph-picnic-table"
 colour = "inclusivity"
+icon = "ph-picnic-table"
 +++
 
 ** This event is aimed towards our Women and Non-binary members **

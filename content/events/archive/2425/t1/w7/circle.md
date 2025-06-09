@@ -8,9 +8,8 @@ tags = ["Circle"]
 [extra]
 end_time = "Thursday 2am"
 location = "SU Atrium"
-
-icon = "ph-beer-bottle"
 colour = "academic"
+icon = "ph-beer-bottle"
 +++
 
 # It is time once again... time for CIRCLE!!

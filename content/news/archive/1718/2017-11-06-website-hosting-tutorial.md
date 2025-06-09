@@ -3,7 +3,7 @@ title = "Website Hosting Tutorial"
 date = "2017-11-06T18:22:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/website-hosting-tutorial/"    
+original = "https://uwcs.co.uk/news/website-hosting-tutorial/"
 +++
 
 <p>So you want to make use of our free website hosting, but don't know how? Here's all the information you're going to need!</p>

@@ -1,7 +1,6 @@
 +++
 title = "\"What, you egg!\" [*stab*] \"He has kill’d me, mother\" [*dies*]  | Newsletter T2W7"
 
-
 [taxonomies]
 categories = ["Newsletter"]
 +++

@@ -7,9 +7,8 @@ tags = ["Circle", "Kelsey's"]
 
 [extra]
 location = "Kelsey's"
-
-icon = "ph-beer-bottle"
 colour = "social"
+icon = "ph-beer-bottle"
 +++
 
 🅘🅣'🅢 🅣🅘🅜🅔 🅕🅞🅡 🅞🅤🅡 🅕🅘🅡🅢🅣 🅒🅘🅡🅒🅛🅔 

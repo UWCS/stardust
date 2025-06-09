@@ -3,7 +3,7 @@ title = "We can't shut up about Rust either | T1W2 Newsletter"
 date = "2022-10-09T23:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t1w2-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t1w2-newsletter/"
 +++
 
 <p data-block-key="sfd3i">Our Rust course is starting, and we have our first circle!</p>

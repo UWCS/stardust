@@ -3,7 +3,7 @@ title = "Exec Team"
 weight = 2
 template = "contact.html"
 sort_by = "weight"
-generate_feed = true
+generate_feeds = true
 
 [extra]
 multiple_roles = { "Raven Taylor" = ["Welfare Officer", "Gaming Coordinator"], "Thomas Sweet" = ["Welfare Officer", "Tech Officer"] }

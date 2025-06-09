@@ -3,9 +3,9 @@ title = "Freshers LAN"
 date = "2016-10-28T19:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/freshers-lan/"    
 end_time = "2016-10-30T20:00:00Z"
 location = "Lib 2"
+original = "https://uwcs.co.uk/events/freshers-lan/"
 +++
 
 It's LAN time\! Our bi-termly event where we all take our desktops to LIB2 and play games for the weekend\! 

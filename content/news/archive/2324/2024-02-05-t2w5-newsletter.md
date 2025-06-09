@@ -1,7 +1,6 @@
 +++
 title = "[I Dare You To Click The Link In This Title](https://www.youtube.com/watch?v=83m1MDmPBuI&ab_channel=glaive) | Newsletter T2W5"
 
-
 [taxonomies]
 categories = ["Newsletter"]
 +++

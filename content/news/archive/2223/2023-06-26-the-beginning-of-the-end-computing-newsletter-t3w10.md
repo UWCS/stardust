@@ -3,7 +3,7 @@ title = "THE BEGINNING OF THE END | Computing Newsletter T3W10"
 date = "2023-06-26T03:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t3w10-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t3w10-newsletter/"
 +++
 
 <p data-block-key="sfd3i"><b>End of term, come by to anything you can and enjoy the end of the academic year itself!</b></p>

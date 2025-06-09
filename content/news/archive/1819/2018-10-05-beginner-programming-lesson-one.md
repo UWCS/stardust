@@ -3,7 +3,7 @@ title = "Beginner Programming Lesson One"
 date = "2018-10-05T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/beginner-programming-lesson-one-2018/"    
+original = "https://uwcs.co.uk/news/beginner-programming-lesson-one-2018/"
 +++
 
 <p data-block-key="z63iq">A guide for completely new programmers, teaching you how to use the Linux machines and how to start programming the game Snake using Java in a terminal. Click to learn more!</p>

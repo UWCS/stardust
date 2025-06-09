@@ -1,7 +1,6 @@
 +++
 title = "\"Be yourself; everyone else is already taken.\" -Oscar Wilde| Newsletter T2W9"
 
-
 [taxonomies]
 categories = ["Newsletter"]
 +++

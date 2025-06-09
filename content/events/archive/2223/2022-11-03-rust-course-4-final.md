@@ -3,9 +3,9 @@ title = "⚙️Rust Course 4 (Final)"
 date = "2022-11-03T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/rust-course-4-final/"    
 end_time = "2022-11-03T21:00:00Z"
 location = "CS0.01"
+original = "https://uwcs.co.uk/events/rust-course-4-final/"
 +++
 
 Are you ready to learn one of the most loved languages by developers? For this final session, we'll be devoting all our time to the projects! Finish CHIP-8 and start the raytracer!

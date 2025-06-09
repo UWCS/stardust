@@ -2,14 +2,14 @@
 title = "Advent of Code"
 date = "Friday 7pm"
 
+[taxonomies]
+tags = ["Advent of Code"]
+
 [extra]
 end_time = "20:00"
 location = "CS1.04"
-icon = "ph-code"
 colour = "academic"
-
-[taxonomies]
-tags = ["Advent of Code"]
+icon = "ph-code"
 +++
 
 𝙞𝙩'𝙨 𝙖𝙡𝙧𝙚𝙖𝙙𝙮 𝙙𝙚𝙘𝙚𝙢𝙗𝙚𝙧...?

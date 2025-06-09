@@ -1,7 +1,7 @@
 +++
 title = "Event Archive"
-weight = 1
 template = "events/event_archive.html"
+weight = 1
 
 [extra]
 reverse_subsections = true

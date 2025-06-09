@@ -2,15 +2,15 @@
 title = "Friday Night Gaming"
 date = "Friday 7pm"
 
+[taxonomies]
+tags = ["Friday Night Gaming"]
+
 [extra]
 end_time = "Saturday 1am"
 location = "CS Dept"
-weeks = ["w1", "w3", "w4", "w5", "w6", "w7", "w8", "w9", "w10"]
-icon = "icons/fng.svg"
 colour = "gaming"
-
-[taxonomies]
-tags = ["Friday Night Gaming"]
+icon = "icons/fng.svg"
+weeks = ["w1", "w3", "w4", "w5", "w6", "w7", "w8", "w9", "w10"]
 +++
 The Friday night fun continues! Please note that the default ending time for FNG this term is 1am to accommodate for exams!
 

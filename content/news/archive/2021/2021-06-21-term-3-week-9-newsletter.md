@@ -3,7 +3,7 @@ title = "Term 3 Week 9 Newsletter"
 date = "2021-06-21T12:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/term-3-week-9-newsletter/"    
+original = "https://uwcs.co.uk/news/term-3-week-9-newsletter/"
 +++
 
 <p>We&#x27;re nearing the end of the term, but newsletters never change! It&#x27;s the week 9 newsletter!</p>

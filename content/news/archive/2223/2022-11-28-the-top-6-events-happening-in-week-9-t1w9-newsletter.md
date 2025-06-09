@@ -3,7 +3,7 @@ title = "The Top 6 Events happening in Week 9 | T1W9 Newsletter"
 date = "2022-11-28T00:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t1w9-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t1w9-newsletter/"
 +++
 
 <p data-block-key="sfd3i">The Top 10 Events happening in Week 9, you won&#x27;t believe Number 7!</p><p data-block-key="cs0ov">But seriously, Lightning Talks and CTFs are pretty cool!</p>

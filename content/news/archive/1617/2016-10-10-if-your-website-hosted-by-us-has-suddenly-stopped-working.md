@@ -3,7 +3,7 @@ title = "If Your Website Hosted By Us Has Suddenly Stopped Working..."
 date = "2016-10-10"
 
 [extra]
-original = "https://uwcs.co.uk/news/if-your-website-hosted-us-has-suddenly-stopped-working/"    
+original = "https://uwcs.co.uk/news/if-your-website-hosted-us-has-suddenly-stopped-working/"
 +++
 
 <p>So, it's possible that your website that is hosted with us, whether you're a society or an individual, has stopped working if you point to it from an outside domain name (ie, not just "username.uwcs.co.uk"). This will tell you how to fix it.</p>

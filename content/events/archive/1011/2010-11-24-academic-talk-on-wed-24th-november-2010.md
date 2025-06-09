@@ -3,9 +3,9 @@ title = "Academic Talk on Wed 24th November 2010"
 date = "2010-11-24T18:15:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/academic-talk-on-wed-24th-november-2010-1474489045459/"    
 end_time = "2010-11-24T19:00:00Z"
 location = "S0.11"
+original = "https://uwcs.co.uk/events/academic-talk-on-wed-24th-november-2010-1474489045459/"
 +++
 
 The Computing Society's second guest lecture of the year is being given by Gray Bachelor, a Solution Architect from the IBM Solution Group.

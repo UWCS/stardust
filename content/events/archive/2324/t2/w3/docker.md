@@ -2,14 +2,14 @@
 title = "Docker Contained"
 date = "Friday 5pm"
 
+[taxonomies]
+tags = ["Docker Contained"]
+
 [extra]
 end_time = "7pm"
 location = "CS0.06"
-icon = "icons/docker.svg"
 colour = "tech"
-
-[taxonomies]
-tags = ["Docker Contained"]
+icon = "icons/docker.svg"
 +++
 
 Problem: but it works on my machine? Solution: Docker. We're gonna to teach you how to use it (along with a side of GitHib actions, Portainer, and Flask). There will be a short (30 min) presentation followed by a lab session where you will get to host your own website.

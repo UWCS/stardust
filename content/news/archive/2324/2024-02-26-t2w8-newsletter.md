@@ -1,7 +1,6 @@
 +++
 title = "Soft Eng? More Like Hard Eng :sadge-5:| Newsletter T2W8"
 
-
 [taxonomies]
 categories = ["Newsletter"]
 +++

@@ -3,9 +3,9 @@ title = "🗳️ Fresher Rep Election"
 date = "2022-11-04T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/fresher-rep-election/"    
 end_time = "2022-11-04T21:00:00Z"
 location = "Department of Computer Science"
+original = "https://uwcs.co.uk/events/fresher-rep-election/"
 +++
 
 In our last AGM, we voted to add a Freshers' Rep to our Exec Team!

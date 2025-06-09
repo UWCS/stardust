@@ -3,9 +3,9 @@ title = "LAN Party (Weird Al LANkovic)"
 date = "2018-01-26T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/lan-party-weird-al-lankovic/"    
 end_time = "2018-01-28T18:00:00Z"
 location = "LIB2"
+original = "https://uwcs.co.uk/events/lan-party-weird-al-lankovic/"
 +++
 
 It's LAN time\! Our bi-termly event where we take our computers to LIB2 and play games for the weekend\!

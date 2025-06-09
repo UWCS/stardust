@@ -3,9 +3,9 @@ title = "Skool Dayz Week 8"
 date = "2017-11-25T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/skool-dayz-week-8/"    
 end_time = "2017-11-26T02:00:00Z"
 location = "The Copper Rooms"
+original = "https://uwcs.co.uk/events/skool-dayz-week-8/"
 +++
 
 <https://tickets.warwicksu.com/ents/event/14712/>  

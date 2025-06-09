@@ -2,15 +2,15 @@
 title = "Comp Cafe"
 date = "Tuesday 5pm"
 
+[taxonomies]
+tags = ["CompCafe"]
+
 [extra]
 end_time = "21:00"
 location = "CS0.06"
-icon = "ph-coffee"
 colour = "academic"
 emoji = ""
-
-[taxonomies]
-tags = ["CompCafe"]
+icon = "ph-coffee"
 +++
 #### *Lots of sweet treats :)*
 

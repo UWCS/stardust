@@ -3,7 +3,7 @@ title = "We be Balling and Running | T2W5 Newsletter"
 date = "2023-02-07T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t2w5-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t2w5-newsletter/"
 +++
 
 <p data-block-key="sfd3i">Computing Ball Tickets &amp; WASD: Our speedrunning event!</p>

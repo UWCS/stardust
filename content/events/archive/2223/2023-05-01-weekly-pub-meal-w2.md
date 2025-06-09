@@ -3,9 +3,9 @@ title = "🍛 Weekly Pub Meal W2 🍛"
 date = "2023-05-01T17:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-meal-22t3w2/"    
 end_time = "2023-05-01T20:00:00Z"
 location = "Phantom Coach"
+original = "https://uwcs.co.uk/events/pub-meal-22t3w2/"
 +++
 
 Join us for our weekly pub meal! We love meeting new people and this is the perfect opportunity to grab a bite to eat ~~whilst talking about the pains of our degrees.~~

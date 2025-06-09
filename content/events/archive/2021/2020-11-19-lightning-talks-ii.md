@@ -3,9 +3,9 @@ title = "Lightning Talks II"
 date = "2020-11-19T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/lightning-talks-ii/"    
 end_time = "2020-11-19T20:00:00Z"
 location = "Remote - Microsoft Teams/Discord"
+original = "https://uwcs.co.uk/events/lightning-talks-ii/"
 +++
 
 We'll be running a session of lightning talks (short talks that last about 15 minutes) across a set of different areas and themes related to technology\! They'll be given by current members of the society and some of our graduates who have gone on to work in industry. In the past we've had talks related to programming tools, problems encountered in industry and even a karaoke talk about functional programming\! You can find the previous talks on our [YouTube](https://www.youtube.com/playlist?list=PLM7py5yAB4FxS3FzpBD4BA29M6Ue5qyVe) to see the kinds of talks we've had in the past\!

@@ -2,15 +2,15 @@
 title = "xSoc Python"
 date = "Thu 7pm"
 
+[taxonomies]
+tags = ["xSoc Python Course"]
+
 [extra]
 end_time = "9pm"
 location = "LIB2"
-icon = "ph-code"
 colour = "academic"
 emoji = "🐍"
-
-[taxonomies]
-tags = ["xSoc Python Course"]
+icon = "ph-code"
 +++
 The final stretch! (you're basically a python master at this point, just put it in your cv)
 

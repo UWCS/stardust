@@ -3,9 +3,9 @@ title = "G-Research Coding Challenge"
 date = "2020-11-26T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/g-research-coding-challenge-nov-2020/"    
 end_time = "2020-11-26T20:00:00Z"
 location = "Remote"
+original = "https://uwcs.co.uk/events/g-research-coding-challenge-nov-2020/"
 +++
 
 Join us for the G-Research Coding Challenge, where you'll compete in teams in a series of progressively more difficult software development challenges.

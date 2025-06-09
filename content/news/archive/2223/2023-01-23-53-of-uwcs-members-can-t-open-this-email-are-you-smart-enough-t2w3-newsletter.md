@@ -3,7 +3,7 @@ title = "53% of UWCS Members can't open this email. Are you smart enough? | T2W3
 date = "2023-01-23T00:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t2w3-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t2w3-newsletter/"
 +++
 
 <p data-block-key="sfd3i">Lightning Talks, Pub Crawl, DCS&#x27;s Game Jam, what&#x27;s not to love?</p>

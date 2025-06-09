@@ -3,9 +3,9 @@ title = "Christmas Meal on Mon 2nd December 2013"
 date = "2013-12-02T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/christmas-meal-on-mon-2nd-december-2013-1474489087956/"    
 end_time = "2013-12-02T22:30:00Z"
 location = "Wing Wah's"
+original = "https://uwcs.co.uk/events/christmas-meal-on-mon-2nd-december-2013-1474489087956/"
 +++
 
 Christmas meal at [Wing Wah](http://www.wingwah.net/branch/coventry/), a Chinese Buffet restaurant. We have our own private room along with a fabulous Chinese karaoke machine\!

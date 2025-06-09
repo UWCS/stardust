@@ -3,9 +3,9 @@ title = "Warwick Open Overwatch Tournament"
 date = "2016-10-29T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/warwick-open-overwatch-tournament/"    
 end_time = "2016-10-30T02:00:00Z"
 location = "Lib 2"
+original = "https://uwcs.co.uk/events/warwick-open-overwatch-tournament/"
 +++
 
 ## Come take part in our Overwatch tournment!

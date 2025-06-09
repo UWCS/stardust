@@ -3,7 +3,7 @@ title = "🦀 Prog 🦀 Comp 🦀 | T1W6 Newsletter"
 date = "2022-11-07T00:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t1w6-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t1w6-newsletter/"
 +++
 
 > This is not a drill, we have our own Programming Competition! Keegan's been spending far too long on this one, so you better all like it 😥 . Our Rust course finished last week, I hope you all enjoyed that, if you missed it, find it at [rs118.uwcs.co.uk](https://rs118.uwcs.co.uk). This week also marks the end of our lovely Python course, so our schedule is looking a little clearer -- I hope your coursework load makes up for it!

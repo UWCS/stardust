@@ -6,9 +6,9 @@ draft = false
 [extra]
 end_time = "3pm"
 location = "Curiositea"
-location_url = "https://campus.warwick.ac.uk/search/623c8897421e6f5928c0d2db?projectId=warwick"
-icon = "ph-coffee"
 colour = "#4F33DB"
+icon = "ph-coffee"
+location_url = "https://campus.warwick.ac.uk/search/623c8897421e6f5928c0d2db?projectId=warwick"
 +++
 UWCS' Welfare Officer Raven is officially bringing you: *Tea++*, with free drinks\* at Curiositea!
 

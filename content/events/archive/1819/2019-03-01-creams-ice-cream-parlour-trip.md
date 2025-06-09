@@ -3,9 +3,9 @@ title = "Creams Ice Cream Parlour Trip"
 date = "2019-03-01T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/creams-ice-cream-parlour-trip/"    
 end_time = "2019-03-01T20:00:00Z"
 location = "Department of Computer Science"
+original = "https://uwcs.co.uk/events/creams-ice-cream-parlour-trip/"
 +++
 
 There's a place in Leamington that does ice cream and we're going there to get some ice cream and chill for a bit.  

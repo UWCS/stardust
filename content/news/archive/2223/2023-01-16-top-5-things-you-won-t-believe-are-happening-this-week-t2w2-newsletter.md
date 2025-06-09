@@ -3,7 +3,7 @@ title = "TOP 5 THINGS YOU WON'T BELIEVE ARE HAPPENING THIS WEEK  🤯🤯🤯 | 
 date = "2023-01-16T00:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t2w2-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t2w2-newsletter/"
 +++
 
 <p data-block-key="sfd3i">Our regular newsletter person is out of action, we&#x27;re holding a Docker workshop, and LAN has returned. Read all about it!</p>

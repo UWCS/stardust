@@ -3,7 +3,7 @@ title = "🚨 ELECTIONS THIS FRIDAY 🚨 | T2W6 Newsletter"
 date = "2023-02-14T14:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t2w6-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t2w6-newsletter/"
 +++
 
 <p data-block-key="sfd3i">G-Research Coding Competition, and AGM &amp; Elections this Friday!</p>

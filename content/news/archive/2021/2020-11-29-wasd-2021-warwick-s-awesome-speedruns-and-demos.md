@@ -3,7 +3,7 @@ title = "WASD 2021 - Warwick's Awesome Speedruns and Demos"
 date = "2020-11-29T13:48:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/wasd-2021-warwicks-awesome-speedruns-and-demos/"    
+original = "https://uwcs.co.uk/news/wasd-2021-warwicks-awesome-speedruns-and-demos/"
 +++
 
 We run an annual speedrunning event every February raising money for *SpecialEffect*\! Signups are already open and close at the end of this **Friday** (December 4)

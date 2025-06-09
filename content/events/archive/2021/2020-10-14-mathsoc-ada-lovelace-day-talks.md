@@ -3,9 +3,9 @@ title = "MathSoc Ada Lovelace Day Talks"
 date = "2020-10-14T13:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/mathsoc-ada-lovelace-day-talks/"    
 end_time = "2020-10-14T16:00:00Z"
 location = "Remote"
+original = "https://uwcs.co.uk/events/mathsoc-ada-lovelace-day-talks/"
 +++
 
 Our friends at Warwick Maths Society are running an event this week:

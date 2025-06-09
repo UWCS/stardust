@@ -3,7 +3,7 @@ title = "Stop the Count? | T2W7 Newsletter"
 date = "2023-02-20T14:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t2w7-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t2w7-newsletter/"
 +++
 
 <p data-block-key="sfd3i">Election Voting Closing Tomorrow, otherwise, a pretty standard week!</p>

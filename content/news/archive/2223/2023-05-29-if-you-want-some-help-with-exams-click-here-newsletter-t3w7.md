@@ -3,7 +3,7 @@ title = "If You Want Some Help With Exams, CLICK HERE! | Newsletter T3W7"
 date = "2023-05-29T03:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t3w7-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t3w7-newsletter/"
 +++
 
 <p data-block-key="sfd3i"><b>Lots of great opportunities this week, so please do visit if you have the chance and best of luck to everyone with exams!!</b></p>

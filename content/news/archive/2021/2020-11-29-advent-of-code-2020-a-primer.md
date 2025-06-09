@@ -3,7 +3,7 @@ title = "Advent of Code 2020, a Primer"
 date = "2020-11-29T13:41:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/aoc-2020-primer/"    
+original = "https://uwcs.co.uk/news/aoc-2020-primer/"
 +++
 
 <p>Advent of Code is a series of programming challenges released from the 1st to the 25th of December. Challenges start very easy and quickly increase in complexity. It’s a worldwide challenge with hundreds of programmers taking part each year.</p>

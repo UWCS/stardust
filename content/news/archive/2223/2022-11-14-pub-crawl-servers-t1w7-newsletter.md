@@ -3,7 +3,7 @@ title = "Pub Crawl & Servers | T1W7 Newsletter"
 date = "2022-11-14T00:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t1w7-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t1w7-newsletter/"
 +++
 
 <p data-block-key="sfd3i">We are investigating some newly discovered servers and going on a pub crawl (not at the same time, I promise)</p>

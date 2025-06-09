@@ -8,9 +8,8 @@ tags = ["Talks"]
 [extra]
 end_time = "4pm"
 location = "PLT"
-
-icon = "ph-microphone-stage"
 colour = "academic"
+icon = "ph-microphone-stage"
 +++
 
 Employability = Job = Money = Good

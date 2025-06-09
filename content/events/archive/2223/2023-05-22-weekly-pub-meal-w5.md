@@ -3,9 +3,9 @@ title = "🥡 Weekly Pub Meal W5 🥡"
 date = "2023-05-22T17:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-meal-22t3w5/"    
 end_time = "2023-05-22T20:00:00Z"
 location = "Phantom Coach"
+original = "https://uwcs.co.uk/events/pub-meal-22t3w5/"
 +++
 
 Exams suck. We all know this. *Despite this,* please do take a break and go out for some fresh air! Whilst doing that, why don't you join us at our pub meal?

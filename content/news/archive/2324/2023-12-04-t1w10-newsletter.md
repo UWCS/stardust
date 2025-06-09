@@ -1,7 +1,6 @@
 +++
 title = "Sleighing Bugs in My Coursework This Christmas 😐  | Newsletter T1W10"
 
-
 [taxonomies]
 categories = ["Newsletter"]
 +++

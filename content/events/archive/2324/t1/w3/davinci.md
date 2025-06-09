@@ -8,9 +8,9 @@ tags = ["Talk", "Da Vinci"]
 [extra]
 end_time = "20:00"
 location = "FAB6.02"
-icon = "ph-rocket-launch"
 colour = "academic"
 emoji = "📣"
+icon = "ph-rocket-launch"
 +++
 
 Interested in the idea of working for a trading firm? Or looking to make some coin 🪙 ?

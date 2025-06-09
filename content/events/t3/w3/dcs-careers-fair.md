@@ -3,14 +3,14 @@ title = "Summer Careers Fair"
 date = "Wednesday 11:59am"
 draft = false
 
+[taxonomies]
+tags = []
+
 [extra]
 end_time = "3pm"
 location = "Panorama Suite, Rootes Building"
 colour = "academic"
 icon = "ph-laptop"
-
-[taxonomies]
-tags = []
 +++
 The final Summer Careers fair of the year, open to all students, including postgrads and masters students. There will many companies around, along with Career Consultants you can talk to.
 

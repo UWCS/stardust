@@ -3,14 +3,14 @@ title = "UWCS Plays Badminton"
 date = "Sunday 11am"
 draft = false
 
+[taxonomies]
+tags = ["badminton"]
+
 [extra]
 end_time = "12pm"
 location = "Westwood Games Hall"
 colour = "sports"
 icon = "ph-racquet"
-
-[taxonomies]
-tags = ["badminton"]
 +++
 
 [//]: # (R: I have a fix locally for the timing stuff but have not set it up yet so staying as 11:59am for now)

@@ -3,9 +3,9 @@ title = "Academic Talk on Mon 19th October 2015"
 date = "2015-10-19T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/academic-talk-on-mon-19th-october-2015-1474489114463/"    
 end_time = "2015-10-19T18:00:00Z"
 location = "DCS"
+original = "https://uwcs.co.uk/events/academic-talk-on-mon-19th-october-2015-1474489114463/"
 +++
 
 This talk will be taking place in CS0.07

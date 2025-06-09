@@ -1,7 +1,6 @@
 +++
 title = "'Educating the mind without educating the heart is no education at all' -Aristotle | Newsletter T2W2"
 
-
 [taxonomies]
 categories = ["Newsletter"]
 +++

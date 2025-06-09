@@ -2,14 +2,14 @@
 title = "EOT meal"
 date = "Thu 7pm"
 
+[taxonomies]
+tags = ["EndOfTermMeal"]
+
 [extra]
 end_time = "22:00"
 location = "SHIN Japanese Kitchen & Bar, Cov"
-icon = "ph-bowl-food"
 colour = "social"
-
-[taxonomies]
-tags = ["EndOfTermMeal"]
+icon = "ph-bowl-food"
 +++
 Damn, is it already ⌚ time for another end of term meal?? Where did the term go???? (no really, where, I have so many courseworks to submit and haven't even started thinking about exams lmaooo but we move)!
 

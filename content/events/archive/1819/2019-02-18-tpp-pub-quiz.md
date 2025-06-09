@@ -3,9 +3,9 @@ title = "TPP Pub Quiz"
 date = "2019-02-18T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-2019-02-18/"    
 end_time = "2019-02-18T22:00:00Z"
 location = "The Graduate, University of Warwick"
+original = "https://uwcs.co.uk/events/pub-2019-02-18/"
 +++
 
 TPP is excited to announce a Coding Challenge on Monday 18th February, in collaboration with UWCS\!  

@@ -3,14 +3,14 @@ title = "DCS Learner-Earner Journey Workshop"
 date = "Friday 12:30pm"
 draft = false
 
+[taxonomies]
+tags = ["DCS"]
+
 [extra]
 end_time = "1:30pm"
 location = "S0.21"
 colour = "academic"
 icon = "ph-bank"
-
-[taxonomies]
-tags = ["DCS"]
 +++
 
 [//]: # (This timing system is actually annoying...)

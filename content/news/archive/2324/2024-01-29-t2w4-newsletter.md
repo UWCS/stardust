@@ -1,7 +1,6 @@
 +++
 title = "The Guardian Online | Newsletter T2W4"
 
-
 [taxonomies]
 categories = ["Newsletter"]
 +++

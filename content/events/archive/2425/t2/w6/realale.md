@@ -8,8 +8,8 @@ tags = ["Real Ale"]
 [extra]
 end_time = "23:59"
 location = "Copper Rooms"
-icon = "ph-beer-stein"
 colour = "social"
+icon = "ph-beer-stein"
 +++
 
 Warwick University Real Ale Festival is the largest student-run beer festival in Europe. With over 100 beers, 50+ ciders, a variety of wines and mead, plus live entertainment and food (with vegan options), it promises to be a great night!

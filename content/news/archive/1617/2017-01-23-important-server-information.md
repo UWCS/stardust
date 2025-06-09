@@ -3,7 +3,7 @@ title = "IMPORTANT SERVER INFORMATION"
 date = "2017-01-23T13:59:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/important-server-information/"    
+original = "https://uwcs.co.uk/news/important-server-information/"
 +++
 
 <p>Please read, relevant for anyone with a shell account.</p>

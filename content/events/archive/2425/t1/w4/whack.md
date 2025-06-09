@@ -8,9 +8,8 @@ tags = ["WHACK"]
 [extra]
 end_time = "Sunday 5pm"
 location = "Various"
-
-icon = "ph-code"
 colour = "academic"
+icon = "ph-code"
 +++
 
 https://warwickhack.co.uk/

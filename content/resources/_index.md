@@ -1,8 +1,8 @@
 +++
 title = "Resources"
-weight = 5
 sort_by = "date"
 template = "page.html"
+weight = 5
 +++
 
 This page is a hub for most of our academic resources. 

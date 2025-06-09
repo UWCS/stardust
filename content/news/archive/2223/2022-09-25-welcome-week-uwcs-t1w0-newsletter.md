@@ -3,7 +3,7 @@ title = "Welcome Week | UWCS T1W0 Newsletter"
 date = "2022-09-25T23:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/welcome-week-uwcs-t1w0-newsletter/"    
+original = "https://uwcs.co.uk/news/welcome-week-uwcs-t1w0-newsletter/"
 +++
 
 <p data-block-key="sfd3i">This is our first issue of the year! Discover our many events over welcome week!</p>

@@ -2,16 +2,16 @@
 title = "The Pub Traversal"
 date = "Saturday 7pm"
 
+[taxonomies]
+tags = ["Traversal"]
+
 [extra]
 end_time = ""
 location = "Bus Interchange"
-icon = "ph-tree-structure"
 colour = "social"
 emoji = "🍺"
+icon = "ph-tree-structure"
 location_url = "https://maps.app.goo.gl/eeSSRViS6Zrsmdz57"
-
-[taxonomies]
-tags = ["Traversal"]
 +++
 We are back with a vengeance this term with a pub traversal like no other! One, two, or even three pubs? **FAT CHANCE** - we're gonna hit **7 😱** because why settle for anything less? 🤔🤔🤔
 

@@ -2,15 +2,15 @@
 title = "xSoc Python"
 date = "Thu 7pm"
 
+[taxonomies]
+tags = ["xSoc Python Course"]
+
 [extra]
 end_time = "9pm"
 location = "LIB2"
-icon = "ph-code"
 colour = "academic"
 emoji = "🐍"
-
-[taxonomies]
-tags = ["xSoc Python Course"]
+icon = "ph-code"
 +++
 We getting into the good stuff now (aka files and the command line)
 

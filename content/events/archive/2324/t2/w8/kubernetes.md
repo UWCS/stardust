@@ -2,14 +2,14 @@
 title = "Kubernetes"
 date = "Sunday 1pm"
 
+[taxonomies]
+tags = ["Kubernetes Talk"]
+
 [extra]
 end_time = "3pm"
 location = "CS0.06"
-icon = "bi-gear-wide"
 colour = "academic"
-
-[taxonomies]
-tags = ["Kubernetes Talk"]
+icon = "bi-gear-wide"
 +++
 
 We've taught you docker now its time to learn kubernetes!

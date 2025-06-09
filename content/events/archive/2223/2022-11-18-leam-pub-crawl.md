@@ -3,9 +3,9 @@ title = "🍻 Leam Pub Crawl"
 date = "2022-11-18T18:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-crawl-22t1/"    
 end_time = "2022-11-18T23:59:00Z"
 location = "Leamington Spa"
+original = "https://uwcs.co.uk/events/pub-crawl-22t1/"
 +++
 
 We'll be starting in TBar on campus at 6pm  to cash in on bus stop which happens 5-7, and will be moving on from there according to the schedule below. We've got a great selection of pubs/bars we'll be going to as we stumble walk from north to south-ish Leam and will be finishing off the night in Kelsey's Bar! 

@@ -8,9 +8,8 @@ tags = ["Talks"]
 [extra]
 end_time = "19:00"
 location = "CS1.04"
-
-icon = "ph-database"
 colour = "academic"
+icon = "ph-database"
 +++
 
 Talk from Oracle

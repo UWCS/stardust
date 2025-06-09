@@ -3,9 +3,9 @@ title = "🎤 Industry Talk: An insight to Accenture and Future Tech Trends"
 date = "2022-11-23T14:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/talk-w7/"    
 end_time = "2022-11-23T15:30:00Z"
 location = "Online"
+original = "https://uwcs.co.uk/events/talk-w7/"
 +++
 
 Join us on Wednesday at 2:30pm to hear about some of the exciting work Accenture are doing with cutting-edge technologies, and find out about their vision of technology for the future.  There'll also be a chance to gain insight into Accenture as a company, find out about the business and life there, and hear about internships and grad schemes they have open.

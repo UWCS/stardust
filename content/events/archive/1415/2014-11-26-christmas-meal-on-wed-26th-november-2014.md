@@ -3,9 +3,9 @@ title = "Christmas Meal on Wed 26th November 2014"
 date = "2014-11-26T17:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/christmas-meal-on-wed-26th-november-2014-1474489103814/"    
 end_time = "2014-11-26T19:30:00Z"
 location = "Cosmo"
+original = "https://uwcs.co.uk/events/christmas-meal-on-wed-26th-november-2014-1474489103814/"
 +++
 
 All are welcome to join CompSoc at this festive time of year, for it is time for our Christmas Meal

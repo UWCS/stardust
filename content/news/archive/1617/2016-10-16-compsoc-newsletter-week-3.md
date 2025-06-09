@@ -3,7 +3,7 @@ title = "CompSoc Newsletter Week 3"
 date = "2016-10-16"
 
 [extra]
-original = "https://uwcs.co.uk/news/compsoc-newsletter-week-3/"    
+original = "https://uwcs.co.uk/news/compsoc-newsletter-week-3/"
 +++
 
 <p>Our weekly newsletter (sorry about the markdown).</p>

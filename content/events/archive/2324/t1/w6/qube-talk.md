@@ -2,14 +2,14 @@
 title = "Qube Talk"
 date = "Tuesday 5:30pm"
 
-[extra]
-location = "CS1.04"
-icon = "ph-microphone-stage"
-colour = "academic"
-end_time = "8:30pm"
-
 [taxonomies]
 tags = ["Talks", "Qube"]
+
+[extra]
+end_time = "8:30pm"
+location = "CS1.04"
+colour = "academic"
+icon = "ph-microphone-stage"
 +++
 Join us and our sponsor Qube to learn more about etrading, the company and how to apply to their roles. There will be pizza and maybe a job offer.
 

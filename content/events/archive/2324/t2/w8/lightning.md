@@ -8,8 +8,8 @@ tags = ["Lightning Talks"]
 [extra]
 end_time = "14:00"
 location = "OC1.09"
-icon = "ph-lightning"
 colour = "academic"
+icon = "ph-lightning"
 +++
 
 A series of short (~20mins) talks about anything and everything to do with computer science.

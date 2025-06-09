@@ -1,7 +1,7 @@
 +++
 title = "Gold Sponsors"
-weight = 1
 page_template = "sponsor.html"
+weight = 1
 
 [extra]
 colour = "#FFB200"

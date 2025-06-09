@@ -3,7 +3,7 @@ title = "Term goes by like a flash of Lightning | T1W3 Newsletter"
 date = "2022-10-16T23:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t1w3-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t1w3-newsletter/"
 +++
 
 <p data-block-key="sfd3i">Our first set of Lightning Talks, and our Python &amp; Rust courses are continuing!</p>

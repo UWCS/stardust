@@ -3,7 +3,7 @@ title = "Boo | T1W5 Newsletter"
 date = "2022-10-31T00:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t1w5-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t1w5-newsletter/"
 +++
 
 <p data-block-key="sfd3i">This week: the 2nd half of our spooky celebrations, a Game Jam - but in Scratch, Fresher Rep Elections, an industry talk from QRT, and our courses continuing!</p>

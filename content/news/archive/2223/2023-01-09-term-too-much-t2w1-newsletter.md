@@ -3,7 +3,7 @@ title = "Term Too Much? | T2W1 Newsletter"
 date = "2023-01-09T00:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t2w1-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t2w1-newsletter/"
 +++
 
 <p data-block-key="sfd3i">Our new weekly event: CompCafé. Our Circle in T-Bar. Our Java Talk: What They Don&#x27;t Teach You in Term 1 w/ Pizza.</p>

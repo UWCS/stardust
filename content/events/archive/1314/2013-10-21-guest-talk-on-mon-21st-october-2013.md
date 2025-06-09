@@ -3,9 +3,9 @@ title = "Guest Talk on Mon 21st October 2013"
 date = "2013-10-21T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/guest-talk-on-mon-21st-october-2013-1474489084286/"    
 end_time = "2013-10-21T18:00:00Z"
 location = "B2.02"
+original = "https://uwcs.co.uk/events/guest-talk-on-mon-21st-october-2013-1474489084286/"
 +++
 
 We are welcoming back CoreFiling for another fantastic guest talk\!

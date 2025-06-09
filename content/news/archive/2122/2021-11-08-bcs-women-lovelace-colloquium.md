@@ -3,7 +3,7 @@ title = "BCS Women Lovelace Colloquium"
 date = "2021-11-08T23:23:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/bcs-women-lovelace-colloquim/"    
+original = "https://uwcs.co.uk/news/bcs-women-lovelace-colloquim/"
 +++
 
 Hi there. I thought I'd take this opportunity to tell you about a great opportunity for all students.

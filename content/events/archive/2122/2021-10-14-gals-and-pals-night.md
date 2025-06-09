@@ -3,9 +3,9 @@ title = "Gals and Pals Night"
 date = "2021-10-14T16:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/gals-and-pals-night/"    
 end_time = "2021-10-14T18:00:00Z"
 location = "The Phantom Coach"
+original = "https://uwcs.co.uk/events/gals-and-pals-night/"
 +++
 
 Do you want to meet more women and non-binary friends in UWCS? Now's your chance\!

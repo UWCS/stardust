@@ -3,9 +3,9 @@ title = "🎮 Friday Night Gaming W8"
 date = "2022-11-25T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/fng-22t1w8/"    
 end_time = "2022-11-25T23:59:00Z"
 location = "Department of Computer Science"
+original = "https://uwcs.co.uk/events/fng-22t1w8/"
 +++
 
 Join us every Friday for a night of fun\!

@@ -3,7 +3,7 @@ title = "You Are Doing Amazing This Exam Season! | Newsletter T3W5"
 date = "2023-05-22T03:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t3w5-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t3w5-newsletter/"
 +++
 
 <p data-block-key="sfd3i"><b>Lots of great opportunities this week, so please do visit if you have the chance and best of luck to everyone with exams!!</b></p>

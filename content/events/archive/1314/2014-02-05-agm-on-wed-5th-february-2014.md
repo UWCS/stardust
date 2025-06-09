@@ -3,9 +3,9 @@ title = "AGM on Wed 5th February 2014"
 date = "2014-02-05T15:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/agm-on-wed-5th-february-2014-1474489090722/"    
 end_time = "2014-02-05T16:00:00Z"
 location = "SU HQ Central Meeting Area"
+original = "https://uwcs.co.uk/events/agm-on-wed-5th-february-2014-1474489090722/"
 +++
 
 \*Remote voting is now available\* (up until the AGM at 15:00): [2014 election](http://uwcs.co.uk/elections/details/6/)

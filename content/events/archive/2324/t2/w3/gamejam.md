@@ -2,14 +2,14 @@
 title = "Great Warwick Game Jam"
 date = "Wednesday 2pm"
 
+[taxonomies]
+tags = ["Game Jam"]
+
 [extra]
 end_time = "4pm"
 location = "MB3.17"
-icon = "ph-game-controller"
 colour = "gaming"
-
-[taxonomies]
-tags = ["Game Jam"]
+icon = "ph-game-controller"
 +++
 
 Happening from January 24th to February 7th, this university-wide game jam is a great incentive to get involved with development - whether you're a programmer or an artist, a musician or a level designer, get involved!

@@ -8,9 +8,8 @@ tags = ["Xmas", "DCS", "Social"]
 [extra]
 end_time = "7pm"
 location = "DCS Atrium"
-
-icon = "ph-snowflake"
 colour = "social"
+icon = "ph-snowflake"
 +++
 TAKE A BREAK FROM COURSEWORK!! 
 

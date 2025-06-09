@@ -3,9 +3,9 @@ title = "Go Karting on Wed 17th June 2015"
 date = "2015-06-17T03:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/go-karting-on-wed-17th-june-2015-1474489108981/"    
 end_time = "2015-06-17T18:00:00Z"
 location = "Team Sport Karting"
+original = "https://uwcs.co.uk/events/go-karting-on-wed-17th-june-2015-1474489108981/"
 +++
 
 Go - Karting is now confirmed\!\!\!\!\!

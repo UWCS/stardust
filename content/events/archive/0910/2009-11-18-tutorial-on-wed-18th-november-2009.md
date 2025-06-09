@@ -3,9 +3,9 @@ title = "Tutorial on Wed 18th November 2009"
 date = "2009-11-18T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/tutorial-on-wed-18th-november-2009-1474489030841/"    
 end_time = "2009-11-18T19:00:00Z"
 location = "MS.03"
+original = "https://uwcs.co.uk/events/tutorial-on-wed-18th-november-2009-1474489030841/"
 +++
 
 The talk will be given by our academic president, Connor. Topics are likely to include an overview of the language itself, prototype based design and asynchronous I/O.

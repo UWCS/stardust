@@ -3,9 +3,9 @@ title = "Guest Talk on Wed 7th February 2007"
 date = "2007-02-07T14:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/guest-talk-on-wed-7th-february-2007-1474488987510/"    
 end_time = "2007-02-07T15:30:00Z"
 location = "Various Deprecated Locations"
+original = "https://uwcs.co.uk/events/guest-talk-on-wed-7th-february-2007-1474488987510/"
 +++
 
 What are **Web Services** and why are they needed?

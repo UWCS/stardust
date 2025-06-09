@@ -3,7 +3,7 @@ title = "End of Term 1 Meeting Minutes"
 date = "2022-12-30T19:15:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/end-of-term-1-meeting-minutes/"    
+original = "https://uwcs.co.uk/news/end-of-term-1-meeting-minutes/"
 +++
 
 <p data-block-key="zrmhu">A review of the last term, and the dumb stuff we are planning for next term!</p>

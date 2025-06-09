@@ -2,15 +2,15 @@
 title = "The End of Year BBQ"
 date = "Thursday 6pm"
 
+[taxonomies]
+tags = ["BBQ"]
+
 [extra]
 end_time = "9pm"
 location = "Claycroft BBQ Area"
-icon = "icons/bbq.svg"
 colour = "social"
+icon = "icons/bbq.svg"
 location_url = "https://maps.app.goo.gl/GNbpmkPrSX8pucpt8"
-
-[taxonomies]
-tags = ["BBQ"]
 +++
 We are kicking off the UWCS end of term socials with a bang, with the first and last BBQ of the year! Congratulations to everyone who's finished exams, now here's your reward (the best jokes of all time): :scream::scream: :scream:
 

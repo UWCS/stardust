@@ -2,14 +2,14 @@
 title = "Lightning Talks"
 date = "Wednesday 1:30pm"
 
+[taxonomies]
+tags = ["Lightning Talks"]
+
 [extra]
 end_time = "14:30"
 location = "MB0.08"
-icon = "ph-lightning"
 colour = "academic"
-
-[taxonomies]
-tags = ["Lightning Talks"]
+icon = "ph-lightning"
 +++
 
 A series of short (~20mins) talks about anything and everything to do with computer science.

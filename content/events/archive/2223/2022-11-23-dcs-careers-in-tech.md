@@ -3,9 +3,9 @@ title = "DCS: Careers in Tech"
 date = "2022-11-23T17:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/dcs-careers-in-tech/"    
 end_time = "2022-11-23T20:00:00Z"
 location = "Department of Computer Science"
+original = "https://uwcs.co.uk/events/dcs-careers-in-tech/"
 +++
 
 [Sign up here](https://myadvantage.warwick.ac.uk/students/events/Detail/2736894)

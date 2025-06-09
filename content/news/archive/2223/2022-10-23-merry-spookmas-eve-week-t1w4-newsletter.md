@@ -3,7 +3,7 @@ title = "Merry Spookmas Eve(week) | T1W4 Newsletter"
 date = "2022-10-23T23:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t1w4-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t1w4-newsletter/"
 +++
 
 <p data-block-key="sfd3i">We have quite the social week for everyone! With a bonus trip to Leamington and Kasbah next Monday, what&#x27;s not to love!</p>

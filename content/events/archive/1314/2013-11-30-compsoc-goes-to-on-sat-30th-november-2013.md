@@ -3,9 +3,9 @@ title = "Compsoc goes to: on Sat 30th November 2013"
 date = "2013-11-30T22:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/compsoc-goes-to-on-sat-30th-november-2013-1474489088256/"    
 end_time = "2013-12-01T02:00:00Z"
 location = "Copper Rooms"
+original = "https://uwcs.co.uk/events/compsoc-goes-to-on-sat-30th-november-2013-1474489088256/"
 +++
 
 Compsoc makes a trip to Warwick SU's greatest Rock themed event\!  

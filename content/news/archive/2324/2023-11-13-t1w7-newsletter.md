@@ -1,7 +1,6 @@
 +++
 title = "there are few luxuries in life better than warm fresh bread and honey butter | Newsletter T1W7"
 
-
 [taxonomies]
 categories = ["Newsletter"]
 +++

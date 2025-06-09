@@ -3,7 +3,7 @@ title = "The Royal Byte: Computing News Fit for a King | Newsletter T3W3"
 date = "2023-05-08T03:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t3w3-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t3w3-newsletter/"
 +++
 
 <p data-block-key="sfd3i">Merchandise just around the corner! Take a break at some of our socials this week, and prepare for the first Computing Ball :)</p>

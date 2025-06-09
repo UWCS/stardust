@@ -8,9 +8,8 @@ tags = ["Git Good"]
 [extra]
 end_time = "18:00"
 location = "CS0.06"
-
-icon = "ph-gear"
 colour = "academic"
+icon = "ph-gear"
 +++
 
 𝒓𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒘𝒉𝒆𝒏 𝒘𝒆 𝒅𝒊𝒅 𝒂 𝒕𝒂𝒍𝒌 𝒐𝒏 𝒕𝒉𝒊𝒔 𝒍𝒂𝒔𝒕 𝒘𝒆𝒆𝒌? 

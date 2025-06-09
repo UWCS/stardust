@@ -3,9 +3,9 @@ title = "Handover Meal on Wed 6th March 2013"
 date = "2013-03-06T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/handover-meal-on-wed-6th-march-2013-1474489075043/"    
 end_time = "2013-03-06T22:00:00Z"
 location = "Cosmo"
+original = "https://uwcs.co.uk/events/handover-meal-on-wed-6th-march-2013-1474489075043/"
 +++
 
 It's this time of the year again\! A meal to celebrate the occasion of handing over the exec. This will be at Cosmo all you can eat buffet restaurant in Coventry, which serves a mixture of Chinese, Indian and even pizza. The meal costs £12.99 plus drinks.

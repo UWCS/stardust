@@ -8,9 +8,8 @@ tags = ["xSoc Python Course"]
 [extra]
 end_time = "21:00"
 location = "LIB2"
-
-icon = "ph-code"
 colour = "academic"
+icon = "ph-code"
 +++
 
 𝚢𝚘𝚞 𝚕𝚎𝚊𝚛𝚗𝚎𝚍 𝚝𝚑𝚎 𝚋𝚊𝚜𝚒𝚌𝚜, 𝚕𝚎𝚝'𝚜 𝚐𝚘 𝚊 𝚋𝚒𝚝 𝚍𝚎𝚎𝚙𝚎𝚛 >:)

@@ -3,7 +3,7 @@ title = "Making the (Pizza) Dough | T1W8 Newsletter"
 date = "2022-11-21T00:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t1w8-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t1w8-newsletter/"
 +++
 
 <p data-block-key="sfd3i">We are investigating some newly discovered servers and going on a pub crawl (not at the same time, I promise)</p>

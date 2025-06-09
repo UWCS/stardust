@@ -1,7 +1,6 @@
 +++
 title = "'Appear weak when you are strong, and strong when you are weak' - Sun Tzu | Newsletter T1W5"
 
-
 [taxonomies]
 categories = ["Newsletter"]
 +++

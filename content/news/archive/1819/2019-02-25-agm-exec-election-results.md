@@ -3,7 +3,7 @@ title = "AGM Exec Election Results"
 date = "2019-02-25T15:44:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/agm-results-2019/"    
+original = "https://uwcs.co.uk/news/agm-results-2019/"
 +++
 
 <p>The results of our Exec elections from the AGM!</p>

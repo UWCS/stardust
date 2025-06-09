@@ -1,7 +1,6 @@
 +++
 title = "Bag semantics? You had me at bag 🤑  | Newsletter T1W9"
 
-
 [taxonomies]
 categories = ["Newsletter"]
 +++

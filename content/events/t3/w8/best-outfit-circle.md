@@ -3,14 +3,14 @@ title = "Your Best Outfit Circle + Pop"
 date = "Wednesday 7pm"
 draft = false
 
+[taxonomies]
+tags = ["Circle"]
+
 [extra]
 end_time = "Thursday 2am"
 location = "Copper Rooms, Room 1"
 colour = "social"
 icon = "ph-beer-bottle"
-
-[taxonomies]
-tags = ["Circle"]
 +++
 
 ### You will need a [Circling Ticket](https://tickets.warwicksu.com/ents/event/26767/)

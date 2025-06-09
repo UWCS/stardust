@@ -5,8 +5,8 @@ draft = false
 
 [extra]
 end_time = "5pm"
+location = "OC0.03"
 colour = "academic"
 icon = "ph-lightning"
-location = "OC0.03"
 +++
 Lightning talks

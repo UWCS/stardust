@@ -8,9 +8,8 @@ tags = ["LAN"]
 [extra]
 end_time = "Sun 19:00"
 location = "LIB2"
-
-icon = "icons/fng.svg"
 colour = "gaming"
+icon = "icons/fng.svg"
 +++
 Exams may be hitting us left right and centre at the moment, but don't forget we're only less than a month away from freedom. No more exams, no more coursework... bliss.
 

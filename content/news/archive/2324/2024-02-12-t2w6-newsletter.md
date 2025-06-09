@@ -1,7 +1,6 @@
 +++
 title = "NO CHANCE CS STUDENTS ARE GONNA GO OUT THIS MUCH | Newsletter T2W6"
 
-
 [taxonomies]
 categories = ["Newsletter"]
 +++

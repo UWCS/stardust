@@ -3,15 +3,15 @@ title = "LaTeX Workshop"
 date = "Wednesday 5pm"
 draft = false
 
+[taxonomies]
+tags = ["LaTeX"]
+
 [extra]
 end_time = "19:00"
 location = "A0.02"
-location_url = "https://campus.warwick.ac.uk/search/623c88f9421e6f5928c0e63d?projectId=warwick"
-icon = "ph-math-operations"
 colour = "academic"
-
-[taxonomies]
-tags = ["LaTeX"]
+icon = "ph-math-operations"
+location_url = "https://campus.warwick.ac.uk/search/623c88f9421e6f5928c0e63d?projectId=warwick"
 +++
 **UWCS** and **MathsSoc** are collabing to bring you the ✨LaTeX✨ workshop! Learn how to harness the power of LaTeX to typeset your documents and write beautiful problem sheets, amazing reports, and more. 
 

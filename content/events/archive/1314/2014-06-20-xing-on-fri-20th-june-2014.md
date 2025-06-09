@@ -3,9 +3,9 @@ title = "XING on Fri 20th June 2014"
 date = "2014-06-20T20:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/xing-on-fri-20th-june-2014-1474489095484/"    
 end_time = "2014-06-21T08:00:00Z"
 location = "DCS"
+original = "https://uwcs.co.uk/events/xing-on-fri-20th-june-2014-1474489095484/"
 +++
 
 XING is a get-together of people in DCS for programming and other related projects.

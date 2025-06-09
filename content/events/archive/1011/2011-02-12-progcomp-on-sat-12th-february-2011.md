@@ -3,9 +3,9 @@ title = "Progcomp on Sat 12th February 2011"
 date = "2011-02-12T12:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/progcomp-on-sat-12th-february-2011-1474489047559/"    
 end_time = "2011-02-12T18:00:00Z"
 location = "DCS"
+original = "https://uwcs.co.uk/events/progcomp-on-sat-12th-february-2011-1474489047559/"
 +++
 
 The University of Warwick Computing society is pleased to announce its first all day programming competition, for the chance to win several fabulous prizes.

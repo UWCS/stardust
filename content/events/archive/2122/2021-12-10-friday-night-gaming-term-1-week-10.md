@@ -3,9 +3,9 @@ title = "🎮 Friday Night Gaming [Term 1, Week 10]"
 date = "2021-12-10T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/friday-night-gaming-week-10-2122/"    
 end_time = "2021-12-11T00:00:00Z"
 location = "Department of Computer Science"
+original = "https://uwcs.co.uk/events/friday-night-gaming-week-10-2122/"
 +++
 
 We've secured the ground floor of DCS, and we'll holding a gaming stakeout from 7pm until midnight\! To tide you over, we've got a bunch of games, consoles, VR, and of course the ability to use your own Steam library\*.

@@ -2,14 +2,14 @@
 title = "[CS260] Algorithms Revision Session"
 date = "Saturday 2pm"
 
+[taxonomies]
+tags = ["Algorithms", "Revision", "Academic"]
+
 [extra]
 end_time = "16:00"
 location = "L4"
-icon = "ph-puzzle-piece"
 colour = "academic"
-
-[taxonomies]
-tags = ["Algorithms", "Revision", "Academic"]
+icon = "ph-puzzle-piece"
 +++
 𝕨𝕖𝕖𝕜𝕖𝕟𝕕 𝕔𝕒𝕞𝕡𝕦𝕤 𝕥𝕣𝕚𝕡??
 

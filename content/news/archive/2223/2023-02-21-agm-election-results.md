@@ -3,7 +3,7 @@ title = "AGM Election Results"
 date = "2023-02-21T19:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/agm-election-results/"    
+original = "https://uwcs.co.uk/news/agm-election-results/"
 +++
 
 <p data-block-key="7k4en">A boring post listing the results of our elections this year.</p>

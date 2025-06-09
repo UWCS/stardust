@@ -2,14 +2,14 @@
 title = "Comp Cafe"
 date = "Tuesday 5pm"
 
+[taxonomies]
+tags = ["Comp Cafe"]
+
 [extra]
 end_time = "21:00"
 location = "CS0.06"
-icon = "ph-coffee"
 colour = "academic"
-
-[taxonomies]
-tags = ["Comp Cafe"]
+icon = "ph-coffee"
 +++
 
 𝚠𝚎 𝚊𝚛𝚎 𝚏𝚒𝚗𝚊𝚕𝚕𝚢 𝚎𝚖𝚋𝚛𝚊𝚌𝚒𝚗𝚐 𝚏𝚊𝚕𝚕!

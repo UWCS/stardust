@@ -7,8 +7,8 @@ tags = ["Talks"]
 
 [extra]
 location = "CS1.04"
-icon = "ph-head-circuit"
 colour = "academic"
+icon = "ph-head-circuit"
 +++
 We've got a talk from Reply - a Systems Integration consultancy!
 

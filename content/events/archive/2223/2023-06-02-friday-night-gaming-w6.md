@@ -3,9 +3,9 @@ title = "🎮 Friday Night Gaming W6 🎮"
 date = "2023-06-02T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/fng-22t3w6/"    
 end_time = "2023-06-02T22:59:00Z"
 location = "Department of Computer Science"
+original = "https://uwcs.co.uk/events/fng-22t3w6/"
 +++
 
 The Friday night fun continues!

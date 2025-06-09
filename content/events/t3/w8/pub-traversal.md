@@ -3,14 +3,14 @@ title = "Pub Traversal to End All Pub Traversals"
 date = "Sunday 4pm"
 draft = false
 
+[taxonomies]
+tags = ["Pub Traversal"]
+
 [extra]
 end_time = "Monday 2am"
 location = "Junction Building --> Leamington Spa"
 colour = "social"
 icon = "ph-beer-stein"
-
-[taxonomies]
-tags = ["Pub Traversal"]
 +++
 
 🎉  **Congrats everyone**, exams will very soon be **OVER**, and normal life activites can resume!

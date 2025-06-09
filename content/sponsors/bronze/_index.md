@@ -1,7 +1,7 @@
 +++
 title = "Bronze Sponsors"
-weight = 3
 page_template = "sponsor.html"
+weight = 3
 
 [extra]
 colour = "#D76B00"

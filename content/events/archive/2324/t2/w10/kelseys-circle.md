@@ -2,14 +2,14 @@
 title = "Kelsey's Circle"
 date = "Sat 7pm"
 
+[taxonomies]
+tags = ["Circle"]
+
 [extra]
 end_time = "22:00"
 location = "Kelsey's"
-icon = "ph-beer-stein"
 colour = "social"
-
-[taxonomies]
-tags = ["Circle"]
+icon = "ph-beer-stein"
 +++
 We are holding a week 10 circle at Kelsey's! The theme for this circle is EMOJI, so come as a recognisable emoji.
 

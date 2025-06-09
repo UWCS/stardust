@@ -2,14 +2,14 @@
 title = "Blender Workshop"
 date = "Sunday 2pm"
 
+[taxonomies]
+tags = ["Blender", "Graphics"]
+
 [extra]
 end_time = "16:00"
 location = "OC1.08"
-icon = "ph-finn-the-human"
 colour = "academic"
-
-[taxonomies]
-tags = ["Blender", "Graphics"]
+icon = "ph-finn-the-human"
 +++
 
 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝔾𝕣𝕒𝕡𝕙𝕚𝕔𝕤 𝕞𝕠𝕕𝕦𝕝𝕖 𝕓𝕖𝕚𝕟𝕘 𝕒 𝕡𝕒𝕚𝕟?

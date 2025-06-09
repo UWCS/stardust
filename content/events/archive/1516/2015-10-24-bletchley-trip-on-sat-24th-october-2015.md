@@ -3,9 +3,9 @@ title = "Bletchley Trip on Sat 24th October 2015"
 date = "2015-10-24T10:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/bletchley-trip-on-sat-24th-october-2015-1474489110140/"    
 end_time = "2015-10-24T16:30:00Z"
 location = "Bletchley Park"
+original = "https://uwcs.co.uk/events/bletchley-trip-on-sat-24th-october-2015-1474489110140/"
 +++
 
 (UPDATE: WE WILL BE GETTING THE 10:17am TRAIN FROM CANLEY STATION (takes 20 mins to walk to the station from campus), MEETING AT THE STATION AT 10am)

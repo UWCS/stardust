@@ -1,7 +1,6 @@
 +++
 title = "hmmmmmmmmmmmmmmmmmmm | Newsletter T1W3"
 
-
 [taxonomies]
 categories = ["Newsletter"]
 +++

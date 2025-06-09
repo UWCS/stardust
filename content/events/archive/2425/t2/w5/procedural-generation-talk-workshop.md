@@ -3,14 +3,14 @@ title = "Procedural Generation Talk/Workshop"
 date = "Tue 5pm"
 draft = false
 
+[taxonomies]
+tags = ["workshops"]
+
 [extra]
 end_time = "7pm"
 location = "CS1.04"
-icon = "ph-mountains"
 colour = "academic"
-
-[taxonomies]
-tags = ["workshops"]
+icon = "ph-mountains"
 +++
 Hi chat, this is a definitely not super late announcement for the procedural generation talk/workshop! 
 

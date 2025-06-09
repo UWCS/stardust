@@ -3,9 +3,9 @@ title = "Freshers LAN"
 date = "2018-10-26T18:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/freshers-lan-2018/"    
 end_time = "2018-10-28T18:00:00Z"
 location = "LIB2"
+original = "https://uwcs.co.uk/events/freshers-lan-2018/"
 +++
 
 [WARWICK.GG EVENT PAGE](https://warwick.gg/events/freshers-2018)

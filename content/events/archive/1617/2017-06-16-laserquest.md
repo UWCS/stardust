@@ -3,9 +3,9 @@ title = "LaserQuest"
 date = "2017-06-16T17:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/laserquest-2017/"    
 end_time = "2017-06-16T20:00:00Z"
 location = "LaserQuest Coventry"
+original = "https://uwcs.co.uk/events/laserquest-2017/"
 +++
 
 TAGAROPLE have challenged us to a duel\!

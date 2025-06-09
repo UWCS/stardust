@@ -1,7 +1,6 @@
 +++
 title = "is anyone out there? sometimes it feels like im talking to myself | Newsletter T1W4"
 
-
 [taxonomies]
 categories = ["Newsletter"]
 +++

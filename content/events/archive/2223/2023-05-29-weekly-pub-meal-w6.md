@@ -3,9 +3,9 @@ title = "🍛 Weekly Pub Meal W6 🍛"
 date = "2023-05-29T17:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-meal-22t3w6/"    
 end_time = "2023-05-29T20:00:00Z"
 location = "Phantom Coach"
+original = "https://uwcs.co.uk/events/pub-meal-22t3w6/"
 +++
 
 It's a bank holiday! Take a break, go out for some fresh air, and grab a meal with us!

@@ -3,7 +3,7 @@ title = "Coursework ~~ Cr~~ Times | Newsletter T2W9"
 date = "2023-03-06T11:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t2w9-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t2w9-newsletter/"
 +++
 
 <p data-block-key="sfd3i">Election Results, plenty of Free Food, and our Programming Challenge!</p>

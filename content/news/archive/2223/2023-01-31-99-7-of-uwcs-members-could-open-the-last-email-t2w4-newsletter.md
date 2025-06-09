@@ -3,7 +3,7 @@ title = "99.7% of UWCS members could open the last email | T2W4 Newsletter"
 date = "2023-01-31T00:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t2w4-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t2w4-newsletter/"
 +++
 
 <p data-block-key="sfd3i">SME &amp; Alumni Talks sound great, but how about with many miscellaneous updates as well?</p>

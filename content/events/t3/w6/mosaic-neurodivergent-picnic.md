@@ -3,14 +3,14 @@ title = "MOSAIC Picnic for Neurodivergent People"
 date = "Wednesday 1pm"
 draft = false
 
+[taxonomies]
+tags = ["picnic"]
+
 [extra]
 end_time = "2pm"
 location = "Oculus Field"
 colour = "inclusivity"
 icon = "ph-hamburger"
-
-[taxonomies]
-tags = ["picnic"]
 +++
 
 MOSAIC are a cross-department initiative between Maths, Stats and Computer Science to create safe spaces for people from under-represented backgrounds, to find peers of similar backgrounds and experiences. Students from all stages (UG, PGT, PGR) are welcome to attend!

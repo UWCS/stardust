@@ -3,15 +3,15 @@ title = "End of Term Meal"
 date = "Thursday 7:15pm"
 draft = false
 
+[taxonomies]
+tags = ["EndOfTermMeal"]
+
 [extra]
 end_time = "22:00"
 location = "SHIN Japanese Kitchen & Bar, Coventry"
-location_url = "https://maps.app.goo.gl/qbFemaHWv2dLDmKN6"
-icon = "ph-bowl-food"
 colour = "social"
-
-[taxonomies]
-tags = ["EndOfTermMeal"]
+icon = "ph-bowl-food"
+location_url = "https://maps.app.goo.gl/qbFemaHWv2dLDmKN6"
 +++
 We are going to **SHIN Japanese Kitchen & Bar**, and will consume an inconceivable amount of food which may actually be slightly healthy for once because it's **East Asian cuisine**!😱
 

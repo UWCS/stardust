@@ -3,15 +3,15 @@ title = "DCS End of Term Social"
 date = "Wednesday 2pm"
 draft = false
 
+[taxonomies]
+tags = ["dcs-eot-social"]
+
 [extra]
 end_time = "5pm"
 location = "eSports Centre/Bar Fusion"
-location_url = "https://maps.app.goo.gl/xf9ec6LpQHcaQSsz7"
-icon = "ph-broadcast"
 colour = "social"
-
-[taxonomies]
-tags = ["dcs-eot-social"]
+icon = "ph-broadcast"
+location_url = "https://maps.app.goo.gl/xf9ec6LpQHcaQSsz7"
 +++
 The end of term is fast approaching, and DCS have organised a Term 2 social.
 

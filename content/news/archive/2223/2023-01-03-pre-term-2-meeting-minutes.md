@@ -3,7 +3,7 @@ title = "Pre-Term 2 Meeting Minutes"
 date = "2023-01-03T15:48:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/pre-term-2-meeting-minutes/"    
+original = "https://uwcs.co.uk/news/pre-term-2-meeting-minutes/"
 +++
 
 <p data-block-key="goc6b">Mostly figuring out the schedule for term 2</p>

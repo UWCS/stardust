@@ -8,9 +8,8 @@ tags = ["CompCafe"]
 [extra]
 end_time = "21:00"
 location = "CS0.06"
-
-icon = "ph-coffee"
 colour = "academic"
+icon = "ph-coffee"
 +++
 
 Chat, do work, and free snacks + coffee :)

@@ -3,7 +3,7 @@ title = "Term has Begun | UWCS T1W1 Newsletter"
 date = "2022-10-02T23:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t1w1-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t1w1-newsletter/"
 +++
 
 <p data-block-key="sfd3i">Term has begun, but our events haven&#x27;t slowed down!</p>

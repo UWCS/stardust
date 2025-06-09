@@ -8,8 +8,8 @@ tags = ["Circle"]
 [extra]
 end_time = "10pm"
 location = "Windmill Hill"
-icon = "ph-beer-bottle"
 colour = "social"
+icon = "ph-beer-bottle"
 +++
 
 We have a final UWCS circle lined up! This one will be in a FIELD, so don't forget POP tickets! It is our social sec's inaugural circle so expect it to be the best you've ever attended. The theme will be announced later - we don't want to spoil you 🤫

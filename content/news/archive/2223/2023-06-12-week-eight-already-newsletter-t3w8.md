@@ -3,7 +3,7 @@ title = "WEEK EIGHT ALREADY? | Newsletter T3W8"
 date = "2023-06-12T03:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t3w8-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t3w8-newsletter/"
 +++
 
 <p data-block-key="sfd3i"><b>Lots of great opportunities this week, so please do visit if you have the chance and best of luck to everyone with exams!!</b></p>

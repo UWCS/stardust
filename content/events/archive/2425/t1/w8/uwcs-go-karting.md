@@ -6,9 +6,9 @@ draft = false
 [extra]
 end_time = "8pm"
 location = "TeamSport Go Karting Coventry"
-location_url = "https://maps.app.goo.gl/1t7dFBnLwe1oJkd49"
 colour = "social"
 icon = "ph-flag-checkered"
+location_url = "https://maps.app.goo.gl/1t7dFBnLwe1oJkd49"
 +++
 ## Yes, it is time. Time for you to finally experience what makes our society absolutely the greatest...
 

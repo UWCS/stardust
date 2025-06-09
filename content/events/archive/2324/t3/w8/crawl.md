@@ -2,14 +2,14 @@
 title = "The Pub Traversal++"
 date = "Sunday 4pm"
 
+[taxonomies]
+tags = ["Traversal"]
+
 [extra]
 end_time = ""
 location = "The Dirty Duck"
-icon = "ph-tree-structure"
 colour = "social"
-
-[taxonomies]
-tags = ["Traversal"]
+icon = "ph-tree-structure"
 +++
 After the resounding success of the BBQ where you *very hungry people* consumed **80 burgers AND 80 hot-dogs** :scream::scream::scream: I've been given permission to run yet another Pub Traversal, this time in **Leamington Spa** (so RIP your wallets :money_with_wings: :money_with_wings: :money_with_wings:) and on a Sunday so you can cure your hangover from Skool Dayz with yet more alcohol. As a result we have prepared:
 

@@ -3,7 +3,7 @@ title = "End of Term? End of Sanity | Newsletter T2W10"
 date = "2023-03-12T00:00:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/news/uwcs-22t2w10-newsletter/"    
+original = "https://uwcs.co.uk/news/uwcs-22t2w10-newsletter/"
 +++
 
 <p data-block-key="sfd3i">Plenty of socials to ease the coursework pain!</p>

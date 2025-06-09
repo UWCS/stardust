@@ -3,9 +3,9 @@ title = "Pub Social on Mon 28th October 2013"
 date = "2013-10-28T18:30:00Z"
 
 [extra]
-original = "https://uwcs.co.uk/events/pub-social-on-mon-28th-october-2013-1474489080541/"    
 end_time = "2013-10-28T20:00:00Z"
 location = "The Phantom Coach"
+original = "https://uwcs.co.uk/events/pub-social-on-mon-28th-october-2013-1474489080541/"
 +++
 
 Come join us in the pub for the banter, pub grub and great conversation\!
