@@ -1,12 +1,11 @@
 +++
 title = "Academic Coordinator"
 weight = 5
-date = "1970-01-01"
 
 [extra]
+email = "academic@uwcs.co.uk"
 people = ["Edward Denton", "Edward O'Dwyer", "Subhan Sohail"]
 plural = "Academic Coordinators"
-email = "academic@uwcs.co.uk"
 +++
 
 The Academic Coordinator handles the organisation of academic events within the society, this includes:

@@ -1,12 +1,11 @@
 +++
 title = "Publicity Officer"
 weight = 10
-date = "1970-01-01"
 
 [extra]
+email = "publicity@uwcs.co.uk"
 people = ["Harmony Bouabid", "Tara Fahey", "Prisha Jaiswal"]
 plural = "Publicity Officers"
-email = "publicity@uwcs.co.uk"
 +++
 
 The Publicity Officer is responsible for:

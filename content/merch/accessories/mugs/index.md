@@ -4,9 +4,8 @@ weight = 2
 
 [extra]
 hidden = true
-price = "6.10"
 link = "https://www.warwicksu.com/shop/product/10274090/"
-
+price = "6.10"
 +++
 
 Rep your caffeine addiction in style.

@@ -1,12 +1,11 @@
 +++
 title = "Sports Officer"
 weight = 12
-date = "1970-01-01"
 
 [extra]
+email = "sports@uwcs.co.uk"
 people = ["Zach Beardsmore", "Alfie Joyce"]
 plural = "Sports Officers"
-email = "sports@uwcs.co.uk"
 +++
 
 The Sports Officer coordinates various healthy activities for society members, which can include:

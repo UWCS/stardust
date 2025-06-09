@@ -1,12 +1,11 @@
 +++
 title = "Inclusivity Officer"
 weight = 7
-date = "1970-01-01"
 
 [extra]
+email = "inclusivity@uwcs.co.uk"
 people = ["Irene Peleteiro Paniagua"]
 plural = "Inclusivity Officers"
-email = "inclusivity@uwcs.co.uk"
 +++
 
 The role of the Gender Inclusivity Officer is to:

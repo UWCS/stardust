@@ -1,12 +1,11 @@
 +++
 title = "Tech Officer"
 weight = 9
-date = "1970-01-01"
 
 [extra]
+email = "tech@uwcs.co.uk"
 people = ["Tabitha Gardiner", "Thomas Sweet", "Artem Polovnev", "Oliver Murphy"]
 plural = "Tech Officers"
-email = "tech@uwcs.co.uk"
 +++
 
 The Tech Officer is responsible for managing all of the technical resources provided to our members

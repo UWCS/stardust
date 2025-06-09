@@ -1,9 +1,9 @@
 +++
 title = "Events Calendar"
-weight = 2
+page_template = "event.html"
 sort_by = "weight"
 template = "events/events.html"
-page_template = "event.html"
+weight = 2
 
 [extra]
 hide = true

@@ -1,7 +1,7 @@
 +++
 title = "Repeat Events JSON"
-weight = 3
 template = "events/repeat_list.json"
+weight = 3
 
 [extra]
 hide = true

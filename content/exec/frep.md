@@ -4,9 +4,9 @@ weight = 99
 date = "1970-01-01"
 
 [extra]
+email = "events@uwcs.co.uk"
 people = ["Potentially you"]
 plural = "Fresher Reps"
-email = "frep@uwcs.co.uk"
 +++
 
 Freshers (1st years) are often underrepresented in society execs, hence freps to promote the society to freshers and the intrests of freshers to the society.

@@ -1,12 +1,11 @@
 +++
 title = "Social Secretary"
 weight = 8
-date = "1970-01-01"
 
 [extra]
+email = "socials@uwcs.co.uk"
 people = ["Rowan Shields", "Willow Brown"]
 plural = "Social Secretaries"
-email = "socials@uwcs.co.uk"
 +++
 
 The Social Secretary is responsible for:

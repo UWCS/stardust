@@ -1,12 +1,11 @@
 +++
 title = "Treasurer"
 weight = 2
-date = "1970-01-01"
 
 [extra]
+email = "treasurer@uwcs.co.uk"
 people = ["Thomas Facos", "Jakub Kisielewski"]
 plural = "Treasurers"
-email = "treasurer@uwcs.co.uk"
 +++
 
 The job of the Treasurer is to handle the finances of the society. This means:

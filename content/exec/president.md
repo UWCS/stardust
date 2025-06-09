@@ -1,12 +1,11 @@
 +++
 title = "President"
 weight = 1
-date = "1970-01-01"
 
 [extra]
+email = "president@uwcs.co.uk"
 people = ["Lewis Parry", "Joshua Rawlings"]
 plural = "Presidents"
-email = "president@uwcs.co.uk"
 +++
 
 The President acts as a representative of the society, and ensures smooth operation of day-to-day society activities

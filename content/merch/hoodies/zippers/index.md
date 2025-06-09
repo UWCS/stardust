@@ -3,9 +3,8 @@ title = "Zipped Hoodie"
 weight = 2
 
 [extra]
-price = "36.60"
 link = "https://www.warwicksu.com/shop/product/10305050/"
-
+price = "36.60"
 +++
 
 **Colours: Black, White, Grey; Sizes: XS - 2XL; *Other sleeve will say Warwick University***<br>

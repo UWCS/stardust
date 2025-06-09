@@ -1,10 +1,9 @@
 +++
 title = "T-Shirts"
-weight = 2
-template = "merch/merch_cat.html"
 sort_by = "weight"
+template = "merch/merch_cat.html"
+weight = 2
 
 [extra]
 hide = false
-
 +++

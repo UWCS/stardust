@@ -3,8 +3,8 @@ title = "Programming Socks"
 weight = 1
 
 [extra]
-price = "1.96"
 link = "https://www.warwicksu.com/shop/product/10305110/"
+price = "1.96"
 
 +++
 

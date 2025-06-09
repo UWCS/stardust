@@ -1,12 +1,11 @@
 +++
 title = "Welfare Officer"
 weight = 3
-date = "1970-01-01"
 
 [extra]
+email = "welfare@uwcs.co.uk"
 people = ["Raven Taylor", "Thomas Sweet"]
 plural = "Welfare Officers"
-email = "welfare@uwcs.co.uk"
 +++
 
 The Welfare Officer is responsible for:
