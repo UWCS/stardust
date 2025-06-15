@@ -1,7 +1,6 @@
 +++
 title = "Fresher Rep"
 weight = 99
-date = "1970-01-01"
 
 [extra]
 email = "events@uwcs.co.uk"
