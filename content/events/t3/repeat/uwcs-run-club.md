@@ -8,7 +8,7 @@ end_time = "6:30pm"
 location = "Outside DCS"
 icon = "ph-person-simple-run"
 colour = "sports"
-weeks = ["w1", "w3", "w4", "w5", "w6", "w7", "w8", "w9", "w10"]
+weeks = ["w1", "w3", "w4", "w5", "w6", "w7", "w8"]
 
 [taxonomies]
 tags = ["run-club"]
