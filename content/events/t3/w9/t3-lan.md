@@ -22,6 +22,6 @@ __You can bring your PCs, consoles, games and more, all is welcome at LAN!__
 
 If you want to know more about what LAN is, are wondering "where the fuck is LIB2" (good question), or have any other questions, we have a **LAN guide** you can check out over at: https://uwcs.co.uk/about/lan/
 
-Featuring FNG++ Pro Professional Ultimate Deluxe Edition (yes i made that up), free snacks throughout, **free pizza!**, and many banger events, it's gonna be a wild ride!
+Featuring FNG++ Pro Professional Ultimate Deluxe Edition, free snacks throughout, **free pizza!**, and many banger events, it's gonna be a wild ride!
 
-We'll have extra background activities including Minecraft UHC, RAAAAAAmphi, Board Games (we didn't forget), Milk Midnight, and Just Maybe a surprise cameo...
+We'll have extra background activities including Minecraft UHC, RAAAAAAmphi, Board Games, Milk Midnight, and Just Maybe a surprise cameo...

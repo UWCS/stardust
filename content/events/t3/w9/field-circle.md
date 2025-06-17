@@ -15,7 +15,7 @@ icon = "ph-beer-bottle"
 tags = ["Circle"]
 +++
 
-After the insanity of last week's circle, why not do it again, this time in a FIELD - after all *one circle is simply not enough*! After all, you gotta touch grass occasionally - and even if you do, there's no guarantee you'll avoid the nuclear punishment bucket if it returns! Even better if you can achieve the TRIPLE crown of *both* circles *and* the Pub Traversal...
+Why not do it again, this time in a FIELD - after all *one circle is simply not enough*! After all, you gotta touch grass occasionally - and even if you do, there's no guarantee you'll avoid the nuclear punishment bucket if it returns! Even better if you can achieve the TRIPLE crown of *both* circles *and* the Pub Traversal...
 
 For those of you who have **ascended** — we’ve planned an extra one. And in true summer spirit, we’re taking it **outside**. 🌤️
 
