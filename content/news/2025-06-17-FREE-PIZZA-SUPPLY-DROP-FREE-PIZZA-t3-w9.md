@@ -7,7 +7,7 @@ draft = false
 categories = ["Newsletter"]
 +++
 
-Hello. I am Raven. What am I doing today? Writing the newsletter. What am I doing tomorrow? Not writing the newsletter. (banging intro, thanks Rowan) Exams are done with, so now it is time to chill out and wait eagerly for the next DIMAP social! Weirdly, I actually volunteered to do this newsletter - but it's LAN WEEK! So that means... free snacks, pizza and LOTS OF GAMING. And if LAN ent quite your thing, fear not, we're kicking off the week with some bangers!
+Hello. I am Raven. What am I doing today? Writing the newsletter. What am I doing tomorrow? Not writing the newsletter. (banging intro, thanks Rowan) Exams are done with, so now it is time to chill out and wait eagerly for the next DIMAP Bridge social! Weirdly, I actually volunteered to do this newsletter - but it's LAN WEEK! So that means... free snacks, pizza and LOTS OF GAMING. And if LAN ent quite your thing, fear not, we're kicking off the week with some bangers!
 
 --------------------------------------------------------------------------
 
