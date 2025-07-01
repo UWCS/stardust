@@ -10,7 +10,7 @@ end_time = "Saturday 1am"
 location = "CS Dept"
 colour = "gaming"
 icon = "icons/fng.svg"
-weeks = ["w1", "w3", "w4", "w5", "w6", "w7", "w8", "w9", "w10"]
+weeks = ["w1", "w3", "w4", "w5", "w6", "w7", "w8"]
 +++
 The Friday night fun continues! Please note that the default ending time for FNG this term is 1am to accommodate for exams!
 

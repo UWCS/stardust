@@ -1,13 +1,13 @@
 +++
 title = "Pub Traversal to End All Pub Traversals"
-date = "Sunday 4pm"
+date = "Saturday 4pm"
 draft = false
 
 [taxonomies]
 tags = ["Pub Traversal"]
 
 [extra]
-end_time = "Monday 2am"
+end_time = "Sunday 2am"
 location = "Junction Building --> Leamington Spa"
 colour = "social"
 icon = "ph-beer-stein"
