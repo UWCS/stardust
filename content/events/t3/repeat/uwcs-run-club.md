@@ -12,9 +12,6 @@ location = "Outside DCS"
 colour = "sports"
 icon = "ph-person-simple-run"
 weeks = ["w1", "w3", "w4", "w5", "w6", "w7", "w8"]
-
-[taxonomies]
-tags = ["run-club"]
 +++
 
 Weekly runs, open to all members and friends of UWCS. An average week might look like a 5k around campus on a pre-planned route, but as this is the first term for which the event is being run, expect to see a variety of ideas each week.
