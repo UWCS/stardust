@@ -4,7 +4,7 @@ weight = 11
 
 [extra]
 email = "events@uwcs.co.uk"
-people = ["David Jin"]
+people = ["David Jin", "Thomas Facos"]
 plural = "Events Officers"
 +++
 

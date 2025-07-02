@@ -3,7 +3,7 @@ title = "Fresher Rep"
 weight = 99
 
 [extra]
-email = "events@uwcs.co.uk"
+email = "frep@uwcs.co.uk"
 people = ["Potentially you"]
 plural = "Fresher Reps"
 +++

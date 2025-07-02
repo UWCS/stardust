@@ -6,7 +6,7 @@ template = "contact.html"
 weight = 2
 
 [extra]
-multiple_roles = { "Raven Taylor" = ["Welfare Officer", "Gaming Coordinator"], "Thomas Sweet" = ["Welfare Officer", "Tech Officer"] }
+multiple_roles = { "Raven Taylor" = ["Welfare Officer", "Gaming Coordinator"], "Thomas Sweet" = ["Welfare Officer", "Tech Officer"], "Thomas Facos" = ["Treasurer", "Events Officer"] }
 
 +++
 
