@@ -3,6 +3,7 @@ title = "Quadrature (PLACEHOLDER)"
 weight = 1
 
 [extra]
+frontpage = true
 link = "https://quadrature.ai/careers/internships"
 +++
 
