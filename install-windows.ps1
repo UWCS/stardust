@@ -1,6 +1,6 @@
 rm zola*-pc-windows-gnu.zip
 # Get release info
-$release_info= (Invoke-RestMethod -Method GET -Uri "https://api.github.com/repos/ericthelemur/zola/releases")[0].assets | Where-Object name -like *-pc-windows-gnu.zip
+$release_info= (Invoke-RestMethod -Method GET -Uri "https://api.github.com/repos/raven0034/zola/releases")[0].assets | Where-Object name -like *-pc-windows-gnu.zip
 $release_url= $release_info.browser_download_url
 $release_file= $release_info.name
 
