@@ -1,5 +1,5 @@
 +++
-title = "Coretech"
+title = "CoreTech"
 weight = 1
 
 [extra]

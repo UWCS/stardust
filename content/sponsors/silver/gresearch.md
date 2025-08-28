@@ -15,4 +15,4 @@ We’re proud to sponsor Warwick Computing Society and support its mission to co
 
 Through [G-Research Next Gen](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gresearch.com%2Fnextgen%2F&data=05%7C02%7Cthomas.facos%40warwick.ac.uk%7Cb1da57b2a28741b5a32f08dddbeb3d83%7C09bacfbd47ef446592653546f2eaf6bc%7C0%7C0%7C638908525911997983%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2Ba9Y848PAzPUFcTs4wPSo1ylDS0eOVKHT5Egz1nkyhY%3D&reserved=0), we work with universities, student societies, educational charities and outreach programmes to support young people from all backgrounds to pursue studies and careers in STEM. By investing in the next generation, we’re investing in a future driven by discovery and progress.
 
-Website : [GResearch.com](https://www.gresearch.com/) 
+Website : [gresearch.com](https://www.gresearch.com/) 
