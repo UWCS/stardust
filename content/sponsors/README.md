@@ -5,3 +5,5 @@ Sponsors are listed by tier in a sub directory -- tier name order and colour are
 Sponsor images are located next to their `.md` file **with the same name** -- `.png` only instead of `.md`. Note when adding new images, these should be transparent around the logo -- both so light/dark mode looks good, and so the silhouette effect works properly.
 
 If you want to add a new tier, add a new directory, copy in a `_index.md` and change the weights to sort them properly.
+
+**25/26 Update:** If you'd like a Bronze Sponsor to appear on the frontpage of the site, go to that sponsor's page and set `extra.frontpage` to `true`

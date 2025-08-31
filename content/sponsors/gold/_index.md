@@ -2,6 +2,7 @@
 title = "Gold Sponsors"
 page_template = "sponsor.html"
 weight = 1
+sort_by = "weight"
 
 [extra]
 colour = "#FFB200"
