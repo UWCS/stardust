@@ -141,14 +141,13 @@ GitHub Actions workflows rebuild and deploy to [https://uwcs.co.uk](https://uwcs
 
 ### Other Platforms
 - Install fork of Zola
-    - Install Rust (see [rustup.rs](https://rustup.rs/))
-
     - [`install-linux.sh`](install-linux.sh), [`install-mac-m1.sh`](install-mac-m1.sh) and [`install-windows.ps1`](install-windows.ps1) exist - if these fail, you can follow their steps manually:
         1. Download [latest pre-built release](https://github.com/raven0034/zola/releases/) for the relevant platform, produced by GitHub Actions
         2. Places the `zola` binary in `./bin`
         3. Adds `zola` to `PATH`
     
     - If your platform is not supported/you're modifying Zola yourself:
+        - Install Rust (see [rustup.rs](https://rustup.rs/))
         - [`install-source.sh`](install-source.sh) exists, which builds Zola from source - *this can take a while (e.g. on Raven's M1 MacBook Pro, it can take around 5 minutes)*
 
         - To do this manually:
