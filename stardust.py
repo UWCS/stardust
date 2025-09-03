@@ -11,7 +11,7 @@ import requests
 
 ZOLA_VERSION = "0.21.0-rev1"  # Need strictly semver so -revX to work around in fork
 ZOLA_PATH = "./bin"
-ZOLA_BINARY = f"{ZOLA_PATH}/zola"
+ZOLA_BINARY = f"{ZOLA_PATH}/zola" + (".exe" if platform.system() == "Windows" else "")
 ZOLA_REPO = "raven0034/zola"
 
 HOST = "127.0.0.1"
