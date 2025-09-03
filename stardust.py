@@ -108,7 +108,8 @@ def download_zola() -> None:
                         
                         print("Completed download, extracting...")
                         
-                        os.remove(ZOLA_BINARY)  # safely clean up old binary
+                        if os.path.exists(ZOLA_BINARY):
+                            os.remove(ZOLA_BINARY)  # safely clean up old binary
 
                         if output.endswith(".zip"):
                             z = zipfile.ZipFile(output, "r")
