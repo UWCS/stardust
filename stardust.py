@@ -108,6 +108,8 @@ def download_zola() -> None:
                         
                         print("Completed download, extracting...")
                         
+                        os.remove(ZOLA_BINARY)  # safely clean up old binary
+
                         if output.endswith(".zip"):
                             z = zipfile.ZipFile(output, "r")
                             z.extractall(ZOLA_PATH)
@@ -127,9 +129,11 @@ def download_zola() -> None:
                             raise RuntimeError("Cannot resolve Zola version correctly")
                         
                         print(f"Successfully downloaded Zola v{ZOLA_VERSION} to {ZOLA_BINARY}")
-                        break
+                        return
             else:
                 raise RuntimeError(f"Could not find a reasonable release target for this platform for Zola v{ZOLA_VERSION}")
+    
+    raise RuntimeError(f"No releases match the expected version (Zola v{ZOLA_VERSION})")
 
 def start_stardust() -> None:
     print("Building site (may take a while)...")
