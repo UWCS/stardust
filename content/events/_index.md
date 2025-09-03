@@ -18,7 +18,7 @@ Our events have moved! Please visit the [new UWCS Events Page](https://events.uw
 
 *For compatibility's sake, below is a preview of the new events page.*
 
-<iframe src="https:/events.uwcs.co.uk/stardust/" style="border: 0" width="100%" frameborder="0"></iframe>
+<iframe src="https://events.uwcs.co.uk/stardust/" style="border: 0" width="100%" frameborder="0"></iframe>
 
 <script>
     window.addEventListener("message", function(event) {
