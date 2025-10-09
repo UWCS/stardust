@@ -90,9 +90,9 @@ For those who need help navigating around Discord, a previous cohort of exec mad
 
 *(DCS Only)* A brief guide on how to remotely connect to the Department of Computer Science Linux PCs via the command line.
 
-#### [Setting up tokens for GitHub authentication](@/resources/github-token-authentication/index.md)
+#### [Setting up SSH keys/tokens for GitHub authentication](@/resources/github-token-authentication/index.md)
 
-A brief guide on how to set up tokens to allow authentication to GitHub from the command line.
+A brief guide on how to set up SSH keys/tokens to allow authentication to GitHub from the command line.
 
 #### [IRC Guide](@/resources/irc.md)
 

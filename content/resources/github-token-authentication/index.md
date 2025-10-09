@@ -1,6 +1,6 @@
 +++
-title = "GitHub token authentication"
-date = "2023-10-02"
+title = "GitHub Authentication"
+date = "2025-10-08"
 +++
 
 ### Why do I need to do this?
@@ -10,8 +10,15 @@ For ✨security✨...
 From August 2021, GitHub announced they would not be allowing password authentication
 when using the command line to interact with github.com [^1].
 
-This means that in order to interact with GitHub from the command line you have to
-create an "authentication token".
+In order to interact with GitHub from the command line, you have the options of SSH keys, or "authentication tokens".
+
+We would recommend SSH keys, which Edmund has written a tutorial for [here](https://edmundgoodman.co.uk/posts/2024/github-ssh-authentication/).
+> Some additional notes:
+> - You may need to re-run `eval "$(ssh-agent -s)"` should you encounter an auth failure, particularly on the DCS machines.
+> - You can also use `AddKeysToAgent yes` to your ssh config on the DCS systems, as outlined for macOS on the tutorial, to avoid having to repeatedly input your key's passphrase each time.
+> - Failing this, add the key manually using `ssh-add path/to/keyfile`
+
+The rest of this page will deal with the *authentication tokens* option.
 
 ### What are authentication tokens?
 
