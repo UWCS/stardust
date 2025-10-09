@@ -13,23 +13,6 @@ Information about our website/services, Open Source projects and infrastructure 
 
 ---
 
-# Courses
-
-### [Rust](https://rs118.uwcs.co.uk) (Not currently running)
-
-Supported by a grant from the Rust foundation, this four-week course introduces Rust to those already familiar with another programming language. Throughout the course, you'll be developing some cool projects - starting with Tic-Tac-Toe in the command line, then writing a Chip-8 Interpreter, before finishing off with a Graphics Raytracing project. Runs in Term 1!
-
-### [Python](https://go.uwcs.uk/python) (Term 1, Weeks 1-6)
-
-A six-week introductory Python course, created alongside Warwick AI and Coding and running in Term 1.
-We're responsible for Week 1 (Variables, Datatypes, & Debugging) and Week 6 (Efficiency, Compactness, Readability). Clearly saving the best for first and last! We also worked jointly with AI to create "Wahoot", the overarching project.
-
-Looking for booster sessions? We run them with ChemSoc in Term 1, and PhysSoc in Term 2, tailoring the content to meet their course.
-
-We'd also recommend checking out [this tutorial](https://howtoprogram.dcs.warwick.ac.uk) from the Department of Computer Science as a good starting point.
-
----
-
 # Workshops / Labs
 
 ### [Linux 101](@/resources/linux-101/index.md)
@@ -38,22 +21,53 @@ We'd also recommend checking out [this tutorial](https://howtoprogram.dcs.warwic
 ### [Git Good](@/resources/git-good/index.md)
 Git is an essential version control tool, used across the software engineering industry - from small solo projects to the world's largest tech companies. You might have used it before, but here we'll really dive in to how it works, why it's so useful, and how you can use it in your own projects going forward. Talk by Edmund Goodman.
 
+> #### [Setting up SSH keys/tokens for GitHub authentication](@/resources/github-token-authentication/index.md)
+> An additional brief guide on how to set up SSH keys/tokens to allow authentication to GitHub from the command line.
+
 ### [Docker, Contained](@/resources/docker.md)
 Docker is a tool for creating and managing containers - isolated environments for running applications. This talk will cover the basics of Docker, and how it can be used to simplify the deployment of applications. 
 
 ---
 
-# Contests
+# Courses
 
+### [Rust](https://rs118.uwcs.co.uk)
+
+Supported by a grant from the Rust foundation, this four-week course introduces Rust to those already familiar with another programming language. Throughout the course, you'll be developing some cool projects - starting with Tic-Tac-Toe in the command line, then writing a Chip-8 Interpreter, before finishing off with a Graphics Raytracing project. Runs in Term 1!
+
+### [Python](https://go.uwcs.uk/python)
+
+A six-week introductory Python course, created alongside Warwick AI and Coding and running in Term 1.
+We're responsible for Week 1 (Variables, Datatypes, & Debugging) and Week 6 (Efficiency, Compactness, Readability). Clearly saving the best for first and last! We also worked jointly with AI to create "Wahoot", the overarching project.
+
+Looking for booster sessions? We run them with ChemSoc in Term 1, and PhysSoc in Term 2, tailoring the content to meet their course.
+
+We'd also recommend checking out [this tutorial](https://howtoprogram.dcs.warwick.ac.uk) from the Department of Computer Science as a good starting point.
+
+### [C Course](https://github.com/search?q=owner%3ARexMortem+C_Course&type=repositories)
+
+Introduced for the first time in 2024 by our Academic Officer Ed, C can be a bit of a difficult language to tackle at first. However, fear not, as the course guides you right from the basics of stdio, and will get you up to speed for modules like CS132, or give you a refresher for modules like CS241 and CS257 :)
+
+### [React Course](https://readytoreact.net/)
+
+Another new introduction from 2024 by our Academic Officer Josh S - with 5 sessions taking you from the ground up of React, starting with the fundamentals of JSX, and building up to routing and other more advanced React concepts, so you can jump more into the modern web development world than the classics taught in CS139!
+
+---
+
+# Contests
+<!-- dead link, comment out when fixed -->
+<!--
 ### [UWCS Challenge](https://challenge.uwcs.co.uk)
 In both teaching terms, we run our own team programming challenge. 5 custom problems, in teams of up to 3, with prizes for the top 3 teams! Past problems can be found [here](https://github.com/UWCS/progcomps/releases). We've also designed our own online judge for automatic marking - [try it out](https://challenge.uwcs.co.uk)!
+-->
 
-### Other Coding Competitions
-We promote and encourage participation in events like Advent of Code, the International Collegiate Programming Contest (ICPC), and ~~Google Hash Code~~ (rip). We also invite companies in to give their own programming challenges, such as G-Research.
+### Coding Competitions
+
+We promote and encourage participation in events like Advent of Code, the International Collegiate Programming Contest (ICPC), and ~~Google Hash Code~~ (rip). We also invite companies in to give their own programming challenges, such as G-Research. We also successfully brought a UWCS hackathon back from the status as a dead meme for many years, in collaboration with Warwick AI and CodeSoc, known as WHACK, which you can check out [here](https://warwickhack.co.uk/).
 
 ### Capture The Flag (CTF) Events
 
-We've hosted CTFs from both Nettitude and BAE Systems. The Cyber Security society also host a few of their own!
+We've hosted CTFs from Nettitude and other companies. The CyberSecurity society also host a few of their own, sometimes in collaboration with us!
 
 ---
 
@@ -89,10 +103,6 @@ For those who need help navigating around Discord, a previous cohort of exec mad
 #### [Remoting into DCS](@/resources/remotedcs.md)
 
 *(DCS Only)* A brief guide on how to remotely connect to the Department of Computer Science Linux PCs via the command line.
-
-#### [Setting up SSH keys/tokens for GitHub authentication](@/resources/github-token-authentication/index.md)
-
-A brief guide on how to set up SSH keys/tokens to allow authentication to GitHub from the command line.
 
 #### [IRC Guide](@/resources/irc.md)
 
