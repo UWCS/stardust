@@ -112,4 +112,4 @@ We'd like to thank [our sponsors](@/sponsors/_index.md) for the current academic
 
 Each year, elections are held for every exec role, along with the chance to present motions that shape how the society moves forwards. We also elect fresher representatives for various roles during Term 1, so that new students feel more represented.
 
-You can see the known history of elected exec [here](@/about/exec/history.md), our democracy repo with history of recent motions and results [here](https://github.com/UWCS/democracy) and our current constitution [here](UWCS_constitution.pdf). 
+You can see the known history of elected exec [here](@/exec/history.md), our democracy repo with history of recent motions and results [here](https://github.com/UWCS/democracy) and our current constitution [here](UWCS_constitution.pdf). 

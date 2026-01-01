@@ -1,15 +1,8 @@
 +++
-title = "Social Secretary"
-weight = 8
-
-[extra]
-email = "socials@uwcs.co.uk"
-people = ["Rowan Shields", "Willow Brown"]
-plural = "Social Secretaries"
+title = "Social"
 +++
 
-The Social Secretary is responsible for:
-
+Responsible for:
 - Organising any non-educational and non-gaming events
 - Organising our weekly pub social
 - Running an end of term meal every term

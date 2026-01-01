@@ -1,11 +1,7 @@
 +++
-title = "Events Officer"
-weight = 11
-
-[extra]
-email = "events@uwcs.co.uk"
-people = ["David Jin", "Thomas Facos"]
-plural = "Events Officers"
+title = "Events"
 +++
 
-The Events Officer handles co-ordinating major society events (for example, the ball), ensuring all forms are submitted to the SU on time.
+Responsible for:
+- Co-ordinating major society events (for example, the ball).
+- Ensuring all forms are submitted to the SU on time.
