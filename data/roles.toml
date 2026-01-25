@@ -102,7 +102,7 @@ weight = 7
 title = "Gender Inclusivity Officer"
 plural = "Gender Inclusivity Officers"
 cat_weight = 1
-people = ["Irene Peleteiro Paniagua", "Unnamed #2"]
+people = ["Irene Peleteiro Paniagua"]
 
 [gender_inclusivity.roles.gender_inclusivity_frep]
 title = "Gender Inclusivity Frep"
