@@ -10,13 +10,13 @@ Well, we've made it another year and haven't imploded, haven't been eaten by gee
 
 ## Exec for 25/26 ("&" indicates joint candidacy)
 
-- **Lord Chancellors of the Computers:** Lewis and Josh
+- **Lord Chancellors of the Computers:** Lewis & Josh
 - **Treasurer:** Thomas and Jakub
 - **Welfare:** Raven and Thomas
 - **Secretary:** Crystal (1 un-named)
 - **Academic:** Edward, Ed and Subhan
 - **Gaming:** Raven & Robert, Arda & Sharvil, and Lyon
-- **Inclusivity:** Irene (1 un-named)
+- **Gender Inclusivity:** Irene (1 un-named)
 - **Social:** Rowan and Willow
 - **Tech:** Tabitha & Thomas, and Artem & Oliver
 - **Publicity:** Harmony, and Tara & Prisha
