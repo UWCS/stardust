@@ -9,7 +9,7 @@ Please see our [Discord](https://discord.uwcs.uk) for the latest information!
 {% end %}
 
 {% note(type="info") %}
-You can add [our calendar](https://events.uwcs.co.uk/uwcs.ics) to your calendar app.
+You can add [our calendar](webcal://events.uwcs.co.uk/uwcs.ics) to your calendar app.
 {% end %}
 
 {% note(type="primary", icon="ph-archive") %}
