@@ -2,6 +2,7 @@
 title = "Sports"
 +++
 
-Responsible for coordinating various healthy activities for society members, which can include:
-- A Run Club
-- Sports sessions via the Sports Hub (football, badminton, table tennis and more!)
+Responsible for:
+- Organising Run Club
+- Involving the society in leagues on campus
+- Other sessions which could include football, badminton, table tennis and others

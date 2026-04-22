@@ -1,5 +1,5 @@
 +++
-title = "Exec Team"
+title = "Exec Team (26/27)"
 generate_feeds = true
 template = "contact.html"
 aliases = ["about/exec"]

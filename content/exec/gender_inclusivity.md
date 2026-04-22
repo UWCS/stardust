@@ -3,6 +3,6 @@ title = "Gender Inclusivity"
 +++
 
 Responsible for:
-- Create and maintain a welcoming, inclusive atmosphere for minority genders within the society
-- Promote initiatives and events beneficial to minority genders through society channels
-- Interact with the department to help them to run Women in STEM events
+- Creating and maintaining a welcoming, inclusive atmosphere for marginalised genders in the society
+- Promote initiatives and events beneficial to minority under-represented gender demographics through society channels
+- Liase with the Computer Science department in this capacity

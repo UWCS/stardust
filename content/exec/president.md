@@ -2,7 +2,11 @@
 title = "President"
 +++
 
-Supposed to act as a society representative, and ensuring smooth operation of society activities. This includes:
-- Heading meetings and managing the exec team
-- Representing the society in an official capacity
-- Planning and running events
+Responsible for:
+- Organising and overseeing the running of the society
+- Guiding the direction and future of the society
+- Working with exec to produce documentation to aid future exec
+- Chairing exec meetings
+- Producing an annual report
+- Working with the Welfare Officers to ensure member wellbeing at events and in other spaces
+- Promoting exec cohesion, individual agency, and accountability

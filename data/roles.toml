@@ -24,7 +24,7 @@ weight = 1
 title = "President"
 plural = "Presidents"
 cat_weight = 1
-people = ["Joshua Rawlings", "Lewis Parry"]
+people = ["Thomas Sweet", "Thomas Facos"]
 
 [welfare]
 email = "welfare@uwcs.co.uk"
@@ -34,7 +34,7 @@ weight = 2
 title = "Welfare Officer"
 plural = "Welfare Officers"
 cat_weight = 1
-people = ["Raven Lucia", "Thomas Sweet"]
+people = ["Willow Brown", "Kevin Jia", "Erica Wiacek"]
 
 [treasurer]
 email = "treasurer@uwcs.co.uk"
@@ -44,13 +44,7 @@ weight = 3
 title = "Treasurer"
 plural = "Treasurers"
 cat_weight = 1
-people = ["Thomas Facos", "Jakub Kisielewski"]
-
-[treasurer.roles.treasurer_frep]
-title = "Treasurer Frep"
-plural = "Treasurer Freps"
-cat_weight = 2
-people = ["Bharat Haria"]
+people = ["B Haria"]
 
 [secretary]
 email = "secretary@uwcs.co.uk"
@@ -60,7 +54,7 @@ weight = 4
 title = "Secretary"
 plural = "Secretaries"
 cat_weight = 1
-people = ["Crystal Ng Shu Lu", "Unnamed #1"]
+people = ["Crystal Ng Shu Lu", "Odin H"]
 
 [academic]
 email = "academic@uwcs.co.uk"
@@ -70,13 +64,13 @@ weight = 5
 title = "Academic Coordinator"
 plural = "Academic Coordinators"
 cat_weight = 1
-people = ["Edward Denton", "Edward O'Dwyer", "Subhan Sohail"]
+people = ["B Haria", "Joseph Lawler", "Sean Odera Onwuazo", "M Ali", "Kashish Rohit", "Santiago Osorio Perez"]
 
 [academic.roles.academic_frep]
 title = "Academic Frep"
 plural = "Academic Freps"
 cat_weight = 2
-people = ["Joseph Lawler"]
+people = []
 
 [gaming]
 email = "gaming@uwcs.co.uk"
@@ -86,29 +80,29 @@ weight = 6
 title = "Gaming Coordinator"
 plural = "Gaming Coordinators"
 cat_weight = 1
-people = ["Raven Lucia", "Robert Barbu", "Lyon Fan", "Arda Ozden", "Sharvil Kadam"]
+people = ["Raven Lucia", "Laina Clark", "Luna Knight", "Santiago Osorio Perez", "Maddie Montgomorie"]
 
 [gaming.roles.gaming_frep]
 title = "Gaming Frep"
 plural = "Gaming Freps"
 cat_weight = 2
-people = ["Laina Clark", "Santiago Osorio Perez"]
+people = []
 
 [gender_inclusivity]
-email = "inclusivity@uwcs.co.uk"
+email = "gender-inclusivity@uwcs.co.uk"
 weight = 7
 
 [gender_inclusivity.roles.gender_inclusivity_officer]
 title = "Gender Inclusivity Officer"
 plural = "Gender Inclusivity Officers"
 cat_weight = 1
-people = ["Irene Peleteiro Paniagua"]
+people = ["Irene Peleteiro Paniagua", "Archisha Biswas", "Crystal Ng Shu Lu"]
 
 [gender_inclusivity.roles.gender_inclusivity_frep]
 title = "Gender Inclusivity Frep"
 plural = "Gender Inclusivity Freps"
 cat_weight = 2
-people = ["Kashish Rohit"]
+people = []
 
 [social]
 email = "socials@uwcs.co.uk"
@@ -118,13 +112,13 @@ weight = 8
 title = "Social Secretary"
 plural = "Social Secretaries"
 cat_weight = 1
-people = ["Willow Brown", "Rowan Shields"]
+people = ["Willow Brown", "Christina Kavouriadou", "Artem Polovnev", "Ewan Johnstone", "Jay Potel-Klein"]
 
 [social.roles.social_frep]
 title = "Social Frep"
 plural = "Social Freps"
 cat_weight = 2
-people = ["Odin H"]
+people = []
 
 [tech]
 email = "tech@uwcs.co.uk"
@@ -134,13 +128,13 @@ weight = 9
 title = "Tech Officer"
 plural = "Tech Officers"
 cat_weight = 1
-people = ["Tabitha Gardiner", "Thomas Sweet", "Artem Polovnev", "Oliver Murphy"]
+people = ["Raven Lucia", "Alfie Giffen", "Luna Knight", "Thomas Sweet", "Vlad Manoila", "Charis Charilaou", "Tara Fahey", "Olly Murphy"]
 
 [tech.roles.tech_frep]
 title = "Tech Frep"
 plural = "Tech Freps"
 cat_weight = 2
-people = ["Charis Charilaou", "Vlad Manoila"]
+people = []
 
 [publicity]
 email = "publicity@uwcs.co.uk"
@@ -150,17 +144,17 @@ weight = 10
 title = "Publicity Officer"
 plural = "Publicity Officers"
 cat_weight = 1
-people = ["Harmony Bouabid", "Tara Fahey", "Prisha Jaiswal"]
+people = ["Jakub Kisielewski", "Mikey Tan-Sikorski"]
 
-[events]
-email = "events@uwcs.co.uk"
+[ball]
+email = "ball@uwcs.co.uk"
 weight = 11
 
-[events.roles.events_officer]
-title = "Events Officer"
-plural = "Events Officers"
+[ball.roles.ball_officer]
+title = "Ball Officer"
+plural = "Balls Officers"
 cat_weight = 1
-people = ["Thomas Facos", "David Jin"]
+people = ["Thomas Facos", "Irene Peleteiro Paniagua"]
 
 [sports]
 email = "sports@uwcs.co.uk"
@@ -171,3 +165,13 @@ title = "Sports Officer"
 plural = "Sports Officers"
 cat_weight = 1
 people = ["Zach Beardsmore", "Alfie Joyce"]
+
+[frep]
+email = "RAAAAH"
+weight = 13
+
+[frep.roles.frep]
+title = "Frep"
+plural = "Freps"
+cat_weight = 1
+people = ["Potentially you"]
