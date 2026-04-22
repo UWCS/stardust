@@ -9,10 +9,10 @@ import zipfile
 
 import requests
 
-ZOLA_VERSION = "0.21.0-rev1"  # Need strictly semver so -revX to work around in fork
+ZOLA_VERSION = "0.21.0"  # Need strictly semver so -revX to work around in fork
 ZOLA_PATH = "./bin"
 ZOLA_BINARY = f"{ZOLA_PATH}/zola" + (".exe" if platform.system() == "Windows" else "")
-ZOLA_REPO = "raven0034/zola"
+ZOLA_REPO = "getzola/zola"
 
 HOST = "127.0.0.1"
 PORT = 1111
@@ -143,15 +143,19 @@ def start_stardust() -> None:
     print("Starting http server...")
 
     os.chdir("./public")
-    
-    httpd = HTTPServer((HOST, PORT), SimpleHTTPRequestHandler)
-    print(f"Serving on http://{HOST}:{PORT}\nCtrl-C to exit...")
+
+    httpd = None
     try:
+        httpd = HTTPServer((HOST, PORT), SimpleHTTPRequestHandler)
+        print(f"Serving on http://{HOST}:{PORT}\nCtrl-C to exit...")
         httpd.serve_forever()
+    except OSError:
+        print(f"\nCouldn't serve on http://{HOST}:{PORT}\nPossibly you have something else serving here?")
     except KeyboardInterrupt:
         print("\nReceived interrupt, closing server...")
     finally:
-        httpd.server_close()
+        if httpd:
+            httpd.server_close()
 
 if __name__ == "__main__":
     valid_zola = check_zola()
