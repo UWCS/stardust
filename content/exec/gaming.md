@@ -1,18 +1,8 @@
 +++
-title = "Gaming Coordinator"
-weight = 6
-
-[extra]
-people = ["Raven Taylor", "Robert Barbu", "Lyon Fan", "Arda Ozden", "Sharvil Kadam"]
-plural = "Gaming Coordinators"
-email = "gaming@uwcs.co.uk"
+title = "Gaming"
 +++
 
-The Gaming Coordinator handles organising gaming events within the society. This includes:
-
-- Organising & running Friday Night Gaming
-- Organising & running weekend-long LAN parties
-- Contacting and scheduling setup for LANs, such as room booking and power management
-- Managing the society's gaming hardware and collection of games
-- Managing our local games library for Friday Night Gaming
-- Helping organise and coordinate WASD
+Responsible for:
+- Organising and running Friday Night Gaming
+- Organising and running other gaming-related events, such as LANs
+- Managing the society's gaming hardware and game collection

@@ -1,8 +1,0 @@
-+++
-template = "events/event_week.html"
-
-title = "Week 3"
-
-[extra]
-base_date = "2024-01-22"
-+++

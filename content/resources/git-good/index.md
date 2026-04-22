@@ -1,7 +1,11 @@
 +++
 title = "Git Good"
-date = "2024-10-04"
+date = "2025-10-08"
 +++
+
+{% note(type="info") %}
+If you're visiting this page because you're running into issues pushing to your repositories, you should read our [GitHub authentication tutorial](/resources/github-token-authentication/) page.
+{% end %}
 
 A combination of a talk (presented by Joel Coulon in 2024, previously by Sam Coy & Edmund Goodman) and a workshop to get you up to speed with Git, so you can avoid the inevitable accidental deletion of coursework!
 <!-- more -->
@@ -10,9 +14,9 @@ A combination of a talk (presented by Joel Coulon in 2024, previously by Sam Coy
 
 ## Slides
 
-Embedded below you can find the slides from this year's talk:
+Embedded below you can find the slides from 2024's talk (with a couple of additional 2025 tweaks from Raven about auth):
 
-{{ pdf(pdf="/resources/git-good/git_good_2024.pdf") }}
+{{ pdf(pdf="/resources/git-good/git_good_2024_w_auth_tweaks.pdf") }}
 
 ## Recording
 
@@ -199,17 +203,21 @@ There are a few different ways to use `git reset`, and editing commit history is
 
 ## Git remote
 
-I'm sure everyone has heard of GitHub. It's main function is to provide remote hosting and collaboration tools for Git repositories. If you don't have an account already, [sign up](https://github.com/signup), and then [create a new repo](https://github.com/new). Name the repository `git-good`, and just leave the rest of the fields as they are for now.
+I'm sure everyone has heard of GitHub. Its main function is to provide remote hosting and collaboration tools for Git repositories. If you don't have an account already, [sign up](https://github.com/signup), and then [create a new repo](https://github.com/new). Name the repository `git-good`, and just leave the rest of the fields as they are for now.
 
-Go back to your terminal, where we're going to add GitHub as a remote for our local repo. Remotes work by allowing you to push and pull commits to and from remote branches, keeping your local copy up to date with the remote. This is useful when multiple people are working on the same repo, or when you're working on the same repo on multiple machines. You can commit all your changes on your laptop, push them to GitHub, and then pull all your changes down to another copy of the same repo on the DCS machines. Like Onedrive, but with extra steps (and better organized).
+Go back to your terminal, where we're going to add GitHub as a remote for our local repo. Remotes work by allowing you to push and pull commits to and from remote branches, keeping your local copy up to date with the remote. This is useful when multiple people are working on the same repo, or when you're working on the same repo on multiple machines. You can commit all your changes on your laptop, push them to GitHub, and then pull all your changes down to another copy of the same repo on the DCS machines. Like OneDrive, but with extra steps (and better organised).
 
-The command `git remote add origin https://github.com/<username>/git-good` will add the GitHub repo as a remote repo named `origin` . Then, run `git push -u origin main` to move (`push`) your changes onto the remote `origin`. `origin/main` is used to refer to the remote copy (on `origin`) of the local branch `main` . This makes`origin/main` 'track' your `main` branch. `origin` is the name usually given to the remote, as it is often where the repo *origin*ates from.
+How you authenticate with GitHub has changed in recent years, and how you add your remote varies slightly on your method of choice - we'd strongly recommend pulling up the [authentication tutorial](/resources/github-token-authentication/) before continuing.
+
+For Personal Access Token enjoyers:
+- `git remote add origin https://github.com/<username>/git-good`
+  
+For SSH key enjoyers:
+- `git remote add origin git@github.com:<username>/git-good`
+
+These commands will both add the GitHub repo as a remote repo named `origin` . Then, run `git push -u origin main` to move (`push`) your changes onto the remote `origin`. `origin/main` is used to refer to the remote copy (on `origin`) of the local branch `main` . This makes`origin/main` 'track' your `main` branch. `origin` is the name usually given to the remote, as it is often where the repo *origin*ates from.
 
 ![git-remote](images/git-remote.png)
-
-Git might prompt you for a username and password to be able to push to your remote repo. The username is the email address you log in with, and for the password you'll need a [Personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
-
-**You can read a [full tutorial on how to do this here](/resources/github-token-authentication/)**
 
 Once the push has completed correctly, refresh your GitHub repo page, and you should see your files there.
 
@@ -365,7 +373,7 @@ Find a friend (talk to someone sat next to you, ask on discord our use [our repo
 
 ![github-fork](images/github-fork.png)
 
-Go back to your terminal, and run `git clone https://github.com/<your username>/<forked repo name>`. This downloads the fork to your local machine, creating a local repo that you can push to your fork from. We want to create a new branch to commit our changes to, so create a branch for our changes called `patch-overflow` with `git checkout -b`.
+Go back to your terminal, and run `git clone https://github.com/<your username>/<forked repo name>` (or `git clone git@github.com://<your username>/<forked repo name>` for SSH use). This downloads the fork to your local machine, creating a local repo that you can push to your fork from. We want to create a new branch to commit our changes to, so create a branch for our changes called `patch-overflow` with `git checkout -b`.
 
 ![pr-1](images/pr-1.png)
 

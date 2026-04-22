@@ -1,0 +1,177 @@
+[_default]
+email = "tech+shit_brokey@uwcs.co.uk"
+weight = 999
+
+[_default.roles.brokey]
+title = "@Tech shit brokey"
+plural = "@Tech shit brokey @Tech shit brokey @Tech shit brokey"
+people = []
+
+[all]
+email="exec@uwcs.co.uk"
+weight = 0
+
+[all.roles.all]
+title = "All Exec"
+plural = "All Exec"
+people = []
+
+[president]
+email = "president@uwcs.co.uk"
+weight = 1
+
+[president.roles.president]
+title = "President"
+plural = "Presidents"
+cat_weight = 1
+people = ["Thomas Sweet", "Thomas Facos"]
+
+[welfare]
+email = "welfare@uwcs.co.uk"
+weight = 2
+
+[welfare.roles.welfare_officer]
+title = "Welfare Officer"
+plural = "Welfare Officers"
+cat_weight = 1
+people = ["Willow Brown", "Kevin Jia", "Erica Wiacek"]
+
+[treasurer]
+email = "treasurer@uwcs.co.uk"
+weight = 3
+
+[treasurer.roles.treasurer]
+title = "Treasurer"
+plural = "Treasurers"
+cat_weight = 1
+people = ["B Haria"]
+
+[secretary]
+email = "secretary@uwcs.co.uk"
+weight = 4
+
+[secretary.roles.secretary]
+title = "Secretary"
+plural = "Secretaries"
+cat_weight = 1
+people = ["Crystal Ng Shu Lu", "Odin H"]
+
+[academic]
+email = "academic@uwcs.co.uk"
+weight = 5
+
+[academic.roles.academic_coordinator]
+title = "Academic Coordinator"
+plural = "Academic Coordinators"
+cat_weight = 1
+people = ["B Haria", "Joseph Lawler", "Sean Odera Onwuazo", "M Ali", "Kashish Rohit", "Santiago Osorio Perez"]
+
+[academic.roles.academic_frep]
+title = "Academic Frep"
+plural = "Academic Freps"
+cat_weight = 2
+people = []
+
+[gaming]
+email = "gaming@uwcs.co.uk"
+weight = 6
+
+[gaming.roles.gaming_coordinator]
+title = "Gaming Coordinator"
+plural = "Gaming Coordinators"
+cat_weight = 1
+people = ["Raven Lucia", "Laina Clark", "Luna Knight", "Santiago Osorio Perez", "Maddie Montgomorie"]
+
+[gaming.roles.gaming_frep]
+title = "Gaming Frep"
+plural = "Gaming Freps"
+cat_weight = 2
+people = []
+
+[gender_inclusivity]
+email = "gender-inclusivity@uwcs.co.uk"
+weight = 7
+
+[gender_inclusivity.roles.gender_inclusivity_officer]
+title = "Gender Inclusivity Officer"
+plural = "Gender Inclusivity Officers"
+cat_weight = 1
+people = ["Irene Peleteiro Paniagua", "Archisha Biswas", "Crystal Ng Shu Lu"]
+
+[gender_inclusivity.roles.gender_inclusivity_frep]
+title = "Gender Inclusivity Frep"
+plural = "Gender Inclusivity Freps"
+cat_weight = 2
+people = []
+
+[social]
+email = "socials@uwcs.co.uk"
+weight = 8
+
+[social.roles.social_secretary]
+title = "Social Secretary"
+plural = "Social Secretaries"
+cat_weight = 1
+people = ["Willow Brown", "Christina Kavouriadou", "Artem Polovnev", "Ewan Johnstone", "Jay Potel-Klein"]
+
+[social.roles.social_frep]
+title = "Social Frep"
+plural = "Social Freps"
+cat_weight = 2
+people = []
+
+[tech]
+email = "tech@uwcs.co.uk"
+weight = 9
+
+[tech.roles.tech_officer]
+title = "Tech Officer"
+plural = "Tech Officers"
+cat_weight = 1
+people = ["Raven Lucia", "Alfie Giffen", "Luna Knight", "Thomas Sweet", "Vlad Manoila", "Charis Charilaou", "Tara Fahey", "Olly Murphy"]
+
+[tech.roles.tech_frep]
+title = "Tech Frep"
+plural = "Tech Freps"
+cat_weight = 2
+people = []
+
+[publicity]
+email = "publicity@uwcs.co.uk"
+weight = 10
+
+[publicity.roles.publicity_officer]
+title = "Publicity Officer"
+plural = "Publicity Officers"
+cat_weight = 1
+people = ["Jakub Kisielewski", "Mikey Tan-Sikorski"]
+
+[ball]
+email = "ball@uwcs.co.uk"
+weight = 11
+
+[ball.roles.ball_officer]
+title = "Ball Officer"
+plural = "Balls Officers"
+cat_weight = 1
+people = ["Thomas Facos", "Irene Peleteiro Paniagua"]
+
+[sports]
+email = "sports@uwcs.co.uk"
+weight = 12
+
+[sports.roles.sports_officer]
+title = "Sports Officer"
+plural = "Sports Officers"
+cat_weight = 1
+people = ["Zach Beardsmore", "Alfie Joyce"]
+
+[frep]
+email = "RAAAAH"
+weight = 13
+
+[frep.roles.frep]
+title = "Frep"
+plural = "Freps"
+cat_weight = 1
+people = ["Potentially you"]

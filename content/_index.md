@@ -26,7 +26,7 @@ title = "University of Warwick Computing Society"
 **We offer free hosting of websites**, scripts, services, game servers, etc. on our dedicated servers! Want to get involved? Join our [open-source projects](https://github.com/UWCS) or [Tech Team](https://techteam.uwcs.co.uk)!
 {% end %}
 
-{% front_iconblock(role="inclusivity", title="Everyone is Welcome") %}
+{% front_iconblock(role="gender_inclusivity", title="Everyone is Welcome") %}
 **We’re free-to-join and here to help you.** We have a dedicated inclusivity team for under-represented students in CS. Check out our Wildcards events!
 {% end %}
       

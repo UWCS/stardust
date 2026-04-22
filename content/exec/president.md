@@ -1,15 +1,12 @@
 +++
 title = "President"
-weight = 1
-
-[extra]
-email = "president@uwcs.co.uk"
-people = ["Lewis Parry", "Joshua Rawlings"]
-plural = "Presidents"
 +++
 
-The President acts as a representative of the society, and ensures smooth operation of day-to-day society activities
-
-- Heading meetings and managing the exec team
-- Representing the society in an official capacity
-- Planning and running events
+Responsible for:
+- Organising and overseeing the running of the society
+- Guiding the direction and future of the society
+- Working with exec to produce documentation to aid future exec
+- Chairing exec meetings
+- Producing an annual report
+- Working with the Welfare Officers to ensure member wellbeing at events and in other spaces
+- Promoting exec cohesion, individual agency, and accountability

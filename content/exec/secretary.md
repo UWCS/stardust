@@ -1,15 +1,9 @@
 +++
 title = "Secretary"
-weight = 4
-
-[extra]
-email = "secretary@uwcs.co.uk"
-people = ["Crystal Ng Shu Lu"]
-plural = "Secretaries"
 +++
 
-The Secretary handles most administrative details
-
-- Taking the minutes at exec meetings
-- Booking rooms for society events
-- Writing the newsletter
+Responsible for:
+- Acting as a point of contact for general society enquiries
+- Taking minutes of exec meetings to publish to all members
+- Writing weekly newsletters during term
+- Merch orders
