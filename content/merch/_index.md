@@ -6,15 +6,14 @@ template = "merch/merch.html"
 weight = 1
 
 [extra]
-hide = true
-start = "2025-05-19T21:00:00+01:00"
-end = "2025-05-23T20:59:59+01:00"
-preview = false
+start = "2026-04-27T00:00:00+01:00"
+end = "2026-05-10T23:59:59+01:00"
+preview = true
 +++
 
 # Welcome to UWCS Shop
 
-Here you can find all the UWCS merch that we have available for purchase. We have a range of items including hoodies, t-shirts, stickers and the must-get programming socks!
+Here you can find all the UWCS merch that we have available for purchase. We have a range of items including hoodies, t-shirts, stickers and the must-get programming socks (NOW WITH ARM WARMERS)!
 
 ***
 

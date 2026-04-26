@@ -1,13 +1,10 @@
 +++
 title = "Mugs"
-weight = 2
+weight = 3
 
 [extra]
-hidden = true
-link = "https://www.warwicksu.com/shop/product/10274090/"
-price = "6.10"
+link = "https://www.warwicksu.com/shop/product/10335870/"
+price = "11.00"
 +++
 
-Rep your caffeine addiction in style.
-
-(stock is limited to 6 so get them while they're hot!)
+You prolly see our mugs plenty often, but hey, this one can hold fluids! Kinda crazy, right?

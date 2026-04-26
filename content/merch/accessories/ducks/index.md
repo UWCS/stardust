@@ -1,11 +1,10 @@
 +++
 title = "Rubber Duck"
-weight = 3
+weight = 4
 
 [extra]
-hidden = true
-link = "https://www.warwicksu.com/shop/product/10274130/"
-price = "1.71"
+link = "https://www.warwicksu.com/shop/product/10335810/"
+price = "2.80"
 +++
 
-So you've had the James lecture on rubber duck debugging, why not get your own?
+Duck duck, you're not a goose! Or a duck. But we sell ducks. And you should buy one. Or many.

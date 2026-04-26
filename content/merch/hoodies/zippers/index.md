@@ -3,9 +3,9 @@ title = "Zipped Hoodie"
 weight = 2
 
 [extra]
-link = "https://www.warwicksu.com/shop/product/10305050/"
-price = "36.60"
+link = "https://www.warwicksu.com/shop/product/10335800/"
+price = "32.00"
 +++
 
-**Colours: Black, White, Grey; Sizes: XS - 2XL; *Other sleeve will say Warwick University***<br>
-Ever heard of a zip? Me neither till recently! Use it to stun people with your UWCS T-Shirt underneath!
+**Colours: Charcoal; Sizes: S - 2XL**<br>
+AAAAAAAAAAAAAA IT'S A ZIP! jk, they're not scary, they're really cool

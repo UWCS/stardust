@@ -1,11 +1,11 @@
 +++
 title = "Quarter Zip Hoodie"
-weight = 3
+weight = 1
 
 [extra]
-link = "https://www.warwicksu.com/shop/product/10305060/"
-price = "21.60"
+link = "https://www.warwicksu.com/shop/product/10335820/"
+price = "30.00"
 +++
 
-**Colours: Black, White, Grey; Sizes: XS - 2XL; *Same design as the other hoodies***<br>
-Want to look cool and professional, but still dripped out with UWCS merch? The quarter zip is for you!
+**Colour: Grey; Sizes: S - 2XL**<br>
+In this economy, a full zip costs an extra 2 pounds, but fear not, for our quarter zip is here to save the day!
