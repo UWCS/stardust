@@ -8,7 +8,7 @@ weight = 1
 [extra]
 start = "2026-04-27T00:00:00+01:00"
 end = "2026-05-10T23:59:59+01:00"
-preview = true
+preview = false
 +++
 
 # Welcome to UWCS Shop
