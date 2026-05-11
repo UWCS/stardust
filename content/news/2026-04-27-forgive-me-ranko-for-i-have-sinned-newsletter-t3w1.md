@@ -1,7 +1,13 @@
 
-+++ title = "🙏 Forgive me, Ranko, for I have sinned 🙏 | Newsletter T3W2" date = "2026-04-27" draft = false
++++
+title = "🙏 Forgive me, Ranko, for I have sinned 🙏 | Newsletter T3W2"
+date = "2026-04-27"
+draft = false
 
-[taxonomies] categories = ["Newsletter"] +++ **📣📣ALAS THE NEWSLETTERS HAVE RESUMED!!1!!1**
+[taxonomies]
+categories = ["Newsletter"]
++++
+**📣📣ALAS THE NEWSLETTERS HAVE RESUMED!!1!!1**
 
 Greetings everybody and welcome back to Term 3, the term of never-ending Junction Hall, all-nighters in the library, and finding out just how much caffeine you can consume before your left ventricle pops.
 
