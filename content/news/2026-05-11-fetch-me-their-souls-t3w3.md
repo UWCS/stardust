@@ -1,6 +1,12 @@
-+++ title = " 👹👹 FETCH ME THEIR SOULS 👹👹 | Newsletter T3W3" date = "2026-05-11" draft = false
++++
+title = " 👹👹 FETCH ME THEIR SOULS 👹👹 | Newsletter T3W3"
+date = "2026-05-11"
+draft = false
 
-[taxonomies] categories = ["Newsletter"] +++**We did it guys! Exams are done! 🎉 *wait- wdym those were just the april ones 0_0*** 😭📚
+[taxonomies]
+categories = ["Newsletter"]
++++
+**We did it guys! Exams are done! 🎉 *wait- wdym those were just the april ones 0_0*** 😭📚
 
 Welp, congrats to all first and second years for surviving the first wave of T3's exams 🫡. To everyone approaching the next wave: may the DCS exam mystery box grant you a pen that doesn’t run out 🖊️, a neighbour that doesn't copy you 👀, and at least one question you actually revised for 🙏.
 
