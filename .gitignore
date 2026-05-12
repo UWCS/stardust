@@ -2,3 +2,4 @@
 /bin
 web.log
 *.pid
+.DS_STORE

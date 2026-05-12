@@ -26,9 +26,19 @@ plural = "Presidents"
 cat_weight = 1
 people = ["Thomas Sweet", "Thomas Facos"]
 
+[vp]
+email = "vp@uwcs.co.uk"
+weight = 2
+
+[vp.roles.vp]
+title = "Vice President"
+plural = "Vice Presidents"
+cat_weight = 1
+people = ["Potentially You"]
+
 [welfare]
 email = "welfare@uwcs.co.uk"
-weight = 2
+weight = 3
 
 [welfare.roles.welfare_officer]
 title = "Welfare Officer"
@@ -38,7 +48,7 @@ people = ["Willow Brown", "Kevin Jia", "Erica Wiacek"]
 
 [treasurer]
 email = "treasurer@uwcs.co.uk"
-weight = 3
+weight = 4
 
 [treasurer.roles.treasurer]
 title = "Treasurer"
@@ -46,9 +56,19 @@ plural = "Treasurers"
 cat_weight = 1
 people = ["B Haria"]
 
+[outreach]
+email = "outreach@uwcs.co.uk"
+weight = 5
+
+[outreach.roles.outreach_officer]
+title = "Outreach Officer"
+plural = "Outreach Officers"
+cat_weight = 1
+people = []
+
 [secretary]
 email = "secretary@uwcs.co.uk"
-weight = 4
+weight = 6
 
 [secretary.roles.secretary]
 title = "Secretary"
@@ -58,7 +78,7 @@ people = ["Crystal Ng Shu Lu", "Odin H"]
 
 [academic]
 email = "academic@uwcs.co.uk"
-weight = 5
+weight = 7
 
 [academic.roles.academic_coordinator]
 title = "Academic Coordinator"
@@ -74,7 +94,7 @@ people = []
 
 [gaming]
 email = "gaming@uwcs.co.uk"
-weight = 6
+weight = 8
 
 [gaming.roles.gaming_coordinator]
 title = "Gaming Coordinator"
@@ -90,7 +110,7 @@ people = []
 
 [gender_inclusivity]
 email = "gender-inclusivity@uwcs.co.uk"
-weight = 7
+weight = 9
 
 [gender_inclusivity.roles.gender_inclusivity_officer]
 title = "Gender Inclusivity Officer"
@@ -104,9 +124,29 @@ plural = "Gender Inclusivity Freps"
 cat_weight = 2
 people = []
 
+[ethnic_minorities]
+email = "ethnic-minorities@uwcs.co.uk"
+weight = 10
+
+[ethnic_minorities.roles.ethnic_minorities_rep]
+title = "Ethnic Minorities Rep"
+plural = "Ethnic Minorities Reps"
+cat_weight = 1
+people = []
+
+[postgraduate]
+email = "postgraduates@uwcs.co.uk"
+weight = 11
+
+[postgraduate.roles.postgraduate]
+title = "Postgraduate Representative"
+plural = "Postgraduate Representatives"
+cat_weight = 1
+people = []
+
 [social]
 email = "socials@uwcs.co.uk"
-weight = 8
+weight = 12
 
 [social.roles.social_secretary]
 title = "Social Secretary"
@@ -122,7 +162,7 @@ people = []
 
 [tech]
 email = "tech@uwcs.co.uk"
-weight = 9
+weight = 13
 
 [tech.roles.tech_officer]
 title = "Tech Officer"
@@ -138,7 +178,7 @@ people = []
 
 [publicity]
 email = "publicity@uwcs.co.uk"
-weight = 10
+weight = 14
 
 [publicity.roles.publicity_officer]
 title = "Publicity Officer"
@@ -148,7 +188,7 @@ people = ["Jakub Kisielewski", "Mikey Tan-Sikorski"]
 
 [ball]
 email = "ball@uwcs.co.uk"
-weight = 11
+weight = 15
 
 [ball.roles.ball_officer]
 title = "Ball Officer"
@@ -158,20 +198,10 @@ people = ["Thomas Facos", "Irene Peleteiro Paniagua"]
 
 [sports]
 email = "sports@uwcs.co.uk"
-weight = 12
+weight = 16
 
 [sports.roles.sports_officer]
 title = "Sports Officer"
 plural = "Sports Officers"
 cat_weight = 1
 people = ["Zach Beardsmore", "Alfie Joyce"]
-
-[frep]
-email = "RAAAAH"
-weight = 13
-
-[frep.roles.frep]
-title = "Frep"
-plural = "Freps"
-cat_weight = 1
-people = ["Potentially you"]
