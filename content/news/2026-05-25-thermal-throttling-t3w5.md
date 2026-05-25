@@ -1,10 +1,10 @@
 
-+++ 
-title = " 🔥🥵 THERMAL THROTTLING 🥵🔥 | Newsletter T3W5" 
-date = "2026-05-25" 
++++
+title = "🔥🥵 THERMAL THROTTLING 🥵🔥 | Newsletter T3W5"
+date = "2026-05-25"
 draft = false
 
-[taxonomies] 
+[taxonomies]
 categories = ["Newsletter"]
 +++
 14°? Fine. 17°? Okay. 25°? Now we're talking. 32°? OW. OWCH. STOP. TOO FAR.
