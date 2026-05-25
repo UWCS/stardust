@@ -1,6 +1,12 @@
-+++ title = " 🔥🥵 THERMAL THROTTLING 🥵🔥 | Newsletter T3W5" date = "2026-05-25" draft = false
++++ 
+title = " 🔥🥵 THERMAL THROTTLING 🥵🔥 | Newsletter T3W5" 
+date = "2026-05-25" 
+draft = false
 
-[taxonomies] categories = ["Newsletter"] +++14°? Fine. 17°? Okay. 25°? Now we're talking. 32°? OW. OWCH. STOP. TOO FAR.
+[taxonomies] 
+categories = ["Newsletter"]
++++
+14°? Fine. 17°? Okay. 25°? Now we're talking. 32°? OW. OWCH. STOP. TOO FAR.
 
 I don't know which one of you decided to piss off Mother Nature enough for her to cause a *(record-breaking)* May heatwave IN THE MIDDLE OF EXAMS. I should be outside, on Windmill Hill, getting my tan on; instead, I'm stuck on floor four of the library, packed like a tin of sardines and having to go and fill my water bottle every five minutes...
 
