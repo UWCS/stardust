@@ -1,3 +1,4 @@
+
 +++ 
 title = " 🔥🥵 THERMAL THROTTLING 🥵🔥 | Newsletter T3W5" 
 date = "2026-05-25" 
