@@ -6,7 +6,6 @@ draft = false
 [taxonomies]
 categories = ["Newsletter"]
 +++
-# I'M TIRED BOSS 😩😩 | Newsletter T3W7
 
 
 Captain’s Log, Exam Day No. 39:
