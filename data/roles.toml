@@ -139,8 +139,8 @@ email = "postgraduates@uwcs.co.uk"
 weight = 11
 
 [postgraduate.roles.postgraduate]
-title = "Postgraduate Representative"
-plural = "Postgraduate Representatives"
+title = "Postgraduate Rep"
+plural = "Postgraduate Reps"
 cat_weight = 1
 people = ["Potentially You"]
 
