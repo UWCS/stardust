@@ -64,7 +64,7 @@ weight = 5
 title = "Outreach Officer"
 plural = "Outreach Officers"
 cat_weight = 1
-people = ["Potentially You"]
+people = ["Laurence Howe"]
 
 [secretary]
 email = "secretary@uwcs.co.uk"
@@ -132,7 +132,7 @@ weight = 10
 title = "Ethnic Minorities Rep"
 plural = "Ethnic Minorities Reps"
 cat_weight = 1
-people = ["Potentially You"]
+people = ["Aastha Popat"]
 
 [postgraduate]
 email = "postgraduates@uwcs.co.uk"
