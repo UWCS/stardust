@@ -44,7 +44,7 @@ Looking for booster sessions? We run them with ChemSoc in Term 1, and PhysSoc in
 
 We'd also recommend checking out [this tutorial](https://howtoprogram.dcs.warwick.ac.uk) from the Department of Computer Science as a good starting point.
 
-### [C Course](https://github.com/search?q=owner%3ARexMortem+C_Course&type=repositories)
+### [C Course](https://github.com/orgs/UWCS/repositories?q=C_Course)
 
 Introduced for the first time in 2024 by our Academic Officer Ed, C can be a bit of a difficult language to tackle at first. However, fear not, as the course guides you right from the basics of stdio, and will get you up to speed for modules like CS132, or give you a refresher for modules like CS241 and CS257 :)
 
