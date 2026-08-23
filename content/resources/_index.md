@@ -13,6 +13,12 @@ Information about our website/services, Open Source projects and infrastructure 
 
 ---
 
+# CS Notes
+
+### [Warwick CS Notes](https://csnotes.uwcs.co.uk/)
+
+Warwick CS Notes is an open-source project for sharing resources for the CS degree at Warwick. Separate to the society, it has student-written notes, past papers and quizzes, information on careers and other useful resources.
+
 # Workshops / Labs
 
 ### [Linux 101](@/resources/linux-101/index.md)
