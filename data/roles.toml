@@ -100,7 +100,7 @@ weight = 8
 title = "Gaming Coordinator"
 plural = "Gaming Coordinators"
 cat_weight = 1
-people = ["Mafi Illumina", "Santiago Osorio Perez", "Maddie Montgomorie"]
+people = ["Mafi Illumina", "Luna Knight", "Santiago Osorio Perez", "Maddie Montgomorie"]
 
 [gaming.roles.gaming_frep]
 title = "Gaming Frep"
