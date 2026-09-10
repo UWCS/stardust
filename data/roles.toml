@@ -44,7 +44,7 @@ weight = 3
 title = "Welfare Officer"
 plural = "Welfare Officers"
 cat_weight = 1
-people = ["Willow Brown", "Kevin Jia", "Erica Wiacek"]
+people = ["Kevin Jia", "Erica Wiacek"]
 
 [treasurer]
 email = "treasurer@uwcs.co.uk"
@@ -100,7 +100,7 @@ weight = 8
 title = "Gaming Coordinator"
 plural = "Gaming Coordinators"
 cat_weight = 1
-people = ["Raven Lucia", "Laina Clark", "Luna Knight", "Santiago Osorio Perez", "Maddie Montgomorie"]
+people = ["Mafi Illumina", "Santiago Osorio Perez", "Maddie Montgomorie"]
 
 [gaming.roles.gaming_frep]
 title = "Gaming Frep"
@@ -152,7 +152,7 @@ weight = 12
 title = "Social Secretary"
 plural = "Social Secretaries"
 cat_weight = 1
-people = ["Willow Brown", "Christina Kavouriadou", "Artem Polovnev", "Ewan Johnstone", "Jay Potel-Klein"]
+people = ["Christina Kavouriadou", "Artem Polovnev", "Ewan Johnstone", "Jay Potel-Klein"]
 
 [social.roles.social_frep]
 title = "Social Frep"
