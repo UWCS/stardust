@@ -18,7 +18,7 @@ jobs:
           config: ${{ vars.SSH_CONFIG }}
           if_key_exists: fail
       - name: Update Server
-        run: ssh sites "/srv/new-site/source/build.sh"
+        run: ssh -p 10122 git-user@uwcs.co.uk "/srv/new-site/source/build.sh"
       - uses: sarisia/actions-status-discord@v1
         if: failure() && !cancelled()
         with:
