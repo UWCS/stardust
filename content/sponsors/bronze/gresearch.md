@@ -3,12 +3,13 @@ title = "G-Research"
 weight = 1
 
 [extra]
+frontpage = true
 link = "https://www.gresearch.com/vacancies/"
 +++
 
 [G-Research](https://www.gresearch.com/) is a leading quantitative research and technology firm. We use cutting-edge machine learning, AI and big data analytics to forecast global financial markets and build smart strategies for our clients.
 
-Our work is driven by collaboration between world-class talent – from researchers and data scientists to software engineers – all working together in a culture that values curiosity, rigour and long-term thinking. We believe great ideas take time and we’ve built a platform that helps our people turn deep research into impactful solutions.
+Our work is driven by collaboration between wo@rld-class talent – from researchers and data scientists to software engineers – all working together in a culture that values curiosity, rigour and long-term thinking. We believe great ideas take time and we’ve built a platform that helps our people turn deep research into impactful solutions.
 
 We’re proud to sponsor Warwick Computing Society and support its mission to connect, inspire and equip future technologists. As a business built on innovation, we’re always looking to champion the next generation of talent who will help shape the future of research and technology.
 
