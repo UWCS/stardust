@@ -4,4 +4,4 @@ COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 COPY public/ /srv/stardust/public
 
-EXPOSE 8080
+EXPOSE 80
