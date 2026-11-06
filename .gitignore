@@ -1,5 +1,6 @@
 /public
 /bin
+/node_modules
 web.log
 *.pid
 .DS_STORE
