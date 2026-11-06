@@ -51,8 +51,7 @@ git restore config.toml
 if which purgecss; then
     (
     cd ../build
-    purgecss --config $SCRIPT_DIR/purgecss.config.js
-    purgecss --config $SCRIPT_DIR/purgecss.config.js --css icon-packs/*.css --output icon-packs
+    purgecss --config $SCRIPT_DIR/purgecss.config.js --preserve-paths
     )
 fi
 
