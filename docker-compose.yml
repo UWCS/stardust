@@ -8,13 +8,3 @@ services:
     environment:
       - VIRTUAL_HOST=stardusty
       - VIRTUAL_PORT=80
-
-  stardusty-watchtower:
-    container_name: stardusty-watchtower
-    image: index.docker.io/nickfedor/watchtower
-    restart: unless-stopped
-    environment:
-      - WATCHTOWER_CLEANUP=true
-      - WATCHTOWER_POLL_INTERVAL=300
-    volumes:
-      - /var/run/docker.sock:/var/run/docker.sock
