@@ -47,6 +47,7 @@ Table of content generated and auto-updated using Yu Zhang's "Markdown All in On
 
 <!-- omit from toc -->
 ## Project Info
+> Note: Migration to a Docker container is undergoing testing, the below documentation will reflect this once finalised.
 Stardust is UWCS' static website, created by [Owen](https://github.com/ericthelemur) and currently maintained primarily by [Raven](https://github.com/raven0034).
 
 The website's HTML is generated from content written in [Markdown][markdown-url], using [Zola](https://www.getzola.org), which has an integrated Jinja2-like templating engine [Tera](https://keats.github.io/tera/).
