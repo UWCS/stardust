@@ -312,23 +312,20 @@ GitHub Actions workflows rebuild and deploy to [https://uwcs.co.uk](https://uwcs
 # Section-specific information
 
 ## Exec lists
-- Contained in [`content/exec`](content/exec/) with a (for some reason) separate section in [`content/about/exec`](content/about/exec) which has e.g. the exec history spaghetti diagram maintained by the Publicity Officers via Figma
+- Information on adding/changing Exec can be found in [`content/exec/README.md`](content/exec/README.md)
 
-- Each role has its own Markdown in [`content/exec`](content/exec) with:
-    - Names of current exec in the role
-    - Role description/responsibilities
-    - Contact email
+- Each exec 'category' (For example "Gaming" is a category containing "Gaming Coordinator" and "Gaming Frep") has its own Markdown in [`content/exec`](content/exec) containing:
+  - Category Name
+  - Category description/responsibilities
 
-- The lists are generated out of [`content/exec/_index.md`](content/exec/_index.md) and [`content/about/exec/_index.md`](content/about/exec/_index.md)
-    - Rendering exec with multiple roles is janky - it's done by additionally adding them to [`content/exec/_index.md`](content/exec/_index.md) like:
+- Other data about roles is stored in [`data/roles.toml`](data/roles.toml):
+  - Role name (And it's plural)
+  - It's category
+  - Role weight within it's category
+  - List of names that hold that role
+  - Contact email
 
-        ```markdown
-            multiple_roles = { "Person A" = ["Role A1", "Role A2"], "Person B" = ["Role B1", "Role B2"] }
-        ```
-
-- Exec images are stored under [`static/images/exec-pics`](static/images/exec-pics) as JPGs (aspect ratio 1:1), matching the names stored in the roles' markdown, in lower-case, and without spaces
-    - Make sure to crop to 1:1 and compress these before committing so they're not unnecessarily large. For the 2025/2026 cycle, Raven aimed to keep them mostly at a maximum of 1MB.
-
+- Images are stored in [`static/images/exec-pics`](static/images/exec-pics)
 - Provides an RSS feed for external automation
 
 ## Sponsors
