@@ -44,7 +44,7 @@ weight = 3
 title = "Welfare Officer"
 plural = "Welfare Officers"
 cat_weight = 1
-people = ["Kevin Jia", "Erica Wiacek"]
+people = ["Kevin Jia", "Erica Wiacek", "Tabitha Gardiner"]
 
 [treasurer]
 email = "treasurer@uwcs.co.uk"
@@ -90,7 +90,7 @@ people = ["B Haria", "Joseph Lawler", "Sean Odera Onwuazo", "M Ali", "Kashish Ro
 title = "Academic Frep"
 plural = "Academic Freps"
 cat_weight = 2
-people = []
+people = ["Henrique Goncalves"]
 
 [gaming]
 email = "gaming@uwcs.co.uk"
@@ -100,13 +100,13 @@ weight = 8
 title = "Gaming Coordinator"
 plural = "Gaming Coordinators"
 cat_weight = 1
-people = ["Mafi Illumina", "Luna Knight", "Santiago Osorio Perez", "Maddie Montgomorie"]
+people = ["Mafi Illumina", "Luna Knight", "Santiago Osorio Perez", "Maddie Montgomorie", "Panagiotis Kouzaris", "Tanzil Chowdhury"]
 
 [gaming.roles.gaming_frep]
 title = "Gaming Frep"
 plural = "Gaming Freps"
 cat_weight = 2
-people = []
+people = ["Gayan Subasinghe"]
 
 [gender_inclusivity]
 email = "gender-inclusivity@uwcs.co.uk"
@@ -122,7 +122,7 @@ people = ["Irene Peleteiro Paniagua", "Archisha Biswas", "Crystal Ng Shu Lu"]
 title = "Gender Inclusivity Frep"
 plural = "Gender Inclusivity Freps"
 cat_weight = 2
-people = []
+people = ["Natasha S"]
 
 [ethnic_minorities]
 email = "ethnic-minorities@uwcs.co.uk"
@@ -142,7 +142,7 @@ weight = 11
 title = "Postgraduate Rep"
 plural = "Postgraduate Reps"
 cat_weight = 1
-people = ["Potentially You"]
+people = ["Raven Lucia"]
 
 [social]
 email = "socials@uwcs.co.uk"
@@ -152,13 +152,13 @@ weight = 12
 title = "Social Secretary"
 plural = "Social Secretaries"
 cat_weight = 1
-people = ["Christina Kavouriadou", "Artem Polovnev", "Ewan Johnstone", "Jay Potel-Klein"]
+people = ["Christina Kavouriadou", "Artem Polovnev", "Ewan Johnstone", "Jay Potel-Klein", "Adrian Barra Cornes"]
 
 [social.roles.social_frep]
 title = "Social Frep"
 plural = "Social Freps"
 cat_weight = 2
-people = []
+people = ["Zach Ettinger"]
 
 [tech]
 email = "tech@uwcs.co.uk"
@@ -174,7 +174,7 @@ people = ["Raven Lucia", "Alfie Giffen", "Luna Knight", "Thomas Sweet", "Vlad Ma
 title = "Tech Frep"
 plural = "Tech Freps"
 cat_weight = 2
-people = []
+people = ["Luca Bradbury"]
 
 [publicity]
 email = "publicity@uwcs.co.uk"
