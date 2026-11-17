@@ -3,7 +3,7 @@ name: Build and deploy Stardust
 
 on:
   push:
-    branches: [container]
+    branches: [master]
   workflow_dispatch:
 
 permissions:

@@ -1,7 +1,7 @@
 services:
   stardusty:
     container_name: stardust
-    image: ghcr.io/uwcs/stardust:container
+    image: ghcr.io/uwcs/stardust:master
     restart: unless-stopped
     ports:
       - "36904:80"

@@ -47,7 +47,6 @@ Table of content generated and auto-updated using Yu Zhang's "Markdown All in On
 
 <!-- omit from toc -->
 ## Project Info
-> Note: Migration to a Docker container is undergoing testing, the below documentation will reflect this once finalised.
 Stardust is UWCS' static website, created by [Owen](https://github.com/ericthelemur) and currently maintained primarily by [Raven](https://github.com/raven0034).
 
 The website's HTML is generated from content written in [Markdown][markdown-url], using [Zola](https://www.getzola.org), which has an integrated Jinja2-like templating engine [Tera](https://keats.github.io/tera/).
@@ -56,7 +55,7 @@ The website's HTML is generated from content written in [Markdown][markdown-url]
 
 Stardust replaced our old website [Dextre](https://github.com/UWCS/uwcs-dextre) from the 2023/2024 academic year onwards.
 
-GitHub Actions workflows rebuild and deploy to [https://uwcs.co.uk](https://uwcs.co.uk) on push to `master`.
+GitHub Actions workflows rebuild and deploy to [https://uwcs.co.uk](https://uwcs.co.uk) on push to `master`. The website is hosted as a GitOps-managed stack on Beryllium, which acts as our Portainer edge, moving from its old location of the `sites` LXC on `localtoast`.
 
 <!-- omit from toc -->
 # Contents
@@ -97,21 +96,12 @@ GitHub Actions workflows rebuild and deploy to [https://uwcs.co.uk](https://uwcs
 
 - This `README`, and others, such as the [merch `README`](content/merch/README.md), contain a lot of useful info, please give them a read to see if these help solve your issue - even if they don't, some of the details may help someone assist you with your query :)
 
-- [Raven](https://github.com/raven0034) is the current primary contributor, you're welcome to contact them for any queries, feedback, help setting up/contributing etc
+- [Raven](https://github.com/raven0034) is the current primary maintainer, you're welcome to contact them for any queries, feedback, help setting up/contributing etc
     - You can reach them via `raven0034` on Discord
 
 - If you cannot reach them, join [our Discord](https://discord.uwcs.uk), and send a message in the `tech-team` channel, where the Tech Officers & Sysadmins can try and help
 
 ## Some known issues
-- Installation scripts not functioning as intended post-migration from [Owen's Zola fork](https://github.com/ericthelemur/zola) to [Raven's Zola fork](https://github.com/raven0034/zola)
-    - The release paths differ on Raven's fork since it scraps Owen's GitHub Actions workflow and instead uses the (now fixed) pre-existing GitHub Actions workflow from upstream
-
-    - Also needs to account for `aarch64` vs `x86_64` releases properly, where on Owen's fork, only the latter was relevant
-
-    - Nix stuff does not point to the new fork currently
-
-    - Raven to fix Very SoonTM
-
 - (Not entirely confirmed) some Windows-specific inconsistencies in html generation causes some note shortcode usages to render incorrectly
     - First observed on upgrading and migrating Zola forks
 
@@ -297,9 +287,11 @@ GitHub Actions workflows rebuild and deploy to [https://uwcs.co.uk](https://uwcs
 ## What to do if something weird happens
 
 ### GitHub Actions failures
+> *RL 17/11/26: These should be largely mitigated with the migration to the stack on Portainer - make sure to wait ~5m post-push for polling to occur & the live site to be deployed.*
+
 - Mainly relevant for those with write access (ie mostly exec & sysadmins)
-  
-- If it's failing for a locally unreproducable reason, get in contact with the named contacts directly, as this is *likely* something that requires access to `sites` on `localtoast` to properly diagnose
+
+~~- If it's failing for a locally unreproducable reason, get in contact with the named contacts directly, as this is *likely* something that requires access to `sites` on `localtoast` to properly diagnose~~
 
 - There's usually little point in re-running the same build multiple times
 
