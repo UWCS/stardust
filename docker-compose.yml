@@ -1,10 +1,12 @@
 services:
   stardusty:
-    container_name: stardusty
+    container_name: stardust
     image: ghcr.io/uwcs/stardust:container
     restart: unless-stopped
     ports:
       - "36904:80"
+
+    # use if deploying behind e.g. nginx pm
     environment:
       - VIRTUAL_HOST=stardusty
       - VIRTUAL_PORT=80
