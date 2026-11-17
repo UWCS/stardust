@@ -5,6 +5,6 @@ cd "$(dirname "$0")"
 
 sed -i 's/\(.*\)# DRAFT/# DRAFT \1/g' config.toml
 
-./bin/zola build --base-url https://stardust.uwcs.co.uk --force
+./bin/zola build --base-url https://uwcs.co.uk --force
 
 ./node_modules/.bin/purgecss --config ./purgecss.config.js --preserve-paths
