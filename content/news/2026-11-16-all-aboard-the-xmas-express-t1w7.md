@@ -1,5 +1,5 @@
 +++
-title = "ALL ABOARD THE XMAS EXPRESS | Newsletter T1W5"
+title = "ALL ABOARD THE XMAS EXPRESS | Newsletter T1W7"
 date = "2026-11-16"
 draft = false
 
