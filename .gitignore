@@ -1,6 +1,8 @@
 /public
+/prod
+/draft
 /bin
 /node_modules
-web.log
+*.log
 *.pid
 .DS_STORE

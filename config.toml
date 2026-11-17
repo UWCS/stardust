@@ -16,8 +16,7 @@ taxonomies = [
 
 ignored_content = [
     "**/README.md",
-    "**/gen_seq.py",
-    "**/archive/*/*"  # DRAFT
+    "**/gen_seq.py"
 ]
 
 [markdown]
@@ -37,9 +36,9 @@ paths_keep_dates = true
 [extra]
 # Put all your custom variables here
 
-repo = "uwcs/new-site"
+repo = "UWCS/stardust"
 cms_auth_url = "https://cms-auth.containers.uwcs.co.uk"
-academic_year = "24/25"
+academic_year = "26/27"
 room_links = false
 
 # Register on https://htmlcsstoimage.com

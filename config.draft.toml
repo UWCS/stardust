@@ -1,0 +1,31 @@
+base_url = "http://127.0.0.1:1112"
+compile_sass = true
+build_search_index = false
+
+theme = "uwcs"
+
+taxonomies = [
+    { name = "categories", paginate_by = 20},
+    { name = "tags", paginate_by = 20},
+]
+
+ignored_content = [
+    "**/README.md",
+    "**/gen_seq.py",
+    "**/archive/*/*"
+]
+
+[markdown]
+highlight_code = true
+highlight_theme = "css"
+render_emoji = true
+external_links_target_blank = true
+
+[slugify]
+paths_keep_dates = true
+
+[extra]
+repo = "UWCS/stardust"
+cms_auth_url = "https://cms-auth.containers.uwcs.co.uk"
+academic_year = "26/27"
+room_links = false

@@ -1,10 +1,11 @@
 services:
-  stardusty:
+  stardust:
     container_name: stardust
     image: ghcr.io/uwcs/stardust:master
     restart: unless-stopped
     ports:
-      - "36904:80"
+      - "36904:80"  # prod
+      - "36905:81"  # draft
 
     # use if deploying behind e.g. nginx pm
     environment:

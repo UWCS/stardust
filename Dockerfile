@@ -2,6 +2,8 @@ FROM nginx:stable-alpine
 
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
-COPY public/ /srv/stardust/public
+COPY prod/public/ /srv/stardust/prod/public
 
-EXPOSE 80
+COPY draft/public/ /srv/stardust/draft/public
+
+EXPOSE 80 81
