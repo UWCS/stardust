@@ -152,7 +152,7 @@ weight = 12
 title = "Social Secretary"
 plural = "Social Secretaries"
 cat_weight = 1
-people = ["Christina Kavouriadou", "Artem Polovnev", "Ewan Johnstone", "Jay Potel-Klein", "Adrian Barra Cornes"]
+people = ["Ewan Johnstone", "Jay Potel-Klein", "Adrian Barra Cornes"]
 
 [social.roles.social_frep]
 title = "Social Frep"
